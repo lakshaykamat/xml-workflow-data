@@ -1,120 +1,275 @@
 # XML Dataset Generator
 
-A Python program to generate datasets from XML files by processing validation errors and extracting corrected elements.
+A Python tool for generating machine learning datasets from XML validation errors. This tool processes XML documents with validation errors and creates structured datasets with highlighted problematic elements.
 
-## Overview
 
-This program processes XML files to generate a dataset containing:
-- **input**: the problematic XML element from not-completed files
-- **output**: the corrected XML element from completed files  
-- **error_message**: the validation error message
-- **error_position**: line and column position of the error
-- **error_id**: the unique error identifier
 
-## Project Structure
+
+
+## 📊 Data Organization
+
+The script expects your data to be organized in a specific structure. Here's how to organize your files:
+
+### Required Directory Structure
 
 ```
-xml-workflow/
-├── xml_dataset_generator.py    # Main entry point
-├── logic/
-│   └── folder_processor.py     # Core folder processing logic
-├── utils/
-│   ├── xml_parser.py          # XML parsing utilities
-│   ├── error_parser.py        # Error parsing utilities
-│   ├── file_utils.py          # File operation utilities
-│   └── summary_utils.py       # Summary and reporting utilities
-├── data/
-│   ├── not-completed/         # Source XML files with errors
-│   └── completed/             # Corrected XML files
-└── xml_dataset.json           # Generated dataset output
+data/
+├── not-completed/                # Source documents with errors
+│   ├── FOLDER_NAME_1/           # Each folder represents a document
+│   │   ├── vtool.xml            # Validation error file (REQUIRED)
+│   │   ├── FOLDER_NAME_1-mml.xml # MML file for element mapping (REQUIRED)
+│   │   └── FOLDER_NAME_1.xml    # Main XML file with errors (REQUIRED)
+│   ├── FOLDER_NAME_2/
+│   │   ├── vtool.xml
+│   │   ├── FOLDER_NAME_2-mml.xml
+│   │   └── FOLDER_NAME_2.xml
+│   └── ...
+└── completed/                    # Corrected documents
+    ├── FOLDER_NAME_1/           # Same folder names as not-completed
+    │   ├── FOLDER_NAME_1-ms.xml # Corrected XML file (REQUIRED)
+    │   └── ...                  # Other naming patterns supported
+    ├── FOLDER_NAME_2/
+    │   └── FOLDER_NAME_2-ms.xml
+    └── ...
 ```
 
-## Features
+### File Naming Conventions
 
-### ✅ Successfully Processed Files
-- **MOLSTR143586**: 8 errors (bibliography reference issues)
-- **YSROE50950**: 4 errors (legend formatting issues)
-- **YMDR1409**: 4 errors (mixed types)
-- **TCM7254**: 4 errors (mixed types)
-- **AJOPHT13510**: 1 error (empty alt-text)
+#### Not-Completed Files (Source)
+- **`vtool.xml`**: Contains validation error messages
+- **`{FOLDER_NAME}-mml.xml`**: MML file for element ID mapping
+- **`{FOLDER_NAME}.xml`**: Main XML file containing the errors
 
-### ❌ Skipped Files
-- **AJOPHT13514**: No vtool.xml found
-- **AMGP2541**: Completed folder still has errors
-- **JINJ112654**: No MML file found
-- **JMIG5608**: No vtool.xml found
-- **JMIG5613**: No errors found in vtool.xml
+#### Completed Files (Target)
+The script automatically looks for corrected files with these naming patterns:
+- **`{FOLDER_NAME}-ms.xml`** (preferred)
+- **`{FOLDER_NAME}-ms-mml.xml`**
+- **`{FOLDER_NAME}.xml`**
 
-## Requirements
+### Example Folder Structure
+
+```
+data/
+├── not-completed/
+│   ├── AJOPHT13510/
+│   │   ├── vtool.xml
+│   │   ├── AJOPHT13510-mml.xml
+│   │   └── AJOPHT13510.xml
+│   └── YSROE50950/
+│       ├── vtool.xml
+│       ├── YSROE50950-mml.xml
+│       └── YSROE50950.xml
+└── completed/
+    ├── AJOPHT13510/
+    │   └── AJOPHT13510-ms.xml
+    └── YSROE50950/
+        └── YSROE50950-ms.xml
+```
+
+## 🔧 Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd xml-workflow
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Verify installation**:
+   ```bash
+   python main.py --help
+   ```
+
+## 📖 Usage
+
+### Basic Usage
 
 ```bash
-pip install lxml>=4.9.0
+# Generate dataset using default settings
+python main.py
+
+# Use custom data directory
+python main.py --data-dir ./my_data
+
+# Use custom output file
+python main.py --output-file my_dataset.json
+
+# Combine both options
+python main.py --data-dir ./my_data --output-file my_dataset.json
 ```
 
-## Usage
+### Command Line Options
 
-```bash
-python3 xml_dataset_generator.py
-```
+- **`--data-dir`**: Path to data directory (default: `data`)
+- **`--output-file`**: Output JSON file name (default: `xml_dataset.json`)
+- **`--help`**: Show help message
 
-## How It Works
+## 🎯 How It Works
 
-1. **Error Detection**: Reads `vtool.xml` files to find validation errors
-2. **Position Mapping**: Maps error positions to XML elements using MML files
-3. **Element Extraction**: Finds corresponding elements in not-completed and completed XML files
-4. **Parent Context**: Extracts parent elements for better context
-5. **Dataset Generation**: Creates JSON entries with input/output pairs
+### 1. **Error Discovery**
+- Scans `not-completed` folders for `vtool.xml` files
+- Parses error messages and extracts:
+  - Error ID (e.g., "EMC501")
+  - Error position (e.g., "925:41")
+  - Error message text
+  - Error category (line-specific, schematron, parser)
 
-## Error Types
+### 2. **Element Mapping**
+- Uses MML files to find elements at error line positions
+- Extracts element IDs from MML elements
+- Searches recursively around target lines (±15 lines by default)
 
-### Processable Errors (with line numbers)
-- `EMC501`: Empty content errors
-- `FOS502b`: Legend formatting issues
-- `IDS503a`: Bibliography reference issues
-- `DTS504`: Document structure issues
+### 3. **XML Processing**
+- Finds elements with matching IDs in source XML files
+- Identifies container (grandparent) and parent elements
+- Generates highlighted input with error context
 
-### Skipped Errors (unknown position)
-- Schematron validation rules
-- Structural/content validation errors
-- Reference citation range issues
-- Punctuation and formatting rules
+### 4. **Dataset Generation**
+- Creates input: Error message + container XML with highlighted parent element
+- Creates output: Clean, corrected parent XML
+- Stores metadata: error ID, position, folder name
 
-## Output Format
+### 5. **Output Format**
+
+Each dataset entry contains:
 
 ```json
-[
-  {
-    "input": "<ce:table>...</ce:table>",
-    "output": "<ce:table>...</ce:table>",
-    "error_message": "Element 'ce:alt-text' may not have empty content.",
-    "error_position": "925:41",
-    "error_id": "EMC501",
-    "folder_name": "AJOPHT13510"
-  }
-]
+{
+  "input": "Error Message: Element 'ce:legend' may not consist solely of a font-changing element.\n\nXML:\n<ce:table ...>\n<ce:legend ...>\n<ce:simple-para id=\"spara010\">[ERROR_START]<ce:italic>Definitions...</ce:italic>[ERROR_END]</ce:simple-para>\n</ce:legend>\n</ce:table>",
+  "output": "<ce:legend ...>\n<ce:simple-para id=\"spara010\">Definitions...</ce:simple-para>\n</ce:legend>",
+  "error_id": "FOS502b",
+  "error_position": "147:12",
+  "folder_name": "YSROE50950"
+}
 ```
 
-## Summary Output
 
-The program provides a comprehensive summary showing:
-- Total unique files processed
-- Total dataset entries generated
-- Errors per file (successfully processed)
-- Skipped files with reasons
 
-## Maintainable Code Structure
+## 📊 Output and Reports
 
-The code is organized into logical modules:
+### Dataset Summary
 
-- **`logic/`**: Core business logic for processing folders
-- **`utils/`**: Reusable utility functions
-  - **`xml_parser.py`**: XML parsing and element finding
-  - **`error_parser.py`**: Error message parsing and categorization
-  - **`file_utils.py`**: File operations and path handling
-  - **`summary_utils.py`**: Summary generation and reporting
+The script provides comprehensive processing reports:
 
-This modular structure makes the code:
-- Easy to maintain and extend
-- Testable and reusable
-- Clear separation of concerns
-- Well-documented and organized
+```
+============================================================
+DATASET GENERATION SUMMARY
+============================================================
+Total unique files processed: 6
+Total dataset entries generated: 31
+Output file: xml_dataset.json
+Dataset format: Error message + highlighted XML input, clean XML output
+
+============================================================
+ERRORS PER FILE (Successfully Processed)
+============================================================
+AMGP2541: 11 processed out of 14 total errors
+MOLSTR143586: 8 processed out of 26 total errors
+YSROE50950: 4 processed out of 4 total errors
+...
+
+============================================================
+SKIPPED ERRORS (Unknown Position)
+============================================================
+Total skipped errors: 59
+JINJ112668: 33 schematron errors (unknown position)
+...
+
+============================================================
+SKIPPED FILES
+============================================================
+Total skipped files: 4
+AJOPHT13514: skipped
+...
+```
+
+### Error Categories
+
+- **Line-specific**: Errors with known line positions (processable)
+- **Schematron**: Validation errors without line positions (skipped)
+- **Parser**: XML parsing errors (processable)
+
+## 🚨 Troubleshooting
+
+### Common Issues
+
+1. **"No vtool.xml found"**
+   - Ensure each folder contains a `vtool.xml` file
+   - Check file permissions and encoding
+
+2. **"No MML file found"**
+   - Verify MML files follow naming pattern: `{FOLDER_NAME}-mml.xml`
+   - Check file exists and is readable
+
+3. **"No completed main XML file found"**
+   - Ensure completed folder has corresponding XML files
+   - Check naming patterns: `-ms.xml`, `-ms-mml.xml`, or `.xml`
+
+4. **Import errors**
+   - Verify Python path includes `src` directory
+   - Check all dependencies are installed
+
+### Debug Mode
+
+For troubleshooting, you can add debug logging to specific components:
+
+```python
+# In src/utils/error_highlighter.py
+print(f"DEBUG: Processing element {element_id}")
+```
+
+## 🔄 Extending the Tool
+
+### Adding New Error Types
+
+The tool automatically categorizes errors into different types. If you encounter new error types that need special handling, you can easily extend the error categorization system.
+
+**Why we have this section:**
+
+1. **Error Categorization**: The tool needs to understand different types of errors to process them correctly
+2. **Custom Processing**: Some error types might need different handling logic
+3. **Extensibility**: As you work with more XML files, you'll encounter new error patterns
+4. **Maintenance**: Easy to add support for new validation rules or error formats
+
+**How to add new error types:**
+
+1. **Modify `ErrorParser`** in `src/utils/error_parser.py`:
+   ```python
+   def _get_error_category(self, position: str, message: str) -> str:
+       if "new_error_type" in message.lower():
+           return "new_category"
+       elif "another_error" in message.lower():
+           return "another_category"
+       # ... existing logic
+       return "line_specific"
+   ```
+
+2. **Update processing logic** in `FolderProcessor` if the new error type needs special handling
+
+**Example use case**: If you encounter a new validation error like "Missing required attribute 'id'" that should be treated differently from line-specific errors, you can add a new category and handle it appropriately.
+
+### Custom Output Formats
+
+1. **Modify `FileManager.save_dataset()`** for different output formats
+2. **Add new export methods** (CSV, Parquet, etc.)
+
+### Additional Validation Rules
+
+1. **Extend `XMLProcessor`** with new validation methods
+2. **Add custom error detection** logic
+
+## 📝 Requirements
+
+- **Python**: 3.7+
+- **Dependencies**: See `requirements.txt`
+  - `lxml`: XML parsing and manipulation
+  - `pathlib`: Path operations (built-in)
+
+
+---
+
+**Happy XML Processing! 🚀**
