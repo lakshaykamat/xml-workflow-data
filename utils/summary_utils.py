@@ -29,6 +29,9 @@ def print_summary(all_dataset_entries: List[Dict], folder_stats: Dict, output_fi
     print(f"Total dataset entries generated: {len(all_dataset_entries)}")
     print(f"Output file: {output_file}")
     
+    # Show new format info
+    print(f"Dataset format: Error message + highlighted XML input, clean XML output")
+    
     print("\n" + "="*60)
     print("ERRORS PER FILE (Successfully Processed)")
     print("="*60)

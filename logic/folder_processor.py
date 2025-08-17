@@ -15,6 +15,7 @@ from utils.xml_parser import (
 )
 from utils.error_parser import parse_vtool_errors, extract_line_number_from_position
 from utils.file_utils import find_completed_main_xml, read_file_content
+from utils.error_highlighter import highlight_error_in_xml, get_clean_output_xml
 
 
 def process_folder(folder_path: Path, not_completed_dir: Path, completed_dir: Path, 
@@ -168,23 +169,31 @@ def process_folder(folder_path: Path, not_completed_dir: Path, completed_dir: Pa
                 print(f"    [{folder_name}] Could not find element with ID {element_id} in completed XML file - skipping error {error['error_id']}")
                 continue
             
-            # Get the parent tags by finding the elements in their respective XML files and getting their immediate parents
-            # We need to find the actual line numbers in the main XML files, not use the MML line number
-            input_parent = get_parent_tag_by_id(main_xml_content, element_id, "parent")
-            output_parent = get_parent_tag_by_id(completed_xml_content, element_id, "parent")
+            # Create highlighted input with error message and XML
+            highlighted_input = highlight_error_in_xml(
+                mml_element,  # This will be replaced with the actual element content
+                error["error_id"],
+                error["error_message"],
+                element_id,
+                main_xml_content
+            )
             
-            if input_parent is None:
-                input_parent = input_element  # fallback to the element itself
-            if output_parent is None:
-                output_parent = output_element  # fallback to the element itself
+            # Get clean output XML (parent element)
+            clean_output = get_clean_output_xml(element_id, completed_xml_content)
             
-            # Create dataset entry
+            if not clean_output:
+                # Fallback to original method
+                output_parent = get_parent_tag_by_id(completed_xml_content, element_id, "parent")
+                if output_parent is None:
+                    output_parent = output_element
+                clean_output = output_parent.strip()
+            
+            # Create dataset entry with new format
             dataset_entry = {
-                "input": input_parent.strip(),
-                "output": output_parent.strip(),
-                "error_message": error["error_message"],
-                "error_position": error["error_position"],
+                "input": highlighted_input,
+                "output": clean_output,
                 "error_id": error["error_id"],
+                "error_position": error["error_position"],
                 "folder_name": folder_name
             }
             
