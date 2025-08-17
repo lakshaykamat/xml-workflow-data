@@ -1,0 +1,34 @@
+<culog>
+<figures>5</figures>
+<tables>6</tables>
+<ecomponent>0</ecomponent>
+<DoCI>Y</DoCI>
+<patient-consent>N</patient-consent>
+<author-query>N</author-query>
+<graphicalabstract>N</graphicalabstract>
+<highlights>N</highlights>
+<standalone>D:\New folder\New folder\AJOPHT13510\AJO-25-222-ORCIDs.json</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\AJOPHT13510.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\AJOPHT13510_CULog.txt</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\AJOPHT_AJO-25-222.pdf</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\AJOPHT_AJO-25-222.xml</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\credit-AJO-25-222-1754614224397.json</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Figure 1.tif</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Figure 2 v4.tif</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Figure 3 v3.tif</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Figure 4 v2.tif</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Figure 5 v3.tif</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\ICMJE COI Form coi_disclosure_2023.AJA.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\PMED Abstract_R3_Clean.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\PMED Supplemental text 11-30-2024.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\PMED Tables 1-15-2025.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Supplemental Figures 1-21-2025.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Supplemental Tables 1-21-2025.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Table of Contents Statement.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Wenlin Zhang biosketch.docx</standalone>
+<standalone>D:\New folder\New folder\AJOPHT13510\Zhang, Wenlin.jpg</standalone>
+<error>
+</error>
+<alert>This file may have supplementary materials, please check</alert>
+<alert>Document title is mismatched with pts-order xml, Use title from Source file.</alert>
+</culog>

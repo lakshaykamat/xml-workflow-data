@@ -1,0 +1,411 @@
+<Workflow version="v.1.01">
+  <Filtration versionrequired="True" status="DONE" StartTime="10-08-2025 17:04:20" EndTime="10-08-2025 17:04:20">
+    <Mandatory>
+      <P status="YTS">(1) * Replace leftmost and rightmost char -(hyphen) of superscript matter, into minus</P>
+      <P status="YTS">(2) * Replace all variations of degree into 'degree' symbol</P>
+      <P status="YTS">(3) * Remove unwanted blank lines</P>
+      <P status="YTS">(4) * Replace underlined 'plus' sign(s) with plus/minus symbol(s)</P>
+      <P status="YTS">(5) * Replace underlined 'Greater Than' symbol(s) with 'Greater Than or Equal To' symbol(s)</P>
+      <P status="YTS">(6) * Replace underlined 'Less Than' symbol(s) with 'Less Than or Equal To' symbol(s)</P>
+      <P status="YTS">(7) * Replace 'x' with 'multiplication' symbol</P>
+      <P status="YTS">(8) * Remove space(s) before tab</P>
+      <P status="YTS">(9) * Remove space(s) after tab</P>
+      <P status="YTS">(10) * Remove tab(s) before paragraph mark</P>
+      <P status="YTS">(11) * Remove tab(s) after paragraph mark</P>
+      <P status="YTS">(12) * Remove space(s) before paragraph mark</P>
+      <P status="YTS">(13) * Remove space(s) after paragraph mark</P>
+      <P status="YTS">(14) * Replace multiple space(s) with single space</P>
+      <P status="YTS">(22) * Remove space(s) before comma</P>
+      <P status="YTS">(23) * Remove space(s) before semicolon</P>
+      <P status="YTS">(25) * Remove space(s) before closing parenthesis</P>
+      <P status="YTS">(26) * Remove space(s) after opening parenthesis</P>
+      <P status="YTS">(29) * Remove space before Celsius or Fahrenheit sign</P>
+      <P status="YTS">(38) * Remove unwanted section/page/column Breaks</P>
+    </Mandatory>
+    <Optional>
+      <P status="YTS">(15) * Change 'Em Dash' with --- (triple hyphen) and 'En Dash' with -- (double hyphen)</P>
+      <P status="YTS">(16) * Replace 'single hyphen' inside page range/number range with 'double hyphen'</P>
+      <P status="YTS">(17) * Change 'double hyphen' inside page range/number range into 'single hyphen'</P>
+      <P status="YTS">(18) * Change smart quote(s) to straight quote(s)</P>
+      <P status="YTS">(19) * Change straight quote(s) to smart quote(s)</P>
+      <P status="YTS">(20) * Change three consecutive dots to Ellipsis(...)</P>
+      <P status="YTS">(21) * Change hyphen (with space both side) into En Dash (with space both side)</P>
+      <P status="YTS">(24) * Remove space(s) before period</P>
+      <P status="YTS">(27) * Remove comma from digits</P>
+      <P status="YTS">(28) * Remove space(s) before % sign</P>
+      <P status="YTS">(30) * Convert tab mark(s) to standard form</P>
+      <P status="YTS">(31) * Add 'space' before and after 'equal sign'</P>
+      <P status="YTS">(32) * Move 'period' from outside closing double quote(s) to inside</P>
+      <P status="YTS">(33) * Move 'comma' from outside closing double quote(s) to inside</P>
+      <P status="YTS">(34) * Convert 'direction' sign(s) to symbol(s)</P>
+      <P status="YTS">(35) * Convert 'hard return' mark(s) to standard form</P>
+      <P status="YTS">(36) * Insert 'En Space' in COMMON SI and Metric units</P>
+      <P status="YTS">(37) * Insert 'En Space' for COMPLEX (&amp;gt;550 units) SI and Metric units</P>
+      <P status="YTS">(39) * Replace Em dash with spaces on both sides to En dash with spaces on both sides</P>
+      <P status="YTS">(40) * Replace --- (Triple hyphens) with spaces on both sides to En dash with spaces on both sides</P>
+      <P status="YTS">(41) * Replace --- (Triple hyphens) without spaces on both sides to En dash with spaces on both sides</P>
+      <P status="YTS">(42) * Replace -- (Double hyphens) with spaces on both sides to En dash with spaces on both sides</P>
+      <P status="YTS">(43) * Insert 'Non-breaking Space' for COMPLEX (&amp;gt;550 units) SI and Metric units</P>
+      <P status="YTS">(44) * Remove header and footer information</P>
+      <P status="YTS">(45) * Remove space before superscript footnote/endnote citations</P>
+      <P status="YTS">(46) * Remove Optional Hyphen Between Word</P>
+      <P status="YTS">(47) * Convert 'direction' arrow(s) to symbol(s)</P>
+      <P status="YTS">(48) * Delete empty line breaks</P>
+      <P status="YTS">(49) * convert greek small letter mu (Âµ) to micro (Âµ)</P>
+      <P status="YTS">(50) * Convert Elipsis to DOT with space</P>
+      <P status="YTS">(51) * Convert DOI: xx.xxxx/ to https://doi.org/xx.xxxx/</P>
+      <P status="YTS">(52) * Insert MS-Word comment in place of query tag</P>
+      <P status="YTS">(53) * Insert space between ")("</P>
+      <P status="YTS">(54) * Remove Non Braking Spaces with normal space</P>
+      <P status="YTS">(55) * Insert space in non spaced float citations</P>
+      <P status="YTS">(56) * Highlight List Paragraph in Tables.</P>
+      <P status="YTS">(57) * Convert prime to apos</P>
+      <P status="YTS">(58) * Listing numbers to be converted as text during filtration</P>
+    </Optional>
+  </Filtration>
+  <BodyStyling versionrequired="True" status="DONE" StartTime="10-08-2025 17:04:20" EndTime="10-08-2025 17:04:20">
+    <TagMapping status="YTS">
+    </TagMapping>
+    <StyleMapping status="YTS">
+    </StyleMapping>
+  </BodyStyling>
+  <Reference versionrequired="True" status="DONE" StartTime="10-08-2025 17:04:20" EndTime="10-08-2025 17:04:20">
+  </Reference>
+  <CrossLinking versionrequired="True" status="DONE" StartTime="10-08-2025 17:04:20" EndTime="10-08-2025 17:04:20">
+  </CrossLinking>
+  <Metadata versionrequired="True" status="DONE" StartTime="10-08-2025 17:07:17" EndTime="10-08-2025 17:07:21">
+    <Global>
+      <JournalID type="publisher">AJOPHT</JournalID>
+      <JournalID type="coden">
+      </JournalID>
+      <JournalID type="hwp">
+      </JournalID>
+      <JournalID type="pmc">
+      </JournalID>
+      <JournalID type="nlmta">
+      </JournalID>
+      <JournalID type="pmid">
+      </JournalID>
+      <JournalID type="pumbed">
+      </JournalID>
+      <JournalID type="doi">
+      </JournalID>
+      <JournalID type="other">
+      </JournalID>
+      <JOURNALTITLE>American Journal of Ophthalmology</JOURNALTITLE>
+      <JOURNALSUBTITLE>
+      </JOURNALSUBTITLE>
+      <TRANSJOURNALTITLE>
+      </TRANSJOURNALTITLE>
+      <ABBREVJOURNALTITLE>
+      </ABBREVJOURNALTITLE>
+      <ISSNPRINT>
+      </ISSNPRINT>
+      <ISSNONLINE>
+      </ISSNONLINE>
+      <PUBLISHERNAME>
+      </PUBLISHERNAME>
+      <PUBLISHERLOCATION>
+      </PUBLISHERLOCATION>
+      <SELFURI>
+      </SELFURI>
+      <COPYRIGHTS>
+      </COPYRIGHTS>
+    </Global>
+    <OPENACCESS>
+      <OPEN_ACCESS_NO Value="True">
+      </OPEN_ACCESS_NO>
+      <OPEN_ACCESS_YES>
+      </OPEN_ACCESS_YES>
+      <OPEN_ACCESS_CC_BY>
+      </OPEN_ACCESS_CC_BY>
+      <OPEN_ACCESS_CC_BY_SA>
+      </OPEN_ACCESS_CC_BY_SA>
+      <OPEN_ACCESS_CC_BY_ND>
+      </OPEN_ACCESS_CC_BY_ND>
+      <OPEN_ACCESS_CC_BY_NC>
+      </OPEN_ACCESS_CC_BY_NC>
+      <OPEN_ACCESS_CC_BY_NC_SA>
+      </OPEN_ACCESS_CC_BY_NC_SA>
+      <OPEN_ACCESS_CC_BY_NC_ND>
+      </OPEN_ACCESS_CC_BY_NC_ND>
+    </OPENACCESS>
+    <ArticleSpecific metafile="ptsorder.xml">
+      <ARTICLEID mandatory="True" active="True" metadata="aid" tagname="">13510</ARTICLEID>
+      <DOI mandatory="True" active="True" metadata="doi" tagname="">10.1016/j.ajo.2025.08.006</DOI>
+      <PMID mandatory="False" active="False" metadata="" tagname=""/>
+      <CODEN mandatory="False" active="False" metadata="" tagname=""/>
+      <MANUSCRIPT mandatory="False" active="False" metadata="" tagname=""/>
+      <PII mandatory="True" active="True" metadata="pii" tagname="">S0002-9394(25)00412-X</PII>
+      <OTHER mandatory="False" active="False" metadata="" tagname=""/>
+      <SUBJECT_LEVEL1 mandatory="False" active="False" metadata="" tagname=""/>
+      <SUBJECT_LEVEL2 mandatory="False" active="False" metadata="" tagname=""/>
+      <PUBDATE_PRINT mandatory="False" active="False" metadata="" tagname=""/>
+      <PUBDATE_ONLINE mandatory="False" active="False" metadata="" tagname=""/>
+      <HISTORYDATE_RECEIVED mandatory="False" active="True" metadata="received-date" tagname="">2025-01-25</HISTORYDATE_RECEIVED>
+      <HISTORYDATE_REV-REQUEST mandatory="False" active="False" metadata="" tagname=""/>
+      <HISTORYDATE_REV-RECEIVED mandatory="False" active="True" metadata="revised-date" tagname="">2025-07-17</HISTORYDATE_REV-RECEIVED>
+      <HISTORYDATE_ACCEPTED mandatory="False" active="True" metadata="accept-date" tagname="">2025-08-06</HISTORYDATE_ACCEPTED>
+      <VOLUME mandatory="False" active="False" metadata="" tagname=""/>
+      <ISSUE mandatory="False" active="False" metadata="" tagname=""/>
+      <SUPPLEMENTARY_MATERIAL mandatory="False" active="False" metadata="" tagname=""/>
+      <COPYRIGHT_STATEMENT mandatory="False" active="True" metadata="copyright-status" tagname="">001</COPYRIGHT_STATEMENT>
+      <OPEN_ACCESS mandatory="False" active="True" metadata="" tagname="">NO</OPEN_ACCESS>
+      <ARTICLE_TYPE mandatory="False" active="True" metadata="pit" tagname="">FLA</ARTICLE_TYPE>
+      <ORCID mandatory="False" active="False" metadata="orcid" tagname=""/>
+    </ArticleSpecific>
+  </Metadata>
+  <Validation versionrequired="True" status="DONE" EndTime="10-08-2025 17:08:57">
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:07:43" EndTime="10-08-2025 17:07:43">(1) * Alert if Hidden text found in manuscript</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:07:43" EndTime="10-08-2025 17:07:44">(3) * Alert if wrong hyperlink applied to numbered citation.</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:07:44" EndTime="10-08-2025 17:07:56">(4) * Alert for wrong reference type</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:07:56" EndTime="10-08-2025 17:08:00">(7) * Alert to check the space between initials in reference authors</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:00" EndTime="10-08-2025 17:08:13">(11) * Alert if Volume and Page is missing in Periodical/Journal reference</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:14" EndTime="10-08-2025 17:08:14">(12) * Alert if Publisher missing in Book Reference</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:14" EndTime="10-08-2025 17:08:15">(13) * Alert if Book Reference containing URL</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:15" EndTime="10-08-2025 17:08:21">(16) * Alert for double occurrence of year and page range marking in references</P>
+    <P status="FAIL" type="Error" StartTime="10-08-2025 17:08:21" EndTime="10-08-2025 17:08:21">(17) * Alert to match reference style with style-sheet</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:21" EndTime="10-08-2025 17:08:45">(23) * Compare Doc Process</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:45" EndTime="10-08-2025 17:08:45">(24) * Alert if there is no space between text and inline equations</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:45" EndTime="10-08-2025 17:08:45">(25) * Alert to check all table heading is coming in bold</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:45" EndTime="10-08-2025 17:08:46">(26) * Alert to compare Email address with PTS</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:46" EndTime="10-08-2025 17:08:46">(27) * Alert to compare corresponding author with PTS.</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:46" EndTime="10-08-2025 17:08:46">(28) * CheckList</P>
+    <P status="DONE" type="Warning" StartTime="10-08-2025 17:08:46" EndTime="10-08-2025 17:08:46">(37) * Validation for Fundref Linking based on Keywords</P>
+    <CheckList>
+    </CheckList>
+  </Validation>
+  <XmlConversion versionrequired="True" status="YTS">
+    <XMLValidation>
+      <DTDNAME>DTD CODE1</DTDNAME>
+      <MATHSTYLENAME>LaTeX</MATHSTYLENAME>
+      <SIMPLEMATHCONVERSION>No</SIMPLEMATHCONVERSION>
+      <FLOATPLACEMENT>End of Para</FLOATPLACEMENT>
+      <FLOATPOSITION>Begin of File</FLOATPOSITION>
+      <ENTITYSTYLE>Unicode[4 digit]</ENTITYSTYLE>
+      <OUTPUTTYPE>
+      </OUTPUTTYPE>
+      <PDFGENERATION>Yes</PDFGENERATION>
+      <TABLEFONTSIZE>0</TABLEFONTSIZE>
+      <TABLEPARAGRAPHINDENT>0,0</TABLEPARAGRAPHINDENT>
+      <TABLEPARAGRAPHSPACING>0,0</TABLEPARAGRAPHSPACING>
+      <TABLECELLMARGIN>0,0,0,0</TABLECELLMARGIN>
+    </XMLValidation>
+    <DocValidation status="YTS">
+    </DocValidation>
+  </XmlConversion>
+  <DOI versionrequired="True" status="YTS">
+  </DOI>
+  <PreEditing versionrequired="True" status="YTS" candice_enabled="False">
+    <Mandatory>
+      <P status="YTS">(749) * Change Article Title in sentence case</P>
+      <P status="YTS">(750) * Change Article Title in Title case</P>
+      <P status="YTS">(796) * Delete Keywords from the file.</P>
+      <P status="YTS">(277) * Insertion of non-breaking space before all commonly occurring units</P>
+      <P status="YTS">(324) * Convert P Value To Italic</P>
+      <P status="YTS">(326) * Insert Thin-space in thousand Digit</P>
+      <P status="YTS">(922) * TableCaption: Table caption should be Title case and remove period from the end of caption</P>
+      <P status="YTS">(1002) * Reference heading: Update heading as 'References'.</P>
+      <P status="YTS">(1620) * APHS: Capitalize and italicize P.</P>
+      <P status="YTS">(1703) * Table caption end not required dot</P>
+      <P status="YTS">(1879) * To remove zero before the decimal in p value.</P>
+      <P status="YTS">(1907) * Remove trade mark (TM) and registered mark (R)</P>
+      <P status="YTS">(1935) * References Alphabetical Sorting (New)</P>
+      <P status="YTS">(1947) * Insert normal space in math operator.</P>
+      <P status="YTS">(1955) * Change minus or hyphen to ndash in figure and table citation.</P>
+      <P status="YTS">(1956) * Unit should not be in italic (Like Mmg,Âµg,Âµg/ML,Âµm,Âµl,Âµmol).</P>
+      <P status="YTS">(1957) * As per eMFC guidelines, figure subparts are not required to be cross linked.</P>
+      <P status="YTS">(1958) * Statement of significance should be always sentence case.</P>
+      <P status="YTS">(1985) * Sex or gender place the query on the article title</P>
+      <P status="YTS">(1989) * Replace i.e.,/i.e. to ie, or e.g.,/e.g. to eg</P>
+      <P status="YTS">(1990) * One, two, three, four, five, six, seven, eight, nine, ten should be in numerals when appearing with â€œday/days, hour/hours, minute/minutes, second/seconds, millisecond/milliseconds, month/months, week/weeks, year/years, kg, cm, dL, km, L, m, Âµg, ÂµL, Âµm, mL, mm, m2, cm2, mm2â€ except when the number is appearing at the beginning of the sentence.</P>
+      <P status="YTS">(509) * Comman eMFC points</P>
+      <P status="YTS">(701) * Insert % mark in range. (68-80%) to (68%-80%)</P>
+    </Mandatory>
+  </PreEditing>
+  <CopyEditing versionrequired="True" status="YTS">
+  </CopyEditing>
+  <XmlConversion versionrequired="True" status="YTS">
+    <XMLValidation>
+      <DTDNAME>DTD CODE1</DTDNAME>
+      <MATHSTYLENAME>LaTeX</MATHSTYLENAME>
+      <SIMPLEMATHCONVERSION>No</SIMPLEMATHCONVERSION>
+      <FLOATPLACEMENT>End of Para</FLOATPLACEMENT>
+      <FLOATPOSITION>Begin of File</FLOATPOSITION>
+      <ENTITYSTYLE>Unicode[4 digit]</ENTITYSTYLE>
+      <OUTPUTTYPE>
+      </OUTPUTTYPE>
+      <PDFGENERATION>Yes</PDFGENERATION>
+      <TABLEFONTSIZE>0</TABLEFONTSIZE>
+      <TABLEPARAGRAPHINDENT>0,0</TABLEPARAGRAPHINDENT>
+      <TABLEPARAGRAPHSPACING>0,0</TABLEPARAGRAPHSPACING>
+      <TABLECELLMARGIN>0,0,0,0</TABLECELLMARGIN>
+    </XMLValidation>
+    <DocValidation status="YTS">
+    </DocValidation>
+  </XmlConversion>
+  <Utility>
+    <Manual>
+      <Category name="ARTICLE STRUCTURE">
+        <Query>[STR001] Please check whether the <b>hierarchy of the section headings</b> are as expected. If changes are needed, please use the comment option to indicate the required changes</Query>
+        <Query>[STR001] Please check whether the <b>hierarchy of the section headings</b> are as expected. If changes are needed, please use the comment option to indicate the required changes</Query>
+        <Query>[STR001] Please check whether the <b>hierarchy of the section headings</b> are as expected. If changes are needed, please use the comment option to indicate the required changes</Query>
+      </Category>
+      <Category name="AUTHORSHIP">
+        <Query>[AUT001] Please review the <b>given names and surnames</b> to make sure that we have identified them correctly and that they are presented in the desired order. Carefully verify the spelling of all authorsâ€™ names as well. If changes are needed, please provide the edits in the author section.</Query>
+        <Query>[AUT002] Please check whether the <b>designated corresponding author</b> is correct, and amend if necessary.</Query>
+        <Query>[AUT002] Please check whether the <b>designated corresponding author</b> is correct, and amend if necessary.</Query>
+        <Query>[AUT001] Please review the <b>given names and surnames</b> to make sure that we have identified them correctly and that they are presented in the desired order. Carefully verify the spelling of all authorsâ€™ names as well. If changes are needed, please provide the edits in the author section.</Query>
+        <Query>[AUT012] <b>author name</b> has not been provided with a <b>CRediT role</b> and hence cannot be added to the CRediTs section here. Please ensure that all authors have a CRediT role associated to them.</Query>
+        <Query>[AUT011] <b>author name</b> is <b>not listed as an author</b> of this article and hence cannot be added to the CRediT section. Please either move this author role  to the Acknowledgements section or delete it from the CRediT section.</Query>
+        <Query>[AUT009] Please confirm that the provided <b>email</b> â€œ____â€ is the correct address for official communication, else provide an alternate e-mail address to replace the existing one, because private e-mail addresses should not be used in articles as the address for communication.</Query>
+        <Query>[AUT008] Note: The author's <b>telephone/fax number</b> has been removed as these are not published in journal articles. </Query>
+        <Query>[AUT007] Please check the <b>address for the corresponding author</b> that has been added here, and correct if necessary.</Query>
+        <Query>[AUT006] The <b>country name</b> has been inserted for the [second authorâ€™s] affiliation. Please check, and correct if necessary.</Query>
+        <Query>[AUT005] The <b>affiliation</b> â€˜__â€™ has been split into two different affiliations. Please check and correct if necessary.</Query>
+        <Query>[AUT004] Please check that the <b>affiliations</b> link the authors with their correct departments, institutions, and locations, and correct if necessary.</Query>
+        <Query>[AUT003] We find that the <b>author role</b> provided for the author(s) â€œ__________â€ do(es) not match the list of acceptable CRediT roles. Please choose a role from the below list for this author: Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing - original draft, Writing - review &amp; editing.</Query>
+        <Query>[AUT002] Please check whether the <b>designated corresponding author</b> is correct, and amend if necessary.</Query>
+        <Query>[AUT001] Please review the <b>given names and surnames</b> to make sure that we have identified them correctly and that they are presented in the desired order. Carefully verify the spelling of all authorsâ€™ names as well. If changes are needed, please provide the edits in the author section.</Query>
+      </Category>
+      <Category name="CITATIONS">
+        <Query>[CIT004] <b>Table</b>(s) [] was/were provided, but not cited in the text. Please provide a citation for it/them.</Query>
+        <Query>[CIT005] <b>Figures or tables</b> were not cited in the text. Please check that the citations suggested are in the appropriate place, and correct if necessary.</Query>
+        <Query>[CIT006] The <b>citation</b> â€˜____â€™ has been changed to match the author name in the reference list. Please check here and in subsequent occurrences, and correct if necessary.</Query>
+        <Query>[CIT007] The <b>citation</b> â€˜____â€™ has been changed to match the date in the reference list. Please check here and in subsequent occurrences, and correct if necessary.</Query>
+        <Query>[CIT009] If there are fewer than seven authors for a <b>reference citation</b>, please add all their names; if there are seven or more authors, please supply the first three authorsâ€™ names, followed by â€˜et al.â€™</Query>
+        <Query>[CIT002] The <b>reference</b> â€˜____â€™ is only cited in the abstract and not in the text. Please introduce a citation in the text.</Query>
+        <Query>[CIT003] <b>Tables</b> should not be cited in the abstract. A citation for Table ___ has been inserted instead in the text. Please check, and correct if necessary.</Query>
+        <Query>[CIT011] Please cite <b>footnote</b> â€˜__â€™.</Query>
+        <Query>[CIT010] We have changed all the <b>citations</b> of Jones 1999 to Jones, 1999a,b, because in the reference list Jones 1999a and 1999b are mentioned as separate references. Please review and correct the citations in the text if necessary.</Query>
+        <Query>[CIT001] <b>Figures</b> should not be cited in the abstract. A citation for Fig. ___ has been inserted instead in the text. Please check, and correct if necessary.</Query>
+      </Category>
+      <Category name="COI">
+        <Query>[COI005] A <b>conflict of interest</b> was mentioned in both the Competing Interest form and within the main article text. Please add the statement you prefer to the Declaration Competing Interest section and remove it from the main article text.</Query>
+        <Query>[COI003] A <b>competing interest</b> was declared, but no supporting statement was provided. As a result, we've used the conflict of interest statement that was provided in the manuscript. Please review the conflict of interest statement under the Declaration Competing Interest section and correct if necessary.</Query>
+        <Query>[COI002] No response around <b>conflict of interest</b> was provided in the Declaration of Interests form. Hence we have stated that there are no competing interests. Please review the Declaration Competing Interest section and correct if necessary.</Query>
+        <Query>[COI001] A <b>conflict of interest</b> was mentioned in both the Declaration of Interests form and within the manuscript. The statement has now been provided in the Declaration of Competing Interest section. Please review the conflict of interest statement under the Declaration Competing Interest section and correct if necessary.</Query>
+        <Query>[COI004] A <b>conflict of interest</b> was mentioned during submission, however details of this are missing. Please provide the conflict of interest statement.</Query>
+        <Query>[COI006] We have found a <b>competing interest statement</b> in your main article text and have moved this to the Declaration Competing Interest section. Please review and correct if necessary.</Query>
+      </Category>
+      <Category name="COPYRIGHT">
+        <Query>[CPY001] Note: The content published on Sci-Hub infringes the <b>copyright</b> of the publisher from which it was obtained and therefore links to it cannot be featured in Elsevier content. As a result the URLs linked to Sci-Hub have been deleted.</Query>
+      </Category>
+      <Category name="DATABASE LINKS">
+        <Query>[DBL001] The following numbers have been identified as <b>accession numbers:</b> â€˜(PDB accession|ClinicalTrials.gov|Genbank accession|CCDC accession|TAIR accession|UniProt accession)â€™ numbers: â€˜XXXâ€™. Please review and correct if necessary by going to the "Links" option at the top of your article page.</Query>
+        <Query>[DBL002] To clarify whether the following numbers are <b>database identifiers</b>, such as GenBank IDs or â€˜(CCDC ID|Uniprot ID)â€™s: â€˜(ccdc-n|uniprot-p)â€™, please use the 'Link' option to connect the numbers to the corresponding database accession numbers.</Query>
+      </Category>
+      <Category name="FIGURES">
+        <Query>[FIG003] Please provide a <b>caption</b> for Fig. [].</Query>
+        <Query>[FIG002] <b>Two versions of Figure</b> [] have been provided. Please review the version retained and correct if necessary. </Query>
+        <Query>[FIG001] The <b>resolution of Figure</b>[s] __ is too low to be used. Please provide better quality figure[s] of ___ dpi. You can provide a new figure via the replacement figure option.</Query>
+      </Category>
+      <Category name="FOOTNOTE">
+        <Query>[FTN001] <b>Footnote</b> â€˜__â€™ has been cited in the table but no corresponding footnote text has been provided. Please provide the corresponding footnote text, or remove the citation as necessary.</Query>
+        <Query>[FTN001] <b>Footnote</b> â€˜__â€™ has been cited in the table but no corresponding footnote text has been provided. Please provide the corresponding footnote text, or remove the citation as necessary.</Query>
+        <Query>[FTN001] <b>Footnote</b> â€˜__â€™ has been cited in the table but no corresponding footnote text has been provided. Please provide the corresponding footnote text, or remove the citation as necessary.</Query>
+      </Category>
+      <Category name="FUNDING">
+        <Query>[FND001] Correctly acknowledging the primary <b>funders and grant IDs</b> of your research is important to ensure compliance with funder policies. Please make sure that funders are mentioned accordingly.</Query>
+      </Category>
+      <Category name="HIGHLIGHTS">
+        <Query>[HGL001] <b>Highlights</b> should consist of 3-5 bullet points. There are __ bullet points provided. Please edit the highlights to meet the requirement.</Query>
+        <Query>[HGL003] <b>Highlights</b> should only consist of 125 characters per bullet point, including spaces. The highlights provided are too long; please edit them to meet the requirement.</Query>
+        <Query>[HGL002] <b>Highlights</b> were supplied as a paragraph of text and should consist of 3-5 bullet points. We have created separate bullet points to meet requirements. Please review and correct if necessary.</Query>
+        <Query>[HGL003] <b>Highlights</b> should only consist of 125 characters per bullet point, including spaces. The highlights provided are too long; please edit them to meet the requirement.</Query>
+        <Query>[HGL002] <b>Highlights</b> were supplied as a paragraph of text and should consist of 3-5 bullet points. We have created separate bullet points to meet requirements. Please review and correct if necessary.</Query>
+        <Query>[HGL001] <b>Highlights</b> should consist of 3-5 bullet points. There are __ bullet points provided. Please edit the highlights to meet the requirement.</Query>
+        <Query>[HGL001] <b>Highlights</b> should consist of 3-5 bullet points. There are __ bullet points provided. Please edit the highlights to meet the requirement.</Query>
+        <Query>[HGL002] <b>Highlights</b> were supplied as a paragraph of text and should consist of 3-5 bullet points. We have created separate bullet points to meet requirements. Please review and correct if necessary.</Query>
+        <Query>[HGL003] <b>Highlights</b> should only consist of 125 characters per bullet point, including spaces. The highlights provided are too long; please edit them to meet the requirement.</Query>
+      </Category>
+      <Category name="KEYWORDS">
+        <Query>[KWD001] The number of <b>keywords</b> provided exceeds the maximum allowed by this journal. Please delete ___ keywords.</Query>
+        <Query>[KWD001] The number of <b>keywords</b> provided exceeds the maximum allowed by this journal. Please delete ___ keywords.</Query>
+        <Query>[KWD001] The number of <b>keywords</b> provided exceeds the maximum allowed by this journal. Please delete ___ keywords.</Query>
+      </Category>
+      <Category name="MATHS/EQUATIONS">
+        <Query>[MTH002] Please note that <b>Equations</b>. â€¦ have been rekeyed as they were in picture format (or) they were corrupted. Please check that they are correct.</Query>
+        <Query>[MTH001] <b>Equations</b> have been renumbered as Eq. __ occurred more than once. Please check, and correct if necessary.</Query>
+        <Query>[MTH002] Please note that <b>Equations</b>. â€¦ have been rekeyed as they were in picture format (or) they were corrupted. Please check that they are correct.</Query>
+        <Query>[MTH002] Please note that <b>Equations</b>. â€¦ have been rekeyed as they were in picture format (or) they were corrupted. Please check that they are correct.</Query>
+        <Query>[MTH001] <b>Equations</b> have been renumbered as Eq. __ occurred more than once. Please check, and correct if necessary.</Query>
+        <Query>[MTH001] <b>Equations</b> have been renumbered as Eq. __ occurred more than once. Please check, and correct if necessary.</Query>
+      </Category>
+      <Category name="REFERENCES">
+        <Query>[REF011] Please check the length of the <b>author initials</b> and correct if necessary.</Query>
+        <Query>[REF012] Note: As <b>references</b> [] and [] were identical, the latter has been removed from the reference list and subsequent references have been renumbered. </Query>
+        <Query>[REF013] The year in the first occurrence of <b>reference</b> â€˜Muraki et al., 2008â€™ in the list has been changed to â€˜2008aâ€™. Please check, and correct if necessary.</Query>
+        <Query>[REF014] Note: Please note that the <b>reference style</b> has been changed from a Numbered style to a Name-Date style as per the journal specifications.</Query>
+        <Query>[REF015] Note: The <b>Uncited References</b> section comprises references that occur in the reference list but are not available in the body of the article text. Please cite each reference in the text or, alternatively, delete it. Any reference not dealt with will be retained in this section. </Query>
+        <Query>[REF016] Citation __ has not been found in the <b>reference list</b>. Please add the corresponding reference to the reference list.</Query>
+        <Query>[REF001] As per the <b>reference style</b> of this journal, the names of the first three authors must be present before â€˜et al.â€™ Therefore, please add the names of the first three authors in the following references and retain â€˜et al.â€™ for subsequent author names, or delete the phrase â€˜et al.â€™ for references [].</Query>
+        <Query>[REF003] <b>Reference</b>(s) [] is/are cited only in the footnote to the title. Please add a citation for this/these reference(s) in the main article text.</Query>
+        <Query>[REF005] Please check the <b>abbreviated journal titles</b> in references.</Query>
+        <Query>[REF006] Please review <b>reference</b> â€œ__, in pressâ€ and update if necessary.</Query>
+        <Query>[REF007] Please update <b>reference</b> __.</Query>
+        <Query>[REF008] Please update the following <b>reference</b>(s): [].</Query>
+        <Query>[REF009] Please add the publication year for the following <b>references</b>: []</Query>
+        <Query>[REF010] Please add the <b>column number and page range</b> for the bibliography in reference. [].</Query>
+        <Query>[REF011] Please check the length of the <b>author initials</b> and correct if necessary.</Query>
+        <Query>[REF012] Note: As <b>references</b> [] and [] were identical, the latter has been removed from the reference list and subsequent references have been renumbered. </Query>
+        <Query>[REF013] The year in the first occurrence of <b>reference</b> â€˜Muraki et al., 2008â€™ in the list has been changed to â€˜2008aâ€™. Please check, and correct if necessary.</Query>
+        <Query>[REF014] Note: Please note that the <b>reference style</b> has been changed from a Numbered style to a Name-Date style as per the journal specifications.</Query>
+        <Query>[REF015] Note: The <b>Uncited References</b> section comprises references that occur in the reference list but are not available in the body of the article text. Please cite each reference in the text or, alternatively, delete it. Any reference not dealt with will be retained in this section. </Query>
+        <Query>[REF016] Citation __ has not been found in the <b>reference list</b>. Please add the corresponding reference to the reference list.</Query>
+        <Query>[REF001] As per the <b>reference style</b> of this journal, the names of the first three authors must be present before â€˜et al.â€™ Therefore, please add the names of the first three authors in the following references and retain â€˜et al.â€™ for subsequent author names, or delete the phrase â€˜et al.â€™ for references [].</Query>
+        <Query>[REF003] <b>Reference</b>(s) [] is/are cited only in the footnote to the title. Please add a citation for this/these reference(s) in the main article text.</Query>
+        <Query>[REF005] Please check the <b>abbreviated journal titles</b> in references.</Query>
+        <Query>[REF006] Please review <b>reference</b> â€œ__, in pressâ€ and update if necessary.</Query>
+        <Query>[REF007] Please update <b>reference</b> __.</Query>
+        <Query>[REF008] Please update the following <b>reference</b>(s): [].</Query>
+        <Query>[REF009] Please add the publication year for the following <b>references</b>: []</Query>
+        <Query>[REF010] Please add the <b>column number and page range</b> for the bibliography in reference. [].</Query>
+        <Query>[REF011] Please check the length of the <b>author initials</b> and correct if necessary.</Query>
+        <Query>[REF012] Note: As <b>references</b> [] and [] were identical, the latter has been removed from the reference list and subsequent references have been renumbered. </Query>
+        <Query>[REF013] The year in the first occurrence of <b>reference</b> â€˜Muraki et al., 2008â€™ in the list has been changed to â€˜2008aâ€™. Please check, and correct if necessary.</Query>
+        <Query>[REF014] Note: Please note that the <b>reference style</b> has been changed from a Numbered style to a Name-Date style as per the journal specifications.</Query>
+        <Query>[REF015] Note: The <b>Uncited References</b> section comprises references that occur in the reference list but are not available in the body of the article text. Please cite each reference in the text or, alternatively, delete it. Any reference not dealt with will be retained in this section. </Query>
+        <Query>[REF016] Citation __ has not been found in the <b>reference list</b>. Please add the corresponding reference to the reference list.</Query>
+        <Query>[REF001] As per the <b>reference style</b> of this journal, the names of the first three authors must be present before â€˜et al.â€™ Therefore, please add the names of the first three authors in the following references and retain â€˜et al.â€™ for subsequent author names, or delete the phrase â€˜et al.â€™ for references [].</Query>
+        <Query>[REF003] <b>Reference</b>(s) [] is/are cited only in the footnote to the title. Please add a citation for this/these reference(s) in the main article text.</Query>
+        <Query>[REF005] Please check the <b>abbreviated journal titles</b> in references.</Query>
+        <Query>[REF006] Please review <b>reference</b> â€œ__, in pressâ€ and update if necessary.</Query>
+        <Query>[REF007] Please update <b>reference</b> __.</Query>
+        <Query>[REF008] Please update the following <b>reference</b>(s): [].</Query>
+        <Query>[REF009] Please add the publication year for the following <b>references</b>: []</Query>
+        <Query>[REF010] Please add the <b>column number and page range</b> for the bibliography in reference. [].</Query>
+      </Category>
+      <Category name="SPECIAL ISSUE">
+        <Query>[SPC001] Your article is being processed as a regular item to be included in a <b>regular issue</b>. Please confirm if this is correct or if your article should be published in a special issue using the responses below.</Query>
+        <Query>[SPC001] Your article is being processed as a regular item to be included in a <b>regular issue</b>. Please confirm if this is correct or if your article should be published in a special issue using the responses below.</Query>
+        <Query>[SPC001] Your article is being processed as a regular item to be included in a <b>regular issue</b>. Please confirm if this is correct or if your article should be published in a special issue using the responses below.</Query>
+      </Category>
+      <Category name="SUPPLEMENTARY DATA">
+        <Query>[SUP001] Please provide a <b>caption</b> for the Supplementary data. You can use the comment option to indicate the caption text.</Query>
+        <Query>[SUP001] Please provide a <b>caption</b> for the Supplementary data. You can use the comment option to indicate the caption text.</Query>
+        <Query>[SUP001] Please provide a <b>caption</b> for the Supplementary data. You can use the comment option to indicate the caption text.</Query>
+      </Category>
+      <Category name="SYMBOLS">
+        <Query>[SYM001] Some <b>characters/symbols</b> are appearing as boxes both in the electronic source file and in the PDF, e.g. in Section []. Please review and introduce appropriate characters/symbols.</Query>
+        <Query>[SYM001] Some <b>characters/symbols</b> are appearing as boxes both in the electronic source file and in the PDF, e.g. in Section []. Please review and introduce appropriate characters/symbols.</Query>
+        <Query>[SYM001] Some <b>characters/symbols</b> are appearing as boxes both in the electronic source file and in the PDF, e.g. in Section []. Please review and introduce appropriate characters/symbols.</Query>
+      </Category>
+      <Category name="TABLES">
+        <Query>[TBL002] Please check the <b>layout of Table</b>(s) __, and correct if necessary.</Query>
+        <Query>[TBL003] Please check the <b>row/column alignment of the table</b>, and correct if necessary.</Query>
+        <Query>[TBL001] For this <b>table</b>, please provide a definition for the significance of [bold, italics, underline, letter a, asterisk]. Either provide a legend through the "Comment" option at the top of your article page or add a footnote.</Query>
+        <Query>[TBL004] Please provide a <b>caption</b> for Table [].</Query>
+        <Query>[TBL003] Please check the <b>row/column alignment of the table</b>, and correct if necessary.</Query>
+        <Query>[TBL002] Please check the <b>layout of Table</b>(s) __, and correct if necessary.</Query>
+        <Query>[TBL004] Please provide a <b>caption</b> for Table [].</Query>
+        <Query>[TBL004] Please provide a <b>caption</b> for Table [].</Query>
+        <Query>[TBL003] Please check the <b>row/column alignment of the table</b>, and correct if necessary.</Query>
+        <Query>[TBL002] Please check the <b>layout of Table</b>(s) __, and correct if necessary.</Query>
+        <Query>[TBL001] For this <b>table</b>, please provide a definition for the significance of [bold, italics, underline, letter a, asterisk]. Either provide a legend through the "Comment" option at the top of your article page or add a footnote.</Query>
+        <Query>[TBL001] For this <b>table</b>, please provide a definition for the significance of [bold, italics, underline, letter a, asterisk]. Either provide a legend through the "Comment" option at the top of your article page or add a footnote.</Query>
+      </Category>
+    </Manual>
+  </Utility>
+  <Client id="13" name="ELS" journalname="AJOPHT"/>
+</Workflow>

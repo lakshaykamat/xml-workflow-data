@@ -1,0 +1,4 @@
+C:\AutoRun\scripts\parser/bin/nsgmls.exe:d:/Tarun/13august/YMDR1409/YMDR1409.xml:416:7:E: element "Query" undefined
+C:\AutoRun\scripts\parser/bin/nsgmls.exe:d:/Tarun/13august/YMDR1409/YMDR1409.xml:416:7: open elements: article body[1] ce:sections[1] ce:section[1] ce:para[1] (#PCDATA[1])
+C:\AutoRun\scripts\parser/bin/nsgmls.exe:d:/Tarun/13august/YMDR1409/YMDR1409.xml:551:9:E: document type does not allow element "sb:title" here
+C:\AutoRun\scripts\parser/bin/nsgmls.exe:d:/Tarun/13august/YMDR1409/YMDR1409.xml:551:9: open elements: article tail[1] ce:bibliography[1] ce:bibliography-sec[1] ce:bib-reference[1] sb:reference[1] sb:contribution[1] (sb:title[1])

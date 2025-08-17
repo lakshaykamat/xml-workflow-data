@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST107568/ELD/JINJ112668.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST107568/ELD/JINJ112668.xml"><time>Vtool:5.95.1 run at Thu Aug 07 23:40:51 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/JINJ112668.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="CED517" type="warning" position="71:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="182:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="253:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="330:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="369:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="443:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="505:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="575:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="678:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="715:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="794:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="894:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="916:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="971:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED519" type="warning" position="">The author query regarding the funding information is missing.</message>
+<message id="STR504" type="warning" position="8:296">More than 5% of the references are unstructured.</message>
+<message id="TTS502" type="warning" position="2362:15">Title element 'sb:maintitle' is written in upper-case letters: "PLOS ONE".</message>
+<message id="MSC563b" type="warning" position="1075:37">The country name "Pakistan" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="MSC563b" type="warning" position="1098:37">The country name "Pakistan" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="MSC563b" type="warning" position="1109:37">The country name "Pakistan" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_11d] Role attribute value 'methods' is mismatch in section ID 'sec0003';    it should be 'materials-methods'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:section-title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0122' 'crf0123'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][18]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0018' 'crf0019'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][6]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0016' 'crf0017'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0106' 'crf0107'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0030' 'crf0031'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0118' 'crf0119'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][14]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0064' 'crf0065'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_05b] Article-footnote is missing from XML; please check JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_14e] Colspec count '14' vs @cols '7 7' in tgroup of 'Table 4' is incorrect.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0126' 'crf0127'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][22]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_24c] Publishing year found in &lt;ce:other-ref> (see reference ID 'bib0052').   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][52]/*:other-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_02b] Capitalization of article title should be 'sentence cased'; please check JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][6]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0054' 'crf0055'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][10]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_24c] Publishing year found in &lt;ce:other-ref> (see reference ID 'bib0031').   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][31]/*:other-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0111' 'crf0112'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][7]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_24c] Publishing year found in &lt;ce:other-ref> (see reference ID 'bib0037').   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][37]/*:other-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_14e] Colspec count '12' vs @cols '4 4 4' in tgroup of 'Table 6' is incorrect.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][6]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0065' 'crf0066'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0123' 'crf0124'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][19]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC31-01c] Accepted date: Query JM if not supplied. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0119' 'crf0120'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][15]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0017' 'crf0018'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0107' 'crf0108'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0061' 'crf0062'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0105' 'crf0106'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0015' 'crf0016'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_14e] Colspec count '12' vs @cols '6 6' in tgroup of 'Table 2' is incorrect.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0117' 'crf0118'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][13]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_14e] Colspec count '18' vs @cols '6 6 6' in tgroup of 'Table 3' is incorrect.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_24c] Publishing year found in &lt;ce:other-ref> (see reference ID 'bib0020').   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][20]/*:other-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_09k] Accepted date is missing from XML; please check PTS and JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01] Reference citation not in range in text 'crf0112' 'crf0113'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][8]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_24c] Publishing year found in &lt;ce:other-ref> (see reference ID 'bib0063').   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][63]/*:other-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_14e] Colspec count '21' vs @cols '7 7 7' in tgroup of 'Table 5' is incorrect.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_07a] Author-highlights (abstract) is missing from XML; please check manuscript if it is provided.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_01a2] A document heading or section heading (article category; i.e, ce:dochad) is missing, please check PTS order &lt;section>.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_24c] Publishing year found in &lt;ce:other-ref> (see reference ID 'bib0001').   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:other-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC40-01] Full stop is missing at the end of caption. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][6]</message>
+<message id="CED501b" type="warning" position="105:48">Implicit name-year reference found ("...ngstu, et al, 2021").</message>
+<message id="CED501b" type="warning" position="113:48">Implicit name-year reference found ("...Sara et al, 2019").</message>
+<message id="CED501b" type="warning" position="160:48">Implicit name-year reference found ("...Lee et al, 2006").</message>
+<total-errors>33</total-errors>
+<total-warnings>23</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Thu Aug 07 23:41:00 IST 2025</time>
+</Log>
+</LogReport>

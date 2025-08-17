@@ -1,0 +1,16 @@
+\gdef\ElsCopyright{\textcopyright\ 2025 Published by Elsevier Inc. on behalf of AAGL.}
+% <xmp:copyright>&#169; 2025 Published by Elsevier Inc. on behalf of AAGL.</xmp:copyright>
+% <xmp:publisher>Elsevier Inc.</xmp:publisher>
+% <ce:copyright type="unknown" year="2025"/>
+\gdef\pts@crossmark{no}
+\gdef\pts@pii{S1553-4650(25)00295-X}
+\gdef\pts@doi{10.1016/j.jmig.2025.08.007}
+\gdef\pts@received{5 August 2025}
+\gdef\pts@accepted{7 August 2025}
+\gdef\pts@issn{1553-4650}
+\gdef\pts@stage{S5}
+\gdef\pts@jid{JMIG}
+\gdef\pts@aid{5613}
+\gdef\pts@pit{cor}
+\gdef\pts@jmmail{e.whitelaw@elsevier.com}
+\gdef\pts@eoitemnr{TJMIG-D-25-00670}

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST38056/ELD/MOLSTR143586.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST38056/ELD/MOLSTR143586.xml"><time>Vtool:5.95.1 run at Fri Aug 08 17:39:51 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/MOLSTR143586.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="CED519" type="warning" position="">The author query regarding the funding information is missing.</message>
+<message id="IDS503a" type="error" position="250:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="626:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="787:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="824:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="986:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1026:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1159:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1198:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="MSC563b" type="warning" position="100:37">The country name "China" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="MSC563b" type="warning" position="110:37">The country name "China" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '] Despite their a series of advantages, the hydrophobic nature of most aromatic AIE-active PSs poses challenges in achieving stable aqueous dispersion, necessitating additional chemical modifications or carrier systems to improve biocompatibility.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][10]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 1A' is wrongly linked with figure ID 'fig0001'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+       [JSC2_19A] Please check XML, period is present end of the value of surname in reference ID 'bib0020'. 	
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:tail[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:bibliography[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bibliography-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:bib-reference[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][20]/*:reference[namespace-uri()='http://www.elsevier.com/xml/common/struct-bib/dtd'][1]/*:contribution[namespace-uri()='http://www.elsevier.com/xml/common/struct-bib/dtd'][1]/*:authors[namespace-uri()='http://www.elsevier.com/xml/common/struct-bib/dtd'][1]/*:author[namespace-uri()='http://www.elsevier.com/xml/common/struct-bib/dtd'][2]/*:surname[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '). This pronounced excited-state sensitivity stemmed from polar media-induced stabilization of ICT state, as supported by spectral progression trend.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][7]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '. Firstly, molecular structure of PS-1 was constructed by adopting triphenylamine (TPA) as electronic donor and phenylacetonitrile as electronic acceptor. Differently, PS-2 had additional electronic acceptor of benzothiadiazole than PS-1, which was expected to redshift maximal fluorescence peak.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '] which has promising applications in the fields of bioconjugation and nanomaterial engineering. Among its diverse reactions, the light-triggered thiol-yne click reaction stands out for its spatiotemporal control and catalyst-free nature, making it particularly suitable for biomedical applications.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'B' is wrongly linked with figure ID 'fig0003'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'D' is wrongly linked with figure ID 'fig0002'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0006' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_02a] Article title 'Light-Triggered Click Reaction to Fabricate Bright Bovine Serum Albumin Encapsulates Photosensitizer’s Nanoparticles for Effective Photodynamic Therapy of Melanoma Cells' is not matched with &lt;item-title> 'Light-Triggered Click Reaction to Fabricate Bright Bovine Serum Albumin Encapsulates Photosensitizer???s Nanoparticles for Effective Photodynamic Therapy of Melanoma Cells' provided in PTS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 2A' is wrongly linked with figure ID 'fig0002'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref 'Photodynamic therapy (PDT), as a non-invasive and spatiotemporally controllable treatment technology, has attracted increasing research interests in biomedical field.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 3A' is wrongly linked with figure ID 'fig0003'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_02b] Capitalization of article title should be 'sentence cased'; please check JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13a] '' is not cited in XML; or linked-text with 'fig0006' is not a figure citation.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:abstract-sec[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:simple-para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:display[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:figure[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC4-04D] &lt;ce:bold> tag is restricted in side &lt;ce:cross-ref with ID crf0050
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 1B' is wrongly linked with figure ID 'fig0001'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][7]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref 'TICT”.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref ') and hydroxyl radicals (⚫OH).['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 4A' is wrongly linked with figure ID 'fig0004'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0005' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'B' is wrongly linked with figure ID 'fig0002'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 4D' is wrongly linked with figure ID 'fig0004'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0003' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0004' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_03a] Author affiliation ID 'aff0001' seems to be unstructured; comma punctuation found. Please check and mark properly.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:affiliation[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:affiliation[namespace-uri()='http://www.elsevier.com/xml/common/struct-aff/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '] In addition to this reason, different molecular packing modes of these two emitters might cause the difference on their photoluminescence quantum yields.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 4C' is wrongly linked with figure ID 'fig0004'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 2E' is wrongly linked with figure ID 'fig0002'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_07a] Author-highlights (abstract) is missing from XML; please check manuscript if it is provided.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '] By leveraging light-activated photosensitizers (PSs) to generate cytotoxic reactive oxygen species (ROS), PDT offers an effective approach to eliminate cancer cells while minimizing damage to healthy tissues.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0002' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref ' and ⚫OH, was systematically investigated using fluorescent probes of dihydrorhodamine 123 (DHR123) and hydroxyphenyl fluorescein (HPF).['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '] addressing effectively the ACQ problem by exhibiting enhanced luminescence and ROS generation in the aggregated state.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][8]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'D' is wrongly linked with figure ID 'fig0005'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 5E' is wrongly linked with figure ID 'fig0005'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '] poor water solubility, and serious oxygen dependence.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'F' is wrongly linked with figure ID 'fig0002'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][6]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 4B' is wrongly linked with figure ID 'fig0004'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '). Both compounds demonstrated good solubility in tetrahydrofuran (THF), with absorption maxima observed at 405 nm and 495 nm, respectively. Their photoluminescence (PL) spectra with maximal emissive wavelength peaked at 557 nm and 629 nm, respectively. Therefore, photophysical property of absorption and fluorescent spectra suggested that PS-1 emitted yellow fluorescence and PS-2 emitted red fluorescence, ascribed to the enhanced intramolecular charge transfer (ICT) effect after inserting electronic acceptor of benzothiadiazole in the PS-2.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="error" position="unknown">
+       [XS1_16A] Mismatch found e-components in PTS Order as 'mmc1' and article xml as '' please check article xml. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0007' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][5]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC37-01b] Dot before cross-ref '), it mightbe contributed to the intramolecular charge transfer (ICT) effect quenched fluorescence.['. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 2C' is wrongly linked with figure ID 'fig0002'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0007a' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][6]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC4-04D] &lt;ce:bold> tag is restricted in side &lt;ce:cross-ref with ID crf0047
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_13b] Citation 'Figure 5C' is wrongly linked with figure ID 'fig0005'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]/*:para[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_07a] Author-highlights (abstract) is missing from XML; please check manuscript if it is provided.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_01a2] A document heading or section heading (article category; i.e, ce:dochad) is missing, please check PTS order &lt;section>.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_10a] The label of section ID 'sec0001' is missing; section's numbering style is 'Numbered' as per JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="CED501a" type="warning" position="153:474">Implicit reference to one of the following has been found ("Scheme 1"): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<message id="CED501a" type="warning" position="154:33">Implicit reference to one of the following has been found ("Scheme 1"): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<total-errors>26</total-errors>
+<total-warnings>5</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Fri Aug 08 17:40:00 IST 2025</time>
+</Log>
+</LogReport>

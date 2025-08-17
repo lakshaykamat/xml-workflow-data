@@ -1,0 +1,4316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jobjacket cls="elsarticle" sty="els-master,bm" mode=""?>
+<!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.7.0//EN//XML" "art570.dtd" [
+<!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE>
+<!ENTITY mmc1 SYSTEM "mmc1" NDATA APPLICATION>
+]>
+<article docsubtype="fla" xmlns="http://www.elsevier.com/xml/ja/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd">
+<?articleinfo volume="000" firstpage="1" online="xxx"?>
+<?citethisarticle text="Prevalence and Risk Factors of Open Angle Glaucoma in an Adult Chinese American Population: The Chinese American Eye Study"?><item-info>
+<jid>AJOPHT</jid>
+<aid>13514</aid>
+<ce:pii>S0002-9394(25)00411-8</ce:pii>
+<ce:doi>10.1016/j.ajo.2025.08.010</ce:doi>
+<ce:copyright type="unknown" year="2025"/>
+</item-info>
+<ce:floats>
+<ce:figure id="fig0001">
+<ce:label>Figure 1</ce:label>
+<ce:caption id="cap0001">
+<ce:simple-para id="spara001">Age-Specific Prevalence of Primary Open Angle Glaucoma (POAG) in the Chinese American Eye Study (CHES), Los Angeles Latino Eye Study (LALES), and the Baltimore Eye Study (BES).</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0001" role="short">Figure 1</ce:alt-text>
+<ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0002939425004118/gr1"/>
+</ce:figure>
+<ce:table id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 1</ce:label>
+<ce:caption id="cap0002">
+<ce:simple-para id="spara002">Completeness of Data for Glaucoma Classification in Chinese Americans in the Chinese American Eye Study (n&#x003D;207).</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0002" role="short">Table 1</ce:alt-text>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0001" colname="col1" valign="top"/>
+<entry id="en0002" colname="col2" valign="top">Gradable Disc Photos &#x005B;n (&#x0025;)&#x005D;</entry>
+<entry id="en0003" colname="col3" valign="top">Clinical Disc Exam Data only &#x005B;n (&#x0025;)&#x005D;</entry>
+<entry id="en0004" colname="col4" valign="top">No Disc Data &#x005B;n (&#x0025;)&#x005D;</entry>
+<entry id="en0005" colname="col5" valign="top">Total &#x005B;n (&#x0025;)&#x005D;</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0006" colname="col1" role="rowhead" valign="top">&#x2265;2 visual fields</entry>
+<entry id="en0007" colname="col2" valign="top">154 (74.4)</entry>
+<entry id="en0008" colname="col3" valign="top">1 (0.5)</entry>
+<entry id="en0009" colname="col4" valign="top"/>
+<entry id="en0010" colname="col5" valign="top">155 (74.9)</entry>
+</row>
+<row>
+<entry id="en0011" colname="col1" role="rowhead" valign="top">1 visual field</entry>
+<entry id="en0012" colname="col2" valign="top">34 (16.4)</entry>
+<entry id="en0013" colname="col3" valign="top"/>
+<entry id="en0014" colname="col4" valign="top"/>
+<entry id="en0015" colname="col5" valign="top">34 (16.4)</entry>
+</row>
+<row>
+<entry id="en0016" colname="col1" role="rowhead" valign="top">No visual field</entry>
+<entry id="en0017" colname="col2" valign="top">18 (8.7)</entry>
+<entry id="en0018" colname="col3" valign="top"/>
+<entry id="en0019" colname="col4" valign="top"/>
+<entry id="en0020" colname="col5" valign="top">18 (8.7)</entry>
+</row>
+<row>
+<entry id="en0021" colname="col1" role="rowhead" valign="top">Total</entry>
+<entry id="en0022" colname="col2" valign="top">206 (99.5)</entry>
+<entry id="en0023" colname="col3" valign="top">1 (0.5)</entry>
+<entry id="en0024" colname="col4" valign="top"/>
+<entry id="en0025" colname="col5" valign="top">207 (100)</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 2</ce:label>
+<ce:caption id="cap0003">
+<ce:simple-para id="spara003">Age- and Sex-Specific Distribution of the Prevalence of Open-Angle Glaucoma in Chinese Americans in CHES.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0003" role="short">Table 2</ce:alt-text>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<colspec colnum="7" colname="col7" align="left"/>
+<colspec colnum="8" colname="col8" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0026" colname="col1" valign="top"/>
+<entry id="en0027" colname="col2" valign="top"/>
+<entry id="en0028" align="left" namest="col3" nameend="col4" role="colgroup" valign="top" rowsep="1">Males (N&#x003D;1583)</entry>
+<entry id="en0029" align="left" namest="col5" nameend="col6" role="colgroup" valign="top" rowsep="1">Females (N&#x003D;2727)</entry>
+<entry id="en0030" align="left" namest="col7" nameend="col8" role="colgroup" valign="top" rowsep="1">Total</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0031" colname="col1" role="rowhead" valign="top"><ce:italic>Age Group (yrs)</ce:italic></entry>
+<entry id="en0032" colname="col2" valign="top"><ce:italic>Total N</ce:italic></entry>
+<entry id="en0033" colname="col3" valign="top"><ce:italic>n (&#x0025;)</ce:italic></entry>
+<entry id="en0034" colname="col4" valign="top"><ce:italic>95&#x0025; CI</ce:italic></entry>
+<entry id="en0035" colname="col5" valign="top"><ce:italic>n (&#x0025;)</ce:italic></entry>
+<entry id="en0036" colname="col6" valign="top"><ce:italic>95&#x0025; CI</ce:italic></entry>
+<entry id="en0037" colname="col7" valign="top"><ce:italic>n (&#x0025;)</ce:italic></entry>
+<entry id="en0038" colname="col8" valign="top"><ce:italic>95&#x0025; CI</ce:italic></entry>
+</row>
+<row>
+<entry id="en0039" colname="col1" role="rowhead" valign="top">50-59</entry>
+<entry id="en0040" colname="col2" valign="top">2092</entry>
+<entry id="en0041" colname="col3" valign="top">32 (4.70)</entry>
+<entry id="en0042" colname="col4" valign="top">3.11-6.29</entry>
+<entry id="en0043" colname="col5" valign="top">26(1.84)</entry>
+<entry id="en0044" colname="col6" valign="top">1.11-2.54</entry>
+<entry id="en0045" colname="col7" valign="top">58 (2.77)</entry>
+<entry id="en0046" colname="col8" valign="top">2.07-3.48</entry>
+</row>
+<row>
+<entry id="en0047" colname="col1" role="rowhead" valign="top">60-69</entry>
+<entry id="en0048" colname="col2" valign="top">1484</entry>
+<entry id="en0049" colname="col3" valign="top">35 (6.15)</entry>
+<entry id="en0050" colname="col4" valign="top">4.18-8.13</entry>
+<entry id="en0051" colname="col5" valign="top">36 (3.93)</entry>
+<entry id="en0052" colname="col6" valign="top">2.67-5.19</entry>
+<entry id="en0053" colname="col7" valign="top">71 (4.78)</entry>
+<entry id="en0054" colname="col8" valign="top">3.70-5.87</entry>
+</row>
+<row>
+<entry id="en0055" colname="col1" role="rowhead" valign="top">70-79</entry>
+<entry id="en0056" colname="col2" valign="top">504</entry>
+<entry id="en0057" colname="col3" valign="top">21 (9.42)</entry>
+<entry id="en0058" colname="col4" valign="top">5.58-13.25</entry>
+<entry id="en0059" colname="col5" valign="top">23 (8.19)</entry>
+<entry id="en0060" colname="col6" valign="top">4.98-11.39</entry>
+<entry id="en0061" colname="col7" valign="top">44 (8.73)</entry>
+<entry id="en0062" colname="col8" valign="top">6.27-11.19</entry>
+</row>
+<row>
+<entry id="en0063" colname="col1" role="rowhead" valign="top">&#x2265;80</entry>
+<entry id="en0064" colname="col2" valign="top">230</entry>
+<entry id="en0065" colname="col3" valign="top">14 (12.73)</entry>
+<entry id="en0066" colname="col4" valign="top">6.50-19.0</entry>
+<entry id="en0067" colname="col5" valign="top">20 (16.67)</entry>
+<entry id="en0068" colname="col6" valign="top">10.0-23.3</entry>
+<entry id="en0069" colname="col7" valign="top">34 (14.78)</entry>
+<entry id="en0070" colname="col8" valign="top">10.20-19.37</entry>
+</row>
+<row>
+<entry id="en0071" colname="col1" role="rowhead" valign="top">Total</entry>
+<entry id="en0072" colname="col2" valign="top">4310</entry>
+<entry id="en0073" colname="col3" valign="top">102 (6.44)</entry>
+<entry id="en0074" colname="col4" valign="top">5.23-7.65</entry>
+<entry id="en0075" colname="col5" valign="top">105 (3.85)</entry>
+<entry id="en0076" colname="col6" valign="top">3.13-4.57</entry>
+<entry id="en0077" colname="col7" valign="top">207 (4.80)</entry>
+<entry id="en0078" colname="col8" valign="top">4.16-5.44</entry>
+</row>
+<row>
+<entry id="en0079" colname="col1" role="rowhead" valign="top"><ce:bold>Age-standardized</ce:bold></entry>
+<entry id="en0080" colname="col2" valign="top"><ce:bold>4310</ce:bold></entry>
+<entry id="en0081" colname="col3" valign="top"><ce:bold>102 (6.37)</ce:bold></entry>
+<entry id="en0082" colname="col4" valign="top"><ce:bold>5.16-7.58</ce:bold></entry>
+<entry id="en0083" colname="col5" valign="top"><ce:bold>105 (4.72)</ce:bold></entry>
+<entry id="en0084" colname="col6" valign="top"><ce:bold>4.00-5.44</ce:bold></entry>
+<entry id="en0085" colname="col7" valign="top"><ce:bold>207 (5.21)</ce:bold></entry>
+<entry id="en0086" colname="col8" valign="top"><ce:bold>4.57-5.85</ce:bold></entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table id="tbl0003" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 3</ce:label>
+<ce:caption id="cap0004">
+<ce:simple-para id="spara004">Clinical characteristics of Chinese Americans with and without open-angle glaucoma (OAG).</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0004" role="short">Table 3</ce:alt-text>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0087" colname="col1" valign="top"><ce:italic>Mean &#x002B;- SD</ce:italic></entry>
+<entry id="en0088" colname="col2" valign="top">OAG (n&#x003D; 207)</entry>
+<entry id="en0089" colname="col3" valign="top">No OAG (n&#x003D; 4057)</entry>
+<entry id="en0090" colname="col4" valign="top">P</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0091" colname="col1" valign="top">Age (yrs)</entry>
+<entry id="en0092" colname="col2" valign="top">66.64 (10.57)</entry>
+<entry id="en0093" colname="col3" valign="top">61.02 (8.70)</entry>
+<entry id="en0094" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0095" colname="col1" valign="top">Female &#x005B;freq (&#x0025;)&#x005D;</entry>
+<entry id="en0096" colname="col2" valign="top">102 (49.28)</entry>
+<entry id="en0097" colname="col3" valign="top">2593 (63.91)</entry>
+<entry id="en0098" colname="col4" valign="top">0.0001</entry>
+</row>
+<row>
+<entry id="en0099" colname="col1" valign="top">Intraocular Pressure (mm Hg)</entry>
+<entry id="en0100" colname="col2" valign="top">17.03 (4.58)</entry>
+<entry id="en0101" colname="col3" valign="top">15.21 (3.06)</entry>
+<entry id="en0102" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0103" colname="col1" valign="top">Intraocular Pressure &gt;21 mmHg &#x005B;freq (&#x0025;)&#x005D;</entry>
+<entry id="en0104" colname="col2" valign="top">28 (13.53)</entry>
+<entry id="en0105" colname="col3" valign="top">119 (2.93)</entry>
+<entry id="en0106" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0107" colname="col1" valign="top">Mean Deviation (dB)</entry>
+<entry id="en0108" colname="col2" valign="top">-8.16 (6.18)</entry>
+<entry id="en0109" colname="col3" valign="top">-2.35 (3.56)</entry>
+<entry id="en0110" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0111" colname="col1" valign="top">Pattern Standard Deviation (dB)</entry>
+<entry id="en0112" colname="col2" valign="top">6.44 (3.56)</entry>
+<entry id="en0113" colname="col3" valign="top">2.81 (1.88)</entry>
+<entry id="en0114" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0115" colname="col1" valign="top">Central Corneal Thickness (mm)</entry>
+<entry id="en0116" colname="col2" valign="top">558 (35.3)</entry>
+<entry id="en0117" colname="col3" valign="top">559 (35.6)</entry>
+<entry id="en0118" colname="col4" valign="top">0.72</entry>
+</row>
+<row>
+<entry id="en0119" colname="col1" valign="top">Vertical Cup-Disc Ratio</entry>
+<entry id="en0120" colname="col2" valign="top">0.71 (0.17)</entry>
+<entry id="en0121" colname="col3" valign="top">0.40 (0.16)</entry>
+<entry id="en0122" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0123" colname="col1" valign="top">Spherical Equivalent (diopters)</entry>
+<entry id="en0124" colname="col2" valign="top">-1.91 (3.84)</entry>
+<entry id="en0125" colname="col3" valign="top">-0.49 (2.84)</entry>
+<entry id="en0126" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0127" colname="col1" valign="top">Axial Length (mm)</entry>
+<entry id="en0128" colname="col2" valign="top">24.58 (1.78)</entry>
+<entry id="en0129" colname="col3" valign="top">23.83 (1.41)</entry>
+<entry id="en0130" colname="col4" valign="top">&lt;0.0001</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table id="tbl0004" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 4</ce:label>
+<ce:caption id="cap0005">
+<ce:simple-para id="spara005">Self-reported history of glaucoma and glaucoma treatment in Chinese Americans with open angle glaucoma in CHES.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0005" role="short">Table 4</ce:alt-text>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0131" colname="col1" valign="top"/>
+<entry id="en0132" colname="col2" valign="top">n (&#x0025;)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0133" colname="col1" role="rowhead" valign="top">Participants with Open Angle Glaucoma (N&#x003D;207&#x002A;)</entry>
+<entry id="en0134" colname="col2" valign="top"/>
+</row>
+<row>
+<entry id="en0135" colname="col1" role="rowhead" valign="top">Newly detected glaucoma (no prior history)</entry>
+<entry id="en0136" colname="col2" valign="top">122 (68.5)</entry>
+</row>
+<row>
+<entry id="en0137" colname="col1" role="rowhead" valign="top">Known history of glaucoma</entry>
+<entry id="en0138" colname="col2" valign="top">55 (31.5)</entry>
+</row>
+<row>
+<entry id="en0139" colname="col1" role="rowhead" valign="top">Prior treatment among those with known glaucoma history (n&#x003D;46<ce:sup>&#x002A;&#x002A;</ce:sup>)</entry>
+<entry id="en0140" colname="col2" valign="top"/>
+</row>
+<row>
+<entry id="en0141" colname="col1" role="rowhead" valign="top">Ocular hypotensive medication</entry>
+<entry id="en0142" colname="col2" valign="top">43 (93.5)</entry>
+</row>
+<row>
+<entry id="en0143" colname="col1" role="rowhead" valign="top">Previous laser trabeculoplasty</entry>
+<entry id="en0144" colname="col2" valign="top">7 (15.2)</entry>
+</row>
+<row>
+<entry id="en0145" colname="col1" role="rowhead" valign="top">Previous laser peripheral iridotomy</entry>
+<entry id="en0146" colname="col2" valign="top">11 (19.6)</entry>
+</row>
+<row>
+<entry id="en0147" colname="col1" role="rowhead" valign="top">Previous incisional glaucoma surgery</entry>
+<entry id="en0148" colname="col2" valign="top">6 (13.0)</entry>
+</row>
+<row>
+<entry id="en0149" colname="col1" role="rowhead" valign="top">Previous cataract surgery</entry>
+<entry id="en0150" colname="col2" valign="top">24 (42.9)</entry>
+</row>
+<row>
+<entry id="en0151" align="left" namest="col1" nameend="col2" role="rowhead colgroup" valign="top">&#x002A;missing data for 30 subjects; <ce:sup>&#x002A;&#x002A;</ce:sup>missing data for 9 subjects</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table id="tbl0005" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 5</ce:label>
+<ce:caption id="cap0006">
+<ce:simple-para id="spara006">Candidate variables and independent risk factors associated with open angle glaucoma in Chinese Americans in CHES.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0006" role="short">Table 5</ce:alt-text>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0152" colname="col1" valign="top"><ce:italic>Variable</ce:italic></entry>
+<entry id="en0153" colname="col2" valign="top"><ce:italic>Univariable Odds Ratio (95&#x0025; CI) controlling for age</ce:italic></entry>
+<entry id="en0154" colname="col3" valign="top"><ce:italic>P-value (Chi-square)</ce:italic></entry>
+<entry id="en0155" colname="col4" valign="top"><ce:italic>Multivariable Odds Ratio (95&#x0025; CI) &#x002A;</ce:italic></entry>
+<entry id="en0156" colname="col5" valign="top"><ce:italic>P-value</ce:italic></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0157" colname="col1" valign="top"><ce:bold>Age (yrs)&#x002A;&#x002A;</ce:bold></entry>
+<entry id="en0158" colname="col2" valign="top">-</entry>
+<entry id="en0159" colname="col3" valign="top"/>
+<entry id="en0160" colname="col4" valign="top">1.06 (1.05,1.08)</entry>
+<entry id="en0161" colname="col5" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0162" colname="col1" valign="top">Male Sex</entry>
+<entry id="en0163" colname="col2" valign="top">1.53 (1.15-2.03)</entry>
+<entry id="en0164" colname="col3" valign="top">0.0034</entry>
+<entry id="en0165" colname="col4" valign="top">1.17 (0.87,1.58)</entry>
+<entry id="en0166" colname="col5" valign="top">0.30</entry>
+</row>
+<row>
+<entry id="en0167" colname="col1" valign="top">Any Nuclear lens opacities</entry>
+<entry id="en0168" colname="col2" valign="top">1.08 (0.76-1.53)</entry>
+<entry id="en0169" colname="col3" valign="top">0.67</entry>
+<entry id="en0170" colname="col4" valign="top"/>
+<entry id="en0171" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0172" colname="col1" valign="top">Any Cortical lens opacities</entry>
+<entry id="en0173" colname="col2" valign="top">1.39 (0.97-1.98)</entry>
+<entry id="en0174" colname="col3" valign="top">0.074</entry>
+<entry id="en0175" colname="col4" valign="top"/>
+<entry id="en0176" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0177" colname="col1" valign="top">Any Posterior subcapsular lens opacities</entry>
+<entry id="en0178" colname="col2" valign="top">1.93 (0.96-3.88)</entry>
+<entry id="en0179" colname="col3" valign="top">0.065</entry>
+<entry id="en0180" colname="col4" valign="top"/>
+<entry id="en0181" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0182" colname="col1" valign="top">Pseudophakia</entry>
+<entry id="en0183" colname="col2" valign="top">2.92 (1.94-4.40)</entry>
+<entry id="en0184" colname="col3" valign="top">&lt;0.0001</entry>
+<entry id="en0185" colname="col4" valign="top"/>
+<entry id="en0186" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0187" colname="col1" valign="top"><ce:bold>Body Mass Index Category</ce:bold></entry>
+<entry id="en0188" colname="col2" valign="top"/>
+<entry id="en0189" colname="col3" valign="top"/>
+<entry id="en0190" colname="col4" valign="top"/>
+<entry id="en0191" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0192" colname="col1" valign="top">Under/Normal</entry>
+<entry id="en0193" colname="col2" valign="top">1.21 (0.90-1.63)</entry>
+<entry id="en0194" colname="col3" valign="top">0.20</entry>
+<entry id="en0195" colname="col4" valign="top"/>
+<entry id="en0196" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0197" colname="col1" valign="top">Overweight</entry>
+<entry id="en0198" colname="col2" valign="top">1.17 (0.66-2.08)</entry>
+<entry id="en0199" colname="col3" valign="top">0.59</entry>
+<entry id="en0200" colname="col4" valign="top"/>
+<entry id="en0201" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0202" colname="col1" valign="top">Obese</entry>
+<entry id="en0203" colname="col2" valign="top"/>
+<entry id="en0204" colname="col3" valign="top"/>
+<entry id="en0205" colname="col4" valign="top"/>
+<entry id="en0206" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0207" colname="col1" valign="top"><ce:bold>Family History of Glaucoma</ce:bold></entry>
+<entry id="en0208" colname="col2" valign="top">1.88 (1.21-2.93)</entry>
+<entry id="en0209" colname="col3" valign="top">0.0054</entry>
+<entry id="en0210" colname="col4" valign="top">1.88 (1.19,2.97)</entry>
+<entry id="en0211" colname="col5" valign="top">0.0067</entry>
+</row>
+<row>
+<entry id="en0212" colname="col1" valign="top"><ce:bold>Diabetes Mellitus</ce:bold></entry>
+<entry id="en0213" colname="col2" valign="top">1.59 (1.13-2.22)</entry>
+<entry id="en0214" colname="col3" valign="top">0.0073</entry>
+<entry id="en0215" colname="col4" valign="top">1.49 (1.05,2.11)</entry>
+<entry id="en0216" colname="col5" valign="top">0.027</entry>
+</row>
+<row>
+<entry id="en0217" colname="col1" valign="top">Self-Reported Hypertension</entry>
+<entry id="en0218" colname="col2" valign="top">1.26 (0.93-1.70)</entry>
+<entry id="en0219" colname="col3" valign="top">0.14</entry>
+<entry id="en0220" colname="col4" valign="top"/>
+<entry id="en0221" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0222" colname="col1" valign="top">Ever smoking history</entry>
+<entry id="en0223" colname="col2" valign="top">1.00 (0.67-1.49)</entry>
+<entry id="en0224" colname="col3" valign="top">0.99</entry>
+<entry id="en0225" colname="col4" valign="top"/>
+<entry id="en0226" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0227" colname="col1" valign="top">Hyperlipidemia</entry>
+<entry id="en0228" colname="col2" valign="top">0.58 (0.29-1.15)</entry>
+<entry id="en0229" colname="col3" valign="top">0.008</entry>
+<entry id="en0230" colname="col4" valign="top"/>
+<entry id="en0231" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0232" colname="col1" valign="top">Height (cm)</entry>
+<entry id="en0233" colname="col2" valign="top">1.02 (1.01-1.04)</entry>
+<entry id="en0234" colname="col3" valign="top">0.16</entry>
+<entry id="en0235" colname="col4" valign="top"/>
+<entry id="en0236" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0237" colname="col1" valign="top">Weight (kg)</entry>
+<entry id="en0238" colname="col2" valign="top">1.02 (1.01-1.03)</entry>
+<entry id="en0239" colname="col3" valign="top">.007</entry>
+<entry id="en0240" colname="col4" valign="top"/>
+<entry id="en0241" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0242" colname="col1" valign="top">Systolic Blood Pressure (mm Hg)</entry>
+<entry id="en0243" colname="col2" valign="top">1.01 (1.00-1.014)</entry>
+<entry id="en0244" colname="col3" valign="top">.068</entry>
+<entry id="en0245" colname="col4" valign="top"/>
+<entry id="en0246" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0247" colname="col1" valign="top">Diastolic Blood Pressure (mm Hg)</entry>
+<entry id="en0248" colname="col2" valign="top">1.01 (1.00-1.03)</entry>
+<entry id="en0249" colname="col3" valign="top">.08</entry>
+<entry id="en0250" colname="col4" valign="top"/>
+<entry id="en0251" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0252" colname="col1" valign="top"><ce:bold>Intraocular pressure (mm Hg)</ce:bold></entry>
+<entry id="en0253" colname="col2" valign="top">1.13 (1.09,1.17)</entry>
+<entry id="en0254" colname="col3" valign="top">&lt;.0001</entry>
+<entry id="en0255" colname="col4" valign="top">1.12 (1.08, 1.17)</entry>
+<entry id="en0256" colname="col5" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0257" colname="col1" valign="top">Spherical equivalent (D)</entry>
+<entry id="en0258" colname="col2" valign="top">0.87 (0.84-0.90)</entry>
+<entry id="en0259" colname="col3" valign="top">&lt;.0001</entry>
+<entry id="en0260" colname="col4" valign="top"/>
+<entry id="en0261" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0262" colname="col1" valign="top"><ce:bold>Axial length (mm)</ce:bold></entry>
+<entry id="en0263" colname="col2" valign="top">1.35(1.25-1.46)</entry>
+<entry id="en0264" colname="col3" valign="top">&lt;.0001</entry>
+<entry id="en0265" colname="col4" valign="top">1.36 (1.25,1.47)</entry>
+<entry id="en0266" colname="col5" valign="top">&lt;0.0001</entry>
+</row>
+<row>
+<entry id="en0267" colname="col1" valign="top">Anterior chamber depth (mm)</entry>
+<entry id="en0268" colname="col2" valign="top">1.30 (1.09-1.55)</entry>
+<entry id="en0269" colname="col3" valign="top">.0032</entry>
+<entry id="en0270" colname="col4" valign="top"/>
+<entry id="en0271" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0272" colname="col1" valign="top">Central corneal thickness (microns)</entry>
+<entry id="en0273" colname="col2" valign="top">1.00 (0.996-1.004)</entry>
+<entry id="en0274" colname="col3" valign="top">0.99</entry>
+<entry id="en0275" colname="col4" valign="top"/>
+<entry id="en0276" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0277" colname="col1" valign="top">Vertical cup-disc ratio</entry>
+<entry id="en0278" colname="col2" valign="top">2.46 (2.23-2.71)</entry>
+<entry id="en0279" colname="col3" valign="top">&lt;.0001</entry>
+<entry id="en0280" colname="col4" valign="top"/>
+<entry id="en0281" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0282" colname="col1" valign="top">Lens thickness (microns)</entry>
+<entry id="en0283" colname="col2" valign="top">0.662 (0.435,1.006)</entry>
+<entry id="en0284" colname="col3" valign="top">0.054</entry>
+<entry id="en0285" colname="col4" valign="top"/>
+<entry id="en0286" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0287" colname="col1" valign="top">Visual field mean deviation (dB)</entry>
+<entry id="en0288" colname="col2" valign="top">0.847 (0.827,0.868)</entry>
+<entry id="en0289" colname="col3" valign="top">&lt;.0001</entry>
+<entry id="en0290" colname="col4" valign="top"/>
+<entry id="en0291" colname="col5" valign="top"/>
+</row>
+<row>
+<entry id="en0292" align="left" namest="col1" nameend="col5" role="colgroup" valign="top">&#x002A;controlling for sex</entry>
+</row>
+<row>
+<entry id="en0293" align="left" namest="col1" nameend="col5" role="colgroup" valign="top">&#x002A;&#x002A;independent risk factors are boldened</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table id="tbl0006" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 6</ce:label>
+<ce:caption id="cap0007">
+<ce:simple-para id="spara007">Age-specific Open Angle Glaucoma Prevalence (&#x0025;) in different population studies.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0007" role="short">Table 6</ce:alt-text>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<colspec colnum="7" colname="col7" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0294" colname="col1" valign="top"><ce:italic>Study(exam dates)</ce:italic></entry>
+<entry id="en0295" colname="col2" valign="top"><ce:italic>Population</ce:italic></entry>
+<entry id="en0296" colname="col3" valign="top"><ce:italic>50-59</ce:italic></entry>
+<entry id="en0297" colname="col4" valign="top"><ce:italic>60-69</ce:italic></entry>
+<entry id="en0298" colname="col5" valign="top"><ce:italic>70-79</ce:italic></entry>
+<entry id="en0299" colname="col6" valign="top"><ce:italic>&gt;80</ce:italic></entry>
+<entry id="en0300" colname="col7" valign="top"><ce:italic>Total Age-Standardized&#x002A;&#x002A;</ce:italic></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0301" align="left" namest="col1" nameend="col7" role="colgroup" valign="top"><ce:bold><ce:italic>United States Populations</ce:italic></ce:bold></entry>
+</row>
+<row>
+<entry id="en0302" colname="col1" valign="top"><ce:bold>Chinese American Eye Study(2010-2013)</ce:bold></entry>
+<entry id="en0303" colname="col2" valign="top"><ce:bold>Chinese Americans</ce:bold></entry>
+<entry id="en0304" colname="col3" valign="top"><ce:bold>2.8</ce:bold></entry>
+<entry id="en0305" colname="col4" valign="top"><ce:bold>4.8</ce:bold></entry>
+<entry id="en0306" colname="col5" valign="top"><ce:bold>8.7</ce:bold></entry>
+<entry id="en0307" colname="col6" valign="top"><ce:bold>14.8</ce:bold></entry>
+<entry id="en0308" colname="col7" valign="top"><ce:bold>5.21(4.57-5.85)</ce:bold></entry>
+</row>
+<row>
+<entry id="en0309" colname="col1" valign="top">Baltimore Eye Study (1985-1988)</entry>
+<entry id="en0310" colname="col2" valign="top">African Americans</entry>
+<entry id="en0311" colname="col3" valign="top">4.2</entry>
+<entry id="en0312" colname="col4" valign="top">6.2</entry>
+<entry id="en0313" colname="col5" valign="top">8.9</entry>
+<entry id="en0314" colname="col6" valign="top">12.9</entry>
+<entry id="en0315" colname="col7" valign="top">6.15&#x0025;(5.02-7.29)</entry>
+</row>
+<row>
+<entry id="en0316" colname="col1" valign="top">Baltimore Eye Study (1985-1988)</entry>
+<entry id="en0317" colname="col2" valign="top">Non-Hispanic white Americans</entry>
+<entry id="en0318" colname="col3" valign="top">0.3</entry>
+<entry id="en0319" colname="col4" valign="top">1.5</entry>
+<entry id="en0320" colname="col5" valign="top">3.3</entry>
+<entry id="en0321" colname="col6" valign="top">1.9</entry>
+<entry id="en0322" colname="col7" valign="top">1.27&#x0025;(0.74-1.79)</entry>
+</row>
+<row>
+<entry id="en0323" align="left" namest="col1" nameend="col7" role="colgroup" valign="top"><ce:bold>LALES</ce:bold></entry>
+</row>
+<row>
+<entry id="en0324" colname="col1" valign="top">(2000-2003)</entry>
+<entry id="en0325" colname="col2" valign="top">Latino</entry>
+<entry id="en0326" colname="col3" valign="top">2.9</entry>
+<entry id="en0327" colname="col4" valign="top">7.4</entry>
+<entry id="en0328" colname="col5" valign="top">14.7</entry>
+<entry id="en0329" colname="col6" valign="top">21.8</entry>
+<entry id="en0330" colname="col7" valign="top">7.50(6.69-8.30)</entry>
+</row>
+<row>
+<entry id="en0331" colname="col1" valign="top">Proyecto VER&#x002A; (1997-1999)</entry>
+<entry id="en0332" colname="col2" valign="top">Latino</entry>
+<entry id="en0333" colname="col3" valign="top">0.6</entry>
+<entry id="en0334" colname="col4" valign="top">1.7</entry>
+<entry id="en0335" colname="col5" valign="top">5.7</entry>
+<entry id="en0336" colname="col6" valign="top">12.6</entry>
+<entry id="en0337" colname="col7" valign="top">2.63(2.07-3.20)</entry>
+</row>
+<row>
+<entry id="en0338" colname="col1" valign="top">Beaver Dam Eye Study (1987-1988)</entry>
+<entry id="en0339" colname="col2" valign="top">Non-Hispanic White</entry>
+<entry id="en0340" colname="col3" valign="top">1.3<ce:cross-ref id="crf0100" refid="bib0001"><ce:sup>1</ce:sup></ce:cross-ref></entry>
+<entry id="en0341" colname="col4" valign="top">2.7<ce:cross-ref id="crf0101" refid="bib0001"><ce:sup>1</ce:sup></ce:cross-ref></entry>
+<entry id="en0342" colname="col5" valign="top">4.7<ce:cross-ref id="crf0102" refid="bib0001"><ce:sup>1</ce:sup></ce:cross-ref></entry>
+<entry id="en0343" colname="col6" valign="top">2.34(1.88-2.80)</entry>
+<entry id="en0344" colname="col7" valign="top"/>
+</row>
+<row>
+<entry id="en0345" align="left" namest="col1" nameend="col7" role="colgroup" valign="top"><ce:bold><ce:italic>Asia-based Chinese Populations</ce:italic></ce:bold></entry>
+</row>
+<row>
+<entry id="en0346" colname="col1" valign="top">Singapore Chinese Eye Study&#x002A;(2009-2011)</entry>
+<entry id="en0347" colname="col2" valign="top">Urban Chinese</entry>
+<entry id="en0348" colname="col3" valign="top">1.5</entry>
+<entry id="en0349" colname="col4" valign="top">2.0</entry>
+<entry id="en0350" colname="col5" valign="top">3.0</entry>
+<entry id="en0351" colname="col6" valign="top">&#x2013;</entry>
+<entry id="en0352" colname="col7" valign="top">2.00(1.46-2.54)</entry>
+</row>
+<row>
+<entry id="en0353" colname="col1" valign="top">Yunnan Minority&#x002A;(2010; 2016)</entry>
+<entry id="en0354" colname="col2" valign="top">Rural Chinese</entry>
+<entry id="en0355" colname="col3" valign="top">1.6</entry>
+<entry id="en0356" colname="col4" valign="top">2.2</entry>
+<entry id="en0357" colname="col5" valign="top">2.4</entry>
+<entry id="en0358" colname="col6" valign="top">2.7</entry>
+<entry id="en0359" colname="col7" valign="top">1.98(1.63-2.33)</entry>
+</row>
+<row>
+<entry id="en0360" colname="col1" valign="top">Beijing Eye Study&#x002A;(2001; 2010)</entry>
+<entry id="en0361" colname="col2" valign="top">Urban and rural Chinese</entry>
+<entry id="en0362" colname="col3" valign="top">1.6</entry>
+<entry id="en0363" colname="col4" valign="top">3.3</entry>
+<entry id="en0364" colname="col5" valign="top">5.7</entry>
+<entry id="en0365" colname="col6" valign="top">3.05(2.43-3.67)</entry>
+<entry id="en0366" colname="col7" valign="top"/>
+</row>
+<row>
+<entry id="en0367" colname="col1" valign="top">Handan Eye Study&#x002A;(2007, 2011)</entry>
+<entry id="en0368" colname="col2" valign="top">Rural Chinese</entry>
+<entry id="en0369" colname="col3" valign="top">1.0</entry>
+<entry id="en0370" colname="col4" valign="top">1.7</entry>
+<entry id="en0371" colname="col5" valign="top">2.9</entry>
+<entry id="en0372" colname="col6" valign="top">1.7</entry>
+<entry id="en0373" colname="col7" valign="top">2.31(1.86-2.76)</entry>
+</row>
+<row>
+<entry id="en0374" align="left" namest="col1" nameend="col7" role="colgroup" valign="top"><ce:bold><ce:italic>Other Non-US populations</ce:italic></ce:bold></entry>
+</row>
+<row>
+<entry id="en0375" colname="col1" valign="top">Kumejima&#x002A;(2005-2006)</entry>
+<entry id="en0376" colname="col2" valign="top">Japanese</entry>
+<entry id="en0377" colname="col3" valign="top"/>
+<entry id="en0378" colname="col4" valign="top"/>
+<entry id="en0379" colname="col5" valign="top"/>
+<entry id="en0380" colname="col6" valign="top"/>
+<entry id="en0381" colname="col7" valign="top">4.38(3.55-5.22)</entry>
+</row>
+<row>
+<entry id="en0382" colname="col1" valign="top">Chennai Glaucoma Study&#x002A;(2002-2004)</entry>
+<entry id="en0383" colname="col2" valign="top">Urban and Rural Indian</entry>
+<entry id="en0384" colname="col3" valign="top">3.6</entry>
+<entry id="en0385" colname="col4" valign="top">4.1</entry>
+<entry id="en0386" colname="col5" valign="top">5.9</entry>
+<entry id="en0387" colname="col6" valign="top">10.2</entry>
+<entry id="en0388" colname="col7" valign="top">4.59(3.79-5.39)</entry>
+</row>
+<row>
+<entry id="en0389" colname="col1" valign="top">Barbados Eye Study(1988-1992)</entry>
+<entry id="en0390" colname="col2" valign="top">African descent</entry>
+<entry id="en0391" colname="col3" valign="top">4.1</entry>
+<entry id="en0392" colname="col4" valign="top">6.7</entry>
+<entry id="en0393" colname="col5" valign="top">14.8</entry>
+<entry id="en0394" colname="col6" valign="top">23.2</entry>
+<entry id="en0395" colname="col7" valign="top">7.99(6.99-8.98)</entry>
+</row>
+<row>
+<entry id="en0396" align="left" namest="col1" nameend="col7" role="colgroup" valign="top">&#x002A;utilized International Society of Geographical and Epidemiological Ophthalmology (ISGEO) definition of OAG; &#x002A;&#x002A; 2010 Census data for Asian Population was used for age-standardization.</entry>
+</row>
+<row>
+<entry id="en0397" align="left" namest="col1" nameend="col7" role="colgroup" valign="top"><ce:cross-ref id="crf0103" refid="bib0001"><ce:sup>1</ce:sup></ce:cross-ref> Beaver Dam Eye Study age groups reported were: 55-64;65-74;75&#x002B;</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spara008">Chinese Americans had high prevalence of open angle glaucoma, with the majority having untreated intraocular pressure (IOP) under 21 mm Hg. Risk factors included older age, higher IOP, longer axial length, family history, and diabetes.</ce:simple-para>
+</ce:legend>
+</ce:table>
+</ce:floats>
+<head>
+<ce:dochead id="dchd0001">
+<ce:textfn id="dhtxt0001">Original Articles</ce:textfn>
+</ce:dochead>
+<ce:title id="tte0002">Prevalence and Risk Factors of Open Angle Glaucoma in an Adult Chinese American Population: The Chinese American Eye Study</ce:title>
+<ce:short-title id="shorttl001">Prevalence of Open Angle Glaucoma in Chinese Americans</ce:short-title>
+<ce:author-group id="aut0001">
+<ce:author id="au0001">
+<ce:given-name>Grace M.</ce:given-name>
+<ce:surname>Richter</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing &#x2013; original draft</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0001" refid="aff0001"><ce:sup>1</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0002">
+<ce:given-name>Benjamin Y.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0002" refid="aff0002"><ce:sup>2</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0003">
+<ce:given-name>Bruce S.</ce:given-name>
+<ce:surname>Burkemper</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0003" refid="aff0003"><ce:sup>3</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0004">
+<ce:given-name>Xuejuan</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0004" refid="aff0002"><ce:sup>2</ce:sup></ce:cross-ref><ce:cross-ref id="crf0005" refid="aff0003"><ce:sup>3</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0005">
+<ce:given-name>Mina</ce:given-name>
+<ce:surname>Torres</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0006" refid="aff0004"><ce:sup>4</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0006">
+<ce:given-name>Farzana</ce:given-name>
+<ce:surname>Choudhury</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0007" refid="aff0003"><ce:sup>3</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0007">
+<ce:given-name>Roberta</ce:given-name>
+<ce:surname>McKean-Cowdin</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0008" refid="aff0003"><ce:sup>3</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0008">
+<ce:given-name>Nathan</ce:given-name>
+<ce:surname>Dhablania</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0009" refid="aff0004"><ce:sup>4</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0009">
+<ce:given-name>Rohit</ce:given-name>
+<ce:surname>Varma</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0010" refid="aff0004"><ce:sup>4</ce:sup></ce:cross-ref><ce:cross-ref id="crf0011" refid="cor0001"><ce:sup>&#x204E;</ce:sup></ce:cross-ref>
+<ce:e-address id="ead0001" type="email" xlink:href="mailto:rvarma@sceyes.org">rvarma@sceyes.org</ce:e-address>
+</ce:author>
+<ce:affiliation id="aff0001">
+<ce:label>1</ce:label>
+<ce:textfn id="cetextfn0001">Department of Ophthalmology, Kaiser Permanente Los Angeles Medical Center, Los Angeles, CA, USA</ce:textfn>
+<sa:affiliation>
+<sa:organization>Department of Ophthalmology</sa:organization>
+<sa:organization>Kaiser Permanente Los Angeles Medical Center</sa:organization>
+<sa:city>Los Angeles</sa:city>
+<sa:state>CA</sa:state>
+<sa:country iso3166-1-alpha-3="USA">USA</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0001">1Department of Ophthalmology, Kaiser Permanente Los Angeles Medical Center, Los Angeles, CA, USA</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0002">
+<ce:label>2</ce:label>
+<ce:textfn id="cetextfn0002">Roski Eye Institute, Department of Ophthalmology, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA</ce:textfn>
+<sa:affiliation>
+<sa:organization>Roski Eye Institute, Department of Ophthalmology</sa:organization>
+<sa:organization>Keck School of Medicine, University of Southern California</sa:organization>
+<sa:city>Los Angeles</sa:city>
+<sa:state>CA</sa:state>
+<sa:country iso3166-1-alpha-3="USA">USA</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0002">2Roski Eye Institute, Department of Ophthalmology, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0003">
+<ce:label>3</ce:label>
+<ce:textfn id="cetextfn0003">Department of Population and Public Health Sciences, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA</ce:textfn>
+<sa:affiliation>
+<sa:organization>Department of Population and Public Health Sciences</sa:organization>
+<sa:organization>Keck School of Medicine, University of Southern California</sa:organization>
+<sa:city>Los Angeles</sa:city>
+<sa:state>CA</sa:state>
+<sa:country iso3166-1-alpha-3="USA">USA</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0003">3Department of Population and Public Health Sciences, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0004">
+<ce:label>4</ce:label>
+<ce:textfn id="cetextfn0004">Southern California Eye Institute, Los Angeles, CA, USA</ce:textfn>
+<sa:affiliation>
+<sa:organization>Southern California Eye Institute</sa:organization>
+<sa:city>Los Angeles</sa:city>
+<sa:state>CA</sa:state>
+<sa:country iso3166-1-alpha-3="USA">USA</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0004">4Southern California Eye Institute, Los Angeles, CA, USA</ce:source-text>
+</ce:affiliation>
+<ce:correspondence id="cor0001"><ce:label>&#x204E;</ce:label><ce:text id="cetext0001">Corresponding Author: Rohit Varma, Southern California Eye Institute, Los Angeles, CA 90027, Phone number: 833-270-3937.</ce:text><sa:affiliation><sa:organization>Southern California Eye Institute</sa:organization><sa:city>Los Angeles</sa:city><sa:state>CA</sa:state><sa:postal-code>90027</sa:postal-code></sa:affiliation></ce:correspondence>
+</ce:author-group>
+<ce:abstract id="abs0001" class="author-highlights">
+<ce:section-title id="cesectitle0001">Highlights</ce:section-title>
+<ce:abstract-sec id="abss0001"><ce:simple-para id="spara009"><ce:list id="celist0001"><ce:list-item id="celistitem0001"><ce:label>&#x2022;</ce:label><ce:para id="para0001">The prevalence of open angle glaucoma among Chinese Americans was 4.8&#x0025;.</ce:para></ce:list-item><ce:list-item id="celistitem0002"><ce:label>&#x2022;</ce:label><ce:para id="para0002">This is higher than populations of European descent and Asia-based Chinese populations but lower than Latinos and those of African descent.</ce:para></ce:list-item><ce:list-item id="celistitem0003"><ce:label>&#x2022;</ce:label><ce:para id="para0003">88.5&#x0025; of Chinese Americans with OAG had baseline intraocular pressure (IOP) of 21 mmHg or less.</ce:para></ce:list-item><ce:list-item id="celistitem0004"><ce:label>&#x2022;</ce:label><ce:para id="para0004">Risk factors for OAG were older age, longer axial length, higher IOP, family history, and diabetes mellitus.</ce:para></ce:list-item><ce:list-item id="celistitem0005"><ce:label>&#x2022;</ce:label><ce:para id="para0005">Given the growing myopia epidemic, future research should investigate whether myopia prevention efforts can help mitigate the burden of glaucoma.</ce:para></ce:list-item></ce:list></ce:simple-para>
+</ce:abstract-sec>
+</ce:abstract>
+<ce:abstract id="abs0002">
+<ce:section-title id="cesectitle0002">Abstract</ce:section-title>
+<ce:abstract-sec id="abss0002"><ce:section-title id="cesectitle0003">Purpose</ce:section-title>
+<ce:simple-para id="spara010"> To estimate the prevalence of and identify risk factors associated with&#x00A0;open angle glaucoma (OAG) among adult Chinese Americans.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0003"><ce:section-title id="cesectitle0004">Design</ce:section-title>
+<ce:simple-para id="spara011"> Population-based, cross-sectional study</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0004"><ce:section-title id="cesectitle0005">Participants</ce:section-title>
+<ce:simple-para id="spara012"> 4,582 Chinese Americans aged 50 years and older residing in Monterey Park, CA</ce:simple-para>
+<ce:simple-para id="spara013">Methods: Participants from the Chinese American Eye Study underwent a comprehensive interview, eye examination, and ophthalmic testing. Open-angle glaucoma (OAG) was defined by characteristic optic nerve head changes with or without corresponding visual field loss, as determined by a panel of glaucoma specialists and required at gonioscopic confirmation of least 2 quadrants of visible pigmented trabecular meshwork. Candidate risk factors comprised demographic, clinical, and ocular characteristics. Multivariable logistic regression analysis was used to identify independent risk factors associated with OAG.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0005"><ce:section-title id="cesectitle0006">Main Outcome Measures</ce:section-title>
+<ce:simple-para id="spara014"> Prevalence of and independent risk factors associated with OAG.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0006" role="results">
+<ce:section-title id="cesectitle0007">Results</ce:section-title>
+<ce:simple-para id="spara015"> Of the 4,310 participants with complete data, the prevalence of OAG was 4.8&#x0025; (207/4310), ranging from 2.8&#x0025; among those aged 50-59 years to 14.8&#x0025; among those 80 years and older. Of those with OAG, 68.5&#x0025; were previously undiagnosed or untreated, and 88.5&#x0025; had intraocular pressure (IOP) &#x2264; 21 mmHg. Independent risk factors for OAG, adjusting for sex, were older age (odds ratio &#x005B;confidence interval&#x005D;&#x202F;&#x003D;&#x202F;1.06 &#x005B;1.05,1.08&#x005D;, per year); higher IOP (1.12 &#x005B;1.08,1.17&#x005D;, per mmHg); longer axial length (AL; 1.36 &#x005B;1.25,1.47&#x005D;, per mm); family history of glaucoma (1.88 &#x005B;1.19,2.97&#x005D;); and diabetes mellitus (1.49 &#x005B;1.05,2.11&#x005D;).</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0007" role="conclusion">
+<ce:section-title id="cesectitle0008">Conclusions</ce:section-title>
+<ce:simple-para id="spara016"> The prevalence of OAG among Chinese Americans may be higher than that reported in U.S. populations of European descent and in Asia-based Chinese populations, but lower than that observed in Latinos in Los Angeles and individuals of African Caribbean descent. More than two thirds of OAG cases in our study were previously undiagnosed or untreated, with a majority presenting with IOP &#x2264;21 mmHg.These findings highlight the importance of identifying high-risk individuals based on age, IOP, axial length, family history and diabetes mellitus. Given the high prevalence of myopia, future research should evaluate whether interventions to prevent myopia could help reduce risk for developing OAG.</ce:simple-para>
+</ce:abstract-sec>
+</ce:abstract>
+<ce:keywords id="keys0001">
+<ce:section-title id="cesectitle0009">Key Words</ce:section-title>
+<ce:keyword id="key0001"><ce:text id="cetext0002">Open angle glaucoma</ce:text></ce:keyword>
+<ce:keyword id="key0002"><ce:text id="cetext0003">prevalence Chinese Americans</ce:text></ce:keyword>
+<ce:keyword id="key0003"><ce:text id="cetext0004">ocular epidemiology</ce:text></ce:keyword>
+</ce:keywords>
+<!--date Galley:wpv8e/sCSm9MPzJklp+1LZCuljt6+hY0-->
+</head>
+<body>
+<ce:sections>
+<ce:section id="sec0001" role="introduction">
+<ce:section-title id="cesectitle0010">Introduction</ce:section-title>
+<ce:para id="para0013">Open angle glaucoma (OAG) is a progressive optic neuropathy leading to irreversible vision loss and represents a leading cause of blindness worldwide.1 The mainstay of glaucoma treatment is intraocular pressure (IOP) reduction, which effectively slows progressive glaucomatous optic nerve damage and prevents blindness.2 Early in its course, OAG remains asymptomatic and can progress without patients detecting vision changes. Therefore, identifying effective approaches for early OAG detection is critical to prevent avoidable vision loss and blindness. Understanding the disease in specific populations and associated risk factors can guide targeted detection and management strategies.</ce:para>
+<ce:para id="para0014">Chinese Americans represent part of the fastest growing minority population in the United States over the past decade.<ce:cross-ref id="crf0012" refid="bib0003"><ce:sup>3</ce:sup></ce:cross-ref> Due to the high prevalence of myopia in Chinese Americans<ce:cross-ref id="crf0013" refid="bib0004"><ce:sup>4</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0014" refid="bib0005"><ce:sup>5</ce:sup></ce:cross-ref>, this population may experience a disproportionately higher burden of myopia-related diseases, including myopic macular degeneration, retinal detachment, cataract, and open angle glaucoma.<ce:cross-ref id="crf0015" refid="bib0006"><ce:sup>6</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0016" refid="bib0007"><ce:sup>7</ce:sup></ce:cross-ref> A recent meta-analysis of 14 population-based studies demonstrated a significant association between even mild myopia (&gt; -3 D) and OAG, with this association strengthening for moderate to high myopia (&#x2264; -3 D).<ce:cross-ref id="crf0017" refid="bib0006"><ce:sup>6</ce:sup></ce:cross-ref> Some studies have also demonstrated an association between progressive glaucomatous visual field loss and myopia.<ce:cross-refs id="crf0018" refid="bib0008 bib0009 bib0010"><ce:sup>8-10</ce:sup></ce:cross-refs> However, additional research is needed to understand the burden and characteristics of glaucoma in populations with high myopia prevalence such as Chinese Americans.</ce:para>
+<ce:para id="para0015">While several epidemiological studies have examined OAG in urban and rural Asia-based populations of Chinese descent<ce:cross-refs id="crf0020" refid="bib0011 bib0012 bib0013 bib0014"><ce:sup>11-14</ce:sup></ce:cross-refs>, no comparable data exist for persons of Chinese descent residing in the US. The Chinese American Eye Study (CHES) represents the first such investigation conducted in the US. We recently reported on the prevalence of primary angle closure suspects, primary angle closure, and primary angle closure glaucoma (8.1&#x0025;, 3.1&#x0025;, 1.1&#x0025;, respectively), in this population.<ce:cross-ref id="crf0022" refid="bib0015"><ce:sup>15</ce:sup></ce:cross-ref> The current study provides the opportunity to determine OAG prevalence and identify associated risk factors in this specific US population.</ce:para>
+</ce:section>
+<ce:section id="sec0002" role="methods">
+<ce:section-title id="cesectitle0011">Methods</ce:section-title>
+<ce:section id="sec0003">
+<ce:section-title id="cesectitle0012">Study Population and Data Collection</ce:section-title>
+<ce:para id="para0016">The study design of CHES has been detailed elsewhere.<ce:cross-ref id="crf0023" refid="bib0016"><ce:sup>16</ce:sup></ce:cross-ref> Briefly, self-identified Chinese Americans, aged 50 years and older and residing in 10 census tracts in Monterey Park, California, were invited to participate. Of the 5782 eligible Chinese American adults, 4582 (79.2&#x0025;) underwent interview and comprehensive eye examination from 2010-2013. The institutional review boards from the University of Southern California, Los Angeles, and the University of Illinois at Chicago approved the study protocol. All patients provided informed consent, and the study adhered to the tenets of the Declaration of Helsinki. <ce:cross-ref id="crf0024" refid="fig0001">Figure 1</ce:cross-ref><ce:float-anchor refid="fig0001"/><?Qry msg="Dummy citation is places here."?>
+</ce:para>
+<ce:para id="para0017">A detailed in-home interview obtained demographic characteristics and ocular and medical histories. A complete eye examination was performed at a local eye examination center by a comprehensive ophthalmologist. Visual acuity was measured using the Early Treatment Diabetic Retinopathy Study (ETDRS) charts and the Lea symbol charts for illiterate participants. Lensometry verified participant&#x2019;s eyeglass prescriptions. Automated refraction with a Humphrey Automatic Refractor (Carl Zeiss Meditec, Dublin, CA) was performed if the presenting visual acuity was not 20/20 in either eye. Subjective refraction was performed if participants achieved less than 20/20 vision on the automated refraction. IOP was measured twice using Goldman applanation tonometry (Haag-Streit, Mason, OH) and averaged for analyses. Visual field evaluation utilized the Swedish Interactive Threshold Algorithm (SITA) Standard C24-2 test (Carl Zeiss Humphrey Field Analyzer II 750). Slitlamp examination included manual gonioscopy, performed by a trained ophthalmologist masked to other exam findings, under standardized dark conditions (&lt;1 lux illumination) at a slit lamp (Model BM900, Haag-Streit, Bern, Switzerland) using a four-mirror gonioprism (Ocular Instruments, Bellevue, WA, USA). A 1&#x202F;&#x00D7;&#x202F;1mm slit beam was used to avoid having light fall on the pupil. Each quadrant of the angle was evaluated, and the presence of the pigmented trabecular meshwork and the presence and circumferential extent of peripheral anterior synechiae were recorded. In addition to documenting a dilated fundus exam, stereoscopic disc photography was performed using an optic nerve camera (Nidek 3DX, Nidek Inc., Fremont, CA). Three measurements were obtained using A-scan ultrasonography (4000B A-Scan/Pachymeter; DGH Technology, Exton, PA) for axial length (AL), anterior chamber depth (ACD), central corneal thickness (CCT), and lens thickness (LT). Vitreous chamber depth was calculated by subtracting CCT, ACD, and LT from AL.</ce:para>
+</ce:section>
+<ce:section id="sec0004">
+<ce:section-title id="cesectitle0013">Glaucoma Diagnosis</ce:section-title>
+<ce:para id="para0018">Glaucoma was defined based on characteristic optic nerve head and/or visual field changes, which was established previously for the Los Angeles Latino Eye Study (LALES)17, and consistent with other major epidemiological studies such as the Beaver Dam Eye Study and Melbourne Vision Impairment Study18,19. The definition largely overlaps with criteria established by the International Society of Geographical and Epidemiological Ophthalmology (ISGEO)20. Glaucoma was defined as: 1) characteristic or compatible glaucomatous visual field abnormality and/or evidence of characteristic or compatible glaucomatous optic disc damage in at least one eye after ophthalmologic exclusion of other possible causes; or 2) end-stage disease with visual acuity of &#x2264;20/200 and a cup-to-disc ratio of 1.0. Glaucoma cases were further categorized as &#x201C;definite&#x201D; or &#x201C;probable&#x201D; based on the degree of correlation between optic disc and visual field changes (Supplemental Table). Intraocular pressure was not considered in the definition of open-angle glaucoma.</ce:para>
+<ce:para id="para0019">Glaucoma diagnosis was initially determined for each eye by 2 fellowship-trained graders who reviewed participants&#x2019; clinical history, examination findings, stereoscopic optic disc photographs and visual fields. Cases in which at least one grader diagnosed glaucoma were adjudicated by a third glaucoma fellowship-trained grader. When both initial graders diagnosed glaucoma, but the adjudicating grader did not, the case was then adjudicated by a senior glaucoma fellowship-trained grader who provided the final diagnosis for a given eye.</ce:para>
+<ce:para id="para0020">Open-angle glaucoma required an open angle on manual gonioscopy, defined as visible pigmented trabecular meshwork in at least 2 quadrants (&#x2265;180&#x00B0;). Primary angle closure disease, including primary angle closure, primary angle closure suspect, primary angle closure glaucoma, and suspected primary angle closure glaucoma in the Chinese American Eye Study is discussed in detail elsewhere.<ce:cross-ref id="crf0025" refid="bib0015"><ce:sup>15</ce:sup></ce:cross-ref>
+</ce:para>
+<ce:para id="para0021">OAG diagnosis was assigned at the participant level for prevalence assessments, where OAG was present in 1 or both eyes. In 7 cases where angle closure glaucoma was diagnosed in one eye and OAG in the contralateral eye, the participant-level diagnosis was assigned as angle closure glaucoma rather than OAG due to six of seven eyes being pseudophakic in the OAG eye. For eye-level variables, data were obtained from the glaucomatous eye or the worse eye (based on mean deviation on VF testing) when both were glaucomatous, or from the worse eye when both were non-glaucomatous.</ce:para>
+</ce:section>
+<ce:section id="sec0005">
+<ce:section-title id="cesectitle0014">Statistical Analysis</ce:section-title>
+<ce:para id="para0022">Statistical analyses were conducted using SAS 9.4 (SAS Institute Inc, Cary, NC). Overall and sex-and age-stratified OAG prevalence estimates were calculated as the ratio of subjects with OAG to total study subjects in each category. 95&#x0025; Wald confidence intervals (CIs) were constructed for each prevalence estimate. Variables significantly associated with OAG were identified using chi-square tests (for binary variables) and t-tests (for continuous variables), with two-sided tests at an alpha of 0.05. Multivariable logistic regression identified independent risk factors associated with OAG. For comparison with other studies, we obtained age- and sex-specific prevalence data from published reports and performed direct age standardization using the age and sex distribution of the Asian population in the 2010 US Census.<ce:cross-ref id="crf0026" refid="bib0021"><ce:sup>21</ce:sup></ce:cross-ref> This standardization allows prevalence comparison between studies with different age and sex distributions.</ce:para>
+<ce:para id="para0023">Candidate risk factors for open angle glaucoma comprised demographic, clinical, and ocular characteristics. These included age, sex, diabetes mellitus type 2 (defined as self-reported history or hemoglobin A1c &#x2265; 6.5&#x0025;), history or presence of hypertension (defined as self-reported history or systolic blood pressure &gt; 140 mmHg, or diastolic blood pressure &gt;90 mmHg), systolic blood pressure, diastolic blood pressure, history of ever smoking, history of hypercholesterolemia, height, weight, body mass index category (underweight/normal&#x202F;&#x003D;&#x202F;less than 25 kg/m<ce:sup>2</ce:sup>, overweight&#x003D;25.0-29.9 kg/m<ce:sup>2</ce:sup>, obese&#x003D; 30 or higher kg/m<ce:sup>2</ce:sup>), family history of glaucoma (in any blood relative), cortical lens opacities, nuclear lens opacities, posterior subcapsular lens opacities, pseudophakia, IOP, spherical equivalent, axial length, central corneal thickness, anterior chamber depth, lens thickness, vertical cup/disc ratio, and visual field mean deviation. Variables univariately associated with OAG at the 0.15 significance level were entered into separate multivariable models designed to identify demographic, clinical or ocular risk factors, respectively, controlling for other variables in the same category. Variables retained in each of these models were then entered into a final multivariable logistic regression model in which variables having beta estimates significant at the &#x03B1;&#x202F;&#x003D;&#x202F;.05 level were retained to yield a final model. 95&#x0025; CIs were built around each beta using the Wald method. Due to prior literature on the interaction of AL and IOP in OAG,<ce:cross-ref id="crf0027" refid="bib0022"><ce:sup>22</ce:sup></ce:cross-ref> this interaction was investigated in our dataset but was not found to be significant.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0006" role="results">
+<ce:section-title id="cesectitle0015">Results</ce:section-title>
+<ce:para id="para0024">Among the 5782 eligible adults, 4582 (79.2&#x0025;) participated and completed an in-clinic eye examination. Compared to nonparticipants, participants were similar in age (mean age, 61.3<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="siN.gif"><?TeX $ \pm 8.9$?></mml:math> versus 69.1<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="siN.gif"><?TeX $ \pm 13.3$?></mml:math> years), less likely to be current smokers (0.6&#x0025; versus 12.1&#x0025;, P&lt;0.001), and more likely to have 12 or more years of education (67.4&#x0025; versus 57.9&#x0025;; P&lt;0.001). There were no differences in health insurance or vision coverage, income, percentage born outside the United States, or self-reported history of diabetes, high blood pressure, macular degeneration, or cataracts.</ce:para>
+<ce:para id="para0025">Among 4582 participants receiving complete in-clinic eye exams, 272 (5.9&#x0025;) participants had missing or inconclusive glaucoma grades related to: 1) missing gonioscopy grades (<ce:italic>N</ce:italic>&#x00A0;&#x003D; 57; 1.2&#x0025;); 2) missing visual fields and/or fundus photos (<ce:italic>N</ce:italic>&#x00A0;&#x003D; 129; 2.8&#x0025;); or 3) inability by both clinician graders to establish or exclude glaucoma (<ce:italic>N</ce:italic>&#x00A0;&#x003D; 86; 1.9&#x0025;).&#x00A0; Excluded participants&#x00A0;were significantly older, had a higher pattern standard deviation, and a more negative mean deviation. No significant differences existed in sex distribution, mean IOP, or CCT.</ce:para>
+<ce:para id="para0026">The final analysis included 4310 participants with complete data. The mean age of participants was 61.4 years (&#x00B1;8.9 years), and 36.7&#x0025; (1583) were males. Seventeen percent of participants had diabetes mellitus, and 41.9&#x0025; had hypertension. The mean AL was 23.9 mm (&#x00B1;1.4 mm). Seven percent of all eyes included in the study were pseudophakic. In phakic eyes, the mean spherical equivalent (SE) was -0.54 D (&#x00B1;2.98 D), with a SE of -0.53 D (&#x00B1; 3.01 D) for females and -0.58 D (&#x00B1; 2.92 D) for males. The mean central corneal thickness was 559 &#x00B1; 4 microns. The mean IOP was 15.3&#x00B1; 3.29 mm Hg. 12.3&#x0025; of the population completed grade school or less, 48.4&#x0025; completed some or all of high school, 33.1&#x0025; completed some or all college, and 6.2&#x0025; completed some or all post-graduate studies. Education level had no association with POAG status (p&#x003D;0.146) but had a strong positive association with AL (p&lt;0.001). Among those diagnosed with open angle glaucoma (n&#x003D;207), 91.3&#x0025; had at least 1 visual field and 99.5&#x0025; had a gradable disc photography (<ce:cross-ref id="crf0028" refid="tbl0001">Table 1</ce:cross-ref><ce:float-anchor refid="tbl0001"/>). Ninety five persons (2.2&#x0025;) had ocular hypertension (OHTN), defined as IOP greater than 21 mmHg, open angles &#x2265; 180&#x00B0;, and absence of glaucoma (as defined in the Los Angeles Latino Eye Study17) . The prevalence of OHTN was 2.1&#x0025; (43/2092) for ages 50-59; 3.1&#x0025; (38/1484) for ages 60-69; 2.0&#x0025; (10/504) for ages 70-79; and 1.7&#x0025; (4/230) for ages 80 and over. Females and males had similar OHTN (2.20&#x0025; vs. 2.21&#x0025;). If the definition of OHTN includes those with any type of angle (IOP greater than 21 mmHg and absence of glaucoma, with any gonioscopy grading), the overall prevalence was 3.2&#x0025;, ranging from 2.7&#x0025; among those in their 50s, 3.8&#x0025; among those in their 60s, 4.1&#x0025; among those in their 70s, to 2.2&#x0025; among those 80 and over, with no significant overall difference between females and males. If OHTN is defined as an IOP <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="siN.gif"><?TeX $ \ge $?></mml:math> 24mmHg, open angles &#x2265; 180&#x00B0;, and absence of glaucoma (per the Ocular Hypertension Treatment Study23), the prevalence was 0.5&#x0025; in females, 1.1&#x0025; in males, and 0.7&#x0025; overall. The overall prevalence of OAG was 4.8&#x0025; (207/4310) in Chinese Americans ages 50 years and older. Age-specific prevalence ranged from ranged from 2.8&#x0025; (58/2092) among those aged 50-59 years to 14.8&#x0025; (34/230) among those aged 80 years and older (<ce:cross-ref id="crf0029" refid="tbl0002">Table 2</ce:cross-ref><ce:float-anchor refid="tbl0002"/>). The overall prevalence of OAG was lower among women &#x005B;3.85&#x0025; (105/2727)&#x005D;, than among men &#x005B;6.4&#x0025; (102/1583), P&#x003D;.0002&#x005D;. The lower prevalence among females was seen mostly in younger participants. Among those aged 80 years and older, the prevalence among women and men was 16.7&#x0025; (20/120) and 12.7&#x0025; (14/110) respectively (P&#x003D;0.4593).</ce:para>
+<ce:para id="para0027">Participants with OAG (mean age, 66 years) were significantly older than those without OAG (61 years). Participants with OAG had a mean IOP of 17.0 mmHg with 13.5&#x0025; having an IOP &gt;21 mmHg. Compared to those without OAG, participants with OAG had significantly longer AL (24.58mm vs 23.83mm), more negative mean deviation (-8.16 vs. -2.35 dB), greater pattern standard deviation (6.44 vs. 2.81 dB) and larger cup-disc ratios (0.7 vs. 0.4) (<ce:cross-ref id="crf0030" refid="tbl0003">Table 3</ce:cross-ref><ce:float-anchor refid="tbl0003"/>).</ce:para>
+<ce:para id="para0028">A notable finding was that 68.5&#x0025; of CHES participants with OAG had previously undiagnosed disease. Of the 31.5&#x0025; with OAG and prior glaucoma history and available treatment information available, 94&#x0025; were treated with eye drops, 15&#x0025; had prior laser trabeculoplasty, 13&#x0025; had glaucoma surgery, 20&#x0025; had laser peripheral iridotomy, and 43&#x0025; had prior cataract surgery. Among the 122 participants who were previously undiagnosed and untreated, 88.5&#x0025; (108) had an untreated IOP of 21 mmHg or less. Mean IOP in this group was 16.8 &#x00B1; 3.24 mm Hg (range 10-24.7 mm Hg) (<ce:cross-ref id="crf0031" refid="tbl0004">Table 4</ce:cross-ref><ce:float-anchor refid="tbl0004"/>).</ce:para>
+<ce:para id="para0029">Independent risk factors for OAG in the final multivariable model, controlling for sex, included: older age (odds ratio &#x005B;95&#x0025; confidence interval&#x005D;&#x202F;&#x003D;&#x202F;1.06 &#x005B;1.05,1.08&#x005D;, per year); higher IOP (1.12 &#x005B;1.08,1.17&#x005D;, per mm Hg); longer axial length (1.36 &#x005B;1.25,1.47&#x005D;, per mm); family history of glaucoma (1.88 &#x005B;1.19,2.97&#x005D;); and diabetes mellitus (1.49 &#x005B;1.05,2.11&#x005D;) (<ce:cross-ref id="crf0032" refid="tbl0005">Table 5</ce:cross-ref><ce:float-anchor refid="tbl0005"/>).</ce:para>
+<ce:para id="para0030">Age standardized comparisons using 2010 US Census data for the Asian population demonstrated that the prevalence of OAG in Chinese Americans was higher than previously studied Asia-based Chinese populations<ce:cross-refs id="crf0033" refid="bib0011 bib0012 bib0013 bib0014"><ce:sup>11-14</ce:sup></ce:cross-refs>, non-Hispanic White populations, and Latinos in Proyecto VER (who had higher Native American genetic admixture than Los Angeles Latinos)).<ce:cross-ref id="crf0035" refid="bib0017"><ce:sup>17</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0036" refid="bib0018"><ce:sup>18</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0037" refid="bib0019"><ce:sup>19</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0038" refid="bib0024"><ce:sup>24</ce:sup></ce:cross-ref> The prevalence was comparable to Japanese population in the Kumejima Eye Study<ce:cross-ref id="crf0039" refid="bib0025"><ce:sup>25</ce:sup></ce:cross-ref> and Indians in the Chennai Glaucoma Study,<ce:cross-ref id="crf0040" refid="bib0026"><ce:sup>26</ce:sup></ce:cross-ref> lower than Los Angeles Latinos in LALES<ce:cross-ref id="crf0041" refid="bib0017"><ce:sup>17</ce:sup></ce:cross-ref> and African populations in Barbados Eye Study<ce:cross-ref id="crf0042" refid="bib0027"><ce:sup>27</ce:sup></ce:cross-ref> but similar to African Americans in the Baltimore Eye Survey.<ce:cross-ref id="crf0043" refid="bib0028"><ce:sup>28</ce:sup></ce:cross-ref>(<ce:cross-ref id="crf0044" refid="tbl0006">Table 6</ce:cross-ref><ce:float-anchor refid="tbl0006"/>).</ce:para>
+<ce:section id="sec0007">
+<ce:section-title id="cesectitle0016">Discussion</ce:section-title>
+<ce:para id="para0031">The overall prevalence of OAG among Chinese Americans was 4.8&#x0025;. Independent risk factors for OAG in Chinese Americans included longer AL, older age, higher IOP, family history of glaucoma, and diabetes mellitus.</ce:para>
+<ce:para id="para0032">When compared to other populations, Chinese Americans demonstrated higher OAG prevalence than previously studied Asia-based Chinese<ce:cross-refs id="crf0045" refid="bib0011 bib0012 bib0013 bib0014"><ce:sup>11-14</ce:sup></ce:cross-refs> and Caucasian populations.<ce:cross-ref id="crf0047" refid="bib0018"><ce:sup>18</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0048" refid="bib0019"><ce:sup>19</ce:sup></ce:cross-ref> (<ce:cross-ref id="crf0049" refid="tbl0006">Table 6</ce:cross-ref>). Several factors may explain this finding.</ce:para>
+<ce:para id="para0033">First, disease definitions vary across studies. Several studies used the International Society of Geographical and Epidemiological Ophthalmology (ISGEO)<ce:cross-ref id="crf0050" refid="bib0020"><ce:sup>20</ce:sup></ce:cross-ref> glaucoma criteria, which required specific cup/disc ratio thresholds (vertical cup/disc ratio in the &#x2265;97.5 percentile) with corresponding visual field defects; or a vertical cup/disc ratio of &#x2265; 99.5 percentile if visual field was not available or an intraocular pressure &#x2265; 99.5&#x0025; and vision of less than 3/60 if both vertical cup/disc ratio and visual field were not available. <ce:sup>20</ce:sup> Our definition based on conventions from the Beaver Dam Eye Study<ce:cross-ref id="crf0051" refid="bib0018"><ce:sup>18</ce:sup></ce:cross-ref> and the Melbourne Visual Impairment Project<ce:cross-ref id="crf0052" refid="bib0019"><ce:sup>19</ce:sup></ce:cross-ref>, allowed glaucoma diagnosis based on expert consensus of characteristic optic nerve changes with or without visual field abnormality.. A similar consensus approach has been used in the Ocular Hypertension Treatment Study and other clinical trials. This approach addresses inherent limitations of 24-2 visual field testing, which may fail to detect early glaucomatous optic nerve damage,<ce:cross-ref id="crf0053" refid="bib0029"><ce:sup>29</ce:sup></ce:cross-ref> as structural optic nerve damage can precede detectable visual field loss. In addition, a specific cup disc ratio (a criteria used in the ISGEO definition) may not define whether glaucomatous optic nerve damage has occurred or not. Even excluding &#x201C;pre-perimetric&#x201D; glaucoma cases, our prevalence remained 3.76&#x0025; - still higher than any other previously studied Chinese population from Asia.</ce:para>
+<ce:para id="para0034">Second, risk factor burden may differ across Chinese populations. We investigated whether these differences could be related to axial length differences. The risk of having OAG was 36&#x0025; higher for every 1mm longer axial length. Prior studies from China have reported longer AL among those living in urban areas and also among the younger populations.<ce:cross-ref id="crf0054" refid="bib0030"><ce:sup>30</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0055" refid="bib0031"><ce:sup>31</ce:sup></ce:cross-ref> In fact, there is now a well-established epidemic of myopia and high myopia, due to increases in near work and less outdoor time among children especially in East and Southeast Asia but also across several other populations worldwide.<ce:cross-ref id="crf0056" refid="bib0032"><ce:sup>32</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0057" refid="bib0033"><ce:sup>33</ce:sup></ce:cross-ref> The mean AL among CHES participants was 23.9 &#x00B1;1.4 mm, which was among the longest compared to most other studies of Chinese descent individuals. In comparison, mean AL was 22.8&#x00B1; 0.9 mm in the Handan Eye Study,<ce:cross-ref id="crf0058" refid="bib0014"><ce:sup>14</ce:sup></ce:cross-ref> 22.82 mm in the Yunnan Eye Study,<ce:cross-ref id="crf0059" refid="bib0034"><ce:sup>34</ce:sup></ce:cross-ref> 23.25&#x00B1;1.14 mm in the Beijing Eye Study,<ce:cross-ref id="crf0060" refid="bib0035"><ce:sup>35</ce:sup></ce:cross-ref> and 24.0 (&#x00B1;1.32) mm in the Singapore Chinese Eye Study.<ce:cross-ref id="crf0061" refid="bib0036"><ce:sup>36</ce:sup></ce:cross-ref> Axial elongation and associated thinning of the lamina cribrosa may compromise biomechanical support for the retinal ganglion cell axons<ce:cross-ref id="crf0062" refid="bib0037"><ce:sup>37</ce:sup></ce:cross-ref> and reduce structural support for the retinal ganglion cell microvasculature.<ce:cross-ref id="crf0063" refid="bib0038"><ce:sup>38</ce:sup></ce:cross-ref>
+</ce:para>
+<ce:para id="para0035">Third, environmental differences may alter risk for OAG across Chinese populations. One example is air pollution, which is poorly studied but suspected to increase glaucoma risk.<ce:cross-ref id="crf0064" refid="bib0039"><ce:sup>39</ce:sup></ce:cross-ref> Additional research is needed to investigate this and other potential environmental influences.</ce:para>
+<ce:para id="para0036">Age represented a major risk factor, with 79&#x0025; higher risk per decade of aging. The OAG prevalence in CHES in those aged 80 years and older was five times higher than prevalence in those aged 50-59 years. Age-related changes including increased scleral thinning and stiffness and reduced vascular health contribute to age-related glaucoma risk.<ce:cross-ref id="crf0065" refid="bib0037"><ce:sup>37</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0066" refid="bib0040"><ce:sup>40</ce:sup></ce:cross-ref> With rapid global population aging, glaucoma cases are projected to reach 111.8 million by 2040, disproportionately affecting Asia and Africa.<ce:cross-ref id="crf0067" refid="bib0001"><ce:sup>1</ce:sup></ce:cross-ref>
+</ce:para>
+<ce:para id="para0037">A prominent feature of our study was that 68.5&#x0025; were previously undiagnosed with 88.5&#x0025; having a screening IOP of 21 mmHg or less. This high proportion of undiagnosed glaucoma highlights the importance of improving screening strategies. The predominance of &#x201C;normotensive&#x201D; glaucoma emphasizes major limitations of IOP based screening. This finding is consistent with other Asia-based studies reporting high proportions of normal tension OAG: 92.3&#x0025; in Japan, 84.6&#x0025; in Singapore, 83.6&#x0025; in northern China, 82&#x0025; in south India, and 79.3&#x0025; in southern China.<ce:cross-ref id="crf0068" refid="bib0014"><ce:sup>14</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0069" refid="bib0026"><ce:sup>26</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-refs id="crf0070" refid="bib0041 bib0042 bib0043"><ce:sup>41-43</ce:sup></ce:cross-refs> This contrasts with non-Asian populations showing lower proportions: 31.7&#x0025; in U.S. Caucasians, 31.5&#x0025; in Iceland, and 30&#x0025; in Italy.<ce:cross-ref id="crf0072" refid="bib0018"><ce:sup>18</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-refs id="crf0073" refid="bib0044 bib0045 bib0046 bib0047 bib0048"><ce:sup>44-48</ce:sup></ce:cross-refs> Mounting evidence suggests that vascular health, oxidative stress, and endothelial dysfunction interact with IOP and contribute to glaucoma pathogenesis.<ce:cross-ref id="crf0075" refid="bib0041"><ce:sup>41</ce:sup></ce:cross-ref>
+</ce:para>
+<ce:para id="para0038">Despite most new cases having screening IOP &#x2264; 21 mmHg, higher IOP remained an independent risk factor. Each 1mm Hg higher IOP conferred 12&#x0025; higher risk. This matches findings from the Ocular Hypertension Treatment Study showing 10&#x0025; higher risk per mm Hg of IOP.<ce:cross-ref id="crf0076" refid="bib0023"><ce:sup>23</ce:sup></ce:cross-ref> Elevated IOP causes progressive retinal ganglion cell axons damage at the lamina cribrosa, reduces retinal blood flow and increase cytokine expression.<ce:cross-refs id="crf0077" refid="bib0049 bib0050 bib0051"><ce:sup>49-51</ce:sup></ce:cross-refs>
+</ce:para>
+<ce:para id="para0039">Interestingly, CCT was not an independent risk factor in our study, contrasting with other populations.<ce:cross-ref id="crf0079" refid="bib0054"><ce:sup>54</ce:sup></ce:cross-ref> Similarly, the Beijing Eye Study found no CCT-glaucoma association in a mainland Chinese population.<ce:cross-ref id="crf0080" refid="bib0013"><ce:sup>13</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0081" refid="bib0053"><ce:sup>53</ce:sup></ce:cross-ref> Wang et al previously demonstrated that CCT explained a significant glaucoma risk among Black and Hispanic individuals, but not among Asians in a large multiethnic population.<ce:cross-ref id="crf0082" refid="bib0054"><ce:sup>54</ce:sup></ce:cross-ref> They also reported that average CCT was 6 to 13 microns thicker among Chinese, Japanese, and Koreans compared to Southeast Asians, Filipinos, and Pacific Islanders. This highlights differences within Asian populations; therefore, our Chinese American findings may not generalize to other Asian groups.<ce:cross-ref id="crf0083" refid="bib0056"><ce:sup>56</ce:sup></ce:cross-ref>
+</ce:para>
+<ce:para id="para0040">Family history of glaucoma (in any blood relative) conferred 88&#x0025; higher OAG risk. Complex inheritance predominates in adult-onset OAG with many unknowns regarding glaucoma inheritance patterns.<ce:cross-ref id="crf0084" refid="bib0055"><ce:sup>55</ce:sup></ce:cross-ref> Recent genome-wide association studies have identified POAG loci, and other efforts continue refining specific genetic influences.<ce:cross-ref id="crf0085" refid="bib0055"><ce:sup>55</ce:sup></ce:cross-ref> Mars et al recently demonstrated that high polygenic risk scores and family history have equal but largely independent effects for glaucoma<ce:cross-ref id="crf0086" refid="bib0056"><ce:sup>56</ce:sup></ce:cross-ref>, suggesting substantial gaps remain in understanding genetic risk or environmental exposures common within families. Self-reported family history is subject to recall, selection, and survival bias and community under-diagnosis limitations.<ce:cross-ref id="crf0087" refid="bib0057"><ce:sup>57</ce:sup></ce:cross-ref> A recent Nepalese study demonstrated that screening of first degree relatives of POAG patients identified remarkable numbers of previously undiagnosed glaucoma cases.<ce:cross-ref id="crf0088" refid="bib0058"><ce:sup>58</ce:sup></ce:cross-ref> Future screening efforts targeting family members of OAG patients would likely represent a high yield approach for detecting undiagnosed glaucoma.</ce:para>
+<ce:para id="para0041">Diabetes mellitus conferred 49&#x0025; higher OAG risk in CHES participants. Prior studies and meta-analyses supported this association.<ce:cross-refs id="crf0089" refid="bib0059 bib0060 bib0061"><ce:sup>59-61</ce:sup></ce:cross-refs> Diabetes causes microvascular damage and vascular dysregulation of the retina and optic disc, increasing optic nerve susceptibility to glaucomatous damage.<ce:cross-ref id="crf0091" refid="bib0062"><ce:sup>62</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0092" refid="bib0063"><ce:sup>63</ce:sup></ce:cross-ref> The African American Eye Disease Study, which utilized optical coherence tomography angiography, recently demonstrated associations between diabetes duration and reduced peripapillary retinal vessel density among non-glaucomatous subjects.<ce:cross-ref id="crf0093" refid="bib0064"><ce:sup>64</ce:sup></ce:cross-ref> Optical coherence tomography (OCT) studies showed reduced retinal nerve fiber layer (RNFL) and ganglion cell layer thickness associated with diabetes duration in non-glaucoma subjects.<ce:cross-ref id="crf0094" refid="bib0065"><ce:sup>65</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0095" refid="bib0066"><ce:sup>66</ce:sup></ce:cross-ref> This supports the concept that diabetes compromises the peripapillary neurovascular bundle before clinically detectable glaucoma onset.</ce:para>
+<ce:para id="para0042">Our findings suggest several important clinical considerations. The high prevalence of undiagnosed normal tension glaucoma emphasizes the need for improved screening strategies beyond IOP measurement alone. Targeting high-risk populations including family members of glaucoma patients and individuals with high myopia may enhance screening efficiency. The strong association between longer axial length and glaucoma risk suggests that myopia prevention strategies in childhood warrant investigation as potential glaucoma prevention approaches.</ce:para>
+<ce:para id="para0043">Several limitations of our study merit consideration. One limitation is that our study population may not fully represent the broader Chinese American community, as participants were more frequently female, more educated and less likely to smoke than non-participants. Second the definition of glaucoma lacks a universal &#x201C;gold standard&#x201D; and varies between experts, representing a common source of debate.<ce:cross-ref id="crf0096" refid="bib0067"><ce:sup>67</ce:sup></ce:cross-ref> However, our consensus approach using a glaucoma expert panel may represent the most robust definition currently available. Third longitudinal data are needed to validate identified risk factors and their relative contributions to OAG development in Chinese Americans.</ce:para>
+<ce:para id="para0044">Chinese Americans demonstrate a high prevalence of OAG (4.8&#x0025;) approaching that of other racial minority populations in the United States. Independent risk factors including longer axial length, older age, higher IOP, family history of glaucoma and diabetes mellitus. The finding that over two thirds of OAG cases were previously undiagnosed, with approximately 88&#x0025; having &#x201C;normal&#x201D; IOP, highlights substantial opportunities for improved early disease detection and underscores the need for enhanced education among patients and eye care providers. Future research investigating alternative prevention strategies and targeted screening approaches for high-risk individuals may help reduce the burden of preventable vision loss from OAG in this population.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0008">
+<ce:section-title id="cesectitle0017">Financial Support</ce:section-title>
+<ce:para id="para0045">This work was supported by grants U10 EY017337 (RV), K23 EY027855 (GMR), and K23 EY029763 (BYX) from the National Eye Institute, National Institute of Health, Bethesda, Maryland.</ce:para>
+</ce:section>
+<ce:section id="sec0009">
+<ce:section-title id="cesectitle0018">Acknowledgements</ce:section-title>
+<ce:para id="para0046"><ce:bold>Funding/Support</ce:bold>. This work was supported by grants, U10 EY017337 (RV), K23 EY027855 (GMR), and K23 EY029763 (BYX) from the National Eye Institute, National Institutes of Health, Bethesda, Maryland.</ce:para>
+<ce:para id="para0047"><ce:bold>Financial Disclosures</ce:bold>. No conflicting relationship or disclosures exists for any author.</ce:para>
+<ce:para id="para0048"><ce:bold>Other Acknowledgments</ce:bold>. The authors wish to acknowledge the Chinese American Eye Study Group and the Chinese American Eye Study Data Monitoring and Oversight Committee as specified below.</ce:para>
+<ce:para id="para0049"><ce:italic>The Chinese American Eye Study Group</ce:italic>: Rohit Varma, MD, MPH (principal investigator); Roberta McKean-Cowdin, PhD (coinvestigator); Xuejuan Jiang, PhD; Stanley P. Azen, PhD (coinvestigator); Mina Torres, MS (project director); Chunyi Hsu, MPH (project manager); David Dinh, BA (research assistant); Ruzhang Jiang, MD (examiner); Jie Sun, MD, PhD, MPH (examiner); Dandan Wang, MD (examiner); YuPing Wang, Certified Ophthalmic Technician (examiner); Justine Wong, BA (clinical interviewer); Shuang Wu, MS (statistician); Bruce S. Burkemper, PhD, MPH (statistician), and Rucha Desai, MS (programmer). Battelle Survey Research Center, St Louis, Missouri: Lisa V. John, PhD (recruitment director); Michelle Cheng, MS (field supervisor).</ce:para>
+<ce:para id="para0050"><ce:italic>Chinese American Eye Study Data Monitoring and Oversight Committee</ce:italic>: Alfred Sommer, MD, MHS (chair); Anne Coleman, MD, PhD; Dennis Han, MD; Craig Hanis, PhD; Louise Wideroff, PhD; and Terri Young, MD.</ce:para>
+<ce:para id="para0051">All persons provided permission to be acknowledged.</ce:para>
+</ce:section>
+<ce:section id="sec0010">
+<ce:section-title id="cesectitle0019">Uncited References<?Qry msg="This section comprises references that occur in the reference list but not in the body of the text. Please position each reference in the text or, alternatively, delete it. Any reference not dealt with will be retained in this section. Thank you."?></ce:section-title>
+<ce:para id="para0053"><ce:cross-ref id="crf0097" refid="bib0002">2</ce:cross-ref>,<ce:cross-ref id="crf0098" refid="bib0052">52</ce:cross-ref>,<ce:cross-ref id="crf0099" refid="bib0068">68</ce:cross-ref>
+</ce:para>
+</ce:section>
+</ce:sections>
+<ce:conflict-of-interest id="coi0001">
+<ce:section-title id="cesectitle0020">Declaration of competing interest</ce:section-title>
+<ce:para id="para0054">No conflicting relationship exists for any author</ce:para>
+</ce:conflict-of-interest>
+<ce:appendices>
+<ce:section id="sec0011" view="compact-standard">
+<ce:section-title id="cesectitle9001">Supplementary materials</ce:section-title>
+<ce:para id="para0013a">Supplementary material associated with this article can be found, in the online version, at <ce:inter-ref id="interref0001" xlink:href="https://doi.org/10.1016/j.ajo.2025.08.010">doi:10.1016/j.ajo.2025.08.010</ce:inter-ref>.</ce:para>
+</ce:section>
+<ce:section id="sec0012" view="extended">
+<ce:label>Appendix</ce:label>
+<ce:section-title id="cesectitle9002">Supplementary materials</ce:section-title>
+<ce:para id="para0052a">
+<ce:display>
+<ce:e-component id="ecom0001">
+<ce:alt-text id="alt0008" role="short">Image, application 1</ce:alt-text>
+<ce:link id="celink0002" locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0002939425004118/mmc1"/>
+</ce:e-component>
+</ce:display>
+</ce:para>
+</ce:section>
+</ce:appendices>
+</body>
+<tail>
+<ce:bibliography id="cebibl1">
+<ce:section-title id="cesectitle0021">References</ce:section-title>
+<ce:bibliography-sec id="cebibsec1">
+<?att type="article"?><ce:bib-reference id="bib0001">
+<ce:label>1</ce:label>
+<sb:reference id="sbref0001">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.C.</ce:given-name>
+<ce:surname>Tham</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Y.</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Quigley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Aung</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C-Y.</ce:given-name>
+<ce:surname>Cheng</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>121</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2081</sb:first-page>
+<sb:last-page>2090</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0001">Tham YC, Li X, Wong TY, Quigley H, Aung T, Cheng C-Y. Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis. Ophthalmology 2014;121(11):2081-90.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0002">
+<ce:label>2</ce:label>
+<sb:reference id="sbref0002">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Heijl</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.C.</ce:given-name>
+<ce:surname>Leske</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bengtsson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Hyman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bengtsson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hussein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Early Manifest Glaucoma</ce:given-name>
+<ce:surname>Trial</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Reduction of intraocular pressure and glaucoma progression: results from the Early Manifest Glaucoma Trial</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>120</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1268</sb:first-page>
+<sb:last-page>1279</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0002">Heijl, A, Leske MC, Bengtsson B, Hyman L, Bengtsson B, Hussein M, Early Manifest Glaucoma Trial. Reduction of intraocular pressure and glaucoma progression: results from the Early Manifest Glaucoma Trial. Arch Ophthalmol 2002;120(1):1268-79.</ce:source-text>
+</ce:bib-reference>
+<?att type="book"?><ce:bib-reference id="bib0003">
+<ce:label>3</ce:label>
+<sb:reference id="sbref0003">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Hoeffel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Rastogi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>MO.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Shahid</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Census Briefs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:title>
+<sb:maintitle>The Asian population: 2010. 20. Pew Research Center. The Rise of Asian Americans. 2012</sb:maintitle>
+</sb:title>
+<sb:date>2010</sb:date>
+<sb:publisher>
+<sb:name>U.S. Census Bureau; 2012</sb:name>
+<sb:location>Washington, DC</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref id="interref0002" xlink:href="http://www.pewsocialtrends.org/files/2012/06/SDT-The-Rise-of-Asian-Americans-Full-Report.pdf">http://www.pewsocialtrends.org/files/2012/06/SDT-The-Rise-of-Asian-Americans-Full-Report.pdf</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0003">Hoeffel, E., Rastogi, S., Kim, MO., Shahid, H. 2010 Census Briefs. Washington, DC: U.S. Census Bureau; 2012. The Asian population: 2010. 20. Pew Research Center. The Rise of Asian Americans. 2012. http://www.pewsocialtrends.org/files/2012/06/SDT-The-Rise-of-Asian-Americans-Full-Report.pdf.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0004">
+<ce:label>4</ce:label>
+<sb:reference id="sbref0004">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Torres</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Mckean-Cowdin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Rong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hsu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence and risk factors for refractive error in adult Chinese Americans: The Chinese American Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>175</sb:volume-nr>
+</sb:series>
+<sb:date>2017</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>201</sb:first-page>
+<sb:last-page>212</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0004">Varma R, Torres M, Mckean-Cowdin R, Rong F, Hsu C, Jiang X. Prevalence and risk factors for refractive error in adult Chinese Americans: The Chinese American Eye Study. Am J Ophthalmol 2017:175:201-212.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0005">
+<ce:label>5</ce:label>
+<sb:reference id="sbref0005">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C-W</ce:given-name>
+<ce:surname>Pan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.E.K.</ce:given-name>
+<ce:surname>Klein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.F.</ce:given-name>
+<ce:surname>Cotch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Shrager</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Klein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Folsom</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Kronmal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Shea</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Burke</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S-M</ce:given-name>
+<ce:surname>Saw</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>TY.</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Racial variations in the prevalence of refractive errors in the United States: The Multi-Ethnic Study of Atherosclerosis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>155</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>2013</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1129</sb:first-page>
+<sb:last-page>1138</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0005">Pan C-W, Klein BEK, Cotch MF, Shrager S, Klein R, Folsom A, Kronmal R, Shea SJ, Burke GL, Saw S-M, Wong TY. Racial variations in the prevalence of refractive errors in the United States: The Multi-Ethnic Study of Atherosclerosis. Am J Ophthalmol 2013;155(6):1129-1138.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0006">
+<ce:label>6</ce:label>
+<sb:reference id="sbref0006">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.E.G.</ce:given-name>
+<ce:surname>Haarman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.A.</ce:given-name>
+<ce:surname>Enthoven</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.W.L.</ce:given-name>
+<ce:surname>Tiderman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Tedja</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.J.M.</ce:given-name>
+<ce:surname>Verhoeven</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>CW.</ce:given-name>
+<ce:surname>Klaver</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Complications of myopia: A review and meta-analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>61</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2020</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>49</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0006">Haarman AEG, Enthoven CA, Tiderman MWL, Tedja MS, Verhoeven VJM, Klaver CW. Complications of myopia: A review and meta-analysis. Invest Ophthalmol Vis Sci 2020;61(4):49.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0007">
+<ce:label>7</ce:label>
+<sb:reference id="sbref0007">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Choudhury</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Meuer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Klein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Torres</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>McKean-Cowdin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence and characteristics of myopic degeneration in an adult Chinese American population: The Chinese American Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>187</sb:volume-nr>
+</sb:series>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>34</sb:first-page>
+<sb:last-page>42</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0007">Choudhury F, Meuer SM, Klein R, Wang D, Torres M, Jiang X, McKean-Cowdin R, Varma R. Prevalence and characteristics of myopic degeneration in an adult Chinese American population: The Chinese American Eye Study. Am J Ophthalmol 2018;187:34-42.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0008">
+<ce:label>8</ce:label>
+<sb:reference id="sbref0008">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ohno-Matsui</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Shimada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Yasuzumi</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Long-term development of significant visual field defects in highly myopic eyes</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>152</sb:volume-nr>
+</sb:series>
+<sb:date>2011</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>256</sb:first-page>
+<sb:last-page>265</sb:last-page>
+</sb:pages>
+</sb:host>
+<sb:comment>e1</sb:comment>
+</sb:reference>
+<ce:source-text id="srctxt0008">Ohno-Matsui K, Shimada N, Yasuzumi K, et al. Long-term development of significant visual field defects in highly myopic eyes. Am J Ophthalmol. 2011;152:256&#x2013;265.e1.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0009">
+<ce:label>9</ce:label>
+<sb:reference id="sbref0009">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Perdicchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Iester</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Scuderi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Amodeo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.M.</ce:given-name>
+<ce:surname>Medori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>SM.</ce:given-name>
+<ce:surname>Recupero</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Visual field damage and progression in glaucomatous myopic eyes</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Eur J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>2007</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>534</sb:first-page>
+<sb:last-page>537</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0009">Perdicchi A, Iester M, Scuderi G, Amodeo S, Medori EM, Recupero SM. Visual field damage and progression in glaucomatous myopic eyes. Eur J Ophthalmol. 2007;17:534&#x2013;537.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0010">
+<ce:label>10</ce:label>
+<sb:reference id="sbref0010">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.A.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.F.</ce:given-name>
+<ce:surname>Shih</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.L.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.Y.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>TH.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Association between high myopia and progression of visual field loss in primary open-angle glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J Formos Med Assoc</sb:maintitle>
+</sb:title>
+<sb:volume-nr>107</sb:volume-nr>
+</sb:series>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>952</sb:first-page>
+<sb:last-page>957</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0010">Lee YA, Shih YF, Lin LL, Huang JY, Wang TH. Association between high myopia and progression of visual field loss in primary open-angle glaucoma. J Formos Med Assoc. 2008;107:952&#x2013;957.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0011">
+<ce:label>11</ce:label>
+<sb:reference id="sbref0011">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Baskaran</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Foo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C-Y</ce:given-name>
+<ce:surname>Cheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Narayanaswamy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y-F</ce:given-name>
+<ce:surname>Zheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S-M</ce:given-name>
+<ce:surname>Saw</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.J.</ce:given-name>
+<ce:surname>Foster</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T-Y</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Aung</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The prevalence and types of glaucoma in an urban Chinese population: The Singapore Chinese Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JAMA Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>133</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>2015</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>874</sb:first-page>
+<sb:last-page>880</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0011">Baskaran M, Foo RC, Cheng C-Y, Narayanaswamy AK, Zheng Y-F, Wu R, Saw S-M, Foster PJ, Wong T-Y, Aung T. The prevalence and types of glaucoma in an urban Chinese population: The Singapore Chinese Eye Study. JAMA Ophthalmol 2015;133(8):874-880.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0012">
+<ce:label>12</ce:label>
+<sb:reference id="sbref0012">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C-W.</ce:given-name>
+<ce:surname>Pan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C-H.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M-B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Cun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J-G.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yuan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Zhong</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence, types and awareness of glaucoma in a multi-ethnic population in rural China: the Yunnan Minority Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmic Physiol Opt</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:date>2016</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>664</sb:first-page>
+<sb:last-page>670</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0012">Pan C-W. Zhao C-H. Yu M-B. Cun Q, Chen Q, Shen W, Li J, Xu J-G. Yuan Y. Zhong H. Prevalence, types and awareness of glaucoma in a multi-ethnic population in rural China: the Yunnan Minority Eye Study. Ophthalmic Physiol Opt 2016, 36: 664-670.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0013">
+<ce:label>13</ce:label>
+<sb:reference id="sbref0013">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.X.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>JB.</ce:given-name>
+<ce:surname>Jonas</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of glaucoma in north China: The Beijing Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>150</sb:volume-nr>
+</sb:series>
+<sb:date>2010</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>917</sb:first-page>
+<sb:last-page>924</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0013">Wang YX, Xu L, Yang H, Jonas JB. Prevalence of glaucoma in north China: The Beijing Eye Study. Am J Ophthalmol 2010;150:917-924.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0014">
+<ce:label>14</ce:label>
+<sb:reference id="sbref0014">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.B.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Friedman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.P.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.X.</ce:given-name>
+<ce:surname>Guo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.S.</ce:given-name>
+<ce:surname>Tao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>NL.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of primary open angle glaucoma in a rural adult Chinese population: The Handan Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>52</sb:volume-nr>
+</sb:series>
+<sb:date>2011</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>8250</sb:first-page>
+<sb:last-page>8257</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0014">Liang YB, Friedman DS, Zhou Q, Yang X, Sun LP, Guo LX, Tao QS, Chang DS, Wang NL. Prevalence of primary open angle glaucoma in a rural adult Chinese population: The Handan Eye Study. Invest Ophthalmol Vis Sci 2011;52:8250-8257.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0015">
+<ce:label>15</ce:label>
+<sb:reference id="sbref0015">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>B.Y.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Richter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.S.</ce:given-name>
+<ce:surname>Burkemper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Torres</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>McKean-Cowdin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Dhablania</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence and risk factors of primary angle closure disease in an adult Chinese American population: The Chinese American Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>274</sb:volume-nr>
+</sb:series>
+<sb:date>2025</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>32</sb:first-page>
+<sb:last-page>41</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0015">Xu BY, Richter GM, Burkemper BS, Wang D, Jiang X, Torres M, McKean-Cowdin R, Dhablania N, Varma R. Prevalence and risk factors of primary angle closure disease in an adult Chinese American population: The Chinese American Eye Study. Am J Ophthalmol 2025;274:32-41.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0016">
+<ce:label>16</ce:label>
+<sb:reference id="sbref0016">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hsu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Torres</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.P.</ce:given-name>
+<ce:surname>Azen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Chinese American Eye Study Group. The Chinese American Eye Study: Design and methods</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmic Epidemiol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>2013</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>335</sb:first-page>
+<sb:last-page>347</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0016">Varma R, Hsu C, Wang D, Torres M, Azen SP; Chinese American Eye Study Group. The Chinese American Eye Study: Design and methods. Ophthalmic Epidemiol 2013;20(6):335-47.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0017">
+<ce:label>17</ce:label>
+<sb:reference id="sbref0017">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ying-Lai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.A.</ce:given-name>
+<ce:surname>Francis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>BB-T</ce:given-name>
+<ce:surname>Nguyen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Deneen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Wilson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>SP.</ce:given-name>
+<ce:surname>Azen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of open-angle glaucoma and ocular hypertension in Latinos</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>111</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1439</sb:first-page>
+<sb:last-page>1448</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0017">Varma R, Ying-Lai M, Francis BA, Nguyen BB-T, Deneen J, Wilson MR, Azen SP. Prevalence of open-angle glaucoma and ocular hypertension in Latinos. Ophthalmology 2004;111:1439-1448.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0018">
+<ce:label>18</ce:label>
+<sb:reference id="sbref0018">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>B.E.K.</ce:given-name>
+<ce:surname>Klein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Klein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Sonsel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Franke</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.B.</ce:given-name>
+<ce:surname>Cantor</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Martone</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>MJ.</ce:given-name>
+<ce:surname>Menage</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of glaucoma: The Beaver Dam Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>99</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1499</sb:first-page>
+<sb:last-page>1504</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0018">Klein BEK, Klein R, Sonsel WE, Franke T, Cantor LB, Martone J, Menage MJ. Prevalence of glaucoma: The Beaver Dam Eye Study. Ophthalmology 1992;99:1499-1504.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0019">
+<ce:label>19</ce:label>
+<sb:reference id="sbref0019">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Wensor</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.A.</ce:given-name>
+<ce:surname>McCarty</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.L.</ce:given-name>
+<ce:surname>Stanislavsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.M.</ce:given-name>
+<ce:surname>Livingston</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>HR.</ce:given-name>
+<ce:surname>Taylor</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The prevalence of glaucoma in the Melbourne Visual Impairment Project</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>105</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>733</sb:first-page>
+<sb:last-page>739</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0019">Wensor MD, McCarty CA, Stanislavsky YL, Livingston PM, Taylor HR. The prevalence of glaucoma in the Melbourne Visual Impairment Project. Ophthalmology 1998;105(4):733-9.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0020">
+<ce:label>20</ce:label>
+<sb:reference id="sbref0020">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>P.J.</ce:given-name>
+<ce:surname>Foster</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Buhrmann</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Quigley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>GJ.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The definition and classification of glaucoma in prevalence surveys</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Br J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>86</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>238</sb:first-page>
+<sb:last-page>242</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0020">Foster PJ, Buhrmann R, Quigley HA, Johnson GJ. The definition and classification of glaucoma in prevalence surveys. Br J Ophthalmol. 2002;86(2):238-242.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0021">
+<ce:label>21</ce:label>
+<sb:reference id="sbref0021">
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Population Estimates by Age, Sex, Race and Hispanic Origin. June 25, 2020</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>2019</sb:date>
+</sb:issue>
+</sb:host>
+<sb:comment>United States Census Bureau</sb:comment>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref id="interref0003" xlink:href="https://www.census.gov/newsroom/press-kits/2020/population-estimates-detailed.html">https://www.census.gov/newsroom/press-kits/2020/population-estimates-detailed.html</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0021">2019 Population Estimates by Age, Sex, Race and Hispanic Origin. June 25, 2020. United States Census Bureau. https://www.census.gov/newsroom/press-kits/2020/population-estimates-detailed.html</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0022">
+<ce:label>22</ce:label>
+<sb:reference id="sbref0022">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y-C</ce:given-name>
+<ce:surname>Tham</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Aung</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Fan</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Joint effects of intraocular pressure and myopia on risk of primary open-angle glaucoma: The Singapore epidemiology of eye diseases study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Sci Rep</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2016</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>7</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0022">Tham Y-C, Aung T, Fan Q, et al. Joint effects of intraocular pressure and myopia on risk of primary open-angle glaucoma: The Singapore epidemiology of eye diseases study. Sci Rep. 2016;6(1):1&#x2013;7.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0023">
+<ce:label>23</ce:label>
+<sb:reference id="sbref0023">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.O.</ce:given-name>
+<ce:surname>Gordon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Beiser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Brandt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.K.</ce:given-name>
+<ce:surname>Heuer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.J.</ce:given-name>
+<ce:surname>Higginbotham</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.A.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Keltner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Philip Miller</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.K.</ce:given-name>
+<ce:surname>Parrish</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Roy Wilson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Kass</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Ocular Hypertension Treatment Study: Baseline factors that predict the onset of primary open-angle glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>120</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>714</sb:first-page>
+<sb:last-page>720</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0023">Gordon MO, Beiser JA, Brandt JD, Heuer DK, Higginbotham EJ, Johnson CA, Keltner JL, Philip Miller J, Parrish RK, Roy Wilson M, Kass MA. The Ocular Hypertension Treatment Study: Baseline factors that predict the onset of primary open-angle glaucoma. Arch Ophthalmol. 2002;120(6):714-720.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0024">
+<ce:label>24</ce:label>
+<sb:reference id="sbref0024">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Quigley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>West</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Rodriguez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Munoz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Klein</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Snyder</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The prevalence of glaucoma in a population-based study of Hispanic subjects: Proyecto VER</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>119</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1819</sb:first-page>
+<sb:last-page>1826</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0024">Quigley HA, West SK, Rodriguez J, Munoz B, Klein R, Snyder R. The prevalence of glaucoma in a population-based study of Hispanic subjects: Proyecto VER. Arch Ophthalmol 2001;119:1819-1826.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0025">
+<ce:label>25</ce:label>
+<sb:reference id="sbref0025">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Yamamoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Sawaguchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Iwase</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yamamoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Abe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Tomita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Tomidokoro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Araie</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Primary open-angle glaucoma in a population associated with high prevalence of primary angle-closure glaucoma: The Kumejima Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>121</sb:volume-nr>
+</sb:series>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1558</sb:first-page>
+<sb:last-page>1565</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0025">Yamamoto S, Sawaguchi S, Iwase A, Yamamoto T, Abe H, Tomita G, Tomidokoro A, Araie M. Primary open-angle glaucoma in a population associated with high prevalence of primary angle-closure glaucoma: The Kumejima Study. Ophthalmology 2014;121:1558-1565.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0026">
+<ce:label>26</ce:label>
+<sb:reference id="sbref0026">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Vijaya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>George</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Baskaran</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of primary open-angle glaucoma in an urban south Indian population and comparison with a rural population. The Chennai glaucoma study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>115</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>848</sb:first-page>
+<sb:last-page>854</sb:last-page>
+</sb:pages>
+</sb:host>
+<sb:comment>e1</sb:comment>
+</sb:reference>
+<ce:source-text id="srctxt0026">Vijaya L, George R, Baskaran M, et al. Prevalence of primary open-angle glaucoma in an urban south Indian population and comparison with a rural population. The Chennai glaucoma study. Ophthalmology 2008;115(4):848-54.e1.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0027">
+<ce:label>27</ce:label>
+<sb:reference id="sbref0027">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.C.</ce:given-name>
+<ce:surname>Leske</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.M.S.</ce:given-name>
+<ce:surname>Connel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.P.</ce:given-name>
+<ce:surname>Schachat</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Hyman</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Barbados Eye Study: Prevalence of open angle glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>112</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>821</sb:first-page>
+<sb:last-page>829</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0027">Leske MC, Connel AMS, Schachat AP, Hyman L. The Barbados Eye Study: Prevalence of open angle glaucoma. Arch Ophthalmol 1994;112:821-829.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0028">
+<ce:label>28</ce:label>
+<sb:reference id="sbref0028">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Tielsch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Sommer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Katz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.</ce:given-name>
+<ce:surname>Royall</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Quigley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Javitt</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Racial variations in the prevalence of primary open-angle glaucoma: The Baltimore Eye Survey</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JAMA</sb:maintitle>
+</sb:title>
+<sb:volume-nr>266</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>369</sb:first-page>
+<sb:last-page>374</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0028">Tielsch JM, Sommer A, Katz J, Royall RM, Quigley HA, Javitt J. Racial variations in the prevalence of primary open-angle glaucoma: The Baltimore Eye Survey. JAMA 1991;266:369-374.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0029">
+<ce:label>29</ce:label>
+<sb:reference id="sbref0029">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.G.</ce:given-name>
+<ce:surname>De Moraes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.C.</ce:given-name>
+<ce:surname>Hood</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Thenappan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.A.</ce:given-name>
+<ce:surname>Girkin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.A.</ce:given-name>
+<ce:surname>Medeiros</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.N.</ce:given-name>
+<ce:surname>Weinreb</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.M.</ce:given-name>
+<ce:surname>Zangwill</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>JM.</ce:given-name>
+<ce:surname>Liebmann</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>24-2 visual fields miss central defects shown on 10-2 tests in glaucoma suspects, ocular hypertensives, and early glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>124</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2017</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1449</sb:first-page>
+<sb:last-page>1456</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0029">De Moraes CG, Hood DC, Thenappan A, Girkin CA, Medeiros FA, Weinreb RN, Zangwill LM, Liebmann JM. 24-2 visual fields miss central defects shown on 10-2 tests in glaucoma suspects, ocular hypertensives, and early glaucoma. Ophthalmology 2017;124(1):1449-1456.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0030">
+<ce:label>30</ce:label>
+<sb:reference id="sbref0030">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.B.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Vasudevan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Jhanji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Young</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Y.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Rong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>KJ.</ce:given-name>
+<ce:surname>Ciuffreda</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Generational difference of refractive error in the baseline study of the Beijing myopia progression study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Br J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>97</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>2013</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>765</sb:first-page>
+<sb:last-page>769</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0030">Liang YB, Lin Z, Vasudevan B, Jhanji V, Young A, Gao TY, Rong SS, Wang NL, Ciuffreda KJ. Generational difference of refractive error in the baseline study of the Beijing myopia progression study. Br J Ophthalmol 2013;97(6):765-769.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0031">
+<ce:label>31</ce:label>
+<sb:reference id="sbref0031">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Y.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Vasudevan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Jhanji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Ciuffreda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.Y.</ce:given-name>
+<ce:surname>Mao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>YB.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Generational difference of refractive error and risk factors in the Handan offspring myopia study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthal Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5711</sb:first-page>
+<sb:last-page>5717</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0031">Lin Z, Gao TY, Vasudevan B, Jhanji V, Ciuffreda KJ, Zhang P, Li L, Mao GY, Wang NL, Liang YB. Generational difference of refractive error and risk factors in the Handan offspring myopia study. Invest Ophthal Vis Sci 2014;55(9):5711-5717.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0032">
+<ce:label>32</ce:label>
+<sb:reference id="sbref0032">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>I.G.</ce:given-name>
+<ce:surname>Morgan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.N.</ce:given-name>
+<ce:surname>French</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.S.</ce:given-name>
+<ce:surname>Ashby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Guo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Ding</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>He</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>KA.</ce:given-name>
+<ce:surname>Rose</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The epidemics of myopia: Aetiology and prevention</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog Retin Eye Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>62</sb:volume-nr>
+</sb:series>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>134</sb:first-page>
+<sb:last-page>149</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0032">Morgan IG, French AN, Ashby RS, Guo X, Ding X, He M, Rose KA. The epidemics of myopia: Aetiology and prevention. Prog Retin Eye Res 2018;62:134-149.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0033">
+<ce:label>33</ce:label>
+<sb:reference id="sbref0033">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>K.M.</ce:given-name>
+<ce:surname>Williams</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Bertelsen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Cumberland</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Wolfram</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.J.</ce:given-name>
+<ce:surname>Verhoeven</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Anastasopoulos</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Increasing Prevalence of Myopia in Europe and the Impact of Education</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>122</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>2015 Jul</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1489</sb:first-page>
+<sb:last-page>1497</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0033">Williams KM, Bertelsen G, Cumberland P, Wolfram C, Verhoeven VJ, Anastasopoulos E, et al. Increasing Prevalence of Myopia in Europe and the Impact of Education. Ophthalmology. 2015 Jul;122(7):1489-97.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0034">
+<ce:label>34</ce:label>
+<sb:reference id="sbref0034">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Cun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W-Y</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y-J</ce:given-name>
+<ce:surname>Tao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z-Q</ce:given-name>
+<ce:surname>Niu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Zhong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Pan C-W.</ce:given-name>
+<ce:surname>Prevalence</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>ethnic differences and risk factors of primary angle-closure glaucoma in a multiethnic Chinese adult population: the Yunnan Minority Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Br J Ophthalmol</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>2021</sb:date>
+</sb:issue>
+</sb:host>
+<sb:comment>N</sb:comment>
+</sb:reference>
+<ce:source-text id="srctxt0034">Wang Y, Cun Q, Li J, Shen W, Yang W-Y, Tao Y-J, Niu Z-Q, Zhang Y, Zhong H, Pan C-W. Prevalence, ethnic differences and risk factors of primary angle-closure glaucoma in a multiethnic Chinese adult population: the Yunnan Minority Eye Study. Br J Ophthalmol 2021. N</ce:source-text>
+</ce:bib-reference>
+<?att type="others"?><ce:bib-reference id="bib0035">
+<ce:label>35</ce:label>
+<ce:other-ref id="sbref0035">
+<ce:textref>ahead of print.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0036">
+<ce:label>36</ce:label>
+<sb:reference id="sbref0036">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Gui</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.X.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Y.</ce:given-name>
+<ce:surname>Zheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Jonas</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Beijing Eye Study Group. Ocular axial length and its associations in Chinese: the Beijing Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>PLoS One</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:article-number>e43172</sb:article-number>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0036">Gui Y, Wang YX, Zheng ZY, Yang H, Xu L, Jonas JB, Beijing Eye Study Group. Ocular axial length and its associations in Chinese: the Beijing Eye Study. PLoS One 2012;7(8):e43172.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0037">
+<ce:label>37</ce:label>
+<sb:reference id="sbref0037">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.C.</ce:given-name>
+<ce:surname>Sng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L-L</ce:given-name>
+<ce:surname>Foo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C-Y</ce:given-name>
+<ce:surname>Cheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Allen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>He</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Krishnaswamy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Nongpiur</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Friedman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Y.</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Aung</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Determinants of anterior chamber depth: The Singapore Chinese Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>119</sb:volume-nr>
+</sb:series>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1143</sb:first-page>
+<sb:last-page>1150</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0037">Sng CC, Foo L-L, Cheng, C-Y, Allen JC, He M, Krishnaswamy G, Nongpiur ME, Friedman DS, Wong TY, Aung T. Determinants of anterior chamber depth: The Singapore Chinese Eye Study. Ophthalmology 2012;119:1143-1150.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0038">
+<ce:label>38</ce:label>
+<sb:reference id="sbref0038">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Boote</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.A.</ce:given-name>
+<ce:surname>Sigal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Grytz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hua</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.D.</ce:given-name>
+<ce:surname>Nguyen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>MJA.</ce:given-name>
+<ce:surname>Girard</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Scleral structure and biomechanics</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Progress in Retinal and Eye Research</sb:maintitle>
+</sb:title>
+<sb:volume-nr>74</sb:volume-nr>
+</sb:series>
+<sb:date>2020</sb:date>
+</sb:issue>
+<sb:article-number>10073</sb:article-number>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0038">Boote C, Sigal IA, Grytz R, Hua Y, Nguyen TD, Girard MJA. Scleral structure and biomechanics. Progress in Retinal and Eye Research 2020;74: 10073.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0039">
+<ce:label>39</ce:label>
+<sb:reference id="sbref0039">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Juliano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Burkemper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Nelson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>LeTran</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Chu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Wang</ce:given-name>
+<ce:surname>RK</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>GM.</ce:given-name>
+<ce:surname>Richter</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Longer axial length potentiates relationship of intraocular pressure and peripapillary vessel density in glaucoma patients</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>62</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2021</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>37</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0039">Juliano J, Burkemper B, Lee J, Nelson A, LeTran V, Chu Z, Zhou G, Jiang X, Wang RK, Varma R, Richter GM. Longer axial length potentiates relationship of intraocular pressure and peripapillary vessel density in glaucoma patients. Invest Ophthalmol Vis Sci. 2021;62(9):37.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0040">
+<ce:label>40</ce:label>
+<sb:reference id="sbref0040">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Grant</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Leung</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>EE.</ce:given-name>
+<ce:surname>Freeman</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Ambient air pollution and age-related eye disease: a systematic review and meta-analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>63</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2022</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>17</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0040">Grant A, Leung G, Freeman EE. Ambient air pollution and age-related eye disease: a systematic review and meta-analysis. Invest Ophthalmol Vis Sci. 2022;63(9):17</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0041">
+<ce:label>41</ce:label>
+<sb:reference id="sbref0041">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Grzybowski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Och</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Kanclerz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Leffler</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Gustavo De Moraes C. Primary open angle glaucoma and vascular risk factors: A review of population based studies from 1990 to 2019</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J Clin Med</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>2020</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>761</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0041">Grzybowski A, Och M, Kanclerz P, Leffler C, Gustavo De Moraes C. Primary open angle glaucoma and vascular risk factors: A review of population based studies from 1990 to 2019. J Clin Med 2020;9:761.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0042">
+<ce:label>42</ce:label>
+<sb:reference id="sbref0042">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>D.Y.L.</ce:given-name>
+<ce:surname>Leung</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>CC.</ce:given-name>
+<ce:surname>Tham</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Normal-tension glaucoma: current concepts and approaches- a review</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Clinical &amp; Experimental Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:date>2022</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>247</sb:first-page>
+<sb:last-page>259</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0042">Leung DYL, Tham CC. Normal-tension glaucoma: current concepts and approaches- a review. Clinical &amp; Experimental Ophthalmology. 2022;50:247-259.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0043">
+<ce:label>43</ce:label>
+<sb:reference id="sbref0043">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.Y.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Y.</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.J.</ce:given-name>
+<ce:surname>Foster</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The prevalence and types of glaucoma in Malay people: the Singapore Malay eye study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>48</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3846</sb:first-page>
+<sb:last-page>3851</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0043">Shen SY, Wong TY, Foster PJ, et al. The prevalence and types of glaucoma in Malay people: the Singapore Malay eye study. Invest Ophthalmol Vis Sci. 2008;48(9):3846-3851.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0044">
+<ce:label>44</ce:label>
+<sb:reference id="sbref0044">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Intraocular pressure, central corneal thickness, and glaucoma in Chinese adults: the Liwan eye study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>152</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>2011</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>454</sb:first-page>
+<sb:last-page>462</sb:last-page>
+</sb:pages>
+</sb:host>
+<sb:comment>e1</sb:comment>
+</sb:reference>
+<ce:source-text id="srctxt0044">Wang D, Huang W, Li Y, et al. Intraocular pressure, central corneal thickness, and glaucoma in Chinese adults: the Liwan eye study. Am J Ophthalmol 2011;152(3):454-62 e1.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0045">
+<ce:label>45</ce:label>
+<sb:reference id="sbref0045">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.P.</ce:given-name>
+<ce:surname>Rotchford</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>GJ.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Glaucoma in Zulus: a population based cross-sectional survey in a rural district in South Africa</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>120</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>471</sb:first-page>
+<sb:last-page>478</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0045">Rotchford AP, Johnson GJ. Glaucoma in Zulus: a population based cross-sectional survey in a rural district in South Africa. Arch Ophthalmol. 2002;120(4):471-478.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0046">
+<ce:label>46</ce:label>
+<sb:reference id="sbref0046">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Pakravan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Yazdani</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Javadi</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>A population-based survey of the prevalence and types of glaucoma in Central Iran: the Yazd eye study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>120</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>2013</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1977</sb:first-page>
+<sb:last-page>1984</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0046">Pakravan M, Yazdani S, Javadi MA, et al. A population-based survey of the prevalence and types of glaucoma in Central Iran: the Yazd eye study. Ophthalmology. 2013;120(10):1977-1984.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0047">
+<ce:label>47</ce:label>
+<sb:reference id="sbref0047">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Dielemans</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Vingerling</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Wolfs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Hofman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Grobbee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>PT.</ce:given-name>
+<ce:surname>Jong</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The prevalence of primary open-angle glaucoma in a population-based study in The Netherlands</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>The Rotterdam Study Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>101</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1851</sb:first-page>
+<sb:last-page>1855</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0047">Dielemans I, Vingerling JR, Wolfs RC, Hofman A, Grobbee DE, Jong PT. The prevalence of primary open-angle glaucoma in a population-based study in The Netherlands. The Rotterdam Study Ophthalmology. 1994;101(11):1851-1855.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0048">
+<ce:label>48</ce:label>
+<sb:reference id="sbref0048">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Jonasson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.F.</ce:given-name>
+<ce:surname>Damji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Arnarsson</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of open-angle glaucoma in Iceland: Reykjavik eye study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Eye (Lond)</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>747</sb:first-page>
+<sb:last-page>753</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0048">Jonasson F, Damji KF, Arnarsson A, et al. Prevalence of open-angle glaucoma in Iceland: Reykjavik eye study. Eye (Lond). 2003;17(6):747-753.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0049">
+<ce:label>49</ce:label>
+<sb:reference id="sbref0049">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Bonomi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Marchini</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Marraffa</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Prevalence of glaucoma and intraocular pressure distribution in a defined population</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>The Egna-Neumarkt Study Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>105</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>209</sb:first-page>
+<sb:last-page>215</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0049">Bonomi L, Marchini G, Marraffa M, et al. Prevalence of glaucoma and intraocular pressure distribution in a defined population. The Egna-Neumarkt Study Ophthalmology. 1998;105(2): 209-215).</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0050">
+<ce:label>50</ce:label>
+<sb:reference id="sbref0050">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Morrison</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.C.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Cepurna</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Jia</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Understanding mechanisms of pressure-induced optic nerve damage</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog Retin Eye Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>217</sb:first-page>
+<sb:last-page>240</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0050">Morrison JC, Johnson EC, Cepurna W, Jia L. Understanding mechanisms of pressure-induced optic nerve damage. Prog Retin Eye Res 2005;24:217&#x2013;40.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0051">
+<ce:label>51</ce:label>
+<sb:reference id="sbref0051">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.F.</ce:given-name>
+<ce:surname>Burgoyne</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Crawford Downs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Bellezza</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.K.</ce:given-name>
+<ce:surname>Francis Suh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.T.</ce:given-name>
+<ce:surname>Hart</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The optic nerve head as a biomechanical structure: A new paradigm for understanding the role of IOP related stress and strain in the pathophysiology of glaucomatous optic nerve head damage</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog Retin Eye Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>39</sb:first-page>
+<sb:last-page>73</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0051">Burgoyne CF, Crawford Downs J, Bellezza AJ, Francis Suh JK, Hart RT. The optic nerve head as a biomechanical structure: A new paradigm for understanding the role of IOP related stress and strain in the pathophysiology of glaucomatous optic nerve head damage. Prog Retin Eye Res. 2005;24(1):39&#x2013;73.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0052">
+<ce:label>52</ce:label>
+<sb:reference id="sbref0052">
+<sb:contribution>
+<sb:title>
+<sb:maintitle>Collaborative Normal Tension Glaucoma Study Group. The effectiveness of intraocular pressure reduction in the treatment of normaltension glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>126</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>498</sb:first-page>
+<sb:last-page>505</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0052">Collaborative Normal Tension Glaucoma Study Group. The effectiveness of intraocular pressure reduction in the treatment of normaltension glaucoma. Am J Ophthalmol. 1998;126:498&#x2013;505.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0053">
+<ce:label>53</ce:label>
+<sb:reference id="sbref0053">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.C.A.</ce:given-name>
+<ce:surname>Sng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Barton</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Central corneal thickness in glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Curr Opin Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>2017</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>120</sb:first-page>
+<sb:last-page>126</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0053">Sng CCA, Ang M, Barton K. Central corneal thickness in glaucoma. Curr Opin Ophthalmol 2017;28:120-126.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0054">
+<ce:label>54</ce:label>
+<sb:reference id="sbref0054">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Toh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.H.</ce:given-name>
+<ce:surname>Liew</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>MacKinnon</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Central corneal thickness is highly heritable: the twin eye studies</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3718</sb:first-page>
+<sb:last-page>3722</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0054">Toh T, Liew SH, MacKinnon JR, et al. Central corneal thickness is highly heritable: the twin eye studies. Invest Ophthalmol Vis Sci 2005; 46:3718&#x2013;3722.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0055">
+<ce:label>55</ce:label>
+<sb:reference id="sbref0055">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Melles</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>SC.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The impact of central corneal thickness on the risk for glaucoma in a large multiethnic population</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J Glaucoma</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>606</sb:first-page>
+<sb:last-page>612</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0055">Wang SY, Melles R, Lin SC. The impact of central corneal thickness on the risk for glaucoma in a large multiethnic population. J Glaucoma 2014;23(9):606-612.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0056">
+<ce:label>56</ce:label>
+<sb:reference id="sbref0056">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Wiggs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>LR.</ce:given-name>
+<ce:surname>Pasquale</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Genetics of glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Hum Mol Genet</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>R1</sb:issue-nr>
+<sb:date>2017</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>R21</sb:first-page>
+<sb:last-page>R27</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0056">Wiggs JL, Pasquale LR. Genetics of glaucoma. Hum Mol Genet 2017;26(R1):R21-R27.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0057">
+<ce:label>57</ce:label>
+<sb:reference id="sbref0057">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Mars</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.V.</ce:given-name>
+<ce:surname>Lindbohm</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Parolo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Widen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Kaprio</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Palotie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ripatti S</ce:given-name>
+<ce:surname>FinnGen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Systematic comparison of family history and polygenic risk across 24 common diseases</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Hum Genetics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>109</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>12</sb:issue-nr>
+<sb:date>2022</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2152</sb:first-page>
+<sb:last-page>2162</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0057">Mars N, Lindbohm JV, Parolo PB, Widen E, Kaprio J, Palotie A, FinnGen, Ripatti S. Systematic comparison of family history and polygenic risk across 24 common diseases. Am J Hum Genetics 2022;109(12):2152-2162.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0058">
+<ce:label>58</ce:label>
+<sb:reference id="sbref0058">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Mitchell</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Rochtchina</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>JJ.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Bias in self-reported family history and relationship to glaucoma: The Blue Mountains Eye Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmic Epidemiol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>333</sb:first-page>
+<sb:last-page>345</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0058">Mitchell P, Rochtchina E, Lee AJ, Wang JJ. Bias in self-reported family history and relationship to glaucoma: The Blue Mountains Eye Study. Ophthalmic Epidemiol 2002;9(5):333-345.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0059">
+<ce:label>59</ce:label>
+<sb:reference id="sbref0059">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Paudyal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Yadav</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Parajuli</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Singh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Josh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Thapa</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Screening of Accompanying First Degree Relatives of Patients with Primary Open Angle Glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nepal J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>27</sb:issue-nr>
+<sb:date>2022</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4</sb:first-page>
+<sb:last-page>9</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0059">Paudyal I, Yadav R, Parajuli A, Singh K, Josh P, Thapa S. Screening of Accompanying First Degree Relatives of Patients with Primary Open Angle Glaucoma. Nepal J Ophthalmol 2022;14(27):4-9.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0060">
+<ce:label>60</ce:label>
+<sb:reference id="sbref0060">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Diabetes mellitus as a risk factor for open-angle glaucoma: a systematic review and meta-analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>PLoS One</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:article-number>e102972</sb:article-number>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0060">Zhou M, Wang W, Huang W, Zhang X. Diabetes mellitus as a risk factor for open-angle glaucoma: a systematic review and meta-analysis. PLoS One. 2014;9(8):e102972.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0061">
+<ce:label>61</ce:label>
+<sb:reference id="sbref0061">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Friedman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Guallar</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Diabetes, fasting glucose, and the risk of glaucoma: a meta-analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>122</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2015</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>72</sb:first-page>
+<sb:last-page>78</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0061">Zhao D, Cho J, Kim MH, Friedman DS, Guallar E. Diabetes, fasting glucose, and the risk of glaucoma: a meta-analysis: Ophthalmology 2015;122(1):72-78.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0062">
+<ce:label>62</ce:label>
+<sb:reference id="sbref0062">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S-W</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G-W.</ce:given-name>
+<ce:surname>Kang</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Diabetes mellitus as a risk factor for glaucoma outcome in Korea</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>95</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>2017</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>e662</sb:first-page>
+<sb:last-page>e664</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0062">Kim S-W, Kang G-W. Diabetes mellitus as a risk factor for glaucoma outcome in Korea. Acta Ophthalmol 2017;95(7):e662-e664.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0063">
+<ce:label>63</ce:label>
+<sb:reference id="sbref0063">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>SS.</ce:given-name>
+<ce:surname>Hayreh</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Pathogenesis of optic nerve damage and visual field deficits in glaucoma</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Doc Ophthalmol Proc Ser</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>89</sb:first-page>
+<sb:last-page>110</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0063">Hayreh SS. Pathogenesis of optic nerve damage and visual field deficits in glaucoma. Doc Ophthalmol Proc Ser 1980;22: 89&#x2013;110.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0064">
+<ce:label>64</ce:label>
+<sb:reference id="sbref0064">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nakamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kanamori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Negi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Diabetes mellitus as a risk factor for glaucomatous optic neuropathy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ophthalmologica</sb:maintitle>
+</sb:title>
+<sb:volume-nr>219</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>10</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0064">Nakamura M, Kanamori A, Negi A. Diabetes mellitus as a risk factor for glaucomatous optic neuropathy. Ophthalmologica 2005;219:1&#x2013;10.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0065">
+<ce:label>65</ce:label>
+<sb:reference id="sbref0065">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Nelson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>LeTran</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Vu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Burkemper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Chu</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Systemic determinants of peripapillary vessel density in healthy African Americans: the African American Eye Disease Study</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>207</sb:volume-nr>
+</sb:series>
+<sb:date>2019</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>240</sb:first-page>
+<sb:last-page>247</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0065">Chang R, Nelson AJ, LeTran V, Vu B, Burkemper B, Chu Z et al. Systemic determinants of peripapillary vessel density in healthy African Americans: the African American Eye Disease Study. Am J Ophthalmol 2019;207:240-247.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0066">
+<ce:label>66</ce:label>
+<sb:reference id="sbref0066">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>van Dijk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.D.</ce:given-name>
+<ce:surname>Verbraak</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.H.</ce:given-name>
+<ce:surname>Kok</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Decreased retinal ganglion cell layer thickness in patients with type 1 diabetes</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>51</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>2010</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3660</sb:first-page>
+<sb:last-page>3665</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0066">van Dijk HW, Verbraak FD, Kok PH, et al. Decreased retinal ganglion cell layer thickness in patients with type 1 diabetes. Invest Ophthalmol Vis Sci 2010;51(7):3660&#x2013;5.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0067">
+<ce:label>67</ce:label>
+<sb:reference id="sbref0067">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Shi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Guo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Alterations in retinal nerve fiber layer thickness in early stages of diabetic retinopathy and potential risk factors</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Curr Eye Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>244</sb:first-page>
+<sb:last-page>253</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0067">Shi R, Guo Z, Wang F, Li R, Zhao L, Lin R. Alterations in retinal nerve fiber layer thickness in early stages of diabetic retinopathy and potential risk factors. Curr Eye Res 2018;43(2):244&#x2013;53.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0068">
+<ce:label>68</ce:label>
+<sb:reference id="sbref0068">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>HA.</ce:given-name>
+<ce:surname>Quigley</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>21<ce:sup>st</ce:sup> century glaucoma care. Eye (Lond)</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2019</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>254</sb:first-page>
+<sb:last-page>260</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0068">Quigley HA. 21st century glaucoma care. Eye (Lond) 2019;33(2):254-260.</ce:source-text>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>

@@ -1,0 +1,129 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder155.dtd">
+<orders>
+   <order>
+      <time day="06" month="08" yr="2025" hr="00" min="20" sec="04"/>
+      <po-number>T11736211</po-number>
+      <due-date>
+         <time day="08" month="08" yr="2025" hr="00" min="20" sec="04"/>
+      </due-date>
+      <prod-site>ESCH - Elsevier India Pvt Ltd.</prod-site>
+      <opco>OCUS - Operating Company Elsevier Inc.</opco>
+      <stage step="S5"/>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>APTAR</exec-code>
+         <exec-name>Aptara Corp.</exec-name>
+         <aff>
+            <address>A 37, Sector 60</address>
+            <zipcode zipcode-pos="AFTERCTY">201301</zipcode>
+            <cty>Noida</cty>
+            <cny>India</cny>
+            <tel>911207182424</tel>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>TSPSD</exec-code>
+         <exec-name>Sheridan Digital</exec-name>
+         <aff>
+            <address>450 Fame Avenue</address>
+            <zipcode zipcode-pos="AFTERCTY">17331</zipcode>
+            <cty>Hanover, PA</cty>
+            <cny>United States</cny>
+         </aff>
+      </executor>
+      <item-info>
+         <version-no>S5.1</version-no>
+         <language>English</language>
+         <crossmark>no</crossmark>
+         <jid>YSROE</jid>
+         <issn>0037-198X</issn>
+         <aid>50950</aid>
+         <pii>S0037-198X(25)00069-0</pii>
+         <doi>10.1053/j.ro.2025.08.001</doi>
+         <item-group>IG000104</item-group>
+         <item-group-description>SI: Interstitial Lung Disease</item-group-description>
+         <item-title>Hypersensitivity Pneumonitis: Imaging Findings and Patterns</item-title>
+         <eo-item-nr>YSROE-D-25-00015</eo-item-nr>
+         <e-submission-item-nr>YSROE_YSROE-D-25-00015</e-submission-item-nr>
+         <received-date>
+            <date day="28" month="06" yr="2025"/>
+         </received-date>
+         <accept-date>
+            <date day="04" month="08" yr="2025"/>
+         </accept-date>
+         <cpc>N</cpc>
+         <in-scope-cpc type="N"/>
+         <prd-type-as-sent>FTP</prd-type-as-sent>
+         <milestone type="COMPLETE"/>
+         <online-version type="print"/>
+         <pit>FLA</pit>
+         <no-mns-pages>20</no-mns-pages>
+         <no-phys-figs>8</no-phys-figs>
+         <no-bw-figs>8</no-bw-figs>
+         <no-web-colour-figs>0</no-web-colour-figs>
+         <no-colour-figs>0</no-colour-figs>
+         <no-e-components>0</no-e-components>
+         <physical-figures>
+            <figure>
+               <figure-nr>1</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>2</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>3</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>4</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>5</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>6</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>7</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>8</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+         </physical-figures>
+         <righthand-start>N</righthand-start>
+         <copyright-status>001</copyright-status>
+         <first-author>
+            <degree>Dr.</degree>
+            <fnm>Taylor</fnm>
+            <snm>Sellers</snm>
+         </first-author>
+         <corr-author>
+            <degree>Dr</degree>
+            <fnm>Taylor</fnm>
+            <snm>Sellers</snm>
+            <aff>
+               <inst-contd>University of Wisconsin-Madison</inst-contd>
+               <cny>United States</cny>
+               <ead>tsellers@uwhealth.org</ead>
+            </aff>
+         </corr-author>
+         <revised-proof>N</revised-proof>
+         <offprint-payment payment="no"/>
+      </item-info>
+   </order>
+</orders>

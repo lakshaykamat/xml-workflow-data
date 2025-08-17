@@ -1,0 +1,14 @@
+\gdef\ElsCopyright{\textcopyright\ 2025 Published by Elsevier Inc.}
+% <xmp:copyright>&#169; 2025 Published by Elsevier Inc.</xmp:copyright>
+% <xmp:publisher>Elsevier Inc.</xmp:publisher>
+% <ce:copyright type="unknown" year="2025"/>
+\gdef\pts@crossmark{no}
+\gdef\pts@pii{S1050-1738(25)00105-7}
+\gdef\pts@doi{10.1016/j.tcm.2025.08.001}
+\gdef\pts@issn{1050-1738}
+\gdef\pts@stage{PROOF}
+\gdef\pts@jid{TCM}
+\gdef\pts@aid{7254}
+\gdef\pts@pit{edi}
+\gdef\pts@jmmail{m.duraibabu@elsevier.com}
+\gdef\pts@eoitemnr{TCM-D-25-00237}

@@ -1,0 +1,4 @@
+Words = 4417
+Pages = 17
+FigCount = 8
+TblCount = 4

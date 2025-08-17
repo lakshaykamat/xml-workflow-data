@@ -1,0 +1,22 @@
+\gdef\ElsCopyright{\textcopyright\ 2025 Published by Elsevier B.V.}
+% <xmp:copyright>&#169; 2025 Published by Elsevier B.V.</xmp:copyright>
+% <xmp:publisher>Elsevier B.V.</xmp:publisher>
+% <ce:copyright type="unknown" year="2025"/>
+\gdef\pts@crossmark{no}
+\gdef\pts@pii{S0022-2860(25)02253-7}
+\gdef\pts@doi{10.1016/j.molstruc.2025.143586}
+\gdef\pts@received{2 May 2025}
+\gdef\pts@revised{5 August 2025}
+\gdef\pts@accepted{8 August 2025}
+\gdef\pts@issn{0022-2860}
+\gdef\pts@stage{PROOF}
+\gdef\pts@jid{MOLSTR}
+\gdef\pts@aid{143586}
+\gdef\pts@pit{fla}
+\gdef\pts@jmmail{v.premarajan@elsevier.com}
+\gdef\pts@articlenumber{143586}
+\gdef\pts@eoitemnr{MOLSTRUC-D-25-04896}
+\gdef\pts@cpc{Y}
+\gdef\pts@cpcinscopetype{Y}
+\gdef\pts@cpctype{strategic}
+\gdef\pts@cpcsupplytype{XML}

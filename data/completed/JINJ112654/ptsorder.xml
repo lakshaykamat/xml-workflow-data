@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "ptsiiiorder155.dtd">
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><orders>
+  <order>
+    <time day="06" hr="04" min="18" month="08" sec="01" yr="2025"/>
+    <po-number>T11739749</po-number>
+    <prod-site>ESCH - Elsevier India Pvt Ltd.</prod-site>
+    <opco>OCUK - Operating Company Elsevier Ltd</opco>
+    <stage step="PROOF"/>
+    <executor addressee="yes" type="TYPESETTER">
+      <exec-code>APTAR</exec-code>
+      <exec-name>Aptara Corp.</exec-name>
+      <aff>
+        <address>A 37, Sector 60</address>
+        <zipcode zipcode-pos="AFTERCTY">201301</zipcode>
+        <cty>Noida</cty>
+        <cny>India</cny>
+        <tel>911207182424</tel>
+      </aff>
+    </executor>
+    <executor addressee="no" type="WAREHOUSE">
+      <exec-code>AIRBU</exec-code>
+      <exec-name>Air Business Limited</exec-name>
+      <aff>
+        <address>The Merlin Centre</address>
+        <address-contd>Acrewood Way</address-contd>
+        <zipcode zipcode-pos="AFTERCTY">AL4 0JY</zipcode>
+        <cty>St Albans, Hertfordshire</cty>
+        <cny>United Kingdom</cny>
+        <tel>+44(0)1727 890600</tel>
+      </aff>
+    </executor>
+    <executor addressee="no" type="COMPOSITOR">
+      <exec-code>TNQCP</exec-code>
+      <exec-name>TnQ (CPC)</exec-name>
+      <aff>
+        <address>Plot no. 4/600, 4/197, Phase II</address>
+        <address-contd>Dr. VSI Estate, Kottivakkam</address-contd>
+        <zipcode zipcode-pos="AFTERCTY">600 041</zipcode>
+        <cty>Thiruvanmiyur, Chennai</cty>
+        <cny>India</cny>
+        <tel>+91-44-24426085,6,7</tel>
+        <fax>+91-44-24426088</fax>
+      </aff>
+    </executor>
+    <item-info>
+      <language>English</language>
+      <crossmark>no</crossmark>
+      <jid>JINJ</jid>
+      <issn>0020-1383</issn>
+      <aid>112654</aid>
+      <pii>S0020-1383(25)00514-5</pii>
+      <article-number>112654</article-number>
+      <doi>10.1016/j.injury.2025.112654</doi>
+      <item-title>The Effect of Acetabular Retroversion on Ipsilateral Injuries During Traumatic Hip Dislocation</item-title>
+      <eo-item-nr>JINJ-D-25-01687</eo-item-nr>
+      <e-submission-item-nr>JINJ_JINJ-D-25-01687</e-submission-item-nr>
+      <editor>H.-C. Pape</editor>
+      <received-date>
+        <date day="23" month="07" yr="2025"/>
+      </received-date>
+      <accept-date>
+        <date day="05" month="08" yr="2025"/>
+      </accept-date>
+      <cpc>Y</cpc>
+      <in-scope-cpc type="Y"/>
+      <prd-type-as-sent>FTP</prd-type-as-sent>
+      <milestone type="ACCEPTED"/>
+      <online-version type="print"/>
+      <pit>FLA</pit>
+      <copy-edit-content required="no"/>
+      <no-mns-pages>1</no-mns-pages>
+      <no-phys-figs>0</no-phys-figs>
+      <no-bw-figs>0</no-bw-figs>
+      <no-web-colour-figs>0</no-web-colour-figs>
+      <no-colour-figs>0</no-colour-figs>
+      <no-e-components>0</no-e-components>
+      <righthand-start>N</righthand-start>
+      <copyright-status>001</copyright-status>
+      <first-author>
+        <degree>Dr.</degree>
+        <fnm>Jessica L.</fnm>
+        <snm>Koshinski</snm>
+      </first-author>
+      <corr-author>
+        <degree>Ms.</degree>
+        <fnm>Jessica L.</fnm>
+        <snm>Koshinski</snm>
+        <aff>
+          <inst-contd>Geisinger Commonwealth School of Medicine</inst-contd>
+          <cny>United States</cny>
+          <ead>jkoshinski01@som.geisinger.edu</ead>
+        </aff>
+      </corr-author>
+      <revised-proof>N</revised-proof>
+      <offprint-payment payment="no"/>
+    </item-info>
+  </order>
+</orders>

@@ -1,0 +1,138 @@
+
+
+
+
+*********START:Filtration @ 04-08-2025 11:09:21*********
+
+
+*********04-08-2025 11:09:21*********
+    Insert Start Time in Workflow: START
+
+*********04-08-2025 11:09:21*********
+    Insert Start Time in Workflow: END
+
+*********04-08-2025 11:09:21*********
+    Remove CharacterStyles from inputFile: START
+
+*********04-08-2025 11:09:23*********
+    Remove CharacterStyles from inputFile: END
+
+*********04-08-2025 11:09:23*********
+    Process Filtration: START
+
+*********04-08-2025 11:09:23*********
+    FiltrationProcess: START
+
+*********04-08-2025 11:09:23*********
+    PreFiltration: START
+
+*********04-08-2025 11:09:24*********
+    PreFiltration: END
+
+*********04-08-2025 11:09:24*********
+    Apply Filtration Points: START
+
+*********04-08-2025 11:09:24*********
+    Apply FiltrationPoints: START
+
+*********04-08-2025 11:09:24*********
+    Point (1) started.
+
+*********04-08-2025 11:09:24*********
+    Point (2) started.
+
+*********04-08-2025 11:09:25*********
+    Point (3) started.
+
+*********04-08-2025 11:09:25*********
+    Point (4) started.
+
+*********04-08-2025 11:09:25*********
+    Point (5) started.
+
+*********04-08-2025 11:09:25*********
+    Point (6) started.
+
+*********04-08-2025 11:09:25*********
+    Point (7) started.
+
+*********04-08-2025 11:09:26*********
+    Point (8) started.
+
+*********04-08-2025 11:09:26*********
+    Point (9) started.
+
+*********04-08-2025 11:09:26*********
+    Point (10) started.
+
+*********04-08-2025 11:09:26*********
+    Point (11) started.
+
+*********04-08-2025 11:09:27*********
+    Point (12) started.
+
+*********04-08-2025 11:09:27*********
+    Point (13) started.
+
+*********04-08-2025 11:09:27*********
+    Point (14) started.
+
+*********04-08-2025 11:09:27*********
+    Point (22) started.
+
+*********04-08-2025 11:09:28*********
+    Point (23) started.
+
+*********04-08-2025 11:09:28*********
+    Point (25) started.
+
+*********04-08-2025 11:09:28*********
+    Point (26) started.
+
+*********04-08-2025 11:09:28*********
+    Point (29) started.
+
+*********04-08-2025 11:09:28*********
+    Point (38) started.
+
+*********04-08-2025 11:09:29*********
+    Apply FiltrationPoints: END
+
+*********04-08-2025 11:09:29*********
+    Apply Filtration Points: END
+
+*********04-08-2025 11:09:29*********
+    PostFiltration: START
+
+*********04-08-2025 11:09:34*********
+    PostFiltration: END
+
+*********04-08-2025 11:09:34*********
+    FiltrationProcess: END
+
+*********04-08-2025 11:09:34*********
+    Update Workflow: START
+
+*********04-08-2025 11:09:34*********
+    Update Workflow: END
+
+*********04-08-2025 11:09:34*********
+    Process Filtration: END
+
+*********04-08-2025 11:09:34*********
+    Insert End Time in Workflow: START
+
+*********04-08-2025 11:09:34*********
+    Insert End Time in Workflow: END
+
+*********04-08-2025 11:09:34*********
+    Save C:\PowerEdit\Framework\customXml\item1.xml
+
+*********04-08-2025 11:09:38*********
+    Create Built in Property.
+
+
+
+
+*********END:Filtration @ 04-08-2025 11:09:38*********
+

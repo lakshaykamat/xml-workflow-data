@@ -1,0 +1,16 @@
+\gdef\ElsCopyright{\textcopyright\ 2025 Published by Elsevier Inc.}
+% <xmp:copyright>&#169; 2025 Published by Elsevier Inc.</xmp:copyright>
+% <xmp:publisher>Elsevier Inc.</xmp:publisher>
+% <ce:copyright type="unknown" year="2025"/>
+\gdef\pts@specialissue{yes}
+\gdef\pts@specialissuetitle{Interstitial Lung Disease}
+\gdef\pts@crossmark{no}
+\gdef\pts@pii{S0037-198X(25)00069-0}
+\gdef\pts@doi{10.1053/j.ro.2025.08.001}
+\gdef\pts@issn{0037-198X}
+\gdef\pts@stage{S5}
+\gdef\pts@jid{YSROE}
+\gdef\pts@aid{50950}
+\gdef\pts@pit{fla}
+\gdef\pts@jmmail{a.balasubramanian@elsevier.com}
+\gdef\pts@eoitemnr{YSROE-D-25-00015}

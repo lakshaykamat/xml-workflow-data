@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "ptsiiiorder155.dtd">
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><orders>
+  <order>
+    <time day="03" hr="22" min="50" month="08" sec="00" yr="2025"/>
+    <po-number>T11733200</po-number>
+    <prod-site>ESCH - Elsevier India Pvt Ltd.</prod-site>
+    <opco>OCUS - Operating Company Elsevier Inc.</opco>
+    <stage step="PROOF"/>
+    <executor addressee="yes" type="TYPESETTER">
+      <exec-code>APTAR</exec-code>
+      <exec-name>Aptara Corp.</exec-name>
+      <aff>
+        <address>A 37, Sector 60</address>
+        <zipcode zipcode-pos="AFTERCTY">201301</zipcode>
+        <cty>Noida</cty>
+        <cny>India</cny>
+        <tel>911207182424</tel>
+      </aff>
+    </executor>
+    <executor addressee="no" type="WAREHOUSE">
+      <exec-code>TSPSD</exec-code>
+      <exec-name>Sheridan Digital</exec-name>
+      <aff>
+        <address>450 Fame Avenue</address>
+        <zipcode zipcode-pos="AFTERCTY">17331</zipcode>
+        <cty>Hanover, PA</cty>
+        <cny>United States</cny>
+      </aff>
+    </executor>
+    <item-info>
+      <language>English</language>
+      <crossmark>no</crossmark>
+      <jid>TCM</jid>
+      <issn>1050-1738</issn>
+      <aid>7254</aid>
+      <pii>S1050-1738(25)00105-7</pii>
+      <doi>10.1016/j.tcm.2025.08.001</doi>
+      <item-title>Type 2 MI and the Sex Divide: Moving from Awareness to Action</item-title>
+      <eo-item-nr>TCM-D-25-00237</eo-item-nr>
+      <e-submission-item-nr>TCM_TCM-D-25-00237</e-submission-item-nr>
+      <received-date>
+        <date day="01" month="08" yr="2025"/>
+      </received-date>
+      <accept-date>
+        <date day="01" month="08" yr="2025"/>
+      </accept-date>
+      <cpc>N</cpc>
+      <in-scope-cpc type="N"/>
+      <prd-type-as-sent>FTP</prd-type-as-sent>
+      <milestone type="ACCEPTED"/>
+      <online-version type="print"/>
+      <pit>EDI</pit>
+      <copy-edit-content required="no"/>
+      <no-mns-pages>1</no-mns-pages>
+      <no-phys-figs>0</no-phys-figs>
+      <no-bw-figs>0</no-bw-figs>
+      <no-web-colour-figs>0</no-web-colour-figs>
+      <no-colour-figs>0</no-colour-figs>
+      <no-e-components>0</no-e-components>
+      <righthand-start>N</righthand-start>
+      <copyright-status>001</copyright-status>
+      <first-author>
+        <degree>Dr.</degree>
+        <fnm>Melody</fnm>
+        <snm>Huang</snm>
+      </first-author>
+      <corr-author>
+        <degree>Dr.</degree>
+        <fnm>Nicholas</fnm>
+        <snm>Phreaner</snm>
+        <aff>
+          <inst-contd>University of California San Diego</inst-contd>
+          <cny>United States</cny>
+          <ead>nphreaner@ucsd.edu</ead>
+        </aff>
+      </corr-author>
+      <item-remarks>
+        <item-remark>
+          <remark-type>Editorial</remark-type>
+          <remark>MBS_IFACE 03-AUG-25
+        Editorial commentary for Angeli et al. (TCM-D-25-00147)
+        </remark>
+          <response/>
+        </item-remark>
+      </item-remarks>
+      <revised-proof>N</revised-proof>
+      <offprint-payment payment="no"/>
+    </item-info>
+  </order>
+</orders>

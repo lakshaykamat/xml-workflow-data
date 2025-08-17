@@ -1,0 +1,130 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder155.dtd">
+<orders>
+   <order>
+      <time day="11" month="08" yr="2025" hr="23" min="13" sec="42"/>
+      <po-number>T11738304</po-number>
+      <due-date>
+         <time day="13" month="08" yr="2025" hr="23" min="13" sec="41"/>
+      </due-date>
+      <prod-site>ESCH - Elsevier India Pvt Ltd.</prod-site>
+      <opco>OCUS - Operating Company Elsevier Inc.</opco>
+      <stage step="S5"/>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>APTAR</exec-code>
+         <exec-name>Aptara Corp.</exec-name>
+         <aff>
+            <address>A 37, Sector 60</address>
+            <zipcode zipcode-pos="AFTERCTY">201301</zipcode>
+            <cty>Noida</cty>
+            <cny>India</cny>
+            <tel>911207182424</tel>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>TSPSD</exec-code>
+         <exec-name>Sheridan Digital</exec-name>
+         <aff>
+            <address>450 Fame Avenue</address>
+            <zipcode zipcode-pos="AFTERCTY">17331</zipcode>
+            <cty>Hanover, PA</cty>
+            <cny>United States</cny>
+         </aff>
+      </executor>
+      <item-info>
+         <version-no>S5.1</version-no>
+         <language>English</language>
+         <crossmark>no</crossmark>
+         <jid>AMGP</jid>
+         <issn>1064-7481</issn>
+         <aid>2541</aid>
+         <pii>S1064-7481(25)00433-6</pii>
+         <doi>10.1016/j.jagp.2025.08.001</doi>
+         <item-title>Ketamine for Late-Life Depression: A Systematic Review of Efficacy, Safety, and Tolerability</item-title>
+         <dochead>Clinical Review Article</dochead>
+         <eo-item-nr>AMGP-25-290</eo-item-nr>
+         <e-submission-item-nr>AMGP_AMGP-25-290</e-submission-item-nr>
+         <received-date>
+            <date day="05" month="06" yr="2025"/>
+         </received-date>
+         <revised-date>
+            <date day="31" month="07" yr="2025"/>
+         </revised-date>
+         <accept-date>
+            <date day="02" month="08" yr="2025"/>
+         </accept-date>
+         <cpc>N</cpc>
+         <in-scope-cpc type="N"/>
+         <prd-type-as-sent>FTP</prd-type-as-sent>
+         <milestone type="COMPLETE"/>
+         <online-version type="print"/>
+         <pit>REV</pit>
+         <no-mns-pages>51</no-mns-pages>
+         <no-phys-figs>2</no-phys-figs>
+         <no-bw-figs>0</no-bw-figs>
+         <no-web-colour-figs>0</no-web-colour-figs>
+         <no-colour-figs>2</no-colour-figs>
+         <no-e-components>1</no-e-components>
+         <physical-figures>
+            <figure>
+               <figure-nr>1</figure-nr>
+               <figure-type>COLOUR-IN-PRINT</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>2</figure-nr>
+               <figure-type>COLOUR-IN-PRINT</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+         </physical-figures>
+         <e-components>
+            <e-component>
+               <e-component-nr>1</e-component-nr>
+               <e-component-format>APPLICATION</e-component-format>
+            </e-component>
+         </e-components>
+         <righthand-start>N</righthand-start>
+         <copyright-status>001</copyright-status>
+         <first-author>
+            <degree>Dr.</degree>
+            <fnm>Ronesh</fnm>
+            <snm>Sukhdeo</snm>
+         </first-author>
+         <corr-author>
+            <degree>Dr.</degree>
+            <fnm>Roger S.</fnm>
+            <snm>McIntyre</snm>
+            <aff>
+               <cny>Canada</cny>
+               <ead>roger.mcintyre@bcdf.org</ead>
+            </aff>
+         </corr-author>
+         <item-remarks>
+            <item-remark>
+               <remark-type>Problem</remark-type>
+               <remark>VERMAR7 06-AUG-25
+        [title author] [order editor remark] 1: Corresponding author name and email address is missing. Please check and provide the same
+
+2: We have received remark TO BE PUBLISHED WITH THE IP COMING IN FROM FLINT. Please check and suggest
+        </remark>
+               <response>AYYAPPATHR 08-AUG-2025 11:00
+AU contacted
+AYYAPPATHR 11-AUG-2025 05:06
+1. the corresponding author is myself Dr. Roger S McIntyre and the mailing address is 77 Bloor St., Toronto Ontario Canada M5S1M2 
+Email: roger.mcintyre@bcdf.org
+1. Noted, please proceed
+</response>
+            </item-remark>
+            <item-remark>
+               <remark-type>Editorial</remark-type>
+               <remark>MBS_IFACE 05-AUG-25
+        TO BE PUBLISHED WITH THE IP COMING IN FROM FLINT
+        </remark>
+               <response/>
+            </item-remark>
+         </item-remarks>
+         <revised-proof>N</revised-proof>
+         <offprint-payment payment="no"/>
+      </item-info>
+   </order>
+</orders>

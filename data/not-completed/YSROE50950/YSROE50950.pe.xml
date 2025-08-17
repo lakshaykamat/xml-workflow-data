@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="FLA"
+         dtd-version="1.0"
+         xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">YSROE</journal-id>
+<journal-id journal-id-type="coden">
+</journal-id>
+<journal-id journal-id-type="hwp">
+</journal-id>
+<journal-id journal-id-type="pmc">
+</journal-id>
+<journal-id journal-id-type="nlm-ta">
+</journal-id>
+<journal-id journal-id-type="pmid">
+</journal-id>
+<journal-id journal-id-type="pubmed"/>
+<journal-id journal-id-type="doi">
+</journal-id>
+<journal-id journal-id-type="other">
+</journal-id>
+<journal-title-group>
+<journal-title>Seminars in Roentgenology</journal-title>
+<journal-subtitle>
+</journal-subtitle>
+<trans-title-group>
+<trans-title>
+</trans-title>
+</trans-title-group>
+<abbrev-journal-title>
+</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">
+</issn>
+<issn pub-type="epub">
+</issn>
+<publisher>
+<publisher-name>
+</publisher-name>
+<publisher-loc>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">50950</article-id>
+<article-id pub-id-type="doi">10.1053/j.ro.2025.08.001</article-id>
+<article-id pub-id-type="pmid"/>
+<article-id pub-id-type="coden"/>
+<article-id pub-id-type="manuscript"/>
+<article-id pub-id-type="pii">S0037-198X(25)00069-0</article-id>
+<article-id pub-id-type="other"/>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject/>
+<subject/>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Hypersensitivity Pneumonitis: Imaging Findings and Patterns</article-title>
+<alt-title alt-title-type="VersoLRH"/>
+<alt-title alt-title-type="RectoRRH"/>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Sellers</surname>
+<given-names>Taylor</given-names>
+</name>
+<role content-type="CRediT">Writing &#x2013; original draft</role>
+<role content-type="CRediT">Writing &#x2013; review &amp; editing</role>
+<role content-type="CRediT">Conceptualization</role>
+<role content-type="CRediT">Investigation</role>
+<email>tsellers@uwhealth.org</email>
+<xref ref-type="aff" rid="aff1">a</xref>
+<xref ref-type="corresp" rid="cor1">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rother</surname>
+<given-names>Maria Daniela Martin</given-names>
+</name>
+<role content-type="CRediT">Data curation</role>
+<role content-type="CRediT">Resources</role>
+<role content-type="CRediT">Supervision</role>
+<role content-type="CRediT">Writing &#x2013; review &amp; editing</role>
+<xref ref-type="aff" rid="aff1">a</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kanne</surname>
+<given-names>Jeffrey P</given-names>
+</name>
+<role content-type="CRediT">Data curation</role>
+<role content-type="CRediT">Resources</role>
+<role content-type="CRediT">Supervision</role>
+<role content-type="CRediT">Writing &#x2013; review &amp; editing</role>
+<xref ref-type="aff" rid="aff1">a</xref>
+</contrib>
+<aff id="aff1"><label><sup>a</sup></label><institution content-type="OrgDiv">Department of Radiology</institution>, <institution content-type="OrgName">University of Wisconsin School of Medicine and Public Health</institution>, <addr-line content-type="Street">600 Highland Avenue</addr-line>, <addr-line content-type="City">Madison</addr-line>, <addr-line content-type="State">WI</addr-line> <addr-line content-type="PinCode">53792</addr-line>, <country>USA</country></aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label><sup>*</sup></label>CORRESPONDING AUTHOR<bold>:</bold> Taylor Sellers, <institution content-type="OrgDiv">Department of Radiology</institution>, <institution content-type="OrgName">University of Wisconsin School of Medicine and Public Health</institution>, <addr-line content-type="Street">600 Highland Avenue</addr-line>, <addr-line content-type="City">Madison</addr-line>, <addr-line content-type="State">WI</addr-line> <addr-line content-type="PinCode">53792</addr-line>, <country>USA</country>.</corresp>
+</author-notes>
+<pub-date date-type="ppub" iso-8601-date="">
+<month/>
+<year/>
+</pub-date>
+<pub-date date-type="epub" iso-8601-date="2025-08-08">
+<day>8</day>
+<month>8</month>
+<year>2025</year>
+</pub-date>
+<fpage>0</fpage>
+<lpage>0</lpage>
+<page-range>0</page-range>
+<history>
+<date date-type="received" iso-8601-date="1953-12-12">
+<day>12</day>
+<month>12</month>
+<year>1953</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="1953-12-12">
+<day>12</day>
+<month>12</month>
+<year>1953</year>
+</date>
+<date date-type="accepted" iso-8601-date="1953-12-12">
+<day>12</day>
+<month>12</month>
+<year>1953</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>001</copyright-statement>
+<copyright-year>2025</copyright-year>
+<copyright-holder>001</copyright-holder>
+<license license-type="NO" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+<license-p>
+</license-p>
+</license>
+</permissions>
+<self-uri content-type="pdf" specific-use="specific-use" xlink:href="YSROE50950.pdf"/>
+<abstract>
+<title>ABSTRACT</title>
+<p>Recently published guidelines on the diagnosis of hypersensitivity pneumonitis from the American Thoracic Society/Japanese Respiratory Society/Asociaci&#x00F3;n Latinoamericana de T&#x00F3;rax and the American College of Chest Physicians place increased importance on CT analysis as a component of the multidisciplinary diagnosis. Accurate identification and characterization of CT findings is critical as they have downstream effects on the rest of the diagnostic workup, which places imaging early in their diagnostic algorithms. Though the imaging features of hypersensitivity pneumonitis are well established, it remains a challenging diagnosis for radiologists due to its variable appearance and lack of specific CT findings.</p>
+<p>This review summarizes the imaging features and patterns of nonfibrotic and fibrotic hypersensitivity pneumonitis using the newest guidelines and classifications as a framework. Additional information relevant to the interpreting radiologist is also briefly discussed, including progressive pulmonary fibrosis, acute exacerbation, and differentiating fibrotic hypersensitivity pneumonitis from a usual interstitial pneumonia pattern of fibrosis.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<title>KEYWORDS</title>
+<kwd>Hypersensitivity pneumonitis</kwd>
+<kwd>Interstitial lung disease</kwd>
+<kwd>Inhalational lung disease</kwd>
+<kwd>Pulmonary Fibrosis</kwd>
+<kwd>Computed tomography</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec>
+<title><bold>Introduction</bold></title>
+<p content-type="Para">Hypersensitivity pneumonitis (HP) is an immune-mediated disease of the lung parenchyma and small airways. It is classified as an interstitial lung disease (ILD) and is characterized by inflammation with or without fibrosis in response to an inhaled antigen. Though classically associated with microbes and organic proteins from feathers and animal droppings, the number of implicated antigens is vast and continues to grow and change with climate and industry.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref><sup>,</sup><xref ref-type="bibr" rid="bib2"><sup>2</sup></xref> However, the antigen and exposure are not identified in up to 60% of cases.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref></p>
+<p content-type="Para">The two currently recognized subtypes of HP are nonfibrotic HP and fibrotic HP, distinguished by the presence or absence of radiologic or histopathologic fibrosis.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref> While united by common pathogenesis and histopathologic characteristics, the two subtypes differ in their presentations and clinical courses. Patients with nonfibrotic HP generally present with acute symptoms such as cough, dyspnea, fever, and sometimes weight loss. With appropriate treatment and ongoing avoidance of the triggering antigen, nonfibrotic HP usually resolves.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref> Patients with fibrotic HP usually present with insidious onset of signs and symptoms such as dyspnea, dry cough, and hypoxemia and have decreased survival.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref><sup>,</sup><xref ref-type="bibr" rid="bib3"><sup>3</sup></xref> Nonfibrotic HP can progress to fibrotic HP, but fibrotic HP is often the presenting diagnosis without a clinical history of nonfibrotic disease. The variability in presentation, severity, and progression of symptoms is not fully understood.</p>
+<p content-type="Para">The classification of HP subtypes by fibrosis is a recent change, formalized by the publication of two new guidelines: The American Thoracic Society, Japanese Respiratory Society, and Asociaci&#x00F3;n Latinoamericana de T&#x00F3;rax (ATS/JRS/ALAT) published joint clinical practice guidelines for HP in 2020 and The American College of Chest Physicians (ACCP) published diagnostic guidelines for HP in 2021.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref><sup>,</sup><xref ref-type="bibr" rid="bib4"><sup>4</sup></xref> Previously HP was classified based on chronicity, but this approach is no longer recommended as the time-based divisions were somewhat arbitrary and did not always correlate with prognosis and outcomes.</p>
+<p content-type="Para">The shift toward fibrosis places greater emphasis on radiologic interpretation for diagnosis and management. Both guidelines include CT analysis early in their respective diagnostic algorithms. The CT analysis affects downstream workup and treatment decisions, requiring careful and thorough review by the interpreting radiologist. This review will focus on the patterns of HP on CT, using the ATS/JRS/ALAT and ACCP guidelines as a framework.</p>
+<p content-type="Para">The ATS/JRS/ALAT and ACCP guidelines are largely in agreement on the imaging features of HP. Both guidelines identify four primary imaging findings associated with HP. They also both recommend classification of CT findings into two or three subcategories (typical HP, compatible with HP, and indeterminate for HP), though with different criteria (<xref ref-type="table" rid="tb1" specific-use="anchor">Tables 1</xref>-<xref ref-type="table" rid="tb2" specific-use="anchor">2</xref>). The lack of absolute consensus on imaging findings is unsurprising given the known variability in appearance, the fact that none of the CT features of HP is specific, and that none is required for diagnosis.</p>
+<p content-type="Para">There are differences between the imaging analysis criteria in the guidelines, and research comparing the two is ongoing. Chelala et al. recently published a comparative analysis with a single center cohort of 297 patients in the United States with ILD (200 with HP).<xref ref-type="bibr" rid="bib5"><sup>5</sup></xref> Shalmon et al. also recently published a comparative analysis with a multicenter cohort of 436 patients in Israel with ILD (56 with HP).<xref ref-type="bibr" rid="bib6"><sup>6</sup></xref> Though the sample sizes are small, their data suggests that the guidelines perform similarly, particularly when &#x201C;typical HP&#x201D; and &#x201C;compatible with HP&#x201D; are analyzed as a single group. However, Chelala et al. made the important observation that accuracy varies with disease prevalence, with the ACCP guidelines having an advantage in high prevalence settings and ATS/JRS/ALAT guidelines having an advantage in low prevalence settings.<xref ref-type="bibr" rid="bib5"><sup>5</sup></xref> While the performance of the guidelines as a whole will not be discussed in detail here, these studies also performed additional analyses on the four HP-compatible features (HPCF) that will be referenced throughout this review: mosaic attenuation, air trapping, ground-glass opacity (GGO), and centrilobular nodules.</p>
+</sec>
+<sec>
+<title><bold>Imaging</bold></title>
+<p content-type="Para">Both the ATS/JRS/ALAT guidelines and ACCP guidelines identify four HPCF: mosaic attenuation, air trapping, GGO, and centrilobular nodules. In the context of HP, GGO and mosaic (specifically increased) attenuation reflect parenchymal disease while air trapping and centrilobular nodules reflect small airway disease. For nonfibrotic HP the ATS/JRS/ALAT guidelines require features of both parenchymal and small airway disease for &#x201C;typical HP&#x201D; while &#x201C;compatible with HP&#x201D; includes additional features that have been described in HP: subtle and diffuse GGO, consolidation, and lung cysts. The ACCP guidelines list discrete combinations of HPCF and distributions to qualify for each category.</p>
+<p content-type="Para">For fibrotic HP, the ATS/JRS/ALAT guidelines require the presence of fibrosis and at least one feature of small airway disease to meet criteria for &#x201C;typical HP&#x201D; and &#x201C;compatible with HP,&#x201D; with the pattern of fibrosis being the distinguishing feature between categories. The ACCP guidelines simply require any signs of fibrosis, with nonfibrotic findings being the differentiating feature between &#x201C;typical HP&#x201D; and &#x201C;compatible with HP&#x201D; categories. Both guidelines also have a category of &#x201C;indeterminate for HP,&#x201D; which is lung fibrosis without HPCF.</p>
+<sec>
+<title><bold>Mosaic Attenuation</bold></title>
+<p content-type="Para">Mosaic attenuation refers to a patchwork of different lung densities at the level of the secondary pulmonary lobule with sharp demarcation between densities at the interlobular septa. In nonfibrotic HP, increased attenuation is attributed to inflammation (parenchymal disease), and decreased attenuation is attributed to air trapping (small airway disease). These comparisons are relative to normal lung. The presence of all three is called the three-density sign and is highly suggestive of HP (<xref ref-type="fig" rid="fig1" specific-use="anchor">Figs. 1</xref>-<xref ref-type="fig" rid="fig2" specific-use="anchor">2</xref>). Chelala et al. identified the three-density sign in 44% of HP patients in their cohort, though without distinction between fibrotic and nonfibrotic HP.<xref ref-type="bibr" rid="bib5"><sup>5</sup></xref> Mosaic attenuation without the three-density sign also suggests HP but is less specific. Shalmon et al. found mosaic attenuation in 59% of nonfibrotic HP patients in their cohort and 41% of fibrotic HP patients.<xref ref-type="bibr" rid="bib6"><sup>6</sup></xref> Chelala et al. found that mosaic attenuation was present in 79% of patients in their cohort, though this number combines mosaic attenuation and air trapping and does not distinguish between fibrotic and nonfibrotic HP. Both studies found mosaic attenuation to be an independent predictor of HP.</p>
+</sec>
+<sec>
+<title><bold>Air Trapping</bold></title>
+<p content-type="Para">Air trapping is one of the possible causes of mosaic attenuation and is a necessary component of the three-density sign. It specifically refers to obstruction of the small airways causing hyperinflation and secondary hypoperfusion (decreased attenuation) of the pulmonary lobules. This is easiest to identify when expiratory CT is performed, showing static size and hypoattenuation compared to normal lobules which will decrease in size and increase in attenuation (<xref ref-type="fig" rid="fig3" specific-use="anchor">Fig. 3</xref>). However, expiratory phase images are not always available. The presence of air trapping can be inferred by the presence of mosaic attenuation or three-density sign.<xref ref-type="bibr" rid="bib7"><sup>7</sup></xref> Lobules of air trapping may have an outward bowing of the interlobular septa due to hyperinflation, creating an arced or scalloped appearance along their edges. Shalmon et al. reported air trapping in 73% of patients in their nonfibrotic HP cohort and 53% of their fibrotic HP cohort.<xref ref-type="bibr" rid="bib6"><sup>6</sup></xref> Chelala et al. reported air trapping in 79% of their cohort, though this was combined with mosaic attenuation and does not distinguish between fibrotic and nonfibrotic HP.<xref ref-type="bibr" rid="bib5"><sup>5</sup></xref> Both studies found air trapping to be an independent predictor of HP.</p>
+</sec>
+<sec>
+<title><bold>Ground-Glass Opacity</bold></title>
+<p content-type="Para">GGO refers to an area of increased attenuation that does not completely obscure the underlying bronchial and vascular structures<xref ref-type="bibr" rid="bib8"><sup>8</sup></xref> (<xref ref-type="fig" rid="fig4" specific-use="anchor">Fig. 4</xref>). It is a possible cause of mosaic attenuation and a necessary component of the three-density sign. It is caused generally by anything replacing air in the alveoli or interstitium from any source, but in the case of HP is representative of inflammation. GGO is the most commonly reported imaging finding in nonfibrotic HP, with Shalmon et al. reporting it in 95% of their nonfibrotic HP cohort and 76% of their fibrotic HP cohort. Chelala et al. reported GGO in 74% of their HP cohort, though without distinction between fibrotic and nonfibrotic HP.<xref ref-type="bibr" rid="bib5"><sup>5</sup></xref> Both studies found GGO to be an independent predictor of HP.</p>
+</sec>
+<sec>
+<title><bold>Centrilobular Nodules</bold></title>
+<p content-type="Para">Centrilobular nodules occur at the center of the secondary pulmonary lobules where the airway and pulmonary artery are located and can be caused by numerous processes involving either of these two structures. In HP, the nodules represent airway inflammation and are typically diffuse and ill-defined (ground-glass attenuation) (<xref ref-type="fig" rid="fig5" specific-use="anchor">Fig. 5</xref>). Shalmon et al. reported centrilobular nodules in 45% of their nonfibrotic HP cohort and 9% of their fibrotic HP cohort.<xref ref-type="bibr" rid="bib6"><sup>6</sup></xref> Chelala et al. reported this finding in 20% of the HP patients in their cohort, though without distinction between fibrotic and nonfibrotic HP.<xref ref-type="bibr" rid="bib5"><sup>5</sup></xref></p>
+</sec>
+<sec>
+<title><bold>Fibrosis</bold></title>
+<p content-type="Para">Fibrosis on CT takes the form of: 1) linear opacities (reticulation) and/or GGO when accompanied by architectural lung distortion, 2) traction bronchiectasis, and 3) honeycombing.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref><sup>,</sup><xref ref-type="bibr" rid="bib4"><sup>4</sup></xref> Honeycombing is typically minimal in HP but can be extensive in very advanced disease.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref></p>
+<p content-type="Para">The pattern of fibrosis in HP is variable and overlaps considerably with other fibrotic ILDs. This is evident by the inclusion of an &#x201C;indeterminate for HP&#x201D; category in both ATS/JRS/ALAT and ACCP guidelines, which require only the presence of fibrosis without features suggestive of HP for inclusion. Fibrotic HP is always in the differential diagnosis at the outset of any fibrotic lung disease investigation and cannot be excluded based on imaging alone.</p>
+<p content-type="Para">In addition to identifying and describing the pattern of fibrosis, radiologists should also evaluate for progression of fibrosis. Updated guidelines in 2022 from the ATS/JRS/ALAT as well as the European Respiratory society (ERS) now recognize progressive pulmonary fibrosis (PPF) in ILDs other than idiopathic pulmonary fibrosis (IPF), including fibrotic HP.<xref ref-type="bibr" rid="bib9"><sup>9</sup></xref> PPF is defined as at least two of three criteria (worsening symptoms, radiological progression, and physiological progression) occurring within the past year with no alternative explanation.<xref ref-type="bibr" rid="bib9"><sup>9</sup></xref> While they acknowledge that more research is needed, the guidelines now include a conditional recommendation for antifibrotic medication use in non-IPF PPF.<xref ref-type="bibr" rid="bib9"><sup>9</sup></xref> Thus, identification of fibrosis progression has significant treatment implications and should be reported whenever present in cases of fibrotic HP.</p>
+</sec>
+<sec>
+<title><bold>Pattern &amp; Distribution</bold></title>
+<p content-type="Para">For a subclassification of &#x201C;typical HP&#x201D; in nonfibrotic disease, the ATS/JRS/ALAT guidelines require the distribution of parenchymal findings to be diffuse in both the axial and craniocaudal planes, though &#x201C;some basal sparing&#x201D; is permissible.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref> &#x201C;Compatible with HP&#x201D; allows for additional distributions: lower lobe predominance in the craniocaudal distribution, and peribronchovascular in the axial distribution.<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref> The ACCP guidelines require GGO or centrilobular nodules to be &#x201C;profuse&#x201D; and involve &#x201C;all lung zones&#x201D; for a classification of &#x201C;typical HP,&#x201D; with no distribution requirements for mosaic attenuation or air trapping.<xref ref-type="bibr" rid="bib4"><sup>4</sup></xref> &#x201C;Compatible with HP&#x201D; allows for centrilobular nodules that are &#x201C;not profuse or diffuse,&#x201D; and allows for GGO to be either patchy or diffuse.<xref ref-type="bibr" rid="bib4"><sup>4</sup></xref> In the Shalmon et al. cohort, 82% of the patients with nonfibrotic HP had a diffuse craniocaudal distribution and 86% had a diffuse axial distribution.</p>
+<p content-type="Para">The two guidelines differ more significantly with respect to pattern and distribution in fibrotic HP. The ATS/JRS/ALAT guidelines subcategorize fibrotic HP based on pattern and distribution of fibrosis, while the ACCP guidelines subcategorize based on the nonfibrotic findings and simply require fibrosis to be present (<xref ref-type="table" rid="tb2">Table 2</xref>). While random and mid lung distributions are most typical, fibrosis in HP is notoriously variable (<xref ref-type="fig" rid="fig6" specific-use="anchor">Figures 6</xref>-<xref ref-type="fig" rid="fig7" specific-use="anchor">7</xref>; <xref ref-type="table" rid="tb2">Tables 2</xref>, <xref ref-type="table" rid="tb4">4</xref>).</p>
+</sec>
+<sec>
+<title><bold>Acute Exacerbation</bold></title>
+<p content-type="Para">Acute exacerbation has been well described in IPF and is known to occur in non-IPF fibrotic ILDs including fibrotic HP, though the latter is not as well studied.<xref ref-type="bibr" rid="bib10"><sup>10</sup></xref> Acute exacerbation was most recently defined in the context of IPF in guidelines published by the ATS in 2016 (<xref ref-type="table" rid="tb3" specific-use="anchor">Table 3</xref>).<xref ref-type="bibr" rid="bib11"><sup>11</sup></xref> CT findings include bilateral GGO and/or consolidation (<xref ref-type="fig" rid="fig8" specific-use="anchor">Figure 8</xref>).<xref ref-type="bibr" rid="bib11"><sup>11</sup></xref> This definition has been subsequently adapted to non-IPF ILDs.<xref ref-type="bibr" rid="bib12"><sup>12</sup></xref> While less common in non-IPF ILD, acute exacerbation in all ILD patients is associated with poor outcomes and decreased survival.<xref ref-type="bibr" rid="bib12"><sup>12</sup></xref></p>
+</sec>
+<sec>
+<title><bold>Beyond The Guidelines</bold></title>
+<p content-type="Para">While guidelines serve as a useful distillation of prior knowledge, they are not exhaustive. Shalmon et al.&#x2019;s analysis of the four HPCFs produced some useful additional insights for radiologists. The cumulative number of HPCFs had an excellent predictive performance for HP diagnosis, with increasing likelihood as the number of features increases.<xref ref-type="bibr" rid="bib6"><sup>6</sup></xref> Centrilobular nodules were the only HPCF that was not an independent predictor of HP. However, of the patients in their cohort with centrilobular nodules, 90% were smoking related ILD or HP. Thus, in patients without a smoking history, the presence of centrilobular nodules is a strong predictor for HP.<xref ref-type="bibr" rid="bib6"><sup>6</sup></xref> Salisbury et al. found that when the extent of mosaic attenuation was greater than that of reticulation and the axial distribution was diffuse, risk of false diagnosis of HP was less than 10%.<xref ref-type="bibr" rid="bib13"><sup>13</sup></xref></p>
+<p content-type="Para">Fibrotic HP is often difficult to distinguish from other fibrotic ILDs, particularly IPF (usual interstitial pneumonia [UIP] pattern). A recent analysis from Sumikawa et al. comparing CT features in patients with fibrotic HP and IPF found three statistically significant distinguishing features on CT that favor fibrotic HP: 1) GGO with traction bronchiectasis; 2) peribronchovascular opacities in the upper lung; and 3) random distribution.<xref ref-type="bibr" rid="bib14"><sup>14</sup></xref> A similar study by Tateishi et al. found that upper or mid lung predominance and profuse micronodules were statistically significant distinguishing features.<xref ref-type="bibr" rid="bib15"><sup>15</sup></xref> The presence of cysts (not to be confused with &#x201C;honeycomb cysts&#x201D; which is synonymous with &#x201C;honeycombing&#x201D;) is infrequently seen in HP but is more common in HP than IPF.<xref ref-type="bibr" rid="bib16"><sup>16</sup></xref> However, these features are only useful when present, and even when present, they are not specific for HP.</p>
+<p content-type="Para">A general strategy for the interpreting radiologist to differentiate between UIP and fibrotic HP is: 1) Identify HPCFs, if any; and 2) Characterize the axial and craniocaudal distribution of the fibrosis (<xref ref-type="table" rid="tb4" specific-use="anchor">Table 4</xref>).<xref ref-type="bibr" rid="bib1"><sup>1</sup></xref><sup>,</sup><xref ref-type="bibr" rid="bib4"><sup>4</sup></xref><sup>,</sup><xref ref-type="bibr" rid="bib17"><sup>17</sup></xref> The presence of HPCFs favors a diagnosis of HP, however their absence does not exclude it. In these cases, the distribution of fibrosis is the only potential differentiating factor. Ultimately, many cases will not fit easily into one of the two patterns and multidisciplinary discussion will be necessary.</p>
+</sec>
+</sec>
+<sec>
+<title><bold>Conclusion</bold></title>
+<p content-type="Para">HP is a challenging diagnosis due to its variable and nonspecific features. The gold standard for diagnosis is multidisciplinary discussion, which combines clinical, radiologic and histopathologic findings. Recently published guidelines on the diagnosis of HP place increased importance on CT analysis as a component of the multidisciplinary diagnosis. There are four HPCFs: mosaic attenuation, air trapping, GGO, and centrilobular nodules. The identification of these features, in addition to fibrosis and the distribution of findings, allow the radiologist to stratify their confidence of the imaging appearance. This has downstream effects on the rest of the diagnostic workup, which places imaging early in the respective diagnostic algorithms.</p>
+<p content-type="Para">Both the ATS/JRS/ALAT and ACCP guidelines are in their first iterations, and research evaluating their performance independently and relative to each other is ongoing. While they will likely be updated in the future, the CT features of HP are well studied and described. The primary challenge from an imaging perspective is the variable appearance and nonspecific features, which necessitate careful image analysis and a thorough understanding of the spectrum of findings and distributions. Which set of guidelines, if any, to use for reporting purposes should be decided by each practice or institution based on the prevalence of HP in their practice area and the preferences of the ordering physicians.</p>
+</sec>
+</body>
+<back>
+<sec sec-type="ConflictofInterest">
+<title>Declaration of competing interests</title>
+<p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper</p>
+</sec>
+<ref-list>
+<title>References</title>
+<ref id="bib1"><label>1.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Raghu</surname> <given-names>G</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Remy-Jardin</surname> <given-names>M</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Ryerson</surname> <given-names>CJ</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline</article-title>. <source content-type="JournalTitle"><italic>Am J Respir Crit Care Med</italic></source>. <year>Aug 1 2020</year>;<volume>202</volume>(<issue>3</issue>):<fpage>e36</fpage>-<lpage>e69</lpage>. doi:<pub-id pub-id-type="doi">10.1164/rccm.202005-2032ST</pub-id></mixed-citation>
+</ref>
+<ref id="bib2"><label>2.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Walters</surname> <given-names>GI</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Huntley</surname> <given-names>CC.</given-names></string-name></person-group> <article-title>Novel occupational causes of hypersensitivity pneumonitis</article-title>. <source content-type="JournalTitle"><italic>Curr Opin Allergy Clin Immunol</italic></source>. <year>Apr 1 2023</year>;<volume>23</volume>(<issue>2</issue>):<fpage>85</fpage>-<lpage>91</lpage>. doi:<pub-id pub-id-type="doi">10.1097/ACI.0000000000000894</pub-id></mixed-citation>
+</ref>
+<ref id="bib3"><label>3.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Salisbury</surname> <given-names>ML</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Gu</surname> <given-names>T</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Murray</surname> <given-names>S</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Hypersensitivity Pneumonitis: Radiologic Phenotypes Are Associated With Distinct Survival Time and Pulmonary Function Trajectory</article-title>. <source content-type="JournalTitle"><italic>Chest</italic></source>. <year>Apr 2019</year>;<volume>155</volume>(<issue>4</issue>):<fpage>699</fpage>-<lpage>711</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.chest.2018.08.1076</pub-id></mixed-citation>
+</ref>
+<ref id="bib4"><label>4.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Fernandez Perez</surname> <given-names>ER</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Travis</surname> <given-names>WD</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Lynch</surname> <given-names>DA</given-names></string-name></person-group>,  <etal>et al.</etal> <article-title>Diagnosis and Evaluation of Hypersensitivity Pneumonitis: CHEST Guideline and Expert Panel Report</article-title>. <source content-type="JournalTitle"><italic>Chest</italic></source>. <year>Aug 2021</year>;<volume>160</volume>(<issue>2</issue>):<fpage>e97</fpage>-<lpage>e156</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.chest.2021.03.066</pub-id></mixed-citation>
+</ref>
+<ref id="bib5"><label>5.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Chelala</surname> <given-names>L</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Adegunsoye</surname> <given-names>A</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Strek</surname> <given-names>M</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Hypersensitivity Pneumonitis on Thin-Section Chest CT Scans: Diagnostic Performance of the ATS/JRS/ALAT versus ACCP Imaging Guidelines</article-title>. <source content-type="JournalTitle"><italic>Radiol Cardiothorac Imaging</italic></source>. <year>Aug 2024</year>;<volume>6</volume>(<issue>4</issue>):<fpage>e230068</fpage>. doi:<pub-id pub-id-type="doi">10.1148/ryct.230068</pub-id></mixed-citation>
+</ref>
+<ref id="bib6"><label>6.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Shalmon</surname> <given-names>T</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Freund</surname> <given-names>O</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Wand</surname> <given-names>O</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Hypersensitivity pneumonitis radiologic features in interstitial lung diseases</article-title>. <source content-type="JournalTitle"><italic>Respir Med</italic></source>. <year>Jan 2025</year>;<volume>236</volume>:<fpage>107901</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.rmed.2024.107901</pub-id></mixed-citation>
+</ref>
+<ref id="bib7"><label>7.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Magee</surname> <given-names>AL</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Montner</surname> <given-names>SM</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Husain</surname> <given-names>A</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Adegunsoye</surname> <given-names>A</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Vij</surname> <given-names>R</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Chung</surname> <given-names>JH.</given-names></string-name></person-group> <article-title>Imaging of Hypersensitivity Pneumonitis</article-title>. <source content-type="JournalTitle"><italic>Radiol Clin North Am</italic></source>. <year>Nov 2016</year>;<volume>54</volume>(<issue>6</issue>):<fpage>1033</fpage>-<lpage>1046</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.rcl.2016.05.013</pub-id></mixed-citation>
+</ref>
+<ref id="bib8"><label>8.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Bankier</surname> <given-names>AA</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>MacMahon</surname> <given-names>H</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Colby</surname> <given-names>T</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Fleischner Society: Glossary of Terms for Thoracic Imaging</article-title>. <source content-type="JournalTitle"><italic>Radiology</italic></source>. <year>Feb 2024</year>;<volume>310</volume>(<issue>2</issue>):<fpage>e232558</fpage>. doi:<pub-id pub-id-type="doi">10.1148/radiol.232558</pub-id></mixed-citation>
+</ref>
+<ref id="bib9"><label>9.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Raghu</surname> <given-names>G</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Remy-Jardin</surname> <given-names>M</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Richeldi</surname> <given-names>L</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline</article-title>. <source content-type="JournalTitle"><italic>Am J Respir Crit Care Med</italic></source>. <year>May 1 2022</year>;<volume>205</volume>(<issue>9</issue>):<fpage>e18</fpage>-<lpage>e47</lpage>. doi:<pub-id pub-id-type="doi">10.1164/rccm.202202-0399ST</pub-id></mixed-citation>
+</ref>
+<ref id="bib10"><label>10.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Kang</surname> <given-names>J</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Kim</surname> <given-names>YJ</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Choe</surname> <given-names>J</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Chae</surname> <given-names>EJ</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Song</surname> <given-names>JW</given-names></string-name></person-group>. <article-title>Acute exacerbation of fibrotic hypersensitivity pneumonitis: incidence and outcomes</article-title>. <source content-type="JournalTitle"><italic>Respir Res</italic></source>. <year>May 20 2021</year>;<volume>22</volume>(<issue>1</issue>):<fpage>152</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s12931-021-01748-2</pub-id></mixed-citation>
+</ref>
+<ref id="bib11"><label>11.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Collard</surname> <given-names>HR</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Ryerson</surname> <given-names>CJ</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Corte</surname> <given-names>TJ</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Acute Exacerbation of Idiopathic Pulmonary Fibrosis. An International Working Group Report</article-title>. <source content-type="JournalTitle"><italic>Am J Respir Crit Care Med</italic></source>. <year>Aug 1 2016</year>;<volume>194</volume>(<issue>3</issue>):<fpage>265</fpage>-<lpage>75</lpage>. doi:<pub-id pub-id-type="doi">10.1164/rccm.201604-0801CI</pub-id></mixed-citation>
+</ref>
+<ref id="bib12"><label>12.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Suzuki</surname> <given-names>A</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Kondoh</surname> <given-names>Y</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Brown</surname> <given-names>KK</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Acute exacerbations of fibrotic interstitial lung diseases</article-title>. <source content-type="JournalTitle"><italic>Respirology</italic></source>. <year>May 2020</year>;<volume>25</volume>(<issue>5</issue>):<fpage>525</fpage>-<lpage>534</lpage>. doi:<pub-id pub-id-type="doi">10.1111/resp.13682</pub-id></mixed-citation>
+</ref>
+<ref id="bib13"><label>13.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Salisbury</surname> <given-names>ML</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Gross</surname> <given-names>BH</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Chughtai</surname> <given-names>A</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Development and validation of a radiological diagnosis model for hypersensitivity pneumonitis</article-title>. <source content-type="JournalTitle"><italic>Eur Respir J</italic></source>. <year>Aug 2018</year>;<volume>52</volume>(<issue>2</issue>)doi:<pub-id pub-id-type="doi">10.1183/13993003.00443-2018</pub-id></mixed-citation>
+</ref>
+<ref id="bib14"><label>14.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Sumikawa</surname> <given-names>H</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Komiya</surname> <given-names>K</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Egashira</surname> <given-names>R</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Validation of a computed tomography diagnostic model for differentiating fibrotic hypersensitivity pneumonitis from idiopathic pulmonary fibrosis</article-title>. <source content-type="JournalTitle"><italic>Respir Investig</italic></source>. <year>Sep 2024</year>;<volume>62</volume>(<issue>5</issue>):<fpage>798</fpage>-<lpage>803</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.resinv.2024.07.002</pub-id></mixed-citation>
+</ref>
+<ref id="bib15"><label>15.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Tateishi</surname> <given-names>T</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Johkoh</surname> <given-names>T</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Sakai</surname> <given-names>F</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>High-resolution CT features distinguishing usual interstitial pneumonia pattern in chronic hypersensitivity pneumonitis from those with idiopathic pulmonary fibrosis</article-title>. <source content-type="JournalTitle"><italic>Jpn J Radiol</italic></source>. <year>Jun 2020</year>;<volume>38</volume>(<issue>6</issue>):<fpage>524</fpage>-<lpage>532</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11604-020-00932-6</pub-id></mixed-citation>
+</ref>
+<ref id="bib16"><label>16.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Silva</surname> <given-names>CI</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Muller</surname> <given-names>NL</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Lynch</surname> <given-names>DA</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Chronic hypersensitivity pneumonitis: differentiation from idiopathic pulmonary fibrosis and nonspecific interstitial pneumonia by using thin-section CT</article-title>. <source content-type="JournalTitle"><italic>Radiology</italic></source>. <year>Jan 2008</year>;<volume>246</volume>(<issue>1</issue>):<fpage>288</fpage>-<lpage>97</lpage>. doi:<pub-id pub-id-type="doi">10.1148/radiol.2453061881</pub-id></mixed-citation>
+</ref>
+<ref id="bib17"><label>17.</label><mixed-citation publication-type="Periodical"><person-group person-group-type="author"><string-name><surname>Raghu</surname> <given-names>G</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Remy-Jardin</surname> <given-names>M</given-names></string-name></person-group>, <person-group person-group-type="author"><string-name><surname>Myers</surname> <given-names>JL</given-names></string-name></person-group>, <etal>et al.</etal> <article-title>Diagnosis of Idiopathic Pulmonary Fibrosis. An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline</article-title>. <source content-type="JournalTitle"><italic>Am J Respir Crit Care Med</italic></source>. <year>Sep 1 2018</year>;<volume>198</volume>(<issue>5</issue>):<fpage>e44</fpage>-<lpage>e68</lpage>. doi:<pub-id pub-id-type="doi">10.1164/rccm.201807-1255ST</pub-id></mixed-citation>
+</ref>
+
+</ref-list>
+</back>
+<floats-group>
+<fig id="fig1">
+<label>FIGURE 1:</label>
+<caption><p>Inspiratory (a) and expiratory (b) axial CT images of a 40-year-old female patient showing mosaic attenuation in the setting of nonfibrotic HP. Examples of lobules of different attenuation are annotated: increased attenuation (arrowhead), normal attenuation (arrow), and decreased attenuation (chevron). When all three of these densities are present, this is called the three-density sign.</p>
+</caption>
+</fig>
+<fig id="fig2">
+<label>FIGURE 2:</label>
+<caption><p>Inspiratory axial CT image of 60-year-old female patient with fibrotic HP. In addition to fibrosis, mosaic attenuation is present. Examples of lobules with different attenuation are annotated: increased attenuation (arrowhead), normal attenuation (arrow), and decreased attenuation (chevron). This is an example of the three-density sign in the setting of fibrosis.</p>
+</caption>
+</fig>
+<fig id="fig3">
+<label>FIGURE 3:</label>
+<caption><p>Inspiratory (a) and expiratory (b) axial CT images of an 89-year-old male patient with nonfibrotic HP. The inspiratory image shows diffuse subtle mosaic attenuation. In expiration, air trapping is appreciated as the normal lung decreases in size and attenuation while air trapped lobules (examples marked by arrowheads) remain larger and lower in attenuation.</p>
+</caption>
+</fig>
+<fig id="fig4">
+<label>FIGURE 4:</label>
+<caption><p>Inspiratory CT image of a 43-year-old female patient with nonfibrotic HP. There is diffuse ground glass opacity with a few spared lobules (arrows).</p>
+</caption>
+</fig>
+<fig id="fig5">
+<label>FIGURE 5:</label>
+<caption><p>Axial and coronal CT images of a 38-year-old male patient with nonfibrotic HP. There are extensive ill-defined centrilobular nodules, diffuse in both the axial and craniocaudal distributions.</p>
+</caption>
+</fig>
+<fig id="fig6">
+<label>FIGURE 6:</label>
+<caption><p>Coronal CT image of a 49-year-old male patient with fibrotic HP. This patient has a mid and upper lung distribution of fibrosis (arrow). In addition, mosaic attenuation is present with lobules of increased attenuation (chevron) and decreased attenuation/air trapping (arrowhead).</p>
+</caption>
+</fig>
+<fig id="fig7">
+<label>FIGURE 7:</label>
+<caption><p>Axial CT image of a 76-year-old female patient with fibrotic HP. This patient has a peripheral and peribronchovascular distribution of fibrosis in the axial plane, with an example of peribronchovascular fibrosis annotated with arrows.</p>
+</caption>
+</fig>
+<fig id="fig8">
+<label>FIGURE 8:</label>
+<caption><p>Axial CT images of a 61-year-old male patient with fibrotic HP taken approximately one month apart. The distribution of fibrosis is predominantly peripheral and peribronchovascular (a). One month later the patient presented with respiratory distress. CT at that time (b) showed extensive new ground-glass opacities, with some examples annotated with arrows. In the appropriate clinical context, these findings are compatible with acute exacerbation.</p>
+</caption>
+</fig>
+<table-wrap id="tb1" orientation="landscape">
+<label>TABLE 1:</label>
+<caption><p>Summary of Guidelines for Imaging of Nonfibrotic Hypersensitivity Pneumonitis.</p>
+</caption>
+<table frame="hsides">
+<colgroup>
+<col width="1435" align="left"/>
+<col width="3870" align="left"/>
+<col width="4045" align="left"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="left"/>
+<td align="center" colspan="2"><bold>Typical HP</bold></td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center">ATS/JRS/ALAT</td>
+<td align="center">ACCP</td>
+</tr>
+<tr>
+<td align="left">Description</td>
+<td align="left">Requires at least one finding of parenchymal disease AND at least one finding of small airway disease, both in a diffuse distribution.</td>
+<td align="left">Requires any of the following findings AND a lack of features suggesting an alternative diagnosis:</td>
+</tr>
+<tr>
+<td align="left">Findings</td>
+<td align="left">Parenchymal:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation</p></list-item>
+</list>Small airway:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Ill-defined, centrilobular nodules</p></list-item>
+<list-item><label>&#x2022;</label><p>Air trapping</p></list-item>
+</list>
+</td>
+<td align="left">
+<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Profuse poorly defined centrilobular nodules</p></list-item>
+<list-item><label>&#x2022;</label><p>Inspiratory mosaic attenuation with three-density sign</p></list-item>
+<list-item><label>&#x2022;</label><p>Inspiratory mosaic attenuation and air trapping associated with centrilobular nodules</p></list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center" colspan="2"><bold>Compatible with HP</bold></td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center">ATS/JRS/ALAT</td>
+<td align="center">ACCP</td>
+</tr>
+<tr>
+<td align="left">Description</td>
+<td align="left">Requires any of the following findings in any of the following distributions:</td>
+<td align="left">Requires any of the following findings AND a lack of features suggesting an alternative diagnosis:</td>
+</tr>
+<tr>
+<td align="left">Findings</td>
+<td align="left">Parenchymal:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Uniform and subtle GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Airspace consolidation</p></list-item>
+<list-item><label>&#x2022;</label><p>Lung cysts</p></list-item>
+</list>Craniocaudal distribution:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Diffuse</p></list-item>
+<list-item><label>&#x2022;</label><p>Lower lobe predominance</p></list-item>
+</list>Axial distribution:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Diffuse</p></list-item>
+<list-item><label>&#x2022;</label><p>Peribronchovascular</p></list-item>
+</list>
+</td>
+<td align="left">
+<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Centrilobular ground-glass attenuation nodules that are not profuse or diffuse, and not associated with mosaic attenuation or air trapping</p></list-item>
+<list-item><label>&#x2022;</label><p>Patchy or diffuse GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation and air trapping without centrilobular nodules or GGO</p></list-item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn-group content-type="TableFootnote">
+<fn><p><italic>Definitions of abbreviations: HP = hypersensitivity pneumonitis; ATS/JRS/ALAT = American Thoracic Society, Japanese Respiratory Society, and Asociaci&#x00F3;n Latinoamericana de T&#x00F3;rax; ACCP = American College of Chest Physicians; GGO = ground glass opacity</italic></p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="tb2" orientation="landscape">
+<label>TABLE 2:</label>
+<caption><p>Summary of Guidelines for Imaging of Fibrotic Hypersensitivity Pneumonitis.</p>
+</caption>
+<table frame="hsides">
+<colgroup>
+<col width="1345" align="left"/>
+<col width="3960" align="left"/>
+<col width="4045" align="left"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="left"/>
+<td align="center" colspan="2"><bold>Typical HP</bold></td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center">ATS/JRS/ALAT</td>
+<td align="center">ACCP</td>
+</tr>
+<tr>
+<td align="left">Description</td>
+<td align="left">Requires one of the following patterns of lung fibrosis in one of the listed distributions AND at least one finding of small airway disease:</td>
+<td align="left">Requires signs of fibrosis with either of the following findings AND a lack of features suggesting an alternative diagnosis:</td>
+</tr>
+<tr>
+<td align="left">Findings</td>
+<td align="left">Pattern of fibrosis:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Irregular linear opacities/coarse reticulation with lung distortion</p></list-item>
+<list-item><label>&#x2022;</label><p>Traction bronchiectasis and honeycombing (present but do not predominate)</p></list-item>
+</list>Distribution of fibrosis:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Random both axially and craniocaudally</p></list-item>
+<list-item><label>&#x2022;</label><p>Mid lung zone predominant</p></list-item>
+<list-item><label>&#x2022;</label><p>Relatively spared in the lower lungs</p></list-item>
+</list>Small airways:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Ill-defined centrilobular nodules and/or GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation, three-density pattern, and/or air trapping</p></list-item>
+</list>
+</td>
+<td align="left">
+<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Profuse poorly defined centrilobular ground-glass attenuation nodules affecting all lung zones</p></list-item>
+<list-item><label>&#x2022;</label><p>Inspiratory mosaic attenuation with three-density sign</p></list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center" colspan="2"><bold>Compatible with HP</bold></td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center">ATS/JRS/ALAT</td>
+<td align="center">ACCP</td>
+</tr>
+<tr>
+<td align="left">Description</td>
+<td align="left">Requires one of the following variant patterns of fibrosis and/or one of the following variant distributions of fibrosis AND at least one finding of small airway disease:</td>
+<td align="left">Requires signs of fibrosis with either of the following findings AND a lack of features suggesting an alternative diagnosis:</td>
+</tr>
+<tr>
+<td align="left">Findings</td>
+<td align="left">Pattern of fibrosis:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>UIP pattern</p></list-item>
+<list-item><label>&#x2022;</label><p>Extensive GGO with subtle superimposed features of fibrosis</p></list-item>
+</list>Distribution of fibrosis:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Axial: peribronchovascular or subpleural</p></list-item>
+<list-item><label>&#x2022;</label><p>Craniocaudal: Upper lung</p></list-item>
+</list>Small airways:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Ill-defined centrilobular nodules and/or GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation, three-density pattern, and/or air trapping</p></list-item>
+</list>
+</td>
+<td align="left">
+<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Patchy or diffuse GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Patchy, nonprofuse centrilobular nodules</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation and air trapping that do not meet the criteria for fibrotic HP</p></list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center" colspan="2"><bold>Indeterminate for HP</bold></td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center">ATS/JRS/ALAT</td>
+<td align="center">ACCP</td>
+</tr>
+<tr>
+<td align="left">Description &amp; Findings</td>
+<td align="left">Requires a pattern of fibrosis without other findings suggestive of HP</td>
+<td align="left">Requires signs of fibrosis without other features suggestive of HP</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn-group content-type="TableFootnote">
+<fn><p><italic>Definitions of abbreviations: HP = hypersensitivity pneumonitis; ATS/JRS/ALAT = American Thoracic Society, Japanese Respiratory Society, and Asociaci&#x00F3;n Latinoamericana de T&#x00F3;rax; ACCP = American College of Chest Physicians; GGO = ground glass opacity; UIP = usual interstitial pneumonia</italic></p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="tb3" orientation="landscape">
+<label>TABLE 3:</label>
+<caption><p>Definition and Diagnostic Criteria for Acute Exacerbation of Idiopathic Pulmonary Fibrosis.</p>
+</caption>
+<table frame="hsides">
+<colgroup>
+<col width="1435" align="left"/>
+<col width="7915" align="left"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="left">Definition</td>
+<td align="left">An acute, clinically significant respiratory deterioration characterized by evidence of new widespread alveolar abnormality</td>
+</tr>
+<tr>
+<td align="left">Diagnostic Criteria</td>
+<td align="left">
+<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Previous or concurrent diagnosis of IPF</p></list-item>
+<list-item><label>&#x2022;</label><p>Acute worsening or development of dyspnea typically &lt; 1 month duration</p></list-item>
+<list-item><label>&#x2022;</label><p>CT with new bilateral GGO and/or consolidation superimposed on a background consistent with UIP pattern</p></list-item>
+<list-item><label>&#x2022;</label><p>Deterioration not fully explained by cardiac failure or fluid overload</p></list-item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn-group content-type="TableFootnote">
+<fn><p><italic>Definitions of abbreviations: IPF = Idiopathic pulmonary fibrosis; GGO = ground glass opacity; UIP = Usual interstitial pneumonia</italic></p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="tb4" orientation="landscape">
+<label>TABLE 4:</label>
+<caption><p>Comparison of Select Imaging Criteria for Usual Interstitial Pneumonia and Fibrotic Hypersensitivity Pneumonitis</p>
+</caption>
+<table frame="hsides">
+<colgroup>
+<col width="1504" align="left"/>
+<col width="3960" align="left"/>
+<col width="4045" align="left"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="left"/>
+<td align="center">UIP</td>
+<td align="center">Fibrotic HP</td>
+</tr>
+<tr>
+<td align="left">Fibrosis Features</td>
+<td align="left">Typical UIP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Honeycombing</p></list-item>
+<list-item><label>&#x2022;</label><p>&#x00B1; Traction bronchiectasis or bronchiolectasis</p></list-item>
+</list>Probable UIP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Reticular pattern with peripheral traction bronchiectasis or bronchiolectasis</p></list-item>
+</list>
+</td>
+<td align="left">Typical HP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Irregular linear opacities/coarse reticulation with lung distortion</p></list-item>
+<list-item><label>&#x2022;</label><p>&#x00B1; Traction bronchiectasis and honeycombing (does not predominate)</p></list-item>
+</list>Compatible with HP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>UIP pattern</p></list-item>
+<list-item><label>&#x2022;</label><p>Subtle features of fibrosis with extensive superimposed GGO</p></list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="left">Fibrosis Distribution</td>
+<td align="left">Typical UIP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Axial: Subpleural predominant, often heterogeneous</p></list-item>
+<list-item><label>&#x2022;</label><p>Craniocaudal: Basal predominant, often heterogeneous</p></list-item>
+</list>Probable UIP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Axial: Subpleural predominant, often heterogeneous</p></list-item>
+<list-item><label>&#x2022;</label><p>Craniocaudal: Basal predominant, often heterogeneous</p></list-item>
+</list>
+</td>
+<td align="left">Typical HP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Axial: Random</p></list-item>
+<list-item><label>&#x2022;</label><p>Craniocaudal: Random, mid lung predominant, or relative basal sparing</p></list-item>
+</list>Compatible with HP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Axial: UIP pattern or peribronchovascular + subpleural</p></list-item>
+<list-item><label>&#x2022;</label><p>Craniocaudal: UIP pattern or upper lung predominant</p></list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="left">Superimposed Nonfibrotic Features</td>
+<td align="left">Typical UIP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>None</p></list-item>
+</list>Probable UIP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>&#x00B1; Mild GGO</p></list-item>
+</list>
+</td>
+<td align="left">Typical HP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Ill-defined centrilobular nodules and/or GGO*&#x2020;</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation*&#x2020;</p></list-item>
+<list-item><label>&#x2022;</label><p>Three-density pattern*&#x2020;</p></list-item>
+<list-item><label>&#x2022;</label><p>Air trapping*</p></list-item>
+</list>Compatible with HP:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Ill-defined centrilobular nodules*&#x2020;</p></list-item>
+<list-item><label>&#x2022;</label><p>Three-density pattern*</p></list-item>
+<list-item><label>&#x2022;</label><p>Air trapping*&#x2020;</p></list-item>
+<list-item><label>&#x2022;</label><p>Mosaic attenuation&#x2020;</p></list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="left">Findings Suggestive of Alternative Diagnosis</td>
+<td align="left">Features:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Cysts</p></list-item>
+<list-item><label>&#x2022;</label><p>Marked mosaic attenuation</p></list-item>
+<list-item><label>&#x2022;</label><p>Predominant GGO</p></list-item>
+<list-item><label>&#x2022;</label><p>Profuse micronodules</p></list-item>
+<list-item><label>&#x2022;</label><p>Centrilobular nodules</p></list-item>
+<list-item><label>&#x2022;</label><p>Nodules (other than described above)</p></list-item>
+<list-item><label>&#x2022;</label><p>Consolidation</p></list-item>
+</list>Distribution:<list list-type="bullet">
+<list-item><label>&#x2022;</label><p>Peribronchovascular</p></list-item>
+<list-item><label>&#x2022;</label><p>Perilymphatic</p></list-item>
+<list-item><label>&#x2022;</label><p>Upper or mid lung</p></list-item>
+</list>
+</td>
+<td align="left">N/A. In the absence of features suggestive of HP, fibrotic interstitial lung disease of type and distribution could still represent fibrotic HP (&#x201C;Indeterminate for HP&#x201D; category)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn-group content-type="TableFootnote">
+<fn><p><italic>* ATS/JRS/ALAT guidelines</italic></p>
+<p><italic>&#x2020; ACCP guidelines</italic></p>
+<p><italic>Criteria for &#x201C;Indeterminate for UIP&#x201D; and &#x201C;Indeterminate for HP&#x201D; categories were intentionally omitted for clarity and brevity</italic></p>
+<p><italic>Definitions of abbreviations: UIP = Usual interstitial pneumonia; HP = Hypersensitivity pneumonitis; GGO = Ground-glass opacity</italic></p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+</floats-group>
+</article>

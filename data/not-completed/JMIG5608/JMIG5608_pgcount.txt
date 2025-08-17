@@ -1,0 +1,4 @@
+Words = 395
+Pages = 1
+FigCount = 0
+TblCount = 0

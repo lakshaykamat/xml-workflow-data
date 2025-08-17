@@ -1,0 +1,2665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jobjacket cls="elsarticle" sty="els-master,bm" mode=""?>
+<!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.7.0//EN//XML" "art570.dtd" [
+<!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE>
+<!ENTITY gr2 SYSTEM "gr2" NDATA IMAGE>
+<!ENTITY gr3 SYSTEM "gr3" NDATA IMAGE>
+<!ENTITY gr4 SYSTEM "gr4" NDATA IMAGE>
+<!ENTITY gr5 SYSTEM "gr5" NDATA IMAGE>
+<!ENTITY mmc1 SYSTEM "mmc1" NDATA APPLICATION>
+<!ENTITY mmc2 SYSTEM "mmc2" NDATA APPLICATION>
+<!ENTITY mmc3 SYSTEM "mmc3" NDATA APPLICATION>
+<!ENTITY mmc4 SYSTEM "mmc4" NDATA APPLICATION>
+]>
+<article docsubtype="fla" xmlns="http://www.elsevier.com/xml/ja/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd">
+<?articleinfo volume="000" firstpage="1" online="xxx"?>
+<?citethisarticle text="Peripheral Macular Endothelial Dystrophy: Clinical, Histopathologic, Genetic and Functional Characterization"?><item-info>
+<jid>AJOPHT</jid>
+<aid>13510</aid>
+<ce:pii>S0002-9394(25)00412-X</ce:pii>
+<ce:doi>10.1016/j.ajo.2025.08.006</ce:doi>
+<ce:copyright type="unknown" year="2025"/>
+</item-info>
+<ce:floats>
+<ce:figure id="fig0001">
+<ce:label>Figure 1</ce:label>
+<ce:caption id="cap0001">
+<ce:simple-para id="spara001">Pedigrees of seven previously unreported families with Peripheral macular endothelial dystrophy (PMED). Family A is Thai, families B &#x2013; G are Vietnamese. The arrowhead indicates the proband in each family. Asterisks indicate enrolled individuals that were examined and had genomic DNA collected. Filled symbols indicate affected individuals, empty symbols indicate unaffected individuals. Question marks (?) indicate individuals who were not examined and are of undetermined affected status. Diagonal lines mark deceased individuals. &#x201C;WES&#x201D; indicates individuals in whom whole exome sequencing was performed. Red dot &#x201C;&#x2022;&#x201D; indicates individuals from whom dried blood spots were collected for measurement of sulfated GAGs. Red &#x201C;drop shape&#x201D; indicates individuals from whom serum was collected for measurement of sulfated GAGs. &#x201C;EK&#x201D; indicates individuals in whom endothelial keratoplasty was performed in at least one eye.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0001" role="short">Figure 1</ce:alt-text>
+<ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S000293942500412X/gr1"/>
+</ce:figure>
+<ce:figure id="fig0002">
+<ce:label>Figure 2</ce:label>
+<ce:caption id="cap0002">
+<ce:simple-para id="spara002">Clinical findings of affected individuals in Families A (panels A-C), B (D-G) and C (H-J). (A) Slit lamp photomicrographs of the proband. (B) Slit lamp photomicrographs of the proband following DMEK in both eyes. (C) Slit lamp photomicrographs of the affected mother of the proband. (D) Slit lamp photomicrographs of the proband at initial presentation and (E) six months following presentation. (F) Slit lamp photos of the proband following DSAEK in the right eye. (G) Slit lamp photomicrographs of the proband&#x2019;s older brother. (H) Slit lamp photomicrographs of the proband at presentation. (I) Slit lamp photomicrographs of the proband&#x2019;s left eye following DMEK. (J) Slit lamp photos of the proband&#x2019;s affected older sister.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0002" role="short">Figure 2</ce:alt-text>
+<ce:link id="celink0002" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S000293942500412X/gr2"/>
+</ce:figure>
+<ce:figure id="fig0003">
+<ce:label>Figure 3</ce:label>
+<ce:caption id="cap0003">
+<ce:simple-para id="spara003">Clinical findings of affected individuals in Families D (panels A-D), E (E-F), F (G-H) and G (I). (A) Slit lamp photomicrographs of the proband at presentation. (B) AS-OCT images of the proband at presentation. (C) Slit lamp photomicrographs of one of the proband&#x2019;s affected younger brothers. (D) Slit lamp photomicrographs of the other affected younger brother of the proband. (E) Slit lamp photomicrographs of the proband at presentation. (F) Slit lamp photomicrographs of the affected younger sister of the proband. (G) Slit lamp photomicrographs of the proband at presentation. (H) Slit lamp photomicrographs of the proband&#x2019;s left eye following DSEK. (I) Slit lamp photomicrographs of the proband.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0003" role="short">Figure 3</ce:alt-text>
+<ce:link id="celink0003" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S000293942500412X/gr3"/>
+</ce:figure>
+<ce:figure id="fig0004">
+<ce:label>Figure 4</ce:label>
+<ce:caption id="cap0004">
+<ce:simple-para id="spara004">Functional Assay of CHST6 Mutants. (A) Graphical representation of <ce:italic>CHST6</ce:italic> gene structure and map of CHST6 promoter-containing expressing vector pcDNA3_CGn6STwPro, showing the relative positions of <ce:italic>CHST6</ce:italic> exon 1 &#x2013; 3 on the genome and in the vector. Color-coded lines depicted the relative positions of generated mutations in the vector. (B) Western Blot results of HCEnC and HK cell lysates following CGn6STwPro transfections. The amount of wild-type (WT) or mutant CGn6STwPro expression vector used was denoted as &#x201C;2&#x00D7;&#x201D; for 250 ng / well and &#x201C;1&#x00D7;&#x201D; for 125 ng / well. (C) Bar graph summary of 5D4&#x002B; KS relative fold change in HCEnC or HK transfected with mutant CGn6STwPro expression vectors when compared to WT/WT transfection.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0004" role="short">Figure 4</ce:alt-text>
+<ce:link id="celink0004" locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S000293942500412X/gr4"/>
+</ce:figure>
+<ce:figure id="fig0005">
+<ce:label>Figure 5</ce:label>
+<ce:caption id="cap0005">
+<ce:simple-para id="spara005">Histology and immunohistochemistry of DM from three probands.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0005" role="short">Figure 5</ce:alt-text>
+<ce:link id="celink0005" locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S000293942500412X/gr5"/>
+</ce:figure>
+<ce:table id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 1</ce:label>
+<ce:caption id="cap0006">
+<ce:simple-para id="spara006">Identified presumed pathogenic CHST6 mutations in families A &#x2013; G.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0006" role="short">Table 1</ce:alt-text>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0001" colname="col1" align="left" valign="top">Healthy control cornea: full thickness eye bank donor cornea. PCE DM: DM from an individual with pseudophakic corneal edema.<ce:br/><ce:bold>Family</ce:bold></entry>
+<entry id="en0002" colname="col2" valign="top"><ce:bold>Generation</ce:bold></entry>
+<entry id="en0003" colname="col3" valign="top"><ce:bold>Age</ce:bold></entry>
+<entry id="en0004" colname="col4" valign="top"><ce:bold>Affected Status</ce:bold></entry>
+<entry id="en0005" colname="col5" valign="top"><ce:bold>Allele 1</ce:bold></entry>
+<entry id="en0006" colname="col6" valign="top"><ce:bold>Allele 2</ce:bold></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0007" colname="col1" morerows="4" align="left" role="rowgroup" valign="top">A</entry>
+<entry id="en0008" colname="col2" valign="top">I-1</entry>
+<entry id="en0009" colname="col3" valign="top">74</entry>
+<entry id="en0010" colname="col4" valign="top">No</entry>
+<entry id="en0011" colname="col5" valign="top">c.839C&gt;T, p.(Pro280Leu) <ce:sup>1</ce:sup></entry>
+<entry id="en0012" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0014" colname="col2" valign="top">I-2</entry>
+<entry id="en0015" colname="col3" valign="top">73</entry>
+<entry id="en0016" colname="col4" valign="top">Yes</entry>
+<entry id="en0017" colname="col5" valign="top">-</entry>
+<entry id="en0018" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C <ce:sup>2,5</ce:sup></entry>
+</row>
+<row>
+<entry id="en0020" colname="col2" valign="top">II-1</entry>
+<entry id="en0021" colname="col3" valign="top">52</entry>
+<entry id="en0022" colname="col4" valign="top">No</entry>
+<entry id="en0023" colname="col5" valign="top">-</entry>
+<entry id="en0024" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0026" colname="col2" valign="top">&#x25BA; II-2</entry>
+<entry id="en0027" colname="col3" valign="top">50</entry>
+<entry id="en0028" colname="col4" valign="top">Yes</entry>
+<entry id="en0029" colname="col5" valign="top">c.839C&gt;T, p.(Pro280Leu)</entry>
+<entry id="en0030" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0032" colname="col2" valign="top">III-1</entry>
+<entry id="en0033" colname="col3" valign="top">25</entry>
+<entry id="en0034" colname="col4" valign="top">No</entry>
+<entry id="en0035" colname="col5" valign="top">-</entry>
+<entry id="en0036" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0037" colname="col1" morerows="2" align="left" role="rowgroup" valign="top">B</entry>
+<entry id="en0038" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0039" colname="col3" valign="top">49</entry>
+<entry id="en0040" colname="col4" valign="top">Yes</entry>
+<entry id="en0041" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0042" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0044" colname="col2" valign="top">II-2</entry>
+<entry id="en0045" colname="col3" valign="top">45</entry>
+<entry id="en0046" colname="col4" valign="top">Yes</entry>
+<entry id="en0047" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0048" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0050" colname="col2" valign="top">III-1</entry>
+<entry id="en0051" colname="col3" valign="top">23</entry>
+<entry id="en0052" colname="col4" valign="top">No</entry>
+<entry id="en0053" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0054" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0055" colname="col1" morerows="9" align="left" role="rowgroup" valign="top">C</entry>
+<entry id="en0056" colname="col2" valign="top">II-1</entry>
+<entry id="en0057" colname="col3" valign="top">72</entry>
+<entry id="en0058" colname="col4" valign="top">Yes</entry>
+<entry id="en0059" colname="col5" valign="top">c.803A&gt;G, p.(Tyr268Cys) <ce:sup>3</ce:sup></entry>
+<entry id="en0060" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0062" colname="col2" valign="top">II-4</entry>
+<entry id="en0063" colname="col3" valign="top">66</entry>
+<entry id="en0064" colname="col4" valign="top">No</entry>
+<entry id="en0065" colname="col5" valign="top">-</entry>
+<entry id="en0066" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0068" colname="col2" valign="top">&#x25BA; II-5</entry>
+<entry id="en0069" colname="col3" valign="top">60</entry>
+<entry id="en0070" colname="col4" valign="top">Yes</entry>
+<entry id="en0071" colname="col5" valign="top">c.803A&gt;G, p.(Tyr268Cys)</entry>
+<entry id="en0072" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0074" colname="col2" valign="top">II-6</entry>
+<entry id="en0075" colname="col3" valign="top">56</entry>
+<entry id="en0076" colname="col4" valign="top">No</entry>
+<entry id="en0077" colname="col5" valign="top">-</entry>
+<entry id="en0078" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0080" colname="col2" valign="top">II-7</entry>
+<entry id="en0081" colname="col3" valign="top">52</entry>
+<entry id="en0082" colname="col4" valign="top">No</entry>
+<entry id="en0083" colname="col5" valign="top">-</entry>
+<entry id="en0084" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0086" colname="col2" valign="top">III-1</entry>
+<entry id="en0087" colname="col3" valign="top">40</entry>
+<entry id="en0088" colname="col4" valign="top">No</entry>
+<entry id="en0089" colname="col5" valign="top">c.803A&gt;G, p.(Tyr268Cys)</entry>
+<entry id="en0090" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0092" colname="col2" valign="top">III-2</entry>
+<entry id="en0093" colname="col3" valign="top">37</entry>
+<entry id="en0094" colname="col4" valign="top">No</entry>
+<entry id="en0095" colname="col5" valign="top">-</entry>
+<entry id="en0096" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0098" colname="col2" valign="top">III-3</entry>
+<entry id="en0099" colname="col3" valign="top">35</entry>
+<entry id="en0100" colname="col4" valign="top">No</entry>
+<entry id="en0101" colname="col5" valign="top">-</entry>
+<entry id="en0102" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0104" colname="col2" valign="top">III-4</entry>
+<entry id="en0105" colname="col3" valign="top">33</entry>
+<entry id="en0106" colname="col4" valign="top">No</entry>
+<entry id="en0107" colname="col5" valign="top">c.803A&gt;G, p.(Tyr268Cys)</entry>
+<entry id="en0108" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0110" colname="col2" valign="top">III-5</entry>
+<entry id="en0111" colname="col3" valign="top">30</entry>
+<entry id="en0112" colname="col4" valign="top">No</entry>
+<entry id="en0113" colname="col5" valign="top">-</entry>
+<entry id="en0114" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0115" colname="col1" morerows="10" align="left" role="rowgroup" valign="top">D</entry>
+<entry id="en0116" colname="col2" valign="top">I-1</entry>
+<entry id="en0117" colname="col3" valign="top">64</entry>
+<entry id="en0118" colname="col4" valign="top">No</entry>
+<entry id="en0119" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln) <ce:sup>4</ce:sup></entry>
+<entry id="en0120" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0122" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0123" colname="col3" valign="top">41</entry>
+<entry id="en0124" colname="col4" valign="top">Yes</entry>
+<entry id="en0125" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln)</entry>
+<entry id="en0126" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0128" colname="col2" valign="top">II-2</entry>
+<entry id="en0129" colname="col3" valign="top">39</entry>
+<entry id="en0130" colname="col4" valign="top">No</entry>
+<entry id="en0131" colname="col5" valign="top">-</entry>
+<entry id="en0132" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0134" colname="col2" valign="top">II-3</entry>
+<entry id="en0135" colname="col3" valign="top">36</entry>
+<entry id="en0136" colname="col4" valign="top">Yes</entry>
+<entry id="en0137" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln)</entry>
+<entry id="en0138" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0140" colname="col2" valign="top">II-4</entry>
+<entry id="en0141" colname="col3" valign="top">34</entry>
+<entry id="en0142" colname="col4" valign="top">No</entry>
+<entry id="en0143" colname="col5" valign="top">-</entry>
+<entry id="en0144" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0146" colname="col2" valign="top">II-5</entry>
+<entry id="en0147" colname="col3" valign="top">31</entry>
+<entry id="en0148" colname="col4" valign="top">Yes</entry>
+<entry id="en0149" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln)</entry>
+<entry id="en0150" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0152" colname="col2" valign="top">II-6</entry>
+<entry id="en0153" colname="col3" valign="top">28</entry>
+<entry id="en0154" colname="col4" valign="top">No</entry>
+<entry id="en0155" colname="col5" valign="top">-</entry>
+<entry id="en0156" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0158" colname="col2" valign="top">II-7</entry>
+<entry id="en0159" colname="col3" valign="top">24</entry>
+<entry id="en0160" colname="col4" valign="top">No</entry>
+<entry id="en0161" colname="col5" valign="top">-</entry>
+<entry id="en0162" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0164" colname="col2" valign="top">III-1</entry>
+<entry id="en0165" colname="col3" valign="top">8</entry>
+<entry id="en0166" colname="col4" valign="top">No</entry>
+<entry id="en0167" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln)</entry>
+<entry id="en0168" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0170" colname="col2" valign="top">III-3</entry>
+<entry id="en0171" colname="col3" valign="top">20</entry>
+<entry id="en0172" colname="col4" valign="top">No</entry>
+<entry id="en0173" colname="col5" valign="top">-</entry>
+<entry id="en0174" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0176" colname="col2" valign="top">III-4</entry>
+<entry id="en0177" colname="col3" valign="top">12</entry>
+<entry id="en0178" colname="col4" valign="top">No</entry>
+<entry id="en0179" colname="col5" valign="top">-</entry>
+<entry id="en0180" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0181" colname="col1" morerows="1" align="left" role="rowgroup" valign="top">E</entry>
+<entry id="en0182" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0183" colname="col3" valign="top">54</entry>
+<entry id="en0184" colname="col4" valign="top">Yes</entry>
+<entry id="en0185" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0186" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0188" colname="col2" valign="top">II-2</entry>
+<entry id="en0189" colname="col3" valign="top">42</entry>
+<entry id="en0190" colname="col4" valign="top">Yes</entry>
+<entry id="en0191" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0192" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0193" colname="col1" morerows="1" align="left" role="rowgroup" valign="top">F</entry>
+<entry id="en0194" colname="col2" valign="top">&#x25BA; I-1</entry>
+<entry id="en0195" colname="col3" valign="top">62</entry>
+<entry id="en0196" colname="col4" valign="top">Yes</entry>
+<entry id="en0197" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln)</entry>
+<entry id="en0198" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0200" colname="col2" valign="top">II-1</entry>
+<entry id="en0201" colname="col3" valign="top">29</entry>
+<entry id="en0202" colname="col4" valign="top">No</entry>
+<entry id="en0203" colname="col5" valign="top">c.632G&gt;A, p.(Arg211Gln)</entry>
+<entry id="en0204" colname="col6" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0205" colname="col1" align="left" valign="top">G</entry>
+<entry id="en0206" colname="col2" valign="top">&#x25BA; I-1</entry>
+<entry id="en0207" colname="col3" valign="top">58</entry>
+<entry id="en0208" colname="col4" valign="top">Yes</entry>
+<entry id="en0209" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0210" colname="col6" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+</row>
+<row>
+<entry id="en0211" colname="col1" align="left" valign="top"/>
+<entry id="en0212" colname="col2" valign="top">II-1</entry>
+<entry id="en0213" colname="col3" valign="top">25</entry>
+<entry id="en0214" colname="col4" valign="top">No</entry>
+<entry id="en0215" colname="col5" valign="top">n.-97G&gt;C, c.-690G&gt;C</entry>
+<entry id="en0216" colname="col6" valign="top">-</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spara007">&#x25BA; indicates proband. <ce:sup>1</ce:sup>rs201767298, no MAF</ce:simple-para>
+<ce:simple-para id="spara008"><ce:sup>2</ce:sup>rs1009794816, MAF: 0.000064 (GnomAD), 0.000088 (TOPMED)</ce:simple-para>
+<ce:simple-para id="spara009"><ce:sup>3</ce:sup>rs72547539, MAF: 0.000064 (GnomAD), 0.000009 (ExAC), 0.00004 (TOPMED), 0.0002 (1000Genome), previously reported to be associated with MCD <ce:sup>16</ce:sup></ce:simple-para>
+<ce:simple-para id="spara010"><ce:sup>4</ce:sup>rs771397083, MAF: 0.000004 (GnomAD), 0 (ExAC), previously reported to be associated with MCD <ce:sup>17</ce:sup></ce:simple-para>
+<ce:simple-para id="spara011"><ce:sup>5</ce:sup>All screened individuals with a c.-690G&gt;C mutation also carry two adjacent common variants <ce:italic>in cis</ce:italic>: c.-668C&gt;T (rs2550323, TOPMED MAF 0.034) and c.-792C&gt;T (rs2550322, TOPMED MAF 0.114)</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 2</ce:label>
+<ce:caption id="cap0007">
+<ce:simple-para id="spara012">In silico analysis of identified CHST6 mutations.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0007" role="short">Table 2</ce:alt-text>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<colspec colnum="7" colname="col7" align="left"/>
+<colspec colnum="8" colname="col8" align="left"/>
+<colspec colnum="9" colname="col9" align="left"/>
+<thead>
+<row>
+<entry id="en0217" colname="col1" morerows="1" align="left" role="rowgroup" valign="top" rowsep="1"><ce:bold>Mutation</ce:bold></entry>
+<entry id="en0218" colname="col2" morerows="1" align="left" role="rowgroup" valign="top" rowsep="1"><ce:bold>dbSNP IDS</ce:bold></entry>
+<entry id="en0219" align="left" namest="col3" nameend="col5" role="colgroup" valign="top" rowsep="1"><ce:bold>RegulomeDB</ce:bold> <ce:sup>1</ce:sup></entry>
+<entry id="en0220" align="left" namest="col6" nameend="col7" role="colgroup" valign="top" rowsep="1"><ce:bold>PredictSNP2</ce:bold> <ce:sup>2</ce:sup></entry>
+<entry id="en0221" align="left" namest="col8" nameend="col9" role="colgroup" valign="top" rowsep="1"><ce:bold>PolyPhen-2</ce:bold> <ce:sup>3</ce:sup></entry>
+</row>
+<row rowsep="1">
+<entry id="en0224" colname="col3" valign="top"><ce:bold>Rank</ce:bold></entry>
+<entry id="en0225" colname="col4" valign="top"><ce:bold>Score</ce:bold></entry>
+<entry id="en0226" colname="col5" valign="top"><ce:bold>ChIP Data</ce:bold> <ce:sup>4</ce:sup></entry>
+<entry id="en0227" colname="col6" valign="top"><ce:bold>Prediction</ce:bold></entry>
+<entry id="en0228" colname="col7" valign="top"><ce:bold>Score</ce:bold></entry>
+<entry id="en0229" colname="col8" valign="top"><ce:bold>Prediction</ce:bold></entry>
+<entry id="en0230" colname="col9" valign="top"><ce:bold>Score</ce:bold></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0231" colname="col1" valign="top">c.-792C&gt;T</entry>
+<entry id="en0232" colname="col2" valign="top">rs2550322</entry>
+<entry id="en0233" colname="col3" valign="top">4 <ce:sup>5</ce:sup></entry>
+<entry id="en0234" colname="col4" valign="top">0.6091</entry>
+<entry id="en0235" colname="col5" valign="top">EZH2 <ce:sup>7</ce:sup> (3/17)</entry>
+<entry id="en0236" colname="col6" valign="top">-</entry>
+<entry id="en0237" colname="col7" valign="top">-</entry>
+<entry id="en0238" colname="col8" valign="top">-</entry>
+<entry id="en0239" colname="col9" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0240" colname="col1" valign="top"><ce:bold>c.-690G&gt;C</ce:bold></entry>
+<entry id="en0241" colname="col2" valign="top"><ce:bold>rs1009794816</ce:bold></entry>
+<entry id="en0242" colname="col3" valign="top"><ce:bold>2b</ce:bold> <ce:sup>6</ce:sup></entry>
+<entry id="en0243" colname="col4" valign="top"><ce:bold>1.0000</ce:bold></entry>
+<entry id="en0244" colname="col5" valign="top"><ce:bold>POLR2A <ce:sup>8</ce:sup> (10/36)</ce:bold></entry>
+<entry id="en0245" colname="col6" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0246" colname="col7" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0247" colname="col8" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0248" colname="col9" valign="top"><ce:bold>-</ce:bold></entry>
+</row>
+<row>
+<entry id="en0249" colname="col1" valign="top">c.-668C&gt;T</entry>
+<entry id="en0250" colname="col2" valign="top">rs2550323</entry>
+<entry id="en0251" colname="col3" valign="top">2b</entry>
+<entry id="en0252" colname="col4" valign="top">0.5574</entry>
+<entry id="en0253" colname="col5" valign="top">POLR2A (11/37)</entry>
+<entry id="en0254" colname="col6" valign="top">-</entry>
+<entry id="en0255" colname="col7" valign="top">-</entry>
+<entry id="en0256" colname="col8" valign="top">-</entry>
+<entry id="en0257" colname="col9" valign="top">-</entry>
+</row>
+<row>
+<entry id="en0258" colname="col1" valign="top"><ce:bold>p.Arg211Gln</ce:bold></entry>
+<entry id="en0259" colname="col2" valign="top"><ce:bold>rs771397083</ce:bold></entry>
+<entry id="en0260" colname="col3" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0261" colname="col4" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0262" colname="col5" valign="top"/>
+<entry id="en0263" colname="col6" valign="top"><ce:bold>Deleterious</ce:bold></entry>
+<entry id="en0264" colname="col7" valign="top"><ce:bold>1</ce:bold></entry>
+<entry id="en0265" colname="col8" valign="top"><ce:bold>Probably Damaging</ce:bold></entry>
+<entry id="en0266" colname="col9" valign="top"><ce:bold>1.0</ce:bold></entry>
+</row>
+<row>
+<entry id="en0267" colname="col1" valign="top"><ce:bold>p.Tyr268Cys</ce:bold></entry>
+<entry id="en0268" colname="col2" valign="top"><ce:bold>rs72547539</ce:bold></entry>
+<entry id="en0269" colname="col3" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0270" colname="col4" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0271" colname="col5" valign="top"/>
+<entry id="en0272" colname="col6" valign="top"><ce:bold>Deleterious</ce:bold></entry>
+<entry id="en0273" colname="col7" valign="top"><ce:bold>1</ce:bold></entry>
+<entry id="en0274" colname="col8" valign="top"><ce:bold>Probably Damaging</ce:bold></entry>
+<entry id="en0275" colname="col9" valign="top"><ce:bold>1.0</ce:bold></entry>
+</row>
+<row>
+<entry id="en0276" colname="col1" valign="top"><ce:bold>p.Pro280Leu</ce:bold></entry>
+<entry id="en0277" colname="col2" valign="top"><ce:bold>rs201767298</ce:bold></entry>
+<entry id="en0278" colname="col3" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0279" colname="col4" valign="top"><ce:bold>-</ce:bold></entry>
+<entry id="en0280" colname="col5" valign="top"/>
+<entry id="en0281" colname="col6" valign="top"><ce:bold>Deleterious</ce:bold></entry>
+<entry id="en0282" colname="col7" valign="top"><ce:bold>1</ce:bold></entry>
+<entry id="en0283" colname="col8" valign="top"><ce:bold>Probably Damaging</ce:bold></entry>
+<entry id="en0284" colname="col9" valign="top"><ce:bold>1.0</ce:bold></entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spara013"><ce:sup>1</ce:sup>RegulomeDB version 2.0.3 was used. RegulomeDB probability score ranges from 0 to 1, with 1 being most likely to be a regulatory variant</ce:simple-para>
+<ce:simple-para id="spara014"><ce:sup>2</ce:sup>PredictSNP2 score ranges from 0 to 1, with 1 being the most likely to be deleterious variant</ce:simple-para>
+<ce:simple-para id="spara015"><ce:sup>3</ce:sup>PolyPhen-2 score ranges from 0.0 to 1.0. Variants with scores of 0.0 are predicted to be benign. Values closer to 1.0 are more confidently predicted to be deleterious</ce:simple-para>
+<ce:simple-para id="spara016"><ce:sup>4</ce:sup>Column &#x201C;ChIP Data&#x201D; listed the most frequently bond transcriptional factor (TF) and/or subunit of transcriptional machinery for the variant coordinate Numbers in parenthesis are # of CHIP-seq data sets showing peak of listed TF or subunit / total # of CHIP-seq data sets with peak at the variant coordinate</ce:simple-para>
+<ce:simple-para id="spara017"><ce:sup>5</ce:sup>RegulomeDB rank 4 represents &#x201C;TF binding&#x202F;&#x002B;&#x202F;DNase peak&#x201D; as supporting data for the variant coordinate</ce:simple-para>
+<ce:simple-para id="spara018"><ce:sup>6</ce:sup>RegulomeDB rank 2b represents &#x201C;TF binding&#x202F;&#x002B;&#x202F;any motif&#x202F;&#x002B;&#x202F;DNase Footprint&#x202F;&#x002B;&#x202F;DNase peak&#x201D; as supporting data for the variant coordinate</ce:simple-para>
+<ce:simple-para id="spara019"><ce:sup>7</ce:sup>EZH2, enhancer of zeste homolog 2, is a histone-lysine N-methyltransferase enzyme</ce:simple-para>
+<ce:simple-para id="spara020"><ce:sup>8</ce:sup>POLR2A, RNA polymerase II subunit A, is the largest subunit of RNA polymerase II - the polymerase responsible for synthesizing messenger RNA in eukaryotes</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table id="tbl0003" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 3</ce:label>
+<ce:caption id="cap0008">
+<ce:simple-para id="spara021">Serum glycosaminoglycan levels in enrolled individuals with and without PMED.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0008" role="short">Table 3</ce:alt-text>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<colspec colnum="7" colname="col7" align="left"/>
+<colspec colnum="8" colname="col8" align="left"/>
+<colspec colnum="9" colname="col9" align="left"/>
+<colspec colnum="10" colname="col10" align="left"/>
+<tbody>
+<row>
+<entry id="en0285" morerows="1" align="left" namest="col1" nameend="col2" role="rowhead colgroup" valign="top"><ce:bold>Family ID &#x007C; Individual ID</ce:bold></entry>
+<entry id="en0286" colname="col3" morerows="1" align="left" role="rowgroup" valign="top"><ce:bold>Age</ce:bold><ce:sup>1</ce:sup><ce:bold>(yrs)</ce:bold></entry>
+<entry id="en0287" colname="col4" morerows="1" align="left" role="rowgroup" valign="top"><ce:bold>Affected Status</ce:bold></entry>
+<entry id="en0288" align="left" namest="col5" nameend="col7" role="colgroup" valign="top"><ce:bold>KS (ng/ml)</ce:bold></entry>
+<entry id="en0289" colname="col8" valign="top"><ce:bold>DS (ng/ml)</ce:bold></entry>
+<entry id="en0290" align="left" namest="col9" nameend="col10" role="colgroup" valign="top"><ce:bold>HS (ng/ml)</ce:bold></entry>
+</row>
+<row>
+<entry id="en0294" colname="col5" valign="top"><ce:bold>Di-S KS<ce:sup>2</ce:sup></ce:bold></entry>
+<entry id="en0295" colname="col6" valign="top"><ce:bold>Mono-S KS<ce:sup>3</ce:sup></ce:bold></entry>
+<entry id="en0296" colname="col7" valign="top"><ce:bold>Total sulfated KS</ce:bold></entry>
+<entry id="en0297" colname="col8" valign="top"><ce:bold>&#x0394;Di-4S<ce:sup>4</ce:sup></ce:bold></entry>
+<entry id="en0298" colname="col9" valign="top"><ce:bold>&#x0394;DiHS-NS<ce:sup>5</ce:sup></ce:bold></entry>
+<entry id="en0299" colname="col10" valign="top"><ce:bold>&#x0394;DiHS-oS<ce:sup>6</ce:sup></ce:bold></entry>
+</row>
+<row>
+<entry id="en0300" colname="col1" morerows="7" align="left" role="rowhead rowgroup" valign="top"><ce:bold>Healthy Control</ce:bold></entry>
+<entry id="en0301" colname="col2" valign="top">1</entry>
+<entry id="en0302" colname="col3" valign="top">62</entry>
+<entry id="en0303" colname="col4" morerows="7" align="left" role="rowgroup" valign="top">N/A</entry>
+<entry id="en0304" colname="col5" valign="top">150.9</entry>
+<entry id="en0305" colname="col6" valign="top">301.4</entry>
+<entry id="en0306" colname="col7" valign="top">452.3</entry>
+<entry id="en0307" colname="col8" valign="top">17.9</entry>
+<entry id="en0308" colname="col9" valign="top">6.0</entry>
+<entry id="en0309" colname="col10" valign="top">36.8</entry>
+</row>
+<row>
+<entry id="en0311" colname="col2" valign="top">2</entry>
+<entry id="en0312" colname="col3" valign="top">57</entry>
+<entry id="en0314" colname="col5" valign="top">122.0</entry>
+<entry id="en0315" colname="col6" valign="top">325.3</entry>
+<entry id="en0316" colname="col7" valign="top">447.4</entry>
+<entry id="en0317" colname="col8" valign="top">13.1</entry>
+<entry id="en0318" colname="col9" valign="top">7.0</entry>
+<entry id="en0319" colname="col10" valign="top">56.8</entry>
+</row>
+<row>
+<entry id="en0321" colname="col2" valign="top">3</entry>
+<entry id="en0322" colname="col3" valign="top">59</entry>
+<entry id="en0324" colname="col5" valign="top">158.7</entry>
+<entry id="en0325" colname="col6" valign="top">317.2</entry>
+<entry id="en0326" colname="col7" valign="top">475.9</entry>
+<entry id="en0327" colname="col8" valign="top">15.0</entry>
+<entry id="en0328" colname="col9" valign="top">8.2</entry>
+<entry id="en0329" colname="col10" valign="top">57.9</entry>
+</row>
+<row>
+<entry id="en0331" colname="col2" valign="top">4</entry>
+<entry id="en0332" colname="col3" valign="top">60</entry>
+<entry id="en0334" colname="col5" valign="top">120.4</entry>
+<entry id="en0335" colname="col6" valign="top">282.2</entry>
+<entry id="en0336" colname="col7" valign="top">402.5</entry>
+<entry id="en0337" colname="col8" valign="top">21.2</entry>
+<entry id="en0338" colname="col9" valign="top">12.9</entry>
+<entry id="en0339" colname="col10" valign="top">74.3</entry>
+</row>
+<row>
+<entry id="en0341" colname="col2" valign="top">5<ce:sup>7</ce:sup></entry>
+<entry id="en0342" colname="col3" valign="top">56</entry>
+<entry id="en0344" colname="col5" valign="top">83.8</entry>
+<entry id="en0345" colname="col6" valign="top">278.6</entry>
+<entry id="en0346" colname="col7" valign="top">362.4</entry>
+<entry id="en0347" colname="col8" valign="top">1.5</entry>
+<entry id="en0348" colname="col9" valign="top">0.6</entry>
+<entry id="en0349" colname="col10" valign="top">5.0</entry>
+</row>
+<row>
+<entry id="en0351" colname="col2" valign="top">6<ce:sup>8</ce:sup></entry>
+<entry id="en0352" colname="col3" valign="top">57</entry>
+<entry id="en0354" colname="col5" valign="top">78.3</entry>
+<entry id="en0355" colname="col6" valign="top">160.8</entry>
+<entry id="en0356" colname="col7" valign="top">239.1</entry>
+<entry id="en0357" colname="col8" valign="top">28.5</entry>
+<entry id="en0358" colname="col9" valign="top">11.5</entry>
+<entry id="en0359" colname="col10" valign="top">93.5</entry>
+</row>
+<row>
+<entry id="en0361" colname="col2" valign="top">7<ce:sup>8</ce:sup></entry>
+<entry id="en0362" colname="col3" valign="top">44</entry>
+<entry id="en0364" colname="col5" valign="top">70.6</entry>
+<entry id="en0365" colname="col6" valign="top">239.1</entry>
+<entry id="en0366" colname="col7" valign="top">210.9</entry>
+<entry id="en0367" colname="col8" valign="top">21.8</entry>
+<entry id="en0368" colname="col9" valign="top">12.6</entry>
+<entry id="en0369" colname="col10" valign="top">97.9</entry>
+</row>
+<row>
+<entry id="en0371" colname="col2" valign="top"><ce:bold>Mean</ce:bold>(&#x00B1; 2 SD)<ce:italic>(&#x00B1; 1.5 SD)</ce:italic></entry>
+<entry id="en0372" colname="col3" valign="top"><ce:bold>56</ce:bold></entry>
+<entry id="en0374" colname="col5" valign="top"><ce:bold>112.1</ce:bold>(41.3 &#x2013; 182.9)</entry>
+<entry id="en0375" colname="col6" valign="top"><ce:bold>258.0</ce:bold>(106.9 &#x2013; 409.0)</entry>
+<entry id="en0376" colname="col7" valign="top"><ce:bold>370.1</ce:bold>(157.9 &#x2013; 582.3)</entry>
+<entry id="en0377" colname="col8" valign="top"><ce:bold>17.0</ce:bold><ce:italic>(4.3 &#x2013; 29.8)</ce:italic></entry>
+<entry id="en0378" colname="col9" valign="top"><ce:bold>8.4</ce:bold><ce:italic>(1.8 &#x2013; 15.0)</ce:italic></entry>
+<entry id="en0379" colname="col10" valign="top"><ce:bold>60.3</ce:bold><ce:italic>(11.5 &#x2013; 109.1)</ce:italic></entry>
+</row>
+<row>
+<entry id="en0380" colname="col1" align="left" role="rowhead" valign="top"><ce:bold>B</ce:bold></entry>
+<entry id="en0381" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0382" colname="col3" valign="top">52</entry>
+<entry id="en0383" colname="col4" valign="top">Yes</entry>
+<entry id="en0384" colname="col5" valign="top">133.0</entry>
+<entry id="en0385" colname="col6" valign="top">312.7</entry>
+<entry id="en0386" colname="col7" valign="top">445.8</entry>
+<entry id="en0387" colname="col8" valign="top">6.4</entry>
+<entry id="en0388" colname="col9" valign="top">11.9</entry>
+<entry id="en0389" colname="col10" valign="top">90.5</entry>
+</row>
+<row>
+<entry id="en0390" colname="col1" morerows="9" align="left" role="rowhead rowgroup" valign="top"><ce:bold>D</ce:bold></entry>
+<entry id="en0391" colname="col2" valign="top">I-1</entry>
+<entry id="en0392" colname="col3" valign="top">64</entry>
+<entry id="en0393" colname="col4" valign="top">No</entry>
+<entry id="en0394" colname="col5" valign="top">88.6</entry>
+<entry id="en0395" colname="col6" valign="top">142.3</entry>
+<entry id="en0396" colname="col7" valign="top">230.9</entry>
+<entry id="en0397" colname="col8" valign="top">12.8</entry>
+<entry id="en0398" colname="col9" valign="top">14.1</entry>
+<entry id="en0399" colname="col10" valign="top">113.6 &#x2191;</entry>
+</row>
+<row>
+<entry id="en0401" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0402" colname="col3" valign="top">41</entry>
+<entry id="en0403" colname="col4" valign="top">Yes</entry>
+<entry id="en0404" colname="col5" valign="top">59.5</entry>
+<entry id="en0405" colname="col6" valign="top">194.1</entry>
+<entry id="en0406" colname="col7" valign="top">253.6</entry>
+<entry id="en0407" colname="col8" valign="top">0.2 &#x2193;</entry>
+<entry id="en0408" colname="col9" valign="top">1.4 &#x2193;</entry>
+<entry id="en0409" colname="col10" valign="top">5.6 &#x2193;</entry>
+</row>
+<row>
+<entry id="en0411" colname="col2" valign="top">II-2</entry>
+<entry id="en0412" colname="col3" valign="top">39</entry>
+<entry id="en0413" colname="col4" valign="top">No</entry>
+<entry id="en0414" colname="col5" valign="top">70.3</entry>
+<entry id="en0415" colname="col6" valign="top">141.4</entry>
+<entry id="en0416" colname="col7" valign="top">211.7</entry>
+<entry id="en0417" colname="col8" valign="top">7.3</entry>
+<entry id="en0418" colname="col9" valign="top">9.5</entry>
+<entry id="en0419" colname="col10" valign="top">83.2</entry>
+</row>
+<row>
+<entry id="en0421" colname="col2" valign="top">II-3</entry>
+<entry id="en0422" colname="col3" valign="top">36</entry>
+<entry id="en0423" colname="col4" valign="top">Yes</entry>
+<entry id="en0424" colname="col5" valign="top">97.9</entry>
+<entry id="en0425" colname="col6" valign="top">171.0</entry>
+<entry id="en0426" colname="col7" valign="top">268.9</entry>
+<entry id="en0427" colname="col8" valign="top">5.1</entry>
+<entry id="en0428" colname="col9" valign="top">11.2</entry>
+<entry id="en0429" colname="col10" valign="top">100.2</entry>
+</row>
+<row>
+<entry id="en0431" colname="col2" valign="top">II-4</entry>
+<entry id="en0432" colname="col3" valign="top">34</entry>
+<entry id="en0433" colname="col4" valign="top">No</entry>
+<entry id="en0434" colname="col5" valign="top">87.7</entry>
+<entry id="en0435" colname="col6" valign="top">163.4</entry>
+<entry id="en0436" colname="col7" valign="top">251.1</entry>
+<entry id="en0437" colname="col8" valign="top">5.4</entry>
+<entry id="en0438" colname="col9" valign="top">19.2 &#x2191;</entry>
+<entry id="en0439" colname="col10" valign="top">88.0</entry>
+</row>
+<row>
+<entry id="en0441" colname="col2" valign="top">II-5</entry>
+<entry id="en0442" colname="col3" valign="top">31</entry>
+<entry id="en0443" colname="col4" valign="top">Yes</entry>
+<entry id="en0444" colname="col5" valign="top">47.3</entry>
+<entry id="en0445" colname="col6" valign="top">112.4</entry>
+<entry id="en0446" colname="col7" valign="top">159.7</entry>
+<entry id="en0447" colname="col8" valign="top">8.9</entry>
+<entry id="en0448" colname="col9" valign="top">14.2</entry>
+<entry id="en0449" colname="col10" valign="top">102.8</entry>
+</row>
+<row>
+<entry id="en0451" colname="col2" valign="top">II-6</entry>
+<entry id="en0452" colname="col3" valign="top">28</entry>
+<entry id="en0453" colname="col4" valign="top">No</entry>
+<entry id="en0454" colname="col5" valign="top">89.6</entry>
+<entry id="en0455" colname="col6" valign="top">218.2</entry>
+<entry id="en0456" colname="col7" valign="top">307.8</entry>
+<entry id="en0457" colname="col8" valign="top">4.1 &#x2193;</entry>
+<entry id="en0458" colname="col9" valign="top">8.6</entry>
+<entry id="en0459" colname="col10" valign="top">68.8</entry>
+</row>
+<row>
+<entry id="en0461" colname="col2" valign="top">II-7</entry>
+<entry id="en0462" colname="col3" valign="top">24</entry>
+<entry id="en0463" colname="col4" valign="top">No</entry>
+<entry id="en0464" colname="col5" valign="top">104.4</entry>
+<entry id="en0465" colname="col6" valign="top">226.8</entry>
+<entry id="en0466" colname="col7" valign="top">331.2</entry>
+<entry id="en0467" colname="col8" valign="top">5.1</entry>
+<entry id="en0468" colname="col9" valign="top">11.2</entry>
+<entry id="en0469" colname="col10" valign="top">92.0</entry>
+</row>
+<row>
+<entry id="en0471" colname="col2" valign="top">III-3</entry>
+<entry id="en0472" colname="col3" valign="top">20</entry>
+<entry id="en0473" colname="col4" valign="top">No</entry>
+<entry id="en0474" colname="col5" valign="top">106.0</entry>
+<entry id="en0475" colname="col6" valign="top">285.3</entry>
+<entry id="en0476" colname="col7" valign="top">391.3</entry>
+<entry id="en0477" colname="col8" valign="top">9.2</entry>
+<entry id="en0478" colname="col9" valign="top">9.0</entry>
+<entry id="en0479" colname="col10" valign="top">89.0</entry>
+</row>
+<row>
+<entry id="en0481" colname="col2" valign="top">III-4</entry>
+<entry id="en0482" colname="col3" valign="top">12</entry>
+<entry id="en0483" colname="col4" valign="top">No</entry>
+<entry id="en0484" colname="col5" valign="top">143.7</entry>
+<entry id="en0485" colname="col6" valign="top">469.9</entry>
+<entry id="en0486" colname="col7" valign="top">613.6</entry>
+<entry id="en0487" colname="col8" valign="top">7.2</entry>
+<entry id="en0488" colname="col9" valign="top">12.6</entry>
+<entry id="en0489" colname="col10" valign="top">108.1</entry>
+</row>
+<row>
+<entry id="en0490" colname="col1" align="left" role="rowhead" valign="top"><ce:bold>E</ce:bold></entry>
+<entry id="en0491" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0492" colname="col3" valign="top">54</entry>
+<entry id="en0493" colname="col4" valign="top">Yes</entry>
+<entry id="en0494" colname="col5" valign="top">35.2 &#x2193;</entry>
+<entry id="en0495" colname="col6" valign="top">114.7</entry>
+<entry id="en0496" colname="col7" valign="top">149.9 &#x2193;</entry>
+<entry id="en0497" colname="col8" valign="top">0.9 &#x2193;</entry>
+<entry id="en0498" colname="col9" valign="top">0.5</entry>
+<entry id="en0499" colname="col10" valign="top">5.2</entry>
+</row>
+<row>
+<entry id="en0500" colname="col1" align="left" role="rowhead" valign="top"/>
+<entry id="en0501" colname="col2" valign="top">II-2</entry>
+<entry id="en0502" colname="col3" valign="top">42</entry>
+<entry id="en0503" colname="col4" valign="top">Yes</entry>
+<entry id="en0504" colname="col5" valign="top">55.1</entry>
+<entry id="en0505" colname="col6" valign="top">177.8</entry>
+<entry id="en0506" colname="col7" valign="top">232.9</entry>
+<entry id="en0507" colname="col8" valign="top">0.2 &#x2193;</entry>
+<entry id="en0508" colname="col9" valign="top">0.6</entry>
+<entry id="en0509" colname="col10" valign="top">5.0</entry>
+</row>
+<row>
+<entry id="en0510" colname="col1" align="left" role="rowhead" valign="top"><ce:bold>F</ce:bold></entry>
+<entry id="en0511" colname="col2" valign="top">&#x25BA; I-1</entry>
+<entry id="en0512" colname="col3" valign="top">62</entry>
+<entry id="en0513" colname="col4" valign="top">Yes</entry>
+<entry id="en0514" colname="col5" valign="top">66.7</entry>
+<entry id="en0515" colname="col6" valign="top">145.8</entry>
+<entry id="en0516" colname="col7" valign="top">212.5</entry>
+<entry id="en0517" colname="col8" valign="top">0.1 &#x2193;</entry>
+<entry id="en0518" colname="col9" valign="top">0.8</entry>
+<entry id="en0519" colname="col10" valign="top">6.6</entry>
+</row>
+<row>
+<entry id="en0520" colname="col1" morerows="1" align="left" role="rowhead rowgroup" valign="top"><ce:bold>G</ce:bold></entry>
+<entry id="en0521" colname="col2" valign="top">&#x25BA; I-1</entry>
+<entry id="en0522" colname="col3" valign="top">58</entry>
+<entry id="en0523" colname="col4" valign="top">Yes</entry>
+<entry id="en0524" colname="col5" valign="top">107.8</entry>
+<entry id="en0525" colname="col6" valign="top">170.7</entry>
+<entry id="en0526" colname="col7" valign="top">278.6</entry>
+<entry id="en0527" colname="col8" valign="top">2.3</entry>
+<entry id="en0528" colname="col9" valign="top">8.4</entry>
+<entry id="en0529" colname="col10" valign="top">65.8</entry>
+</row>
+<row>
+<entry id="en0531" colname="col2" valign="top">II-1</entry>
+<entry id="en0532" colname="col3" valign="top">25</entry>
+<entry id="en0533" colname="col4" valign="top">No</entry>
+<entry id="en0534" colname="col5" valign="top">78.9</entry>
+<entry id="en0535" colname="col6" valign="top">167.2</entry>
+<entry id="en0536" colname="col7" valign="top">246.2</entry>
+<entry id="en0537" colname="col8" valign="top">6.5</entry>
+<entry id="en0538" colname="col9" valign="top">7.8</entry>
+<entry id="en0539" colname="col10" valign="top">67.6</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spara022">&#x25BA; indicates proband. Measurement values outside of &#x201C;mean &#x00B1; 2 SD (1.5 SD)&#x201D; of healthy control values were annotated with downward arrow &#x2193; or upward arrow &#x2191;. <ce:sup>1</ce:sup>Age at serum sample collection</ce:simple-para>
+<ce:simple-para id="spara023"><ce:sup>2</ce:sup>Di-S KS: di-sulfated KS, Gal(6S)&#x03B2;1&#x2009;&#x2192;&#x2009;4GlcNAc(6S)</ce:simple-para>
+<ce:simple-para id="spara024"><ce:sup>3</ce:sup>Mono-S KS: mono-sulfated KS, Gal&#x03B2;1&#x2009;&#x2192;&#x2009;4GlcNAc(6S)</ce:simple-para>
+<ce:simple-para id="spara025"><ce:sup>4</ce:sup>&#x2206;Di-4S &#x005B;&#x2206;HexUA&#x03B1;1&#x2013;4GlcNAc(4-O-sulfate)&#x005D;: 2-acetamido-2-deoxy-4-O-(4-deoxy-a-L-threohex-4-enopyranosyluronic acid)-4-O-sulfo-D-glucose</ce:simple-para>
+<ce:simple-para id="spara026"><ce:sup>5</ce:sup>&#x2206;DiHS-NS &#x005B;&#x2206;HexUA&#x03B1;1-4GlcN(2-N-sulfate)&#x005D;: 2-deoxy-2-sulfamino-4-O-(4-deoxy-a-L-threo-hex-4-enopyranosyluronic acid)-D-glucose</ce:simple-para>
+<ce:simple-para id="spara027"><ce:sup>6</ce:sup>&#x2206;DiHS-oS (&#x2206;HexUA&#x03B1;1&#x2013;4GlcNAc): 2-acetamido-2-deoxy-4-O-(4-deoxy-a-L-threo-hex-4-nopyranosyluronic acid) -D-glucose</ce:simple-para>
+<ce:simple-para id="spara028"><ce:sup>7</ce:sup>Spouse of individual II-2 from family E</ce:simple-para>
+<ce:simple-para id="spara029"><ce:sup>8</ce:sup>Individuals clinically diagnosed with Fleck Corneal Dystrophy</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table id="tbl0004" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 4</ce:label>
+<ce:caption id="cap0009">
+<ce:simple-para id="spara030">DBS glycosaminoglycan levels in enrolled individuals with and without PMED.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0009" role="short">Table 4</ce:alt-text>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<colspec colnum="7" colname="col7" align="left"/>
+<colspec colnum="8" colname="col8" align="left"/>
+<colspec colnum="9" colname="col9" align="left"/>
+<colspec colnum="10" colname="col10" align="left"/>
+<thead>
+<row>
+<entry id="en0540" morerows="1" align="left" namest="col1" nameend="col2" role="colgroup rowgroup" valign="top" rowsep="1"><ce:bold>Family ID &#x007C; Individual ID</ce:bold></entry>
+<entry id="en0541" colname="col3" morerows="1" align="left" role="rowgroup" valign="top" rowsep="1"><ce:bold>Age</ce:bold><ce:sup>1</ce:sup><ce:bold>(yrs)</ce:bold></entry>
+<entry id="en0542" colname="col4" morerows="1" align="left" role="rowgroup" valign="top" rowsep="1"><ce:bold>Affected Status</ce:bold></entry>
+<entry id="en0543" align="left" namest="col5" nameend="col7" role="colgroup" valign="top" rowsep="1"><ce:bold>KS (ng/ml)</ce:bold></entry>
+<entry id="en0544" colname="col8" valign="top"><ce:bold>DS (ng/ml)</ce:bold></entry>
+<entry id="en0545" align="left" namest="col9" nameend="col10" role="colgroup" valign="top" rowsep="1"><ce:bold>HS (ng/ml)</ce:bold></entry>
+</row>
+<row rowsep="1">
+<entry id="en0549" colname="col1" align="left" valign="top"><ce:bold>Di-S KS<ce:sup>2</ce:sup></ce:bold></entry>
+<entry id="en0550" colname="col2" valign="top"><ce:bold>Mono-S KS<ce:sup>3</ce:sup></ce:bold></entry>
+<entry id="en0551" colname="col3" valign="top"><ce:bold>Total sulfated KS</ce:bold></entry>
+<entry id="en0552" colname="col4" valign="top"><ce:bold>&#x0394;Di-4S<ce:sup>4</ce:sup></ce:bold></entry>
+<entry id="en0553" colname="col5" valign="top"><ce:bold>&#x0394;DiHS-NS<ce:sup>5</ce:sup></ce:bold></entry>
+<entry id="en0554" colname="col6" valign="top"><ce:bold>&#x0394;DiHS-oS<ce:sup>6</ce:sup></ce:bold></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0555" colname="col1" align="left" valign="top"><ce:bold>CTRL</ce:bold></entry>
+<entry id="en0556" colname="col2" valign="top"><ce:bold>Mean</ce:bold><ce:br/>(&#x00B1; 2 SD)<ce:br/><ce:italic>(&#x00B1; 1.5 SD)</ce:italic></entry>
+<entry id="en0557" colname="col3" valign="top"><ce:bold>56</ce:bold></entry>
+<entry id="en0558" colname="col4" valign="top">N/A</entry>
+<entry id="en0559" colname="col5" valign="top"><ce:bold>112.1</ce:bold>(41.3 &#x2013; 182.9)</entry>
+<entry id="en0560" colname="col6" valign="top"><ce:bold>258.0</ce:bold>(106.9 &#x2013; 409.0)</entry>
+<entry id="en0561" colname="col7" valign="top"><ce:bold>370.1</ce:bold>(157.9 &#x2013; 582.3)</entry>
+<entry id="en0562" colname="col8" valign="top"><ce:bold>17.0</ce:bold><ce:italic>(4.3 &#x2013; 29.8)</ce:italic></entry>
+<entry id="en0563" colname="col9" valign="top"><ce:bold>8.4</ce:bold><ce:italic>(1.8 &#x2013; 15.0)</ce:italic></entry>
+<entry id="en0564" colname="col10" valign="top"><ce:bold>60.3</ce:bold><ce:br/><ce:italic>(11.5 &#x2013; 109.1)</ce:italic></entry>
+</row>
+<row>
+<entry id="en0565" colname="col1" morerows="4" align="left" role="rowgroup" valign="top"><ce:bold>A</ce:bold></entry>
+<entry id="en0566" colname="col2" valign="top">I-1</entry>
+<entry id="en0567" colname="col3" valign="top">74</entry>
+<entry id="en0568" colname="col4" valign="top">No</entry>
+<entry id="en0569" colname="col5" valign="top">158.7</entry>
+<entry id="en0570" colname="col6" valign="top">157.6</entry>
+<entry id="en0571" colname="col7" valign="top">316.3</entry>
+<entry id="en0572" colname="col8" valign="top">32.6 &#x2191;</entry>
+<entry id="en0573" colname="col9" valign="top">7.5</entry>
+<entry id="en0574" colname="col10" valign="top">49.5</entry>
+</row>
+<row>
+<entry id="en0576" colname="col2" valign="top">I-2</entry>
+<entry id="en0577" colname="col3" valign="top">73</entry>
+<entry id="en0578" colname="col4" valign="top">Yes</entry>
+<entry id="en0579" colname="col5" valign="top">75.6</entry>
+<entry id="en0580" colname="col6" valign="top">154.9</entry>
+<entry id="en0581" colname="col7" valign="top">230.5</entry>
+<entry id="en0582" colname="col8" valign="top">53.9 &#x2191;</entry>
+<entry id="en0583" colname="col9" valign="top">8.5</entry>
+<entry id="en0584" colname="col10" valign="top">65.9</entry>
+</row>
+<row>
+<entry id="en0586" colname="col2" valign="top">II-1</entry>
+<entry id="en0587" colname="col3" valign="top">52</entry>
+<entry id="en0588" colname="col4" valign="top">No</entry>
+<entry id="en0589" colname="col5" valign="top">119.4</entry>
+<entry id="en0590" colname="col6" valign="top">149.7</entry>
+<entry id="en0591" colname="col7" valign="top">269.1</entry>
+<entry id="en0592" colname="col8" valign="top">46.7 &#x2191;</entry>
+<entry id="en0593" colname="col9" valign="top">6.5</entry>
+<entry id="en0594" colname="col10" valign="top">50.9</entry>
+</row>
+<row>
+<entry id="en0596" colname="col2" valign="top">&#x25BA; II-2</entry>
+<entry id="en0597" colname="col3" valign="top">50</entry>
+<entry id="en0598" colname="col4" valign="top">Yes</entry>
+<entry id="en0599" colname="col5" valign="top">68.3</entry>
+<entry id="en0600" colname="col6" valign="top">106.4 &#x2193;</entry>
+<entry id="en0601" colname="col7" valign="top">174.7</entry>
+<entry id="en0602" colname="col8" valign="top">45.0 &#x2191;</entry>
+<entry id="en0603" colname="col9" valign="top">5.8</entry>
+<entry id="en0604" colname="col10" valign="top">55.1</entry>
+</row>
+<row>
+<entry id="en0606" colname="col2" valign="top">III-1</entry>
+<entry id="en0607" colname="col3" valign="top">25</entry>
+<entry id="en0608" colname="col4" valign="top">No</entry>
+<entry id="en0609" colname="col5" valign="top">81.1</entry>
+<entry id="en0610" colname="col6" valign="top">148.7</entry>
+<entry id="en0611" colname="col7" valign="top">229.8</entry>
+<entry id="en0612" colname="col8" valign="top">45.6 &#x2191;</entry>
+<entry id="en0613" colname="col9" valign="top">7.2</entry>
+<entry id="en0614" colname="col10" valign="top">64.0</entry>
+</row>
+<row>
+<entry id="en0615" colname="col1" align="left" valign="top"><ce:bold>D</ce:bold></entry>
+<entry id="en0616" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0617" colname="col3" valign="top">41</entry>
+<entry id="en0618" colname="col4" valign="top">Yes</entry>
+<entry id="en0619" colname="col5" valign="top">81.4</entry>
+<entry id="en0620" colname="col6" valign="top">164.4</entry>
+<entry id="en0621" colname="col7" valign="top">245.8</entry>
+<entry id="en0622" colname="col8" valign="top">15.8</entry>
+<entry id="en0623" colname="col9" valign="top">7.2</entry>
+<entry id="en0624" colname="col10" valign="top">57.1</entry>
+</row>
+<row>
+<entry id="en0625" colname="col1" morerows="1" align="left" role="rowgroup" valign="top"><ce:bold>E</ce:bold></entry>
+<entry id="en0626" colname="col2" valign="top">&#x25BA; II-1</entry>
+<entry id="en0627" colname="col3" valign="top">54</entry>
+<entry id="en0628" colname="col4" valign="top">Yes</entry>
+<entry id="en0629" colname="col5" valign="top">91.1</entry>
+<entry id="en0630" colname="col6" valign="top">156.0</entry>
+<entry id="en0631" colname="col7" valign="top">247.1</entry>
+<entry id="en0632" colname="col8" valign="top">1.5</entry>
+<entry id="en0633" colname="col9" valign="top">7.7</entry>
+<entry id="en0634" colname="col10" valign="top">66.4</entry>
+</row>
+<row>
+<entry id="en0636" colname="col2" valign="top">II-2</entry>
+<entry id="en0637" colname="col3" valign="top">42</entry>
+<entry id="en0638" colname="col4" valign="top">Yes</entry>
+<entry id="en0639" colname="col5" valign="top">66.0</entry>
+<entry id="en0640" colname="col6" valign="top">113.3</entry>
+<entry id="en0641" colname="col7" valign="top">179.3</entry>
+<entry id="en0642" colname="col8" valign="top">6.0</entry>
+<entry id="en0643" colname="col9" valign="top">9.7</entry>
+<entry id="en0644" colname="col10" valign="top">38.2</entry>
+</row>
+<row>
+<entry id="en0645" colname="col1" align="left" valign="top"><ce:bold>F</ce:bold></entry>
+<entry id="en0646" colname="col2" valign="top">&#x25BA; I-1</entry>
+<entry id="en0647" colname="col3" valign="top">62</entry>
+<entry id="en0648" colname="col4" valign="top">Yes</entry>
+<entry id="en0649" colname="col5" valign="top">107.8</entry>
+<entry id="en0650" colname="col6" valign="top">131.9</entry>
+<entry id="en0651" colname="col7" valign="top">239.7</entry>
+<entry id="en0652" colname="col8" valign="top">17.2</entry>
+<entry id="en0653" colname="col9" valign="top">5.6</entry>
+<entry id="en0654" colname="col10" valign="top">68.8</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spara031">&#x25BA; indicates proband. Measurement values outside of &#x201C;mean &#x00B1; 2 SD (1.5 SD)&#x201D; of healthy control values were annotated with downward arrow &#x2193; or upward arrow &#x2191;. <ce:sup>1</ce:sup>Age at DBS sample collection</ce:simple-para>
+<ce:simple-para id="spara032"><ce:sup>2</ce:sup>Di-S KS: di-sulfated KS, Gal(6S)&#x03B2;1&#x2009;&#x2192;&#x2009;4GlcNAc(6S)</ce:simple-para>
+<ce:simple-para id="spara033"><ce:sup>3</ce:sup>Mono-S KS: mono-sulfated KS, Gal&#x03B2;1&#x2009;&#x2192;&#x2009;4GlcNAc(6S)</ce:simple-para>
+<ce:simple-para id="spara034"><ce:sup>4</ce:sup>&#x2206;Di-4S &#x005B;&#x2206;HexUA&#x03B1;1&#x2013;4GlcNAc(4-O-sulfate)&#x005D;: 2-acetamido-2-deoxy-4-O-(4-deoxy-a-L-threohex-4-enopyranosyluronic acid)-4-O-sulfo-D-glucose</ce:simple-para>
+<ce:simple-para id="spara035"><ce:sup>5</ce:sup>&#x2206;DiHS-NS &#x005B;&#x2206;HexUA&#x03B1;1-4GlcN(2-N-sulfate)&#x005D;: 2-deoxy-2-sulfamino-4-O-(4-deoxy-a-L-threo-hex-4-enopyranosyluronic acid)-D-glucose</ce:simple-para>
+<ce:simple-para id="spara036"><ce:sup>6</ce:sup>&#x2206;DiHS-oS (&#x2206;HexUA&#x03B1;1&#x2013;4GlcNAc): 2-acetamido-2-deoxy-4-O-(4-deoxy-a-L-threo-hex-4-nopyranosyluronic acid) -D-glucose</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table id="tbl0005" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 5</ce:label>
+<ce:caption id="cap0010">
+<ce:simple-para id="spara037">Table 5. ACMG/AMP guideline scoring of identified CHST6 variants.</ce:simple-para>
+</ce:caption>
+<ce:alt-text id="alt0010" role="short">Table 5</ce:alt-text>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<colspec colnum="5" colname="col5" align="left"/>
+<colspec colnum="6" colname="col6" align="left"/>
+<thead>
+<row rowsep="1">
+<entry id="en0655" colname="col1" valign="top"><ce:bold>Identified</ce:bold><ce:br/><ce:bold><ce:italic>CHST6</ce:italic> Variant</ce:bold></entry>
+<entry id="en0656" colname="col2" valign="top"><ce:bold>Pathogenic</ce:bold><ce:br/><ce:bold>Criteria Satisfied</ce:bold></entry>
+<entry id="en0657" colname="col3" valign="top"><ce:bold>Benign</ce:bold><ce:br/><ce:bold>Criteria Satisfied</ce:bold></entry>
+<entry id="en0658" colname="col4" valign="top"><ce:bold>Combined <ce:italic>OddsPath</ce:italic></ce:bold><ce:sup>1</ce:sup></entry>
+<entry id="en0659" colname="col5" valign="top"><ce:bold><ce:italic>Post_P</ce:italic></ce:bold></entry>
+<entry id="en0660" colname="col6" valign="top"><ce:bold>Classification Determination</ce:bold></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry id="en0661" colname="col1" valign="top">c.-792C&gt;T</entry>
+<entry id="en0662" colname="col2" valign="top">PP1, PP3, PP4</entry>
+<entry id="en0663" colname="col3" valign="top">BA1</entry>
+<entry id="en0664" colname="col4" valign="top">0.001</entry>
+<entry id="en0665" colname="col5" valign="top">0.000</entry>
+<entry id="en0666" colname="col6" valign="top">Benign</entry>
+</row>
+<row>
+<entry id="en0667" colname="col1" valign="top">c.-690G&gt;C</entry>
+<entry id="en0668" colname="col2" valign="top">PS3, PS4, PM3, PP1, PP3, PP4</entry>
+<entry id="en0669" colname="col3" valign="top"/>
+<entry id="en0670" colname="col4" valign="top">13617.914</entry>
+<entry id="en0671" colname="col5" valign="top">0.999</entry>
+<entry id="en0672" colname="col6" valign="top">Pathogenic</entry>
+</row>
+<row>
+<entry id="en0673" colname="col1" valign="top">c.-668C&gt;T</entry>
+<entry id="en0674" colname="col2" valign="top">PP1, PP4</entry>
+<entry id="en0675" colname="col3" valign="top">BS1, BP4</entry>
+<entry id="en0676" colname="col4" valign="top">0.053</entry>
+<entry id="en0677" colname="col5" valign="top">0.006</entry>
+<entry id="en0678" colname="col6" valign="top">Likely benign</entry>
+</row>
+<row>
+<entry id="en0679" colname="col1" valign="top">c.632G&gt;A, p.Arg211Gln</entry>
+<entry id="en0680" colname="col2" valign="top">PS1, PS4, PM2, PP1, PP3, PP4</entry>
+<entry id="en0681" colname="col3" valign="top"/>
+<entry id="en0682" colname="col4" valign="top">13617.914</entry>
+<entry id="en0683" colname="col5" valign="top">0.999</entry>
+<entry id="en0684" colname="col6" valign="top">Pathogenic</entry>
+</row>
+<row>
+<entry id="en0685" colname="col1" valign="top">c.803A&gt;G, p.Tyr268Cys</entry>
+<entry id="en0686" colname="col2" valign="top">PS1, PS4, PM2, PP1, PP3, PP4</entry>
+<entry id="en0687" colname="col3" valign="top"/>
+<entry id="en0688" colname="col4" valign="top">13617.914</entry>
+<entry id="en0689" colname="col5" valign="top">0.999</entry>
+<entry id="en0690" colname="col6" valign="top">Pathogenic</entry>
+</row>
+<row>
+<entry id="en0691" colname="col1" valign="top">c.839C&gt;T, p.Pro280Leu</entry>
+<entry id="en0692" colname="col2" valign="top">PS3, PS4, PM2, PP1, PP3, PP4</entry>
+<entry id="en0693" colname="col3" valign="top"/>
+<entry id="en0694" colname="col4" valign="top">13617.914</entry>
+<entry id="en0695" colname="col5" valign="top">0.999</entry>
+<entry id="en0696" colname="col6" valign="top">Pathogenic</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spara038"><ce:sup>1</ce:sup>OddsPath ratio cut-off values for Supporting, Moderate, Strong, and Very Strong pathogenic evidence are 2, 4.3, 18.7, and 350, respectively<ce:sup>13</ce:sup></ce:simple-para>
+</ce:legend>
+</ce:table>
+</ce:floats>
+<head>
+<ce:dochead id="dchd0001">
+<ce:textfn id="dhtxt0001">Original Articles</ce:textfn>
+</ce:dochead>
+<ce:title id="tte0002">Peripheral Macular Endothelial Dystrophy: Clinical, Histopathologic, Genetic and Functional Characterization</ce:title>
+<ce:short-title id="shorttl001">Short title: Peripheral Macular Endothelial Dystrophy</ce:short-title>
+<ce:author-group id="aut0001">
+<ce:author id="au0001">
+<ce:given-name>Wenlin</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing &#x2013; original draft</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0001" refid="aff0001"><ce:sup>a</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0002">
+<ce:given-name>Huong</ce:given-name>
+<ce:surname>Duong</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0002" refid="aff0002"><ce:sup>b</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0003">
+<ce:given-name>Passara</ce:given-name>
+<ce:surname>Jongkhajornpong</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0003" refid="aff0003"><ce:sup>c</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0004">
+<ce:given-name>Do Thi Thuy</ce:given-name>
+<ce:surname>Hang</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0004" refid="aff0004"><ce:sup>d</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0005">
+<ce:given-name>Huan</ce:given-name>
+<ce:surname>Pham</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0005" refid="aff0002"><ce:sup>b</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0006">
+<ce:given-name>Mai</ce:given-name>
+<ce:surname>Nguyen</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0006" refid="aff0002"><ce:sup>b</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0007">
+<ce:given-name>Charlene</ce:given-name>
+<ce:surname>Choo</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0007" refid="aff0001"><ce:sup>a</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0008">
+<ce:given-name>Dominic</ce:given-name>
+<ce:surname>Williams</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0008" refid="aff0001"><ce:sup>a</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0009">
+<ce:given-name>Xuan</ce:given-name>
+<ce:surname>Nguyen</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0009" refid="aff0005"><ce:sup>e</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0010">
+<ce:given-name>Tien Dat</ce:given-name>
+<ce:surname>Nguyen</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0010" refid="aff0005"><ce:sup>e</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0011">
+<ce:given-name>Brian</ce:given-name>
+<ce:surname>Aguirre</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0011" refid="aff0006"><ce:sup>f</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0012">
+<ce:given-name>Shaukat</ce:given-name>
+<ce:surname>Khan</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role><ce:cross-ref id="crf0012" refid="aff0007"><ce:sup>g</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0013">
+<ce:given-name>Madhuri</ce:given-name>
+<ce:surname>Wadehra</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role><ce:cross-ref id="crf0013" refid="aff0006"><ce:sup>f</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0014">
+<ce:given-name>Shunji</ce:given-name>
+<ce:surname>Tomatsu</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role><ce:cross-ref id="crf0014" refid="aff0007"><ce:sup>g</ce:sup></ce:cross-ref>
+</ce:author>
+<ce:author id="au0015">
+<ce:given-name>Anthony J.</ce:given-name>
+<ce:surname>Aldave</ce:surname>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role><ce:cross-ref id="crf0015" refid="aff0001"><ce:sup>a</ce:sup></ce:cross-ref><ce:cross-ref id="crf0016" refid="cor0001"><ce:sup>&#x204E;</ce:sup></ce:cross-ref>
+<ce:e-address id="ead0001" type="email" xlink:href="mailto:aldave@jsei.ucla.edu">aldave@jsei.ucla.edu</ce:e-address>
+</ce:author>
+<ce:affiliation id="aff0001">
+<ce:label>a</ce:label>
+<ce:textfn id="cetextfn0001">Stein Eye Institute, UCLA, Los Angeles CA</ce:textfn>
+<sa:affiliation>
+<sa:organization>Stein Eye Institute</sa:organization>
+<sa:organization>UCLA</sa:organization>
+<sa:city>Los Angeles</sa:city>
+<sa:state>CA</sa:state>
+</sa:affiliation>
+<ce:source-text id="staff0001">aStein Eye Institute, UCLA, Los Angeles CA</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0002">
+<ce:label>b</ce:label>
+<ce:textfn id="cetextfn0002">Ho Chi Minh City Eye Hospital, Ho Chi Minh City, Vietnam</ce:textfn>
+<sa:affiliation>
+<sa:organization>Ho Chi Minh City Eye Hospital</sa:organization>
+<sa:organization>Ho Chi Minh City</sa:organization>
+<sa:country iso3166-1-alpha-3="VNM">Vietnam</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0002">bHo Chi Minh City Eye Hospital, Ho Chi Minh City, Vietnam</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0003">
+<ce:label>c</ce:label>
+<ce:textfn id="cetextfn0003">Department of Ophthalmology, Faculty of Medicine Ramathibodi Hospital, Mahidol University, Bangkok, Thailand</ce:textfn>
+<sa:affiliation>
+<sa:organization>Department of Ophthalmology</sa:organization>
+<sa:organization>Faculty of Medicine Ramathibodi Hospital</sa:organization>
+<sa:organization>Mahidol University</sa:organization>
+<sa:state>Bangkok</sa:state>
+<sa:country iso3166-1-alpha-3="THA">Thailand</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0003">cDepartment of Ophthalmology, Faculty of Medicine Ramathibodi Hospital, Mahidol University, Bangkok, Thailand</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0004">
+<ce:label>d</ce:label>
+<ce:textfn id="cetextfn0004">Vietnam National Eye Hospital, Hanoi, Vietnam</ce:textfn>
+<sa:affiliation>
+<sa:organization>Vietnam National Eye Hospital</sa:organization>
+<sa:state>Hanoi</sa:state>
+<sa:country iso3166-1-alpha-3="VNM">Vietnam</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0004">dVietnam National Eye Hospital, Hanoi, Vietnam</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0005">
+<ce:label>e</ce:label>
+<ce:textfn id="cetextfn0005">University of Medicine and Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam</ce:textfn>
+<sa:affiliation>
+<sa:organization>University of Medicine and Pharmacy at Ho Chi Minh City</sa:organization>
+<sa:city>Ho Chi Minh City</sa:city>
+<sa:country iso3166-1-alpha-3="VNM">Vietnam</sa:country>
+</sa:affiliation>
+<ce:source-text id="staff0005">eUniversity of Medicine and Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0006">
+<ce:label>f</ce:label>
+<ce:textfn id="cetextfn0006">Department of Pathology and Laboratory Medicine, UCLA, Los Angeles, CA</ce:textfn>
+<sa:affiliation>
+<sa:organization>Department of Pathology and Laboratory Medicine</sa:organization>
+<sa:organization>UCLA</sa:organization>
+<sa:city>Los Angeles</sa:city>
+<sa:state>CA</sa:state>
+</sa:affiliation>
+<ce:source-text id="staff0006">fDepartment of Pathology and Laboratory Medicine, UCLA, Los Angeles, CA</ce:source-text>
+</ce:affiliation>
+<ce:affiliation id="aff0007">
+<ce:label>g</ce:label>
+<ce:textfn id="cetextfn0007">Nemours Children&#x2019;s Health, Wilmington, DE</ce:textfn>
+<sa:affiliation>
+<sa:organization>Nemours Children&#x2019;s Health</sa:organization>
+<sa:city>Wilmington</sa:city>
+<sa:state>DE</sa:state>
+</sa:affiliation>
+<ce:source-text id="staff0007">gNemours Children&#x2019;s Health, Wilmington, DE</ce:source-text>
+</ce:affiliation>
+<ce:correspondence id="cor0001"><ce:label>&#x204E;</ce:label><ce:text id="cetext0001">Correspondence: Anthony J. Aldave, Stein Eye Institute, David Geffen School of Medicine at UCLA, 200 Stein Plaza, UCLA, Los Angeles, CA 90095-7003, Tel: 310-206-7202</ce:text><sa:affiliation><sa:organization>Stein Eye Institute</sa:organization><sa:organization>David Geffen School of Medicine at UCLA</sa:organization><sa:address-line>200 Stein Plaza, UCLA</sa:address-line><sa:city>Los Angeles</sa:city><sa:state>CA</sa:state><sa:postal-code>90095-7003</sa:postal-code></sa:affiliation></ce:correspondence>
+</ce:author-group>
+<ce:date-received day="25" month="1" year="2025"/>
+<ce:date-revised day="17" month="7" year="2025"/>
+<ce:date-accepted day="6" month="8" year="2025"/>
+<ce:abstract id="abs0001">
+<ce:section-title id="cesectitle0001">ABSTRACT</ce:section-title>
+<ce:abstract-sec id="abss0001"><ce:section-title id="cesectitle0002">Objective</ce:section-title>
+<ce:simple-para id="spara039"> To report a CHST6-associated corneal endothelial dystrophy.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0002"><ce:section-title id="cesectitle0003">Design</ce:section-title>
+<ce:simple-para id="spara040"> Prospective observational case series.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0003"><ce:section-title id="cesectitle0004">Participants</ce:section-title>
+<ce:simple-para id="spara041"> Thirty-five individuals from seven families, including 13 affected individuals exhibiting corneal epithelial and stromal edema, peripheral posterior corneal macular opacities, and endothelial guttae, as well as 22 unaffected family members.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0004" role="materials-methods">
+<ce:section-title id="cesectitle0005">Methods</ce:section-title>
+<ce:simple-para id="spara042"> Whole-exome sequencing was performed in three families and Sanger sequencing of CHST6 was performed in all individuals. Histological examination of Descemet membrane (DM) excised at the time of endothelial keratoplasty was performed for three probands. Serum keratan sulfate (KS) levels were measured in members of six families. Functional analysis of identified mutations was performed using CHST6 promoter containing CHST6 expression vector in human keratocytes (HK) and corneal endothelial cells (HCEnC).</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0005"><ce:section-title id="cesectitle0006">Main Outcome Measures</ce:section-title>
+<ce:simple-para id="spara043"> Clinical phenotype; genetic analysis; functional analysis of identified CHST6 mutations; serum KS levels; histologic examinations of DM.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0006" role="results">
+<ce:section-title id="cesectitle0007">Results</ce:section-title>
+<ce:simple-para id="spara044"> All affected individuals demonstrated peripheral macular opacities at the level of DM. Visually significant corneal edema in affected individuals was successfully managed by endothelial keratoplasty. Genetic analysis demonstrated a rare CHST6 promoter mutation (c.-690G&gt;C) in the homozygous state in affected individuals from three families and in the compound heterozygous state with a CHST6 coding mutation (p.R211Q, p.Y268C or p.P280L) in affected individuals from the other four families. In silico analysis predicted c.-690G&gt;C to be a regulatory variant, located at the RNA polymerase II binding site. Functional analysis in vitro demonstrated that c.-690G&gt;C leads to increased KS sulfation the corneal endothelium and DM, with no change of KS sulfation in keratocytes. Histologic examination of DM from affected individuals revealed elevated levels of sulfated and non-sulfated KS in DM and endothelium, consistent with the functional analysis. Minimum changes in serum sulfated KS levels were observed in affected individuals.</ce:simple-para>
+</ce:abstract-sec>
+<ce:abstract-sec id="abss0007" role="conclusion">
+<ce:section-title id="cesectitle0008">Conclusions</ce:section-title>
+<ce:simple-para id="spara045"> We suggest the name Peripheral macular endothelial dystrophy (PMED) to describe this dystrophy that is characterized by peripheral posterior corneal macular opacities and endothelial dysfunction without stromal haze or opacities. Given that both PMED and macular corneal dystrophy are associated with promoter and coding region mutations in CHST6, we propose that they be categorized as CHST6-associated corneal dystrophies.</ce:simple-para>
+</ce:abstract-sec>
+</ce:abstract>
+<ce:keywords id="keys0001">
+<ce:section-title id="cesectitle0009">KEYWORDS</ce:section-title>
+<ce:keyword id="key0001"><ce:text id="cetext0002">Corneal endothelial dystrophy</ce:text></ce:keyword>
+<ce:keyword id="key0002"><ce:text id="cetext0003">CHST6</ce:text></ce:keyword>
+<ce:keyword id="key0003"><ce:text id="cetext0004">keratan sulfate</ce:text></ce:keyword>
+</ce:keywords>
+<!--date Galley:wpv8e/sCSm9MPzJklp+xI5Crkjt6+hY0-->
+</head>
+<body>
+<ce:sections>
+<ce:section id="sec0001" role="introduction">
+<ce:section-title id="cesectitle0010">INTRODUCTION</ce:section-title>
+<ce:para id="para0008">The corneal dystrophies are a group of inherited disorders that are typically bilateral, symmetric, slowly progressive and are not influenced by environmental or systemic factors<ce:cross-ref id="crf0017" refid="bib0001"><ce:sup>1</ce:sup></ce:cross-ref>. Traditionally, corneal dystrophies have been anatomically classified, based on the layer of the cornea that is primarily affected: epithelium, Bowman layer, stroma and endothelium. However, the International Committee for the Classification of the Corneal Dystrophies has reclassified the dystrophies according to the cellular origin of the dystrophic deposits, and thus the <ce:italic>TGFBI</ce:italic> dystrophies are now classified as epithelial-stromal dystrophies.<ce:cross-ref id="crf0018" refid="bib0002"><ce:sup>2</ce:sup></ce:cross-ref> In the case of macular corneal dystrophy (MCD), although histopathologic examination demonstrates non-sulfated/low-sulfated glycosaminoglycans (GAG) in both the stroma and the endothelium, it remains classified as a stromal dystrophy due to the presence of macular stromal deposits and diffuse stromal haze that characterize MCD and the absence of evidence of endothelial dysfunction in affected individuals.</ce:para>
+<ce:para id="para0009">MCD is associated with mutations in the <ce:italic>CHST6</ce:italic> gene, encoding corneal N-acetylglucosamine-6-O-sulfotransferase (CGn6ST or GlcNAc6ST), which plays an essential role in the sulfation of GAG in the cornea by catalyzing the transfer of sulfate from 3&#x2032;-phosphoadenosine 5&#x2032;-phosphosulfate to position 6 of a non-reducing N-acetylglucosamine (GlcNAc) residue in keratan sulfate (KS). Decreased CGn6ST/GlcNAc6ST activity in the corneal keratocytes in individuals with MCD leads to the accumulation of Alcian blue-positive non-sulfated/low-sulfated GAG deposits (decreased sulfation of KS) within keratocytes and in the extracellular corneal stroma, resulting in loss of corneal clarity.</ce:para>
+<ce:para id="para0010">In the current study, we describe a corneal endothelial dystrophy that is characterized by peripheral posterior corneal macular opacities reminiscent of those associated with MCD, but without the macular stromal deposits and diffuse stromal haze that are essential phenotypic features of MCD. Given this, the development of corneal edema in symptomatic individuals and the successful restoration of vision with endothelial keratoplasty as well as the functional impact of the associated <ce:italic>CHST6</ce:italic> promoter mutation, we propose the classification of this dystrophy, which we have named Peripheral macular endothelial dystrophy (PMED), and MCD as <ce:italic>CHST6</ce:italic>-associated corneal dystrophies.</ce:para>
+</ce:section>
+<ce:section id="sec0002" role="materials-methods">
+<ce:section-title id="cesectitle0011">MATERIALS AND METHODS</ce:section-title>
+<ce:para id="para0011">Approval for this observational case series was obtained from the Institutional Review Board at the University of California at Los Angeles (UCLA IRB#11&#x2013;000020). Written informed consent was obtained from all subjects in this study according to the tenets of the Declaration of Helsinki.</ce:para>
+<ce:section id="sec0003">
+<ce:section-title id="cesectitle0012">Clinical Evaluation</ce:section-title>
+<ce:para id="para0012">All affected and unaffected individuals from seven families who agreed to participate in the study underwent a comprehensive ophthalmic examination (<ce:cross-ref id="crf0019" refid="fig0001">Fig. 1</ce:cross-ref><ce:float-anchor refid="fig0001"/>), including slit lamp biomicroscopy and photography, ultrasound biomicroscopy (UBM), Scheimpflug imaging (Oculus Pentacam), and anterior segment optical coherence tomography (AS-OCT). The diagnosis of PMED was established based on the presence of round, gray-white, discrete deposits confined to the peripheral Descemet membrane (DM) or posterior surface of the cornea, without stromal opacities or haze and with or without corneal epithelial and/or stromal edema.</ce:para>
+</ce:section>
+<ce:section id="sec0004">
+<ce:section-title id="cesectitle0013">Sanger Sequencing of CHST6</ce:section-title>
+<ce:para id="para0013">After obtaining informed consent, saliva and/or blood samples were collected from members of each of the seven families using a saliva collection kit (Oragene, DNA Genotek, Inc.) or a standard phlebotomy procedure. Genomic DNA was isolated from saliva samples using the Oragene Purifier (OG-L2P, DNA Genotek, Inc.) and from blood samples using the FlexiGene DNA Kit (QIAGEN), according to the manufacturer&#x2019;s instructions. Each of the three exons of <ce:italic>CHST6</ce:italic> and the 2.5 kb region upstream of exon 1 were amplified by PCR and sequenced using Sanger sequencing (Supplemental Materials, Primers and PCR conditions used for <ce:italic>CHST6</ce:italic> screening) (Supplemental Table 1). Sequences were compared to the wild-type <ce:italic>CHST6</ce:italic> gene transcript (NM_021615), and the minor allele frequencies (MAF) of identified variants were obtained from public databases including Exome Aggregation Consortium (ExAC), 1000 Genomes Project (1000Genome), Trans-Omics for Precision Medicine (TOPMED) and Genome Aggregation Database (gnomAD). A rare variant was defined as a variant with MAF &lt; 0.01 in all databases.</ce:para>
+</ce:section>
+<ce:section id="sec0005">
+<ce:section-title id="cesectitle0014">Whole Exome Sequencing (WES) and Data Analysis</ce:section-title>
+<ce:para id="para0014">WES was performed on the genomic DNA of all enrolled members from PMED families A, B, and C (<ce:cross-ref id="crf0020" refid="fig0001">Fig. 1</ce:cross-ref>). DNA libraries were prepared using the TruSeq DNA Sample Preparation Kit v2 (Illumina Inc.), and exome capture was performed with the SeqCap EZ Exome Library v3.0 (Roche NimbleGen, Inc.). Paired-end sequencing (2&#x00D7;150 bp) was carried out on Illumina&#x2019;s HiSeq 3000 platform. The generated raw sequence reads were aligned to Genome Research Consortium human build 38 (GRCh38) using Burrows-Wheeler Aligner (BWA) in maximal exact match (MEM) mode and subsequently processed following the Genome Analysis Toolkit (GATK) best practice guidelines for variant calling (Supplemental Materials, GATK variant calling). After variant calling, common variants (MAF &gt; 0.01) were filtered out, and rare variants were annotated using the Ensembl Variant Effect Predictor (VEP) online tool. Coding non-synonymous variants and splice site variants were retained and analyzed for segregation with the affected status in Family C using both autosomal recessive and autosomal dominant models, and genes containing potentially pathogenic variants were subsequently screened in members of Families B and C (Supplemental Materials, WES variant filtration).</ce:para>
+</ce:section>
+<ce:section id="sec0006">
+<ce:section-title id="cesectitle0015">In silico variant prediction and scoring</ce:section-title>
+<ce:para id="para0015">The identified <ce:italic>CHST6</ce:italic> coding variants were analyzed using the online tools PredictSNP2 and PolyPhen-2 to assess their potential impact on protein function.<ce:cross-ref id="crf0021" refid="bib0003"><ce:sup>3</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0022" refid="bib0004"><ce:sup>4</ce:sup></ce:cross-ref> PredictSNP2 is a consensus classifier that combines five prediction methods, including Combined Annotation Dependent Depletion (CADD), Deleterious Annotation of Genetic Variants using Neural Networks (DANN), Functional Analysis through Hidden Markov Models (FATHMM), FunSeq2 and Genome Wide Annotation of Variants (GWAVA).<ce:cross-ref id="crf0023" refid="bib0003"><ce:sup>3</ce:sup></ce:cross-ref> The identified <ce:italic>CHST6</ce:italic> promoter variants were analyzed using the online tool RegulomeDB to determine the likelihood of each variant being in a regulatory region bound by subunits of transcriptional machinery and/or transcriptional factors.<ce:cross-ref id="crf0024" refid="bib0005"><ce:sup>5</ce:sup></ce:cross-ref> The RegulomeDB score represents a model that integrates functional genomics features, including continuous values from multiple databases such as chromatin immunoprecipitation sequencing (ChIP-seq) signal and DNase-seq signal from The Encyclopedia of DNA Elements (ENCODE), information content change, and predicted scores from the deep learning sequence-based algorithmic program DeepSEA.<ce:cross-ref id="crf0025" refid="bib0006"><ce:sup>6</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0026" refid="bib0007"><ce:sup>7</ce:sup></ce:cross-ref>
+</ce:para>
+</ce:section>
+<ce:section id="sec0007">
+<ce:section-title id="cesectitle0016">In vitro CHST6 functional assay</ce:section-title>
+<ce:para id="para0016">For the functional assay, we generated a <ce:italic>CHST6</ce:italic> expression vector containing the native promoter of <ce:italic>CHST6</ce:italic>. Briefly, a 1439 bp fragment encompassing exon 1 of the <ce:italic>CHST6</ce:italic> gene, the predicted <ce:italic>CHST6</ce:italic> promoter and two adjacent enhancers (identified based on ENCODE registry of candidate cis-regulatory elements (cCREs)), was cloned into the previously described CHST6 expression vector pcDNA3-CGn6ST.<ce:cross-ref id="crf0027" refid="bib0008"><ce:sup>8</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0028" refid="bib0009"><ce:sup>9</ce:sup></ce:cross-ref> The cloning replaced the sequences of CMV enhancer-containing promoter and T7 promoter. The pcDNA3-CGn6ST vector contains the nucleotide sequences of exons 2 and 3 of the <ce:italic>CHST6</ce:italic> gene. The newly cloned <ce:italic>CHST6</ce:italic> native promoter-containing CHST6 expression vector was named pcDNA3-CGn6STwPro and contained the wild-type sequences of the non-coding 5&#x2019; region, the non-coding exons 1 and 2, and the entire coding sequence of exon 3 of the <ce:italic>CHST6</ce:italic> gene. Site-directed mutagenesis was then performed on pcDNA3-CGn6STwPro, also denoted as CGn6STwPro_WT, to generate nucleotide changes consistent with the mutations found in PMED pedigrees (QuikChange Lightning Site-Directed Mutagenesis Kit, Agilent Technologies). The following three single mutant constructs were created: CGn6STwPro_c.-690G&gt;C, CGn6STwPro_Y268C (nucleotide change c.803A&gt;G), and CGn6STwPro_P280L (nucleotide change c.839C&gt;T). Additionally, exon 1 of the <ce:italic>CHST6</ce:italic> gene along with surrounding sequences (1439 bp) from the proband of family B was cloned into pcDNA3-CGn6ST using the same method as described above. This generated pcDNA3-CGn6STwPro_PT, which contained three adjacent variants (c.&#x005B;-668C&gt;T; -690G&gt;C; -792C&gt;T&#x005D;). All mutations were confirmed by Sanger sequencing (Laragen, Inc., Culver City, CA).</ce:para>
+<ce:para id="para0017">To investigate the functional impact of the identified <ce:italic>CHST6</ce:italic> mutations in human corneal endothelial cells and keratocytes, telomerase immortalized human corneal endothelial cells (HCEnC) and keratocytes (HK) were transfected with wild-type and/or mutant CHST6 promoter-containing expressing vectors (CGn6STwPro) using Lipofectamine&#x00AE; LTX with PLUS reagent (A12621, Life Technologies) according to the manufacturer&#x2019;s recommendations (Supplemental Materials, Human corneal endothelial cell line cell culture, Human corneal keratocyte cell culture).<ce:cross-ref id="crf0029" refid="bib0010"><ce:sup>10</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0030" refid="bib0011"><ce:sup>11</ce:sup></ce:cross-ref> To enhance the detection of sulfated KS, HCEnC or HK (seeded in 24-well plates at 50&#x0025; confluency 24 hours prior) were co-transfected with expression vectors b3GnT7 (250 ng/well) and HKSG6ST (250 ng/well), two enzymes involved in the extension of KS and C-6 sulfation of Gal residue in KS, along with CGn6STwPro wild-type and/or mutant (250 ng/well). To simulate compound heterozygous <ce:italic>CHST6</ce:italic> mutations identified in some affected individuals, an equal amount of two CGn6STwPro mutant constructs (125 ng/well) were used. A total of 750 ng of plasmid DNA was used per well.</ce:para>
+<ce:para id="para0018">The following combination of CGn6STwPro constructs were used to mimic the <ce:italic>CHST6</ce:italic> mutation status observed in individuals reported here: 1) WT/WT, representing the healthy control without <ce:italic>CHST6</ce:italic> mutations; 2) PT/PT, representing affected individuals with homozygous variant c.&#x005B;-668C&gt;T; -690G&gt;C; -792C&gt;T&#x005D; in Families B, E, and G; 3) PT/P280L, mimicking the proband of Family A with compound heterozygous variants c.&#x005B;-668C&gt;T; -690G&gt;C; -792C&gt;T&#x005D; and the previously unreported P280L; 4) PT/Y268C, mimicking the affected individuals in Family C with compound heterozygous variants c.&#x005B;-668C&gt;T; -690G&gt;C; -792C&gt;T&#x005D; and Y268C; 5) WT/PT, mimicking the affected mother of the proband (I-2) in Family A with heterozygous variant c.&#x005B;-668C&gt;T; -690G&gt;C; -792C&gt;T&#x005D;; 6) c.-690G&gt;C/c.-690G&gt;C (CGn6STwPro_c.-690G&gt;C), assessing the impact of isolated homozygous variant c.-690G&gt;C without two adjacent variants c.-668C&gt;T and c.-792C&gt;T; 7) c.-690G&gt;C/P280L, assessing the impact of compound heterozygous variants c.-690G&gt;C and P280L; 8) c.-690G&gt;C/Y268C, assessing the impact of compound heterozygous variants c.-690G&gt;C and Y268C; 9) P280L/P280L (CGn6STwPro_P280L), assessing the impact of homozygous variant P280L; and 10) Y268C/Y268C (CGn6STwPro_Y268C), assessing the impact of homozygous variant Y268C on CGn6ST/CHST6 enzymatic function.</ce:para>
+<ce:para id="para0019">The enzymatic activities of CGn6ST, together with b3GnT7 and HKSG6ST, result in highly sulfated KS, which can be detected by the 5D4 antibody (MABN2483, Millipore Sigma). Forty-eight hours post-transfection, cells were lysed with radioimmunoprecipitation assay (RIPA) buffer containing proteinase and phosphatase inhibitors. Total protein was quantified using the bicinchoninic acid (BCA) assay, separated and detected using a capillary-based Western Blot system (Simple Western assay Wes, ProteinSimple). Highly sulfated KS, b3GnT7 protein and GAPDH were detected using 5D4, anti-B3GNT7 (NBP1-69637, Novus Biological) and anti-GAPDH (MAB374, Millipore Sigma) antibodies, respectively. Quantification and data analysis were performed using the Compass for Simple Western software (ProteinSimple). The level of 5D4-positive sulfated KS was normalized to GAPDH as the loading control and then to B3GNT7 as an internal control for transfection efficiency in each sample. Four biological replicates of transfection and Western Blot were performed, and the average 5D4&#x002B; KS level was calculated for each CHST6 mutant or combination of mutants.</ce:para>
+</ce:section>
+<ce:section id="sec0008">
+<ce:section-title id="cesectitle0017">Histology and Immunofluorescence Staining</ce:section-title>
+<ce:para id="para0020">Five-micrometer sections of paraffin-embedded corneas from seven healthy donors, surgical DM specimens from three probands from families A, C, and F, and a surgical DM specimen from an individual with pseudophakic corneal edema (PCE) were deparaffinized and rehydrated in a graded ethanol series (100&#x0025;, 95&#x0025;, 70&#x0025; and 50&#x0025;).</ce:para>
+<ce:para id="para0021">H&amp;E staining of specimens was performed following a standardized protocol (Translational Pathology Core Laboratory, Department of Pathology, UCLA). For Alcian blue staining, the rehydrated sections were stained with an Alcian blue solution (1&#x0025; Alcian blue in 3&#x0025; acetic acid in deionized water; pH&#x202F;&#x003D;&#x202F;2.5) for 30 minutes, followed by staining with a 0.5&#x0025; aqueous neutral red solution for 2 minutes. For high iron diamine staining, the rehydrated sections were stained with a high iron diamine solution (0.24&#x0025; N, N-dimethyl-meta-phenylenediamine dihydrochloride, 0.04&#x0025; N, N-dimethyl-para-phenylenediamine dihydrochloride, 2.8&#x0025; Ferric Chloride in deionized water) for 18 hours, followed by staining with a 0.5&#x0025; aqueous neutral red solution for 2 minutes. H&amp;E, Alcian Blue or high iron diamine stained sections were imaged with a KEYENCE BZ-X700 all-in-one fluorescence microscope.</ce:para>
+<ce:para id="para0022">For 5D4 staining, the rehydrated sections underwent antigen retrieval in 10 mM sodium citrate, followed by a standard immunofluorescence staining protocol with the 5D4 antibody overnight at 4&#x00B0;C and Alexa 568 anti-mouse secondary antibody with DAPI. For Lectin-FITC staining, the rehydrated sections underwent antigen retrieval in a citrate-based antigen unmasking solution (Vector Labs, #H-3300) for 25 minutes, followed by a standard immunofluorescence staining protocol with Lectin-FITC conjugated antibody (Vector Laboratories, #FL-1171). 5D4 and Lectin-FITC stained sections were imaged with an inverted confocal fluorescence microscope (Olympus FV-1000, Olympus Corporation).</ce:para>
+</ce:section>
+<ce:section id="sec0009">
+<ce:section-title id="cesectitle0018">Sulfated Glycosaminoglycan Measurement in Serum and/or Dried Blood Spots</ce:section-title>
+<ce:para id="para0023">The sulfation levels of serum GAG, including dermatan sulfate (DS), heparan sulfate (HS), and KS, were measured by liquid chromatography with tandem mass spectrometry (LC-MS/MS) as previously described and the results were compared with age-matched controls.<ce:cross-ref id="crf0031" refid="bib0012"><ce:sup>12</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0032" refid="bib0013"><ce:sup>13</ce:sup></ce:cross-ref> Serum samples were collected from 17 individuals and dried blot spots (DBS) were collected from 10 individuals from the seven families (<ce:cross-ref id="crf0033" refid="fig0001">Fig. 1</ce:cross-ref>).</ce:para>
+</ce:section>
+<ce:section id="sec0010">
+<ce:section-title id="cesectitle0019">Calculation of Odds of Pathogenicity (Odds Path) for Identified Variants</ce:section-title>
+<ce:para id="para0024">The number of criteria met for each identified <ce:italic>CHST6</ce:italic> variant was counted as N for each criterion subtype, including benign supporting (BP1&#x2013;6), benign strong (BS1&#x2013;4), benign stand-alone (BA1), pathogenic supporting (PP1&#x2013;5), pathogenic moderate (PM1&#x2013;6), pathogenic strong (PS1&#x2013;4), or very strong (PVS1). The odds of pathogenicity (<ce:italic>OddsPath</ce:italic>) of each variant was calculated using the following published formula <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="siN.gif"><?TeX $OddsPath = {{350}^{( {\frac{{{{N}_{PP}}}}{8} + \frac{{{{N}_{PM}}}}{4} + \frac{{{{N}_{PS}}}}{2} + \frac{{{{N}_{PVS}}}}{1} - \frac{{{{N}_{BP}}}}{8} - \frac{{{{N}_{BS}}}}{2}} )}}$?></mml:math>.<ce:cross-ref id="crf0034" refid="bib0014"><ce:sup>14</ce:sup></ce:cross-ref> The Bayesian posterior probability was calculated by the equation <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="siN.gif"><?TeX $Post\_P = \frac{{OddsPath*Prior\_P}}{{( {OddsPath - 1} )*Prior\_P + 1}}$?></mml:math>, in which prior probability (<ce:italic>Prior_P</ce:italic>) by default is 0.1. <ce:italic>Post_P</ce:italic> was then assigned a variant classification as follows: benign &lt; 0.001; 0.001 &#x2264; likely benign &lt; 0.1; 0.1 &#x2264; Variant of Uncertain Significance (VUS) &lt; 0.90; 0.90 &#x2264; likely pathogenic &lt; 0.99; 0.99 &#x2264; pathogenic.<ce:cross-ref id="crf0035" refid="bib0015"><ce:sup>15</ce:sup></ce:cross-ref> OddsPath cut-off scores for Supporting, Moderate, Strong, and Very Strong pathogenic evidence were obtained from published guidelines.<ce:cross-ref id="crf0036" refid="bib0016"><ce:sup>16</ce:sup></ce:cross-ref>
+</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0011" role="results">
+<ce:section-title id="cesectitle0020">RESULTS</ce:section-title>
+<ce:section id="sec0012">
+<ce:section-title id="cesectitle0021">Clinical Features</ce:section-title>
+<ce:section id="sec0013">
+<ce:section-title id="cesectitle0022">Family A</ce:section-title>
+<ce:para id="para0025">A 47-year-old Thai woman (<ce:cross-ref id="crf0037" refid="fig0001">Fig. 1</ce:cross-ref>. A. II-2) with an unremarkable past medical history presented with progressive decrease in vision in both eyes. Corrected visual acuities (CVA) measured 20/40 OD and 20/50 OS. Slit lamp biomicroscopy and AS-OCT revealed inferior paracentral corneal subepithelial fibrosis, underlying stromal edema and multiple discrete gray peripheral opacities at the level of DM, predominantly located in the superior and inferior peripheral cornea (<ce:cross-ref id="crf0038" refid="fig0002">Fig. 2</ce:cross-ref><ce:float-anchor refid="fig0002"/>A, Supplemental Fig. 1A). Central corneal pachymetry measured 626 &#x00B5;m OD and 604 &#x00B5;m OS. A combined Descemet membrane endothelial keratoplasty (DMEK), cataract extraction was performed in each eye with restoration of stromal clarity other than for residual inferior paracentral subepithelial scarring (<ce:cross-ref id="crf0039" refid="fig0002">Fig. 2</ce:cross-ref>B). Slit lamp examination of other family members revealed similar appearing discrete gray opacities only in the proband&#x2019;s 73-year-old mother, whose CVA measured 20/70 OU (<ce:cross-ref id="crf0040" refid="fig0001">Fig. 1</ce:cross-ref>. A. I-2). As the opacities in proband&#x2019;s mother were confined to the inferior peripheral cornea in each eye, were significantly fewer in number, and were not associated with corneal edema (<ce:cross-ref id="crf0041" refid="fig0002">Fig. 2</ce:cross-ref>C), her decreased corrected visual acuity was attributed to bilateral severe nuclear sclerosis. The other examined family members, including the proband&#x2019;s father (<ce:cross-ref id="crf0042" refid="fig0001">Fig. 1</ce:cross-ref>. A. I-1), older sister (<ce:cross-ref id="crf0043" refid="fig0001">Fig. 1</ce:cross-ref>. A. II-1), and daughter (<ce:cross-ref id="crf0044" refid="fig0001">Fig. 1</ce:cross-ref>. A. III-1), demonstrated clear corneas.</ce:para>
+</ce:section>
+<ce:section id="sec0014">
+<ce:section-title id="cesectitle0023">Family B</ce:section-title>
+<ce:para id="para0026">A 49-year-old Vietnamese woman (<ce:cross-ref id="crf0045" refid="fig0001">Fig. 1</ce:cross-ref>. B. II-1) with an unremarkable past medical history presented with glare, halo, and foreign body sensation in both eyes (OD &gt; OS) that was worse in the morning. Slit lamp biomicroscopy revealed mild diffuse corneal stromal edema OD and trace stromal edema OS with multiple discrete grayish peripheral opacities at the level of DM in both eyes (<ce:cross-ref id="crf0046" refid="fig0002">Fig. 2</ce:cross-ref>D). The patient complained of progressive loss of vision thereafter for 6 months as CVA declined from 20/100 to counting finger (CF) at 2 meters OD and from 20/20 to 20/25 OS. Slit lamp biomicroscopy revealed temporal microcystic epithelial and stromal edema extending to the central cornea in both eyes (<ce:cross-ref id="crf0047" refid="fig0002">Fig. 2</ce:cross-ref>E). Central corneal pachymetry measured by UBM was 620 &#x00B5;m OU. A combined Descemet stripping automated endothelial keratoplasty (DSAEK), cataract extraction was performed in the right eye, and the central cornea remained clear 2 years (<ce:cross-ref id="crf0048" refid="fig0002">Fig. 2</ce:cross-ref>F) and 4 years later with CVA of 20/25 and 20/30, respectively. The unoperated left eye developed progressive subepithelial scarring and stromal edema with CVA decreasing to CF at 3 meters.</ce:para>
+<ce:para id="para0027">The parents of the proband (<ce:cross-ref id="crf0049" refid="fig0001">Fig. 1</ce:cross-ref>. B. I-1 and B. I-2), who are first cousins, were not available for examination. The proband&#x2019;s younger brother (<ce:cross-ref id="crf0050" refid="fig0001">Fig. 1</ce:cross-ref>. B. II-2), who was diagnosed with Fuchs endothelial corneal dystrophy and progressive moderate glaucoma, underwent two DSAEK procedures and tube shunt placement twice in the left eye. Postoperative CVA in the left eye was limited to hand motion due to glaucomatous optic neuropathy. In the unoperated right eye, CVA measured 20/30. Trace peripheral corneal stromal edema and a few peripheral grey macular deposits at the level of DM were observed (<ce:cross-ref id="crf0051" refid="fig0002">Fig. 2</ce:cross-ref>G), with central and peripheral corneal pachymetry measuring 570 &#x00B5;m and 830-970 &#x00B5;m, respectively. Examination of the proband&#x2019;s son (<ce:cross-ref id="crf0052" refid="fig0001">Fig. 1</ce:cross-ref>. B. III-1) revealed a clear cornea in each eye.</ce:para>
+</ce:section>
+<ce:section id="sec0015">
+<ce:section-title id="cesectitle0024">Family C</ce:section-title>
+<ce:para id="para0028">A 60-year-old Vietnamese man (<ce:cross-ref id="crf0053" refid="fig0001">Fig. 1</ce:cross-ref>. C. II-5) presented with decreased vision in the left eye. Slit lamp examination revealed fine peripheral gray-white opacities at the level of the DM and central guttae in the right eye, and fine central epithelial edema, moderate stromal edema and DM folds in the left eye (<ce:cross-ref id="crf0054" refid="fig0002">Fig. 2</ce:cross-ref>H). CVA measured 20/70 OD and CF at 1 meter OS, while central pachymetry measured 457 &#x00B5;m OD and 602 &#x00B5;m OS. A combined DMEK, cataract extraction was performed in the left eye, with the restoration of a clear cornea (<ce:cross-ref id="crf0055" refid="fig0002">Fig. 2</ce:cross-ref>I). Examination of the proband&#x2019;s 72-year-old sister (<ce:cross-ref id="crf0056" refid="fig0001">Fig. 1</ce:cross-ref>. C. II-1) revealed similar appearing white macular deposits, more profound in size and number, primarily located in the superior and inferior posterior peripheral cornea in both eyes (<ce:cross-ref id="crf0057" refid="fig0002">Fig. 2</ce:cross-ref>J). Trace corneal stromal edema was present in both eyes with central corneal pachymetry measuring 551 &#x00B5;m OD and 532 &#x00B5;m OS. Eight other family members who were examined demonstrated clear corneas (<ce:cross-ref id="crf0058" refid="fig0001">Fig. 1</ce:cross-ref>. C). The parents of the proband, who were third cousins, were deceased and their medical records were not available.</ce:para>
+</ce:section>
+<ce:section id="sec0016">
+<ce:section-title id="cesectitle0025">Family D</ce:section-title>
+<ce:para id="para0029">A 41-year-old Vietnamese man (<ce:cross-ref id="crf0059" refid="fig0001">Fig. 1</ce:cross-ref>. D. II-1) presented with blurred vision and foreign body sensation, worse in the morning, in both eyes (OS &gt; OD) for two years. Corrected visual acuity measured 20/25 OD and 20/50 OS. Slit lamp biomicroscopy revealed moderate diffuse stromal edema, 3&#x002B; endothelial guttae and peripheral grey-white discrete opacities at the level of the DM in both eyes (<ce:cross-ref id="crf0060" refid="fig0003">Fig. 3</ce:cross-ref><ce:float-anchor refid="fig0003"/>A). Central corneal pachymetry measured by Pentacam for the central 0-2 mm zone was 505 &#x2013; 522 &#x00B5;m OD and 545 - 742 &#x00B5;m OS and AS-OCT revealed stromal edema and DM folds in the left eye (<ce:cross-ref id="crf0061" refid="fig0003">Fig. 3</ce:cross-ref>B). Examination of the proband&#x2019;s 36-year-old brother (<ce:cross-ref id="crf0062" refid="fig0001">Fig. 1</ce:cross-ref>. D. II-3) revealed no stromal edema, central 2 mm guttae, and a few fine opacities in the peripheral superior posterior cornea of the right eye. His left eye demonstrated focal inferior paracentral corneal epithelial and stromal edema, and a few discrete grey macular opacites at the level of DM in the superior and nasal periphery (<ce:cross-ref id="crf0063" refid="fig0003">Fig. 3</ce:cross-ref>C). Examination of the proband&#x2019;s 31-year-old brother (<ce:cross-ref id="crf0064" refid="fig0001">Fig. 1</ce:cross-ref>. D. II-5) revealed a few discrete gray posterior stromal opacities bilaterally, located only in superior peripheral cornea, without corneal edema (<ce:cross-ref id="crf0065" refid="fig0003">Fig. 3</ce:cross-ref>D). Eight other family members who were examined demonstrated clear corneas (<ce:cross-ref id="crf0066" refid="fig0001">Fig. 1</ce:cross-ref>. D).</ce:para>
+</ce:section>
+<ce:section id="sec0017">
+<ce:section-title id="cesectitle0026">Family E</ce:section-title>
+<ce:para id="para0030">A 54-year-old Vietnamese woman (<ce:cross-ref id="crf0067" refid="fig0001">Fig. 1</ce:cross-ref>. E. II-1) presented with a progressive decrease in vision and foreign body sensation in both eyes for four years. CVA measured CF at 0.2 meter OD and at 0.5 meter OS. Slit lamp examination revealed central corneal epithelial bullae, diffuse moderate stromal edema, and fine peripheral grey macular deposits at the level of DM, primarily in the superior and inferior peripheral cornea, in both eyes (<ce:cross-ref id="crf0068" refid="fig0003">Fig. 3</ce:cross-ref>E). AS-OCT imaging revealed corneal epithelial and stromal edema in both eyes, and central corneal thickness measured 685 &#x2013; 696 &#x00B5;m OD and 715 &#x00B5;m OS using AS-OCT (Supplemental Fig. 1B). The proband&#x2019;s 42-year-old younger sister (<ce:cross-ref id="crf0069" refid="fig0001">Fig. 1</ce:cross-ref>. E. II-2) had CVA of CF at 0.2 meters OD and CF at 0.6 meters OS secondary to epithelial bullae, subepithelial fibrosis and stromal edema in both eyes (<ce:cross-ref id="crf0070" refid="fig0003">Fig. 3</ce:cross-ref>F). Central corneal pachymetry measured 851 &#x00B5;m OD and 836 &#x00B5;m OS using AS-OCT (Supplemental Fig. 1C).</ce:para>
+</ce:section>
+<ce:section id="sec0018">
+<ce:section-title id="cesectitle0027">Family F</ce:section-title>
+<ce:para id="para0031">A 64-year-old Vietnamese man (<ce:cross-ref id="crf0071" refid="fig0001">Fig. 1</ce:cross-ref>. F. I-1) presented with a two-year history of declining vision in both eyes, with CVA decreasing from 20/40 to 20/100 in the right eye and from 20/100 to hand motion in the left eye. Slit lamp biomicroscopy revealed fine grey-white peripheral opacities at the level of the DM in both eyes (<ce:cross-ref id="crf0072" refid="fig0003">Fig. 3</ce:cross-ref>G). Focal inferior epithelial and diffuse mild stromal edema were present in the right cornea, while diffuse epithelial edema, subepithelial fibrosis and severe stromal edema were present in the left eye. Central corneal pachymetry measured 700 &#x00B5;m OD and 1100 &#x00B5;m OS using UBM. DSEK was performed in the left eye, after which the corneal edema improved to trace stromal edema and CVA improved to counting finger at 1 meter (<ce:cross-ref id="crf0073" refid="fig0003">Fig. 3</ce:cross-ref>H).</ce:para>
+</ce:section>
+<ce:section id="sec0019">
+<ce:section-title id="cesectitle0028">Family G</ce:section-title>
+<ce:para id="para0032">A 58-year-old Vietnamese man (<ce:cross-ref id="crf0074" refid="fig0001">Fig. 1</ce:cross-ref>. G. I-1) presented for evaluation of white deposits in both corneas diagnosed 7 years prior. CVA measured 20/20 OD and 20/25 OS. Slit lamp examination revealed grey-white macular deposits at the level of the DM in both eyes. While the deposits in the paracentral cornea were discrete, they coalesced into confluent opacities on the peripheral posterior cornea of each eye (<ce:cross-ref id="crf0075" refid="fig0003">Fig. 3</ce:cross-ref>I).</ce:para>
+</ce:section>
+</ce:section>
+</ce:section>
+<ce:section id="sec0020">
+<ce:section-title id="cesectitle0029">Genetic Analysis</ce:section-title>
+<ce:para id="para0033">Identified CHST6 promoter mutation c.-690G&gt;C, in homozygous state or in compound heterozygous state with a coding region mutation, segregated with affected status in seven families</ce:para>
+<ce:para id="para0034">The macular appearance of the peripheral opacities in affected individuals prompted screening of the coding and putative promoter regions of the <ce:italic>CHST6</ce:italic> gene. A rare promoter mutation n.-97G&gt;C, c.-690G&gt;C (GRCh38.p14 chr16: g.75495538C&gt;G, rs1009794816, GnomAD MAF 0.000064), was identified in all affected individuals in either a homozygous state or in a compound heterozygous state with a <ce:italic>CHST6</ce:italic> coding mutation, with the exception of the affected mother of the proband in Family A (<ce:cross-ref id="crf0076" refid="fig0001">Fig. 1</ce:cross-ref>. A. I-2) (<ce:cross-ref id="crf0077" refid="tbl0001">Table 1</ce:cross-ref><ce:float-anchor refid="tbl0001"/>). This individual, who displayed a milder corneal phenotype with few deposits and no corneal edema, was heterozygous for the c.-690G&gt;C mutation without a coding region mutation. The affected proband in Family A was compound heterozygous for c.-690G&gt;C and a novel coding region mutation c.839C&gt;T, p.(Pro280Leu) (GRCh38.p14 chr16: g.75478990G&gt;A, rs201767298, no MAF) while unaffected individuals were heterozygous for either mutation. In Family B, E, and G, affected individuals were homozygous and unaffected individuals were heterozygous for the c.-690G&gt;C mutation. In Family C, affected individuals were compound heterozygous for c.-690G&gt;C with a rare coding mutation c.803A&gt;G, p.(Tyr268Cys) (GRCh38.p14 chr16: g.75479026T&gt;C, rs72547539, GnomAD MAF 0.000064), whereas unaffected individuals were heterozygous for one of the two mutations. In Families D and F, affected individuals were compound heterozygous for c.-690G&gt;C with a rare coding mutation c.632G&gt;A, p.(Arg211Gln) (GRCh38.p14 chr16: g.75479197C&gt;T, rs771397083, GnomAD MAF 0.000004), while unaffected individuals were heterozygous for one of the two mutations.</ce:para>
+<ce:para id="para0035">Two common promoter variants adjacent to c.-690G&gt;C mutation, c.-792C&gt;T (GRCh38.p14 chr16: g.75495640G&gt;A, rs2550322, TOPMED MAF 0.034) and c.-668C&gt;T (GRCh38.p14 chr16: g.75495516G&gt;A, rs2550323, TOPMED MAF 0.114) were identified in all individuals with the c.-690G&gt;C mutation and were confirmed to be on the same allele (<ce:italic>in cis</ce:italic>) as c.-690G&gt;C. The three adjacent variants <ce:italic>in cis</ce:italic> are denoted as c.&#x005B;-668C&gt;T; -690G&gt;C; -792C&gt;T&#x005D;. In regards to the large deletion and rearrangement of <ce:italic>CHST6</ce:italic> upstream region previously associated with MCD type II<ce:cross-ref id="crf0078" refid="bib0017"><ce:sup>17</ce:sup></ce:cross-ref>, a heterozygous deletion was identified in only one of the probands, in family A (<ce:cross-ref id="crf0079" refid="fig0001">Fig. 1</ce:cross-ref>. A. II-2).</ce:para>
+<ce:section id="sec0021">
+<ce:section-title id="cesectitle0030">Whole Exome Sequencing fails to identify other candidate genes associated with PMED</ce:section-title>
+<ce:para id="para0036">All enrolled individuals from Families A, B, and C underwent WES. Assuming an autosomal recessive inheritance in Family C, homozygous or compound heterozygous candidate variants that segregated with affected status in Family C were identified in <ce:italic>SND1</ce:italic>, <ce:italic>ANKRD36</ce:italic> and <ce:italic>TAS2R43</ce:italic>. However, no candidate variant within these genes segregated with the affected status in Families A and B (Supplemental Table 2). Assuming an autosomal dominant inheritance in Family C, heterozygous candidate variants that segregated with affected status in Family C were identified in <ce:italic>CFAP74, FAAP20, PRDM16, CHD5, GRB14, NUP210, ZNF860, FAM160A1, FAM186A, PDIA3</ce:italic> and <ce:italic>NCOA6</ce:italic>. However, no candidate variant within these genes segregated with the affected status in Families A and B, excluding mutations in these genes as the genetic basis of PMED in each of these families (Supplemental Table 3).</ce:para>
+</ce:section>
+<ce:section id="sec0022">
+<ce:section-title id="cesectitle0031">CHST6 promoter variant c.-690G&gt;C is predicted to be a regulatory variant bound by RNA polymerase II</ce:section-title>
+<ce:para id="para0037"><ce:italic>In silico</ce:italic> analysis using RegulomeDB predicted that c.-690G&gt;C is a regulatory variant with a score of 1 on a scale of 0 to 1 (<ce:cross-ref id="crf0080" refid="tbl0002">Table 2</ce:cross-ref><ce:float-anchor refid="tbl0002"/>). This prediction is based on experimental data deposited in the ENCODE database, which includes information on transcriptional factor (TF) binding peaks, DNase footprint, DNase peaks, and the presence of TF binding motif (consensus genomic sequences that specifically bind TF). Among the available ChIP-seq data, the most frequently bound TF or subunit of transcriptional machinery at the genome coordinate of c.-690G&gt;C was RNA polymerase II subunit A (POL2A), observed in 10 out of 36 data sets. POL2A is the largest subunit of RNA polymerase II, responsible for synthesizing messenger RNA in eukaryotes. The identified common variants c.-792C&gt;T and c.-668C&gt;T were predicted to be moderately likely regulatory variants with scores of 0.61 and 0.56, respectively (<ce:cross-ref id="crf0081" refid="tbl0002">Table 2</ce:cross-ref>). <ce:italic>In silico</ce:italic> analysis of the three identified coding variants, p.Arg211Gln, p.Tyr268Cys and p.Pro280Leu, predicted all to be &#x201C;Deleterious&#x201D; in PredictSNP2 and &#x201C;Probably Damaging&#x201D; in PolyPhen-2 (<ce:cross-ref id="crf0082" refid="tbl0002">Table 2</ce:cross-ref>).</ce:para>
+</ce:section>
+<ce:section id="sec0023">
+<ce:section-title id="cesectitle0032">CHST6 c.-690G&gt;C leads to increased sulfated KS in human corneal endothelial cells but not in human keratocytes</ce:section-title>
+<ce:para id="para0038">To assess the functional effects of the identified <ce:italic>CHST6</ce:italic> variants, wild-type and/or mutant CHST6 promoter-containing expressing vectors (CGn6STwPro) were transfected into immortalized HCEnC and HK (<ce:cross-ref id="crf0083" refid="fig0004">Fig. 4</ce:cross-ref><ce:float-anchor refid="fig0004"/>A). In HCEnC, Western Blot results showed low levels of 5D4&#x002B; KS in cells transfected with wild-type CHST6 expression construct (WT/WT). However, increased levels of 5D4&#x002B; KS were observed following transfection with either c.-690G&gt;C promoter variant-containing construct (PT/PT or c.-690G&gt;C/c.-690G&gt;C), regardless of dose. The increase in 5D4&#x002B; KS was evident in HCEnC transfected under all conditions with c.-690G&gt;C promoter variant, including PT/PT, c.-690G&gt;C/c.-690G&gt;C, PT/P280L, PT/Y268C, WT/PT, c.-690G&gt;C/P280L, or c.-690G&gt;C/Y268C conditions. However, the levels of 5D4&#x002B; KS remained unchanged in HCEnC following transfection of only coding variant-containing constructs P280L/P280L and Y268C/Y268C (<ce:cross-ref id="crf0084" refid="fig0004">Fig. 4</ce:cross-ref>B, C).</ce:para>
+<ce:para id="para0039">In HK, on the contrary, there was significantly higher 5D4&#x002B; KS in cells transfected with wild-type CHST6 expression construct (WT/WT) compared to HCEnC WT/WT transfection. There was no change in 5D4&#x002B; KS level following transfection with c.-690G&gt;C promoter variant-containing constructs under PT/PT, c.-690G&gt;C/c.-690G&gt;C, PT/P280L, PT/Y268C, and WT/PT conditions, compared to HK transfected with WT/WT. Transfection in HK with coding variant-containing constructs, including c.-690G&gt;C/P280L, c.-690G&gt;C/Y268C, P280L/P280L, and Y268C/Y268C conditions, led to decreased 5D4&#x002B; KS levels compared to HK transfected with WT/WT. The above data suggested an aberrant 5D4&#x002B; KS overexpression in HCEnC is induced by the presence of <ce:italic>CHST6</ce:italic> c.-690G&gt;C promoter variant, and the previously unreported <ce:italic>CHST6</ce:italic> P280L mutation leads to decreased CGn6ST/CHST6 enzymatic activity in HK, similar to the previously reported Y268C mutation (<ce:cross-ref id="crf0085" refid="fig0004">Fig. 4</ce:cross-ref>B, C).</ce:para>
+</ce:section>
+<ce:section id="sec0024">
+<ce:section-title id="cesectitle0033">CHST6 c.-690G&gt;C induced increase of sulfated and unsulfated KS is restricted to Descemet membrane and corneal endothelium</ce:section-title>
+<ce:para id="para0040">To investigate whether the aberrant overexpression of 5D4&#x002B; KS was the cause of corneal endothelial changes observed in affected individuals in our case series, we performed immunohistochemical staining of three DM samples collected during DMEK surgery of probands of Families A, C and F. A full thickness donor cornea and a DM sample from an individual with pseudophakic corneal edema (PCE) were included as controls. Staining performed included H&amp;E staining, immunofluorescence staining with 5D4 antibody for highly sulfated KS, FITC conjugated Lectin (Lectin-FITC) for non-sulfated KS, Alcian Blue staining for non-sulfated KS and High Iron Diamine (HID) staining for low sulfated KS (<ce:cross-ref id="crf0086" refid="fig0005">Fig. 5</ce:cross-ref><ce:float-anchor refid="fig0005"/>). On H&amp;E staining, the DM samples from the three probands showed various degrees of DM thickening and dystrophic appearing cornea endothelial cells, with areas devoid of cells. Immunofluorescence staining with the 5D4 antibody revealed increased staining of 5D4&#x002B; KS throughout the full thickness of DM in the three probands, displaying a lamellated appearance compared to controls. This lamellated appearance suggested that 5D4&#x002B; KS was continuously deposited by the corneal endothelial cells over time. Lectin-FITC staining was also increased in the DM samples from the three probands compared to the controls, with a laminated appearance throughout the thickness of DM, particularly in the posterior zone/layers closer to the corneal endothelium. A tumor tissue sample with neovascularization included as a positive control for Lectin-FITC demonstrated staining of blood vessel basement membranes. Alcian Blue staining demonstrated positive staining primarily in the posterior zone/layers of the DM and in the cytoplasm of the remaining corneal endothelial cells in the three DM samples. In contrast, control samples showed no Alcian Blue staining of the DM or corneal endothelium. A sample of human colon adenocarcinoma included as a positive control showed Alcian blue positive mucus droplets within colon epithelial cells. HID staining was observed in corneal endothelial cells and/or in protruding nodules on the posterior surface of DM in the three DM samples, whereas no HID staining was observed in controls, suggesting that the gray deposits on the posterior aspect of the peripheral cornea observed clinically may consist of low sulfated KS. A sample of healthy murine colon epithelium included as positive control for HID staining demonstrated dark brown HID-stained mucus droplets within the colon epithelial cells.</ce:para>
+<ce:para id="para0041">To evaluate the impact of the <ce:italic>CHST6</ce:italic> c.-690G&gt;C mutation on systemic KS sulfation and metabolism, serum and/or DBS were collected from affected and unaffected members of 6 of 7 families (<ce:cross-ref id="crf0087" refid="fig0001">Fig. 1</ce:cross-ref>). Control samples included serum samples from four healthy individuals, the unrelated spouse of the proband in Family E, and two individuals with fleck corneal dystrophy. The levels of di-sulfated KS, mono-sulfated KS, total sulfated KS (di-sulfated KS&#x202F;&#x002B;&#x202F;mono-sulfated KS), dermatan sulfate (DS), and heparan sulfate (HS) from serum samples and DBS samples for each individual are presented in <ce:cross-refs id="crf0088" refid="tbl0003 tbl0004">Tables 3 and 4</ce:cross-refs><ce:float-anchor refid="tbl0003"/><ce:float-anchor refid="tbl0004"/>, respectively. Adjusted DBS measurements were provided for ease of comparison with serum sample measurements, based on a previously published method.<ce:cross-ref id="crf0090" refid="bib0013"><ce:sup>13</ce:sup></ce:cross-ref> The blood sulfated KS levels in most of the individuals examined, affected or unaffected, were within the range of sulfated KS levels found in health controls.</ce:para>
+<ce:para id="para0042">The above data suggested that the aberrant overexpression of 5D4&#x002B; high sulfated KS induced by the <ce:italic>CHST6 c.-690G&gt;C</ce:italic> mutation was restricted to the corneal endothelium and DM in the corneas of affected individuals. Additionally, low-sulfated KS and non-sulfated KS were overexpressed in corneal endothelium and DM as well.</ce:para>
+</ce:section>
+<ce:section id="sec0025">
+<ce:section-title id="cesectitle0034">CHST6 c.-690G&gt;C is a pathogenic variant</ce:section-title>
+<ce:para id="para0043">To determine the pathogenicity of the identified variants, we followed established guidelines published by American College of Medical Genetics and Genomics (ACMG), Association for Molecular Pathology (AMP) and UK Association for Clinical Genomic Science (ACGS). These guidelines include the 2015 ACMG-AMP variant interpretation guidelines for Mendelian disorders<ce:cross-ref id="crf0091" refid="bib0018"><ce:sup>18</ce:sup></ce:cross-ref>, the 2018 ACMG/AMP guideline update for PP5 and BP6 variants<ce:cross-ref id="crf0092" refid="bib0019"><ce:sup>19</ce:sup></ce:cross-ref>, the Bayesian adaptation of the ACMG/AMP variant interpretation framework<ce:cross-ref id="crf0093" refid="bib0014"><ce:sup>14</ce:sup></ce:cross-ref>, the 2020 ACMG/AMP guideline update for PS3/BS3 criterion<ce:cross-ref id="crf0094" refid="bib0020"><ce:sup>20</ce:sup></ce:cross-ref>, and the 2022 ACGS variant interpretation guidelines for non-coding variants.<ce:cross-ref id="crf0095" refid="bib0021"><ce:sup>21</ce:sup></ce:cross-ref> Four of the six identified variants, c.-690G&gt;C, p.Arg211Gln, p.Tyr268Cys, and p.Pro280Leu, can be classified as &#x201C;Pathogenic&#x201D;, each with a posterior probability of 0.999 and a calculated OddsPath value of 13617, indicating that the pathogenic evidence is &#x201C;Very Strong&#x201D; for all of these four variants (<ce:cross-ref id="crf0096" refid="tbl0005">Table 5</ce:cross-ref><ce:float-anchor refid="tbl0005"/>).</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0026" role="discussion">
+<ce:section-title id="cesectitle0035">DISCUSSION</ce:section-title>
+<ce:para id="para0044">This study details the clinical, histopathologic, immunohistochemical and genetic features of a <ce:italic>CHST6</ce:italic>-associated corneal endothelial dystrophy affecting seven unrelated families from Vietnam and Thailand. The clinical presentation of this corneal endothelial dystrophy is distinct from previously described corneal endothelial dystrophies, namely Fuchs endothelial corneal dystrophy, congenital hereditary endothelial dystrophy, posterior polymorphous corneal dystrophy and x-linked endothelial corneal dystrophy. We suggest the name Peripheral macular endothelial dystrophy (PMED) to describe this dystrophy, given the similar appearance of the peripheral gray-white deposits observed in PMED to those observed in MCD. However, this dystrophy is sufficiently distinct from MCD in terms of clinical features, surgical management, genetic basis, and the functional impact of associated mutations to be considered as unique corneal dystrophy.</ce:para>
+<ce:para id="para0045">In terms of the clinical features, individuals with PMED initially present with discrete gray-white deposits on the posterior aspect of the peripheral cornea, without stromal haze, stromal opacities or associated visual symptoms. The peripheral deposits slowly increase in size and number, extending in some individuals into the mid-peripheral cornea. Subsequently, epithelial and/or stromal corneal edema can develop, which can be successfully managed with endothelial keratoplasty.</ce:para>
+<ce:para id="para0046">Similar to MCD, PMED is associated with promoter and coding region mutations in <ce:italic>CHST6</ce:italic>. Identified coding region mutations, p.Tyr268Cys (Y268C) and p.Arg211Gln (R211Q), have been previously reported to be associated with MCD, suggesting these two coding mutations lead to decreased CGn6ST/CHST6 enzymatic activity.<ce:cross-ref id="crf0097" refid="bib0022"><ce:sup>22</ce:sup></ce:cross-ref> <ce:cross-ref id="crf0098" refid="bib0023"><ce:sup>23</ce:sup></ce:cross-ref> However, p.Pro280Leu (P280L) is novel and has not been associated with MCD. In each of the seven families that we describe, the rare <ce:italic>CHST6</ce:italic> promoter mutation c.-690G&gt;C, not previously associated with MCD, was identified in either the homozygous or compound heterozygous state. <ce:italic>In silico</ce:italic> analysis suggests that <ce:italic>CHST6</ce:italic> c.-690G&gt;C is located at the binding site of RNA polymerase II in the <ce:italic>CHST6</ce:italic> promoter. In vitro functional analysis, together with DM histological findings and serum KS measurement, suggest that the c.-690G&gt;C mutation, either in the homozygous state or in the compound heterozygous state with another <ce:italic>CHST6</ce:italic> coding mutation, leads to increased CGn6ST-mediated sulfation of KS only in the corneal endothelium and minimally affects the CGn6ST enzyme activity in keratocytes and other somatic cell types. Additionally, our data suggests that <ce:italic>CHST6</ce:italic> c.-690G&gt;C in the heterozygous state may be sufficient to cause disease, given the observation of a few peripheral deposits without corneal edema in a heterozygous individual and the in vitro functional analysis of c.-690G&gt;C in heterozygous state demonstrating increased CGn6ST-mediated KS sulfation in corneal endothelial cells. The distinct functional effects of <ce:italic>CHST6</ce:italic> c.-690G&gt;C in corneal endothelial cells versus in keratocytes and other somatic cell types may be related to the variability of enhancer and promoter usage across tissues and the highly tissue-specific effects of non-coding variants. Because of such tissue-specific effects, the 2022 ACGS variant interpretation guidelines for non-coding variants<ce:cross-ref id="crf0099" refid="bib0021"><ce:sup>21</ce:sup></ce:cross-ref> specified that functional assay(s) of identified non-coding variant(s) need to be performed in disease-relevant tissues or cell types. In our study, functional assays of identified <ce:italic>CHST6</ce:italic> non-coding (c.-690G&gt;C) and coding (P280L and Y268C) mutations were performed in HCEnC and HK using the same outcome measurement &#x2013; the level of 5D4 antibody labeled highly sulfated KS. While the functional assay showed decreased 5D4&#x002B; KS with the two <ce:italic>CHST6</ce:italic> coding mutations in HK and no apparent change of already low 5D4&#x002B; KS in HCEnC, the assay also showed <ce:italic>CHST6</ce:italic> c.-690G&gt;C enhanced 5D4&#x002B; KS in HCEnC with no apparent effect in HK. These results provided strong evidence of the differential functional consequences of <ce:italic>CHST6</ce:italic> c.-690G&gt;C in keratocytes compared to corneal endothelium.</ce:para>
+<ce:para id="para0047">To the best of our knowledge, there have been three publications describing two individual cases and a family with peripheral gray-white macular deposits at the level of DM. Chaurasia <ce:italic>et al.</ce:italic> described a 67-year-old Indian woman who presented with corneal edema, guttae and bilateral deposits at DM, scattered circumferentially in the peripheral cornea.<ce:cross-ref id="crf0100" refid="bib0024"><ce:sup>24</ce:sup></ce:cross-ref> After a clinical diagnosis of macular corneal dystrophy was made, without genetic confirmation, Descemet stripping endothelial keratoplasty (DSEK) was performed in the left eye, with improvement of 20/50 preoperative visual acuity to 20/30. Histological examination in the excised DM demonstrated Alcian blue-positive endothelial cells, consistent with the findings in the DM from the three probands that we report. We previously described a 68-year-old Chinese man with bilateral clear corneas, except for peripheral round gray-white discrete deposits at the level of DM. Both eyes exhibited decreased central corneal thickness and normal endothelial cell densities. <ce:italic>CHST6</ce:italic> screening in this individual demonstrated two compound heterozygous mutations <ce:italic>in trans</ce:italic> configuration: c.-26C&gt;A, a non-coding mutation in exon 2 that created a new upstream open reading frame (uORF&#x2019;), predicted to attenuate translation efficiency of the downstream main ORF; and c.803A&gt;G, p.(Tyr268Cys), which is the same mutation identified in Family C that we report. Serum KS levels were reduced compared to age-matched controls, leading us to conclude that the diagnosis in this case was macular corneal dystrophy type II.<ce:cross-ref id="crf0101" refid="bib0025"><ce:sup>25</ce:sup></ce:cross-ref> However, when we performed an in vitro cell-based assay of the compound heterozygous mutations identified in this individual, we observed increased sulfated KS compared to wild type in HCEnC but no effect in HK (Supplemental Fig. 2), similar to that observed with <ce:italic>CHST6</ce:italic> c.-690G&gt;C<ce:italic>.</ce:italic> Given this, and the absence of macular stromal deposits and diffuse stromal haze that are essential phenotypic features of MCD, we now believe that this individual more likely has PMED. Ye <ce:italic>et al.</ce:italic> described a Chinese pedigree consisting of 13 members across 3 generations, including 6 affected individuals, showing an autosomal dominant inheritance pattern.<ce:cross-ref id="crf0102" refid="bib0026"><ce:sup>26</ce:sup></ce:cross-ref> The average age of disease onset was 16.5 years of age, and affected members demonstrated progressive enlargement and coalescence of white translucent spots initially confined to the peripheral DM with subsequent involvement of the central DM, with the development of endothelial decompensation, manifest by corneal epithelial and stromal edema, in some individuals. While the reported clinical features of this pedigree are similar to those of PMED, the authors identified a heterozygous <ce:italic>KIAA1522</ce:italic> (c.1331G&gt;A) variant that segregated with affected status in the pedigree, indicating a distinct genetic basis from the families that we report.<ce:cross-ref id="crf0103" refid="bib0026"><ce:sup>26</ce:sup></ce:cross-ref>
+</ce:para>
+<ce:para id="para0048">With the elucidation of the genetic basis of essentially all of the corneal dystrophies and the initiation of preclinical trials of gene therapy for selected corneal dystrophies, we propose to reconsider the classification system of the corneal dystrophies, with more emphasis placed on the genetic basis and less on the layer of the cornea that is primarily affected. The first FDA-approved gene therapy, Luxturna&#x00AE;, received approval with a genetic indication labeling &#x201C;for the treatment of patients with confirmed biallelic <ce:italic>RPE65</ce:italic> mutation-associated retinal dystrophy&#x201D;.<ce:cross-ref id="crf0104" refid="bib0027"><ce:sup>27</ce:sup></ce:cross-ref> This wording was selected primarily based on the observed variety of clinical diagnoses for <ce:italic>RPE65</ce:italic>-mediated inherited retinal diseases, despite common characteristic findings such as nyctalopia. Depending on the time of disease onset, severity, rate of progression and presenting phenotype, the most common diagnoses for <ce:italic>RPE65</ce:italic>-mediated inherited retinal diseases include Leber congenital amaurosis (LCA), early-onset severe retinal dystrophy (EOSRD), retinitis pigmentosa (RP), Fundus albipunctatus (FA) and others.<ce:cross-ref id="crf0105" refid="bib0028"><ce:sup>28</ce:sup></ce:cross-ref><ce:sup>,</ce:sup><ce:cross-ref id="crf0106" refid="bib0029"><ce:sup>29</ce:sup></ce:cross-ref> However, regardless of the clinical diagnosis, confirmation of biallelic <ce:italic>RPE65</ce:italic> mutations is required for a patient to be eligible for Luxturna&#x00AE; gene therapy. Similarly, as the <ce:italic>TGFBI</ce:italic> epithelial-stromal dystrophies demonstrate significant phenotypic heterogeneity and involve multiple layers of the cornea, they are more accurately classified and conceptualized using a molecular genetic rather than an anatomic construct. Given the fact that both MCD and PMED are associated with promoter and coding region mutations in <ce:italic>CHST6</ce:italic>, we propose that they should both be categorized as <ce:italic>CHST6</ce:italic>-associated corneal dystrophies. The shifting of the emphasis from variable phenotypic features to the invariant underlying genetic defects associated with the corneal dystrophies is a natural and necessary evolution as we enter the era of genetic therapy for corneal dystrophies.</ce:para>
+</ce:section>
+<ce:section id="sec0027">
+<ce:section-title id="cesectitle0036">AUTHOR CONTRIBUTIONS</ce:section-title>
+<ce:para id="para0049"><ce:bold>Wenlin Zhang</ce:bold>: Conceptualization, Methodology, Formal Analysis, Investigation, Data Curation, Writing-Original Draft, Writing-Review &amp; editing, Visualization, Project Administration. <ce:bold>Huong Duong</ce:bold>: Conceptualization, Validation, Investigation, Data Curation, Writing-Review &amp; editing, Supervision, Project Administration. <ce:bold>Passara Jongkhajornpong</ce:bold>: Conceptualization, Validation, Investigation, Data Curation, Writing-Review &amp; editing. <ce:bold>Do Thi Thuy Hang:</ce:bold> Validation, Investigation, Data Curation. <ce:bold>Huan Pham:</ce:bold> Validation, Investigation, Data Curation. <ce:bold>Mai Nguyen:</ce:bold> Validation, Investigation, Data Curation. <ce:bold>Charlene Choo:</ce:bold> Validation, Investigation, Data Curation. <ce:bold>Dominic Williams:</ce:bold> Investigation, Data Curation <ce:bold>Xuan Nguyen:</ce:bold> Investigation, Data Curation. <ce:bold>Tien Dat Nguyen</ce:bold>: Investigation, Data Curation. <ce:bold>Brian Aguirre,</ce:bold> Investigation, Data Curation. <ce:bold>Shaukat Khan,</ce:bold> Investigation, Data Curation. <ce:bold>Madhuri Wadehra:</ce:bold> Supervision, <ce:bold>Shunji Tomatsu:</ce:bold> Methodology, Writing-Review &amp; editing, Supervision, Project Administration. <ce:bold>Anthony J. Aldave</ce:bold>: Conceptualization, Methodology, Writing-Review &amp; editing, Supervision, Project Administration. Funding Acquisition.</ce:para>
+</ce:section>
+<ce:section id="sec0028" role="funding">
+<ce:section-title id="cesectitle0037">Funding</ce:section-title>
+<ce:para id="para0050">This work was supported by the National Eye Institute P30EY000331 (core grant to the Stein Eye Institute), and an unrestricted grant from Research to Prevent Blindness (Stein Eye Institute)</ce:para>
+</ce:section>
+<ce:section id="sec0029">
+<ce:section-title id="cesectitle0038">Financial Disclosures</ce:section-title>
+<ce:para id="para0051">No financial disclosures</ce:para>
+</ce:section>
+<ce:section id="sec0030">
+<ce:section-title id="cesectitle0039">Table of Contents Statement</ce:section-title>
+<ce:para id="para0052">Peripheral macular endothelial dystrophy is a novel <ce:italic>CHST6</ce:italic>-associated corneal dystrophy characterized by peripheral posterior corneal macular opacities and endothelial dysfunction without stromal haze or opacities.</ce:para>
+<ce:para id="para0053">Supplemental Material available at AJO.com</ce:para>
+</ce:section>
+</ce:sections>
+<ce:conflict-of-interest id="coi0001">
+<ce:section-title id="cesectitle0041">Declaration of competing interest</ce:section-title>
+<ce:para id="para0059">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+</ce:conflict-of-interest>
+<ce:acknowledgment id="ack0001">
+<ce:section-title id="cesectitle0040">ACKNOWLEDGEMENTS</ce:section-title>
+<ce:para id="para0058">We thank Dr. Tomoya O. Akama (Kansai Medical University) for the generous gifts of pcDNA3_CGn6ST, pcDNA3_KSG6ST and pcDNA3_b3GnT7 plasmids, Dr. James V. Jester (UC Irvine) for the generous gift of a telomerase immortalized human keratocyte cell line and Dr. Ula V. Jurkunas (Massachusetts Eye and Ear) for the generous gift of a telomerase immortalized human endothelial cell line.</ce:para>
+</ce:acknowledgment>
+<ce:appendices>
+<ce:section id="sec0031" view="compact-standard">
+<ce:section-title id="cesectitle9001">Supplementary materials</ce:section-title>
+<ce:para id="para0008a">Supplementary material associated with this article can be found, in the online version, at <ce:inter-ref id="interref0001" xlink:href="https://doi.org/10.1016/j.ajo.2025.08.006">doi:10.1016/j.ajo.2025.08.006</ce:inter-ref>.</ce:para>
+</ce:section>
+<ce:section id="sec0032" view="extended">
+<ce:label>Appendix</ce:label>
+<ce:section-title id="cesectitle9002">Supplementary materials</ce:section-title>
+<ce:para id="para0054a">
+<ce:display>
+<ce:e-component id="ecom0001">
+<ce:alt-text id="alt0011" role="short">Image, application 1</ce:alt-text>
+<ce:link id="celink0006" locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S000293942500412X/mmc1"/>
+</ce:e-component>
+</ce:display>
+<ce:display>
+<ce:e-component id="ecom0002">
+<ce:alt-text id="alt0012" role="short">Image, application 2</ce:alt-text>
+<ce:link id="celink0007" locator="mmc2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S000293942500412X/mmc2"/>
+</ce:e-component>
+</ce:display>
+<ce:display>
+<ce:e-component id="ecom0003">
+<ce:alt-text id="alt0013" role="short">Image, application 3</ce:alt-text>
+<ce:link id="celink0008" locator="mmc3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S000293942500412X/mmc3"/>
+</ce:e-component>
+</ce:display>
+<ce:display>
+<ce:e-component id="ecom0004">
+<ce:alt-text id="alt0014" role="short">Image, application 4</ce:alt-text>
+<ce:link id="celink0009" locator="mmc4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S000293942500412X/mmc4"/>
+</ce:e-component>
+</ce:display>
+</ce:para>
+</ce:section>
+</ce:appendices>
+</body>
+<tail>
+<ce:bibliography id="cebibl1">
+<ce:section-title id="cesectitle0042">REFERENCES</ce:section-title>
+<ce:bibliography-sec id="cebibsec1">
+<?att type="article"?><ce:bib-reference id="bib0001">
+<ce:label>1</ce:label>
+<sb:reference id="sbref0001">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Weiss</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.U.</ce:given-name>
+<ce:surname>Moller</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Aldave</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>IC3D classification of corneal dystrophies&#x2013;edition 2</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cornea</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2015</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>117</sb:first-page>
+<sb:last-page>159</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0001">Weiss JS, Moller HU, Aldave AJ, et al. IC3D classification of corneal dystrophies&#x2013;edition 2. Cornea. 2015;34(2):117-159.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0002">
+<ce:label>2</ce:label>
+<sb:reference id="sbref0002">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Weiss</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.J.</ce:given-name>
+<ce:surname>Rapuano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Seitz</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>IC3D Classification of Corneal Dystrophies-Edition 3</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cornea</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2024</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>466</sb:first-page>
+<sb:last-page>527</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0002">Weiss JS, Rapuano CJ, Seitz B, et al. IC3D Classification of Corneal Dystrophies-Edition 3. Cornea. 2024;43(4):466-527.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0003">
+<ce:label>3</ce:label>
+<sb:reference id="sbref0003">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Bendl</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Musil</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Stourac</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Zendulka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Damborsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Brezovsky</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>PredictSNP2: A Unified Platform for Accurately Evaluating SNP Effects by Exploiting the Different Characteristics of Variants in Distinct Genomic Regions</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>PLoS Comput Biol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2016</sb:date>
+</sb:issue>
+<sb:article-number>e1004962</sb:article-number>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0003">Bendl J, Musil M, Stourac J, Zendulka J, Damborsky J, Brezovsky J. PredictSNP2: A Unified Platform for Accurately Evaluating SNP Effects by Exploiting the Different Characteristics of Variants in Distinct Genomic Regions. PLoS Comput Biol. 2016;12(5):e1004962.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0004">
+<ce:label>4</ce:label>
+<sb:reference id="sbref0004">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>I.A.</ce:given-name>
+<ce:surname>Adzhubei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Schmidt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Peshkin</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>A method and server for predicting damaging missense mutations</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature methods</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2010</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>248</sb:first-page>
+<sb:last-page>249</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0004">Adzhubei IA, Schmidt S, Peshkin L, et al. A method and server for predicting damaging missense mutations. Nature methods. 2010;7(4):248-249.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0005">
+<ce:label>5</ce:label>
+<sb:reference id="sbref0005">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.P.</ce:given-name>
+<ce:surname>Boyle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.L.</ce:given-name>
+<ce:surname>Hong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hariharan</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Annotation of functional variation in personal genomes using RegulomeDB</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Genome Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1790</sb:first-page>
+<sb:last-page>1797</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0005">Boyle AP, Hong EL, Hariharan M, et al. Annotation of functional variation in personal genomes using RegulomeDB. Genome Res. 2012;22(9):1790-1797.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0006">
+<ce:label>6</ce:label>
+<sb:reference id="sbref0006">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Abascal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Acosta</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.J.</ce:given-name>
+<ce:surname>Addleman</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Expanded encyclopaedias of DNA elements in the human and mouse genomes</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature</sb:maintitle>
+</sb:title>
+<sb:volume-nr>583</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7818</sb:issue-nr>
+<sb:date>2020</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>699</sb:first-page>
+<sb:last-page>710</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0006">Abascal F, Acosta R, Addleman NJ, et al. Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020;583(7818):699-710.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0007">
+<ce:label>7</ce:label>
+<sb:reference id="sbref0007">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Theesfeld</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Yao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.M.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>OG.</ce:given-name>
+<ce:surname>Troyanskaya</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature Genetics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1171</sb:first-page>
+<sb:last-page>1179</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0007">Zhou J, Theesfeld CL, Yao K, Chen KM, Wong AK, Troyanskaya OG. Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk. Nature Genetics. 2018;50(8):1171-1179.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0008">
+<ce:label>8</ce:label>
+<sb:reference id="sbref0008">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>E.P.</ce:given-name>
+<ce:surname>Consortium</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.E.</ce:given-name>
+<ce:surname>Moore</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.J.</ce:given-name>
+<ce:surname>Purcaro</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Expanded encyclopaedias of DNA elements in the human and mouse genomes</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature</sb:maintitle>
+</sb:title>
+<sb:volume-nr>583</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7818</sb:issue-nr>
+<sb:date>2020</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>699</sb:first-page>
+<sb:last-page>710</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0008">Consortium EP, Moore JE, Purcaro MJ, et al. Expanded encyclopaedias of DNA elements in the human and mouse genomes. Nature. 2020;583(7818):699-710.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0009">
+<ce:label>9</ce:label>
+<sb:reference id="sbref0009">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>T.O.</ce:given-name>
+<ce:surname>Akama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Nakayama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Nishida</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Human corneal GlcNac 6-O-sulfotransferase and mouse intestinal GlcNac 6-O-sulfotransferase both produce keratan sulfate</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J Biol Chem</sb:maintitle>
+</sb:title>
+<sb:volume-nr>276</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>19</sb:issue-nr>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>16271</sb:first-page>
+<sb:last-page>16278</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0009">Akama TO, Nakayama J, Nishida K, et al. Human corneal GlcNac 6-O-sulfotransferase and mouse intestinal GlcNac 6-O-sulfotransferase both produce keratan sulfate. J Biol Chem. 2001;276(19):16271-16278.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0010">
+<ce:label>10</ce:label>
+<sb:reference id="sbref0010">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Schmedt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.T.</ce:given-name>
+<ce:surname>Nguyen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Bonanno</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>UV.</ce:given-name>
+<ce:surname>Jurkunas</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Telomerase immortalization of human corneal endothelial cells yields functional hexagonal monolayers</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>PLoS One</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>12</sb:issue-nr>
+<sb:date>2012</sb:date>
+</sb:issue>
+<sb:article-number>e51427</sb:article-number>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0010">Schmedt T, Chen Y, Nguyen TT, Li S, Bonanno JA, Jurkunas UV. Telomerase immortalization of human corneal endothelial cells yields functional hexagonal monolayers. PLoS One. 2012;7(12):e51427.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0011">
+<ce:label>11</ce:label>
+<sb:reference id="sbref0011">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.V.</ce:given-name>
+<ce:surname>Jester</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Fisher</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Myofibroblast differentiation of normal human keratocytes and hTERT, extended-life human corneal fibroblasts</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Invest Ophthalmol Vis Sci</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1850</sb:first-page>
+<sb:last-page>1858</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0011">Jester JV, Huang J, Fisher S, et al. Myofibroblast differentiation of normal human keratocytes and hTERT, extended-life human corneal fibroblasts. Invest Ophthalmol Vis Sci. 2003;44(5):1850-1858.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0012">
+<ce:label>12</ce:label>
+<sb:reference id="sbref0012">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Tomatsu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Shimada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Mason</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Establishment of glycosaminoglycan assays for mucopolysaccharidoses</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metabolites</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>2014</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>655</sb:first-page>
+<sb:last-page>679</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0012">Tomatsu S, Shimada T, Mason RW, et al. Establishment of glycosaminoglycan assays for mucopolysaccharidoses. Metabolites. 2014;4(3):655-679.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0013">
+<ce:label>13</ce:label>
+<sb:reference id="sbref0013">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Kubaski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Suzuki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Orii</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Glycosaminoglycan levels in dried blood spots of patients with mucopolysaccharidoses and mucolipidoses</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mol Genet Metab</sb:maintitle>
+</sb:title>
+<sb:volume-nr>120</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>2017</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>247</sb:first-page>
+<sb:last-page>254</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0013">Kubaski F, Suzuki Y, Orii K, et al. Glycosaminoglycan levels in dried blood spots of patients with mucopolysaccharidoses and mucolipidoses. Mol Genet Metab. 2017;120(3):247-254.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0014">
+<ce:label>14</ce:label>
+<sb:reference id="sbref0014">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.V.</ce:given-name>
+<ce:surname>Tavtigian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Greenblatt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Harrison</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Modeling the ACMG/AMP variant classification guidelines as a Bayesian classification framework</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Genet Med</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1054</sb:first-page>
+<sb:last-page>1060</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0014">Tavtigian SV, Greenblatt MS, Harrison SM, et al. Modeling the ACMG/AMP variant classification guidelines as a Bayesian classification framework. Genet Med. 2018;20(9):1054-1060.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0015">
+<ce:label>15</ce:label>
+<sb:reference id="sbref0015">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.E.</ce:given-name>
+<ce:surname>Brnich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.A.</ce:given-name>
+<ce:surname>Rivera-Munoz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>JS.</ce:given-name>
+<ce:surname>Berg</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Quantifying the potential of functional evidence to reclassify variants of uncertain significance in the categorical and Bayesian interpretation frameworks</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Hum Mutat</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1531</sb:first-page>
+<sb:last-page>1541</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0015">Brnich SE, Rivera-Munoz EA, Berg JS. Quantifying the potential of functional evidence to reclassify variants of uncertain significance in the categorical and Bayesian interpretation frameworks. Hum Mutat. 2018;39(11):1531-1541.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0016">
+<ce:label>16</ce:label>
+<sb:reference id="sbref0016">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Harrison</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.G.</ce:given-name>
+<ce:surname>Biesecker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>HL.</ce:given-name>
+<ce:surname>Rehm</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Overview of Specifications to the ACMG/AMP Variant Interpretation Guidelines</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Curr Protoc Hum Genet</sb:maintitle>
+</sb:title>
+<sb:volume-nr>103</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2019</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>e93</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0016">Harrison SM, Biesecker LG, Rehm HL. Overview of Specifications to the ACMG/AMP Variant Interpretation Guidelines. Curr Protoc Hum Genet. 2019;103(1):e93.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0017">
+<ce:label>17</ce:label>
+<sb:reference id="sbref0017">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>T.O.</ce:given-name>
+<ce:surname>Akama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Nishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Nakayama</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Macular corneal dystrophy type I and type II are caused by distinct mutations in a new sulphotransferase gene</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nat Genet</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>237</sb:first-page>
+<sb:last-page>241</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0017">Akama TO, Nishida K, Nakayama J, et al. Macular corneal dystrophy type I and type II are caused by distinct mutations in a new sulphotransferase gene. Nat Genet. 2000;26(2):237-241.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0018">
+<ce:label>18</ce:label>
+<sb:reference id="sbref0018">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Richards</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Aziz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bale</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Genet Med</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2015</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>405</sb:first-page>
+<sb:last-page>424</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0018">Richards S, Aziz N, Bale S, et al. Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology. Genet Med. 2015;17(5):405-424.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0019">
+<ce:label>19</ce:label>
+<sb:reference id="sbref0019">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>L.G.</ce:given-name>
+<ce:surname>Biesecker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>SM.</ce:given-name>
+<ce:surname>Harrison</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The ACMG/AMP reputable source criteria for the interpretation of sequence variants</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Genetics in Medicine</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>12</sb:issue-nr>
+<sb:date>2018</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1687</sb:first-page>
+<sb:last-page>1688</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0019">Biesecker LG, Harrison SM. The ACMG/AMP reputable source criteria for the interpretation of sequence variants. Genetics in Medicine. 2018;20(12):1687-1688.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0020">
+<ce:label>20</ce:label>
+<sb:reference id="sbref0020">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.E.</ce:given-name>
+<ce:surname>Brnich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.N.</ce:given-name>
+<ce:surname>Abou Tayoun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.J.</ce:given-name>
+<ce:surname>Couch</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Genome Medicine</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2019</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0020">Brnich SE, Abou Tayoun AN, Couch FJ, et al. Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework. Genome Medicine. 2019;12(1):3.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0021">
+<ce:label>21</ce:label>
+<sb:reference id="sbref0021">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Ellingford</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Ahn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.D.</ce:given-name>
+<ce:surname>Bagnall</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Recommendations for clinical interpretation of variants found in non-coding regions of the genome</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Genome Medicine</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2022</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>73</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0021">Ellingford JM, Ahn JW, Bagnall RD, et al. Recommendations for clinical interpretation of variants found in non-coding regions of the genome. Genome Medicine. 2022;14(1):73.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0022">
+<ce:label>22</ce:label>
+<sb:reference id="sbref0022">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Tian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Iida</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Mutation analysis of CHST6 gene in Chinese patients with macular corneal dystrophy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cornea</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>2010</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>883</sb:first-page>
+<sb:last-page>888</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0022">Liu Z, Tian X, Iida N, et al. Mutation analysis of CHST6 gene in Chinese patients with macular corneal dystrophy. Cornea. 2010;29(8):883-888.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0023">
+<ce:label>23</ce:label>
+<sb:reference id="sbref0023">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Gruenauer-Kloevekorn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Braeutigam</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Heinritz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.G.</ce:given-name>
+<ce:surname>Froster</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>GI.</ce:given-name>
+<ce:surname>Duncker</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Macular corneal dystrophy: mutational spectrum in German patients, novel mutations and therapeutic options</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Graefes Arch Clin Exp Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>246</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1441</sb:first-page>
+<sb:last-page>1447</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0023">Gruenauer-Kloevekorn C, Braeutigam S, Heinritz W, Froster UG, Duncker GI. Macular corneal dystrophy: mutational spectrum in German patients, novel mutations and therapeutic options. Graefes Arch Clin Exp Ophthalmol. 2008;246(10):1441-1447.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0024">
+<ce:label>24</ce:label>
+<sb:reference id="sbref0024">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Chaurasia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>DK.</ce:given-name>
+<ce:surname>Mishra</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Atypical presentation of macular corneal dystrophy managed by Descemet stripping endothelial keratoplasty</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Indian J Ophthalmol</sb:maintitle>
+</sb:title>
+<sb:volume-nr>67</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2019</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>118</sb:first-page>
+<sb:last-page>119</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0024">Chaurasia S, Mishra DK. Atypical presentation of macular corneal dystrophy managed by Descemet stripping endothelial keratoplasty. Indian J Ophthalmol. 2019;67(1):118-119.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0025">
+<ce:label>25</ce:label>
+<sb:reference id="sbref0025">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.C.</ce:given-name>
+<ce:surname>Kassels</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Barrington</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Macular corneal dystrophy with isolated peripheral Descemet membrane deposits</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am J Ophthalmol Case Rep</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>2019</sb:date>
+</sb:issue>
+<sb:article-number>100571</sb:article-number>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0025">Zhang W, Kassels AC, Barrington A, et al. Macular corneal dystrophy with isolated peripheral Descemet membrane deposits. Am J Ophthalmol Case Rep. 2019;16:100571.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0026">
+<ce:label>26</ce:label>
+<sb:reference id="sbref0026">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>New Endothelial Corneal Dystrophy in a Chinese Family</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cornea</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2023</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>529</sb:first-page>
+<sb:last-page>535</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0026">Ye M, Lu Q, Zhao D, et al. New Endothelial Corneal Dystrophy in a Chinese Family. Cornea. 2023;42(5):529-535.</ce:source-text>
+</ce:bib-reference>
+<?att type="book"?><ce:bib-reference id="bib0027">
+<ce:label>27</ce:label>
+<sb:reference id="sbref0027">
+<sb:contribution>
+<sb:title>
+<sb:maintitle>LUXTURNA (voretigene neparvovec-rzyl) intraocular suspension for subretinal injection &#x005B;package insert&#x005D;</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>2022</sb:date>
+<sb:publisher>
+<sb:name>Spark Therapeutics, Inc.</sb:name>
+<sb:location>Philadelphia, PA</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0027">LUXTURNA (voretigene neparvovec-rzyl) intraocular suspension for subretinal injection &#x005B;package insert&#x005D;. Philadelphia, PA: Spark Therapeutics, Inc.; 2022.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0028">
+<ce:label>28</ce:label>
+<sb:reference id="sbref0028">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.M.</ce:given-name>
+<ce:surname>Maguire</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Bennett</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.M.</ce:given-name>
+<ce:surname>Aleman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.P.</ce:given-name>
+<ce:surname>Leroy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>TS.</ce:given-name>
+<ce:surname>Aleman</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Clinical Perspective: Treating RPE65-Associated Retinal Dystrophy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mol Ther</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2021</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>442</sb:first-page>
+<sb:last-page>463</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0028">Maguire AM, Bennett J, Aleman EM, Leroy BP, Aleman TS. Clinical Perspective: Treating RPE65-Associated Retinal Dystrophy. Mol Ther. 2021;29(2):442-463.</ce:source-text>
+</ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0029">
+<ce:label>29</ce:label>
+<sb:reference id="sbref0029">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Sodi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Banfi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Testa</ce:surname>
+</sb:author>
+<sb:et-al/>
+</sb:authors>
+<sb:title>
+<sb:maintitle>RPE65-associated inherited retinal diseases: consensus recommendations for eligibility to gene therapy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Orphanet Journal of Rare Diseases</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2021</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>257</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+<ce:source-text id="srctxt0029">Sodi A, Banfi S, Testa F, et al. RPE65-associated inherited retinal diseases: consensus recommendations for eligibility to gene therapy. Orphanet Journal of Rare Diseases. 2021;16(1):257</ce:source-text>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>

@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="JSS-aptara.xsl"?>
+<journalStylesheet xmlns="http://www.elsevier.com/xml/schema/journalStylesheets"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.elsevier.com/xml/schema/journalStylesheets http://www.elsevier.com/xml/schema/journalStylesheet.xsd"
+    jss-version="2025.1">
+ <baseData>
+ <ptsData>
+ <journalCode>JMIG</journalCode>
+ <journalNumber>13372</journalNumber>
+ <journalTitle><![CDATA[The Journal of Minimally Invasive Gynecology]]></journalTitle>
+ <pmg>755</pmg>
+ <pmc>481</pmc>
+ <issn>1553-4650</issn>
+ <epGroup><![CDATA[STM Health & Medical Sciences]]></epGroup>
+ <productionSite>ESEO</productionSite>
+ <journalDOICode>jmig</journalDOICode>
+ <journalDOIContentType>j</journalDOIContentType>
+ <expiryDate></expiryDate>
+ <typesetModel>NS</typesetModel>
+ <copyrightHolder>Society</copyrightHolder>
+ <societyAffiliation><![CDATA[American Association of Gynecologic Laparoscopists]]></societyAffiliation>
+ <copyrightStatement></copyrightStatement>
+ <refStyle>Non-standard</refStyle>
+ <opco><![CDATA[OCUS]]></opco>
+ <paperTypeInside>PYMD50</paperTypeInside>
+ <paperTypeCover>GDG65</paperTypeCover>
+ <printType>Inkjet</printType>
+ <coverFinishing>Gloss Lamination</coverFinishing>
+ <bindType>perfect</bindType>
+ <backMargin>0</backMargin>
+ <headMargin>0</headMargin>
+ <righthandStart>0</righthandStart>
+ <trimSize>8x10_3/4in</trimSize>
+ <timeBasedPublInd>0</timeBasedPublInd>
+ <fixedPlanInd>0</fixedPlanInd>
+ <capLightPlus>0</capLightPlus>
+ <copyEditLevel>2FE</copyEditLevel>
+ <cmS5Required>0</cmS5Required>
+ <cmS100Required>0</cmS100Required>
+ <cmS200Required>0</cmS200Required>
+ <cmS250Required>1</cmS250Required>
+ <cmS300Required>1</cmS300Required>
+ <language>English</language>
+ <defaultItemProd>FTC</defaultItemProd>
+ <ABP>0</ABP>
+ <zeroWarehousing>1</zeroWarehousing>
+ <onlinePubDate>0</onlinePubDate>
+ <inHouseMC>0</inHouseMC>
+ <primaryEditorialSystem>EMAN</primaryEditorialSystem>
+ <docSecInfo>
+ <docHeads>
+ <docHead>
+ <docheadPIT>BRV</docheadPIT>
+ <docheadDescription><![CDATA[BOOK REVIEW]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>BRV</docheadPIT>
+ <docheadDescription><![CDATA[CAPSULE SUMMARY]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>COR</docheadPIT>
+ <docheadDescription><![CDATA[CORRESPONDENCE]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>COR</docheadPIT>
+ <docheadDescription><![CDATA[Letter to the Editor]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>EDI</docheadPIT>
+ <docheadDescription><![CDATA[Editorial]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>EDI</docheadPIT>
+ <docheadDescription><![CDATA[Editorial Proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>EDI</docheadPIT>
+ <docheadDescription><![CDATA[Perspectives]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>EDI</docheadPIT>
+ <docheadDescription><![CDATA[Perspectives Proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>EDI</docheadPIT>
+ <docheadDescription><![CDATA[Presidential Address]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>ERR</docheadPIT>
+ <docheadDescription><![CDATA[Erratum]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[AAGL Prize Paper]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[CLINICAL OPINION]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[CME]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[CME APPROVED ARTICLE]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Images in Gynecologic Surgery]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Instruments and Techniques]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Invited Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Invited Special Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Invited Special Article proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Invited Video Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Obituary]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Original Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Pilot Studies]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Response LTE - Proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Special Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Video Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>FLA</docheadPIT>
+ <docheadDescription><![CDATA[Video Proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>MIS</docheadPIT>
+ <docheadDescription><![CDATA[Reviewer Spotlight]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>PGL</docheadPIT>
+ <docheadDescription><![CDATA[AAGL Paper]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>REV</docheadPIT>
+ <docheadDescription><![CDATA[Invited Review Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>REV</docheadPIT>
+ <docheadDescription><![CDATA[Review Article]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>REV</docheadPIT>
+ <docheadDescription><![CDATA[Review Proposal]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>SCO</docheadPIT>
+ <docheadDescription><![CDATA[Case Report]]></docheadDescription>
+ <docheadExpired>0</docheadExpired>
+ </docHead>
+ <docHead>
+ <docheadPIT>SCO</docheadPIT>
+ <docheadDescription><![CDATA[Instruments and Techniques]]></docheadDescription>
+ <docheadExpired>1</docheadExpired>
+ </docHead>
+ </docHeads>
+ <sectionHeads>
+ <sectionHead>
+ <sectionCode><![CDATA[BR]]></sectionCode>
+ <sectionDescription><![CDATA[Book Review]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[CAA]]></sectionCode>
+ <sectionDescription><![CDATA[CME Approved Article]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[CME]]></sectionCode>
+ <sectionDescription><![CDATA[CME article]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[CO]]></sectionCode>
+ <sectionDescription><![CDATA[Clinical Opinion]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[CR]]></sectionCode>
+ <sectionDescription><![CDATA[Case Report]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[CS]]></sectionCode>
+ <sectionDescription><![CDATA[Capsule Summary]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[ED]]></sectionCode>
+ <sectionDescription><![CDATA[Editorial]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[IE]]></sectionCode>
+ <sectionDescription><![CDATA[Images in Gynecological Surgery]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[IT]]></sectionCode>
+ <sectionDescription><![CDATA[Instruments and Techniques]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[LE]]></sectionCode>
+ <sectionDescription><![CDATA[Letter to the Editor]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[OA]]></sectionCode>
+ <sectionDescription><![CDATA[Original Article]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[PA]]></sectionCode>
+ <sectionDescription><![CDATA[Presidential Address]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[PS]]></sectionCode>
+ <sectionDescription><![CDATA[Pilot Studies]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[RA]]></sectionCode>
+ <sectionDescription><![CDATA[Review Article]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[SA]]></sectionCode>
+ <sectionDescription><![CDATA[Special Article]]></sectionDescription>
+ <sectionExpired>0</sectionExpired>
+ </sectionHead>
+ </sectionHeads>
+ <crossMark>
+ <cmPIT>ABS</cmPIT>
+ <cmPIT>ADD</cmPIT>
+ <cmPIT>COR</cmPIT>
+ <cmPIT>CRP</cmPIT>
+ <cmPIT>DAT</cmPIT>
+ <cmPIT>DIS</cmPIT>
+ <cmPIT>DUP</cmPIT>
+ <cmPIT>EDI</cmPIT>
+ <cmPIT>EOC</cmPIT>
+ <cmPIT>ERR</cmPIT>
+ <cmPIT>FLA</cmPIT>
+ <cmPIT>INS</cmPIT>
+ <cmPIT>MIC</cmPIT>
+ <cmPIT>OSP</cmPIT>
+ <cmPIT>PGL</cmPIT>
+ <cmPIT>PRO</cmPIT>
+ <cmPIT>REM</cmPIT>
+ <cmPIT>RET</cmPIT>
+ <cmPIT>REV</cmPIT>
+ <cmPIT>RPL</cmPIT>
+ <cmPIT>SCO</cmPIT>
+ <cmPIT>SSU</cmPIT>
+ <cmPIT>VID</cmPIT>
+ </crossMark>
+ </docSecInfo>
+ <indUnsupportedJournal>1</indUnsupportedJournal>
+ <usesArticleNumbers>0</usesArticleNumbers>
+ <executors>
+ <executor role="ADM" emailId="a.yonzon@elsevier.com" description="Login/Data Administrator" country="India"><![CDATA[Yonzon, Aarti]]></executor>
+ <executor role="BIN" emailId="ElsevierTeam@Sheridan.com" description="Binder" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="CED" emailId="n.Patwardhan@elsevier.com" description="Copy Editor" country="India"><![CDATA[Patwardhan, Neha]]></executor>
+ <executor role="EED" emailId="" description="Editor (Academic Editor)" country="United States"><![CDATA[Corson, S.L.]]></executor>
+ <executor role="EVA" emailId="k.phillips@elsevier.com" description="Evise Administrator" country="United Kingdom"><![CDATA[Phillips, Kelly]]></executor>
+ <executor role="IJA" emailId="t.dunbar@elsevier.com" description="Internal journal administrator" country="United States"><![CDATA[Dunbar, Tina]]></executor>
+ <executor role="IM" emailId="e.whitelaw@elsevier.com" description="Issue Manager" country="United Kingdom"><![CDATA[Whitelaw, Ellie]]></executor>
+ <executor role="IMT" emailId="m.coombe@elsevier.com" description="EPJ Team manager" country="United Kingdom"><![CDATA[Coombe, Marie]]></executor>
+ <executor role="INV" emailId="productmaintenance@elsevier.com" description="Role for Invoice sender" country="United Kingdom"><![CDATA[Delta]]></executor>
+ <executor role="JM" emailId="e.whitelaw@elsevier.com" description="Journal Manager" country="United Kingdom"><![CDATA[Whitelaw, Ellie]]></executor>
+ <executor role="LAC" emailId="PHLLabelRequestsELS@Elsevier.com" description="Labels Controller" country="United Kingdom"><![CDATA[advan]]></executor>
+ <executor role="OFP" emailId="ElsevierTeam@Sheridan.com" description="Offprint printer" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="OFS" emailId="ElsevierTeam@Sheridan.com" description="Offprints sender" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="PAD" emailId="g.graizzaro@elsevier.com" description="Paper Administrator" country="United States"><![CDATA[Graizzaro, Gary]]></executor>
+ <executor role="PAS" emailId="SPI-ESJournalsTeam@spi-global.com" description="Public Access Supplier" country="Philippines"><![CDATA[SPI Technologies Inc.]]></executor>
+ <executor role="PRI" emailId="ElsevierTeam@Sheridan.com" description="Printer" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="PSP" emailId="g.graizzaro@elsevier.com" description="Local Supplier Manager" country="United States"><![CDATA[Graizzaro, Gary]]></executor>
+ <executor role="SET" emailId="Aptara_JSS@aptaracorp.com" description="Typesetter" country="India"><![CDATA[Aptara Corp.]]></executor>
+ <executor role="SLC" emailId="a.ennis@elsevier.com" description="Role for society label controller" country="United States"><![CDATA[Ennis, Andrew J]]></executor>
+ <executor role="SM" emailId="a.colombo@elsevier.com" description="Sales Manager" country="United States"><![CDATA[US Pharma Sales - 7 Day Print]]></executor>
+ <executor role="TM" emailId="" description="Technical Manager" country="India"><![CDATA[GSM Technical Manager]]></executor>
+ </executors>
+ <leMans>0</leMans>
+ <complexContent>0</complexContent>
+ <cpc>0</cpc>
+ <quickTransmittal>1</quickTransmittal>
+ <priorityOpenAccessJournal>0</priorityOpenAccessJournal>
+ </ptsData>
+ <JM-EditData>
+ <dateModified><change>25/07/2025 08:02:08</change></dateModified>
+ <modifiedBy>Whitelaw, Ellie (ELS-EXE)</modifiedBy>
+ <expandedOrAbbreviatedJournalTitles>2</expandedOrAbbreviatedJournalTitles>
+ <freeReferenceStyle>0</freeReferenceStyle>
+ <referenceStyleComment><p><![CDATA[<p>The following comment is also available in the copyediting style guide:</p><p>JMIG follows AMA reference style except that in-text reference citations are in brackets (on the line) either after the cited author?s name (?Smith et al [4] found that . . .?) or before the final punctuation (when more than one reference is cited, eg, ?Several studies have found . . . [8,9,11?13].?).</p><p>Delete DOIs</p><p>Be sure the references follow journal style:</p><p>Do not list issue numbers.</p><p>Access date needed for URL references. Query the author to provide when missing. </p><p>See reference section above</p>]]></p></referenceStyleComment>
+ <docheadComments><p><![CDATA[<p>Journal publishes an annual abstract supplement with a November cover date, this is online only and does not mail to any subscribers.</p>]]></p></docheadComments>
+ <sectionComments><p><![CDATA[<p>Section: No</p>]]></p></sectionComments>
+ <specialIssues>0</specialIssues>
+ <specialIssuesComment><p><![CDATA[<p>But there is a yearly Abstract supplement that mails with November issue 11S</p>]]></p></specialIssuesComment>
+ <highlightsForToC>0</highlightsForToC>
+ <pilot>
+ <pilotIncluded>0</pilotIncluded>
+ <pilotSpecificComment/>
+ </pilot>
+ <StyleGuideOnESG>1</StyleGuideOnESG>
+ </JM-EditData>
+ </baseData>
+ <cu>
+ <history>
+ <regularIssue>
+ <received>2</received>
+ <revised>2</revised>
+ <accepted>2</accepted>
+ <PITs_ri>
+ <PIT_ri>FLA</PIT_ri>
+ <PIT_ri>DIS</PIT_ri>
+ <PIT_ri>MIS</PIT_ri>
+ <PIT_ri>REV</PIT_ri>
+ <PIT_ri>EDI</PIT_ri>
+ <PIT_ri>SCO</PIT_ri>
+ <PIT_ri>ERR</PIT_ri>
+ <PIT_ri>COR</PIT_ri>
+ </PITs_ri>
+ </regularIssue>
+ <specialIssue>
+ <received_si>2</received_si>
+ <revised_si>2</revised_si>
+ <accepted_si>2</accepted_si>
+ <PITs_si/>
+ </specialIssue>
+ <journalSpecificHistoryComment/>
+ <historyItemGroup>0</historyItemGroup>
+ <historyItemGroupComment/>
+ <onlinePubDateComment/>
+ <editorInfo>
+ <editorName>0</editorName>
+ <editorDisplayName>3</editorDisplayName>
+ <displayText/>
+ <editorNameComment/>
+ </editorInfo>
+ </history>
+ <artwork_PA>
+ <artworkForPatientAnonymity>1</artworkForPatientAnonymity>
+ </artwork_PA>
+ <ethics>
+ <informedConsent>1</informedConsent>
+ </ethics>
+ <transparencyDocument>0</transparencyDocument>
+ <abstract>
+ <abstractPITspecificRequirements>
+ <abstractPITspecificRequirement action="1">
+ <abstractPITS>
+ <abstractPIT>FLA</abstractPIT>
+ <abstractPIT>REV</abstractPIT>
+ <abstractPIT>SCO</abstractPIT>
+ <abstractPIT>CRP</abstractPIT>
+ </abstractPITS>
+ <PITspecificWordCount>0</PITspecificWordCount>
+ <abstractStructure>3</abstractStructure>
+ </abstractPITspecificRequirement>
+ <abstractPITspecificRequirement action="2">
+ <abstractPITS>
+ <abstractPIT>FLA</abstractPIT>
+ <abstractPIT>REV</abstractPIT>
+ <abstractPIT>SCO</abstractPIT>
+ <abstractPIT>CRP</abstractPIT>
+ </abstractPITS>
+ <PITspecificWordCount>0</PITspecificWordCount>
+ <abstractStructure>3</abstractStructure>
+ </abstractPITspecificRequirement>
+ </abstractPITspecificRequirements>
+ <abstractComment><p><![CDATA[<p>Structured Abstract required for Original Articles. Order of abstract should be Study Objective, Design, Setting, Patients, Interventions, Measurements and Main Results, Conclusion.</p><p>Structured Abstract required for Video Articles. Order is as follows: Objective, Design, Setting, Interventions, Conclusion.</p><p>Case Reports, and Instruments and Techniques Articles have unstructured abstracts.</p><p>Images in Gynecologic Surgery do not have an abstract.</p>]]></p></abstractComment>
+ </abstract>
+ <graphicalAbstract>
+ <journalSpecificGraphicalAbstract>2</journalSpecificGraphicalAbstract>
+ <journalSpecificGraphicalAbstractComment/>
+ <gaFormat>0</gaFormat>
+ <journalSpecificGATOC>0</journalSpecificGATOC>
+ <journalSpecificGATitlePage>0</journalSpecificGATitlePage>
+ </graphicalAbstract>
+ <keywords>
+ <keywordPITspecificRequirements>
+ <keywordPITspecificRequirement action="1">
+ <keywordPITs>
+ <keywordPIT>FLA</keywordPIT>
+ <keywordPIT>REV</keywordPIT>
+ <keywordPIT>SCO</keywordPIT>
+ <keywordPIT>CRP</keywordPIT>
+ </keywordPITs>
+ </keywordPITspecificRequirement>
+ </keywordPITspecificRequirements>
+ <keywordSource>0</keywordSource>
+ <keywordCount>
+ <keywordsMin>3</keywordsMin>
+ <keywordsMax>5</keywordsMax>
+ </keywordCount>
+ <keywordComments><p><![CDATA[<p>3 to 5 words that differ from the title. </p><p>Images in Gynecologic Surgery do not have key words.</p><p></p>]]></p></keywordComments>
+ </keywords>
+ <highlights>
+ <journalSpecificHighlights>0</journalSpecificHighlights>
+ <journalSpecificHighlightsComment/>
+ </highlights>
+ <classification>
+ <classificationRequirement>2</classificationRequirement>
+ <classificationSource></classificationSource>
+ <classificationCount>
+ <classificationMin>0</classificationMin>
+ <classificationMax>0</classificationMax>
+ </classificationCount>
+ <classificationComment/>
+ </classification>
+ <colour>
+ <colourFiguresInPrint>1</colourFiguresInPrint>
+ <freePrintedColour>1</freePrintedColour>
+ <noFreeWebColour>0</noFreeWebColour>
+ <colourFiguresCorrespondence>3</colourFiguresCorrespondence>
+ <colourComment><p><![CDATA[<p>Do not send color art form. Color is free to the authors.</p>]]></p></colourComment>
+ </colour>
+ <correspondence>
+ <contactAuthor>7</contactAuthor>
+ <correspondenceAuthorComment><p><![CDATA[<p>Reviewer spotlight articles DO NOT have any author information. Please treat as you would an erratum.</p>]]></p></correspondenceAuthorComment>
+ </correspondence>
+ <offprints>
+ <extraOffprintInstructions/>
+ <freeIssuesComment/>
+ </offprints>
+ </cu>
+ <s0>
+ <itemreceipt>
+ <extLogin>1</extLogin>
+ <quickBook>1</quickBook>
+ <quickBookComment/>
+ </itemreceipt>
+ <additionalLoginInstructions><p><![CDATA[<p>On Completion type FTC – 10 days copyedit; 6 days S100; 1 day master
+copy
+On Completion type (Fast track) - FTX – 10 days copyedit; 3 days S100; 1 day mastercopy</p><p>Video articles DO NOT get logged with a PIT of VID. Video articles are ALWAYS logged as an FLA with the Dochead Video Article. Images in Gynecologic Surgery are logged with a PIT of FLA and an IE section.</p><p>Video Articles MUST include an image still. Please enter a problem task if it is not included with accepted MS.</p><p>If Authors have requested Native Language names beside their English showing name, this has been approved and is to be included. </p><p>PTS On Completion Code: FTC</p>]]></p></additionalLoginInstructions>
+ </s0>
+ <s100>
+ <abbreviatedJournalTitle><![CDATA[Journal of Minimally Invasive Gynecology]]></abbreviatedJournalTitle>
+ <heading>
+ <numberingStyle>2</numberingStyle>
+ <NSComment/>
+ </heading>
+ <degreesAndTitles>
+ <journalSpecificDegreesTitles>3</journalSpecificDegreesTitles>
+ </degreesAndTitles>
+ <logoPlacement>
+ <right>0</right>
+ <left>0</left>
+ </logoPlacement>
+ <authorInfo>
+ <multipleCorrespondingAuthors>0</multipleCorrespondingAuthors>
+ <authorLinks>1</authorLinks>
+ <specificSocialMediaLinksComment><p><![CDATA[<p>Only list the corresponding authors e-mail address.</p>]]></p></specificSocialMediaLinksComment>
+ <orcidLogo>0</orcidLogo>
+ </authorInfo>
+ <acknowledgements>
+ <fundingSubsection></fundingSubsection>
+ <fundingComment/>
+ <contributingSubsection></contributingSubsection>
+ <contributingComment/>
+ <supportingSubsection></supportingSubsection>
+ <supportingComment/>
+ <facilitiesSubsection></facilitiesSubsection>
+ <facilitiesComment/>
+ <suppliesSubsection></suppliesSubsection>
+ <suppliesComment/>
+ <CoISubsection></CoISubsection>
+ <CoISubsectionComment/>
+ <sponsorRoleSubsection></sponsorRoleSubsection>
+ <sponsorRoleComment/>
+ <acknowledgementsPITs/>
+ </acknowledgements>
+ <ethicsInfo>
+ <ethicsDetails>0</ethicsDetails>
+ <ethicsPITs/>
+ <ethicsComment/>
+ </ethicsInfo>
+ <intro>
+ <introduction>0</introduction>
+ <titlereq>0</titlereq>
+ <introPITs/>
+ <introductionComment/>
+ </intro>
+ <CoI>
+ <ConflictInterest>3</ConflictInterest>
+ <CoIPITs>
+ <CoIPIT>FLA</CoIPIT>
+ <CoIPIT>REV</CoIPIT>
+ <CoIPIT>SCO</CoIPIT>
+ <CoIPIT>COR</CoIPIT>
+ <CoIPIT>CRP</CoIPIT>
+ <CoIPIT>EDI</CoIPIT>
+ </CoIPITs>
+ <CoIComment/>
+ </CoI>
+ <bioInfo>
+ <authorDetails>0</authorDetails>
+ <ADComment><p><![CDATA[<p>If Authors have requested Native Language names beside their English showing name, this has been approved and is to be included. </p>]]></p></ADComment>
+ </bioInfo>
+ <floatLabel>
+ <NSFloatLabel/>
+ </floatLabel>
+ <artwork>
+ <journalSpecificArtwork>0</journalSpecificArtwork>
+ <journalSpecificArtworkComment/>
+ </artwork>
+ <latexInfo>
+ <latex>0</latex>
+ </latexInfo>
+ <copyright>
+ <copyrightLines><p><![CDATA[<p>000 No Copyright Notice</p><p>001 Copyright Notice: © YEAR Published by Elsevier Inc. on behalf of AAGL.</p><p>002 Copyright Notice: © YEAR AAGL. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</p><p>002 with a creative commons license: © 20XX AAGL. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/</p><p>Note creative commons license type will vary by what the author selects.</p><p>003 Copyright Notice: Published by Elsevier Inc. on behalf of AAGL.</p><p>004 Copyright Notice: Crown Copyright © YEAR Published by Elsevier Inc. on behalf of AAGL. All rights reserved.</p><p>005 Copyright Notice: © YEAR AAGL. All rights are reserved, including those for text and data mining, AI training, and similar technologies.</p><p>Where YEAR is the year of the Copyright Received Date in the XML order (XML: </p><p>Any variations from the standard Copyright Notices listed above will be indicated as a remark in the XML order.</p><p>NOTE: Journal now follows the global copyright year policy</p>]]></p></copyrightLines>
+ </copyright>
+ <footnote>
+ <SI_footnote>1</SI_footnote>
+ <SI_footnoteComment/>
+ <peerReviewFootnote/>
+ <articleFootnote/>
+ </footnote>
+ <additionalS100>
+ <reviewContents>1</reviewContents>
+ <additionalS100Comment><p><![CDATA[<p>DO NOT INCLUDE PRECIS THAT THAT TYPESETTER WILL SEE AS A SEPARATE COPY EDITED FILE IN AUTHOR PROOFS. This information is ONLY for the issue TOC. </p><p>Please note only author degrees should be used, not titles (ie professor). Use of titles is against journal style. If copy editor does not query for missing degrees, please add an author query for the author to provide the missing degrees. </p><p>Affiliations section at the bottom of the title page:
+Conflict of interest statement should appear first (even if it says nothing more than “The authors declare that they have no conflict of interest.”), followed by any financial support for the study (if applicable), then corresponding author contact information, copyright line, and doi.
+Example:
+The authors have no commercial, proprietary, or financial interest in the products or companies described in this article.
+Corresponding author: Catherine Urch, MD, PhD, Department of Obstetrics and Gynecology, David Geffen School of Medicine, UCLA, 335 Katherine Ave, Salinas, CA 93901. 
+E-mail: ctrreprodmed@sbcglobal.net
+Christina Halder and Tanja Hauzenberger contributed equally to this work.</p><p>Submitted April 11, 20XX. Accepted for publication August 8, 20XX.
+Available at www.sciencedirect.com and www.jmig.org</p><p>© 20XX AAGL. All rights reserved.
+doi:10.1016/j.jmig.2008.08.005</p><p>For Reviewer spotlight articles (PIT=MIS), the Editor is the author so please close corrections for both proofs once the Author proof has been received. </p><p></p>]]></p></additionalS100Comment>
+ </additionalS100>
+ </s100>
+ <s200>
+ <mc>
+ <mastercopyingComment><p><![CDATA[<p>Figure and Table Citations</p><p>Figures should be cited in text with the word Figure abbreviated (Fig. 1, Fig. 2, etc.) but the word Table spelled out completely.</p><p>Table Footnotes</p><p>Table footnotes should appear as superscript lowercase letters rather than asterisk, dagger, etc.</p><p>Be sure to pause and query the JM to clarify unclear sentences.</p>]]></p></mastercopyingComment>
+ </mc>
+ <additionalS200><p><![CDATA[<p>• For queries about figure quality: If the author responds that no higher version is available, then the MC should proceed as is. If the author provides a replacement figure, but the replacement figure also poor quality, then the MC should proceed as is. 
+• For queries regarding the online access date for web references: If an author provides incomplete access date or does not provide the date, the MC should set the date when the author has submitted their corrections in ProofCentral/via email as the access date.
+• If AU does not provide department, proceed without department. Not all affiliations have a department.
+• If AU responds that someone is a "student" or is a "candidate" there is no degree. Proceed as is.
+• If a key word is repeated from title, delete key word. Only pause and query JM if there is not enough key words provided per style.</p>]]></p></additionalS200>
+ </s200>
+ <p100>
+ <deliveryRequirements>2</deliveryRequirements>
+ <additionalP100></additionalP100>
+ <barcode>0</barcode>
+ <barcodePlacement>0</barcodePlacement>
+ <projectCompact>
+ <compactJournal>0</compactJournal>
+ <compactJournalComment/>
+ </projectCompact>
+ </p100>
+ <s300>
+ <journalSpecificCover>1</journalSpecificCover>
+ <journalSpecificCoverComment/>
+ <specialIssueCover>0</specialIssueCover>
+ <specialIssueCoverComment/>
+ <runOnItems>5</runOnItems>
+ <runOnItemsComment><p><![CDATA[<p>Letters to the Editor section contains run-on items.</p><p>Errata are run-on items</p>]]></p></runOnItemsComment>
+ <journalSpecificIndex>0</journalSpecificIndex>
+ <journalSpecificIndexComment/>
+ <stylePrintedIssue>
+ <printCapArticleTitle>2</printCapArticleTitle>
+ <printCapArticleDochead>2</printCapArticleDochead>
+ <printCapArticleSectionTitle>2</printCapArticleSectionTitle>
+ <printCapIssueH1>2</printCapIssueH1>
+ <printCapIssueH2>2</printCapIssueH2>
+ <printCapSI>0</printCapSI>
+ <additionalPrint/>
+ </stylePrintedIssue>
+ <style-e-issue>
+ <eCapArticleTitle>2</eCapArticleTitle>
+ <eCapArticleDochead>2</eCapArticleDochead>
+ <eCapArticleSectionTitle>0</eCapArticleSectionTitle>
+ <eCapIssueH1>2</eCapIssueH1>
+ <eCapIssueH2>2</eCapIssueH2>
+ <eCapSI>0</eCapSI>
+ <additionalE/>
+ </style-e-issue>
+ <additionalJournalSpecificTypesetting/>
+ </s300>
+ <proofing>
+ <proofingGeneric>
+ <journalSpecificProofing><change>1</change></journalSpecificProofing>
+ <proofsSentTo>Author and Editor</proofsSentTo>
+ <journalSpecificProofingComment><p><![CDATA[<p>jmig@aagl.org is bcc'ed on author proofs.</p>]]></p></journalSpecificProofingComment>
+ <changesPDFProofText>1</changesPDFProofText>
+ <changesPDFProofTextComment/>
+ <proofingRevisedProofAutoEmail>0</proofingRevisedProofAutoEmail>
+ </proofingGeneric>
+ <proofingSystems>
+ <proofingSystem contentType="standard">
+ <referenceStyle>Non-Standard</referenceStyle>
+ <typesetModel></typesetModel>
+ <name>Proof Central</name>
+ <dates>
+ <startDate/>
+ <endDate/>
+ </dates>
+ <version>3.1</version>
+ <workflow>AU-ED-MC</workflow>
+ <viewMode>PDF</viewMode>
+ </proofingSystem>
+ </proofingSystems>
+ <editors>
+ <editor>
+ <editorName><![CDATA[JMIG@aagl.org]]></editorName>
+ <editorEmail><![CDATA[JMIG@aagl.org]]></editorEmail>
+ <emailProof><![CDATA[1]]></emailProof>
+ <proofingComment><p><![CDATA[<p>Please ensure all Editor Proofs are sent to the above email </p>]]></p></proofingComment>
+ </editor>
+ </editors>
+ </proofing>
+ <print>
+ <multipleVersion>0</multipleVersion>
+ <multipleVersionComment/>
+ <f300FromEWIIToPrinter>1</f300FromEWIIToPrinter>
+ </print>
+ <otherInstructions/>
+</journalStylesheet>

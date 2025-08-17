@@ -1,0 +1,116 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder155.dtd">
+<orders>
+   <order>
+      <time day="09" month="08" yr="2025" hr="03" min="15" sec="10"/>
+      <po-number>T11745133</po-number>
+      <due-date>
+         <time day="13" month="08" yr="2025" hr="00" min="01" sec="10"/>
+      </due-date>
+      <prod-site>ESCH - Elsevier India Pvt Ltd.</prod-site>
+      <opco>OCUS - Operating Company Elsevier Inc.</opco>
+      <stage step="S5"/>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>APTAR</exec-code>
+         <exec-name>Aptara Corp.</exec-name>
+         <aff>
+            <address>A 37, Sector 60</address>
+            <zipcode zipcode-pos="AFTERCTY">201301</zipcode>
+            <cty>Noida</cty>
+            <cny>India</cny>
+            <tel>911207182424</tel>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>TSPSD</exec-code>
+         <exec-name>Sheridan Digital</exec-name>
+         <aff>
+            <address>450 Fame Avenue</address>
+            <zipcode zipcode-pos="AFTERCTY">17331</zipcode>
+            <cty>Hanover, PA</cty>
+            <cny>United States</cny>
+         </aff>
+      </executor>
+      <item-info>
+         <version-no>S5.1</version-no>
+         <language>English</language>
+         <crossmark>no</crossmark>
+         <jid>AJOPHT</jid>
+         <issn>0002-9394</issn>
+         <aid>13514</aid>
+         <pii>S0002-9394(25)00411-8</pii>
+         <doi>10.1016/j.ajo.2025.08.010</doi>
+         <item-title>Prevalence and Risk Factors of Open Angle Glaucoma in an Adult Chinese American Population: The Chinese American Eye Study</item-title>
+         <dochead>Original Articles</dochead>
+         <eo-item-nr>AJO-25-1216</eo-item-nr>
+         <e-submission-item-nr>AJOPHT_AJO-25-1216</e-submission-item-nr>
+         <received-date>
+            <date day="09" month="05" yr="2025"/>
+         </received-date>
+         <revised-date>
+            <date day="28" month="07" yr="2025"/>
+         </revised-date>
+         <accept-date>
+            <date day="06" month="08" yr="2025"/>
+         </accept-date>
+         <cpc>N</cpc>
+         <in-scope-cpc type="N"/>
+         <prd-type-as-sent>FTC</prd-type-as-sent>
+         <milestone type="COMPLETE"/>
+         <online-version type="print"/>
+         <pit>FLA</pit>
+         <no-mns-pages>28</no-mns-pages>
+         <no-phys-figs>1</no-phys-figs>
+         <no-bw-figs>0</no-bw-figs>
+         <no-web-colour-figs>1</no-web-colour-figs>
+         <no-colour-figs>0</no-colour-figs>
+         <no-e-components>1</no-e-components>
+         <physical-figures>
+            <figure>
+               <figure-nr>1</figure-nr>
+               <figure-type>COLOUR</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+         </physical-figures>
+         <e-components>
+            <e-component>
+               <e-component-nr>1</e-component-nr>
+               <e-component-format>APPLICATION</e-component-format>
+            </e-component>
+         </e-components>
+         <righthand-start>N</righthand-start>
+         <copyright-status>001</copyright-status>
+         <first-author>
+            <degree>Dr.</degree>
+            <fnm>Grace M</fnm>
+            <snm>Richter</snm>
+         </first-author>
+         <corr-author>
+            <degree>Dr.</degree>
+            <fnm>Rohit</fnm>
+            <snm>Varma</snm>
+            <aff>
+               <institute>Dept of Ophthalmology</institute>
+               <inst-contd>Southern California Eye Institute</inst-contd>
+               <address>1300 North Vermont Avenue</address>
+               <address-contd>Doctors Tower Suite 101</address-contd>
+               <zipcode zipcode-pos="AFTERCTY">90027</zipcode>
+               <cty>Los Angeles, CA</cty>
+               <cny>United States</cny>
+               <ead>rvarma@sceyes.org</ead>
+            </aff>
+         </corr-author>
+         <item-remarks>
+            <item-remark>
+               <remark-type>Editorial</remark-type>
+               <remark>MBS_IFACE 08-AUG-25
+        CE Level information received is 2F
+        </remark>
+               <response/>
+            </item-remark>
+         </item-remarks>
+         <revised-proof>N</revised-proof>
+         <offprint-payment payment="no"/>
+      </item-info>
+   </order>
+</orders>

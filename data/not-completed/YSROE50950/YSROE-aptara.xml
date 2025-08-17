@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="JSS-aptara.xsl"?>
+<journalStylesheet xmlns="http://www.elsevier.com/xml/schema/journalStylesheets"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.elsevier.com/xml/schema/journalStylesheets http://www.elsevier.com/xml/schema/journalStylesheet.xsd"
+    jss-version="2025.1">
+ <baseData>
+ <ptsData>
+ <journalCode>YSROE</journalCode>
+ <journalNumber>13108</journalNumber>
+ <journalTitle><![CDATA[Seminars in Roentgenology]]></journalTitle>
+ <pmg>674</pmg>
+ <pmc>096</pmc>
+ <issn>0037-198X</issn>
+ <epGroup><![CDATA[STM Health & Medical Sciences]]></epGroup>
+ <productionSite>ESCH</productionSite>
+ <journalDOICode>ro</journalDOICode>
+ <journalDOIContentType>j</journalDOIContentType>
+ <expiryDate></expiryDate>
+ <typesetModel>NS</typesetModel>
+ <copyrightHolder>Elsevier</copyrightHolder>
+ <societyAffiliation></societyAffiliation>
+ <copyrightStatement></copyrightStatement>
+ <refStyle>Non-standard</refStyle>
+ <opco><![CDATA[OCUS]]></opco>
+ <paperTypeInside>USBD50</paperTypeInside>
+ <paperTypeCover>GDG65</paperTypeCover>
+ <printType>Inkjet</printType>
+ <coverFinishing>Gloss Lamination</coverFinishing>
+ <bindType>perfect</bindType>
+ <backMargin>0</backMargin>
+ <headMargin>0</headMargin>
+ <righthandStart>0</righthandStart>
+ <trimSize>8_1/4x11in</trimSize>
+ <timeBasedPublInd>0</timeBasedPublInd>
+ <fixedPlanInd>0</fixedPlanInd>
+ <capLightPlus>0</capLightPlus>
+ <copyEditLevel>2T</copyEditLevel>
+ <cmS5Required>0</cmS5Required>
+ <cmS100Required>0</cmS100Required>
+ <cmS200Required>0</cmS200Required>
+ <cmS250Required>1</cmS250Required>
+ <cmS300Required>1</cmS300Required>
+ <language>English</language>
+ <defaultItemProd>FTP</defaultItemProd>
+ <ABP>0</ABP>
+ <zeroWarehousing>1</zeroWarehousing>
+ <onlinePubDate>0</onlinePubDate>
+ <inHouseMC>0</inHouseMC>
+ <primaryEditorialSystem>EMAN</primaryEditorialSystem>
+ <docSecInfo>
+ <docHeads/>
+ <sectionHeads>
+ <sectionHead>
+ <sectionCode><![CDATA[CME]]></sectionCode>
+ <sectionDescription><![CDATA[CME article]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[CTS]]></sectionCode>
+ <sectionDescription><![CDATA[Case of the Season]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ <sectionHead>
+ <sectionCode><![CDATA[OA]]></sectionCode>
+ <sectionDescription><![CDATA[Original Articles]]></sectionDescription>
+ <sectionExpired>1</sectionExpired>
+ </sectionHead>
+ </sectionHeads>
+ <crossMark>
+ <cmPIT>ABS</cmPIT>
+ <cmPIT>ADD</cmPIT>
+ <cmPIT>COR</cmPIT>
+ <cmPIT>CRP</cmPIT>
+ <cmPIT>DAT</cmPIT>
+ <cmPIT>DIS</cmPIT>
+ <cmPIT>DUP</cmPIT>
+ <cmPIT>EDI</cmPIT>
+ <cmPIT>EOC</cmPIT>
+ <cmPIT>ERR</cmPIT>
+ <cmPIT>FLA</cmPIT>
+ <cmPIT>INS</cmPIT>
+ <cmPIT>MIC</cmPIT>
+ <cmPIT>OSP</cmPIT>
+ <cmPIT>PGL</cmPIT>
+ <cmPIT>PRO</cmPIT>
+ <cmPIT>REM</cmPIT>
+ <cmPIT>RET</cmPIT>
+ <cmPIT>REV</cmPIT>
+ <cmPIT>RPL</cmPIT>
+ <cmPIT>SCO</cmPIT>
+ <cmPIT>SSU</cmPIT>
+ <cmPIT>VID</cmPIT>
+ </crossMark>
+ </docSecInfo>
+ <indUnsupportedJournal>0</indUnsupportedJournal>
+ <usesArticleNumbers>0</usesArticleNumbers>
+ <executors>
+ <executor role="ADM" emailId="a.yonzon@elsevier.com" description="Login/Data Administrator" country="India"><![CDATA[Yonzon, Aarti]]></executor>
+ <executor role="BIN" emailId="ElsevierTeam@Sheridan.com" description="Binder" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="EED" emailId="jannette.collins@healthall.com" description="Editor (Academic Editor)" country="United States"><![CDATA[Collins, J.]]></executor>
+ <executor role="IM" emailId="a.balasubramanian@elsevier.com" description="Issue Manager" country="India"><![CDATA[Balasubramanian, Annapoorni]]></executor>
+ <executor role="IMT" emailId="v.paul@elsevier.com" description="EPJ Team manager" country="India"><![CDATA[Rubila, Vivia V.]]></executor>
+ <executor role="INV" emailId="productmaintenance@elsevier.com" description="Role for Invoice sender" country="United Kingdom"><![CDATA[Delta]]></executor>
+ <executor role="JM" emailId="a.balasubramanian@elsevier.com" description="Journal Manager" country="India"><![CDATA[Balasubramanian, Annapoorni]]></executor>
+ <executor role="LAC" emailId="PHLLabelRequestsELS@Elsevier.com" description="Labels Controller" country="United Kingdom"><![CDATA[advan]]></executor>
+ <executor role="OFP" emailId="ElsevierTeam@Sheridan.com" description="Offprint printer" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="OFS" emailId="ElsevierTeam@Sheridan.com" description="Offprints sender" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="PAD" emailId="a.padmanabhan@elsevier.com" description="Paper Administrator" country="India"><![CDATA[Padmanabhan, Anushya]]></executor>
+ <executor role="PAS" emailId="SPI-ESJournalsTeam@spi-global.com" description="Public Access Supplier" country="Philippines"><![CDATA[SPI Technologies Inc.]]></executor>
+ <executor role="PRI" emailId="ElsevierTeam@Sheridan.com" description="Printer" country="United States"><![CDATA[Sheridan Digital]]></executor>
+ <executor role="PSP" emailId="t.selvi@elsevier.com" description="Local Supplier Manager" country="India"><![CDATA[Rathinam, Thamarai S]]></executor>
+ <executor role="SET" emailId="Aptara_JSS@aptaracorp.com" description="Typesetter" country="India"><![CDATA[Aptara Corp.]]></executor>
+ <executor role="SLC" emailId="a.ennis@elsevier.com" description="Role for society label controller" country="United States"><![CDATA[Ennis, Andrew J]]></executor>
+ <executor role="SM" emailId="k.petrochko@elsevier.com" description="Sales Manager" country="United States"><![CDATA[US Pharma Sales]]></executor>
+ <executor role="STO" emailId="b.sieg@elsevier.com" description="Storage of back stock" country="United States"><![CDATA[Elsevier Warehouse (US)]]></executor>
+ <executor role="TM" emailId="" description="Technical Manager" country="India"><![CDATA[GSM Technical Manager]]></executor>
+ </executors>
+ <leMans>0</leMans>
+ <complexContent>0</complexContent>
+ <cpc>0</cpc>
+ <quickTransmittal>1</quickTransmittal>
+ <priorityOpenAccessJournal>0</priorityOpenAccessJournal>
+ </ptsData>
+ <JM-EditData>
+ <dateModified>24/07/2025 11:30:21</dateModified>
+ <modifiedBy>Balasubramanian, Annapoorni (ELS-CHN)</modifiedBy>
+ <expandedOrAbbreviatedJournalTitles>0</expandedOrAbbreviatedJournalTitles>
+ <freeReferenceStyle>0</freeReferenceStyle>
+ <referenceStyleComment><p><![CDATA[<p>1) References to be in brackets [] while cited in the body of the text</p><p>2) Reference heading should be names as reference uniformly</p>]]></p></referenceStyleComment>
+ <docheadComments><p><![CDATA[<p>Dochead: No. PIT dochead comments: EDI (Letter from the Editor; Letter from the Guest Editor): </p><p>FLA (Case of the Season; Regular Articles):</p>]]></p></docheadComments>
+ <sectionComments><p><![CDATA[<p>Section: No </p><p>See PIT-related section comments</p>]]></p></sectionComments>
+ <specialIssues>1</specialIssues>
+ <specialIssuesComment/>
+ <highlightsForToC>0</highlightsForToC>
+ <pilot>
+ <pilotIncluded>0</pilotIncluded>
+ <pilotSpecificComment/>
+ </pilot>
+ <StyleGuideOnESG>1</StyleGuideOnESG>
+ </JM-EditData>
+ </baseData>
+ <cu>
+ <history>
+ <regularIssue>
+ <received>1</received>
+ <revised>1</revised>
+ <accepted>1</accepted>
+ <PITs_ri/>
+ </regularIssue>
+ <specialIssue>
+ <received_si>1</received_si>
+ <revised_si>1</revised_si>
+ <accepted_si>1</accepted_si>
+ <PITs_si/>
+ </specialIssue>
+ <journalSpecificHistoryComment/>
+ <historyItemGroup>1</historyItemGroup>
+ <historyItemGroupComment/>
+ <onlinePubDateComment/>
+ <editorInfo>
+ <editorName>0</editorName>
+ <editorDisplayName>0</editorDisplayName>
+ <displayText/>
+ <editorNameComment/>
+ </editorInfo>
+ </history>
+ <artwork_PA>
+ <artworkForPatientAnonymity>1</artworkForPatientAnonymity>
+ </artwork_PA>
+ <ethics>
+ <informedConsent>0</informedConsent>
+ </ethics>
+ <transparencyDocument>0</transparencyDocument>
+ <abstract>
+ <abstractPITspecificRequirements>
+ <abstractPITspecificRequirement action="1">
+ <abstractPITS>
+ <abstractPIT>FLA</abstractPIT>
+ <abstractPIT>REV</abstractPIT>
+ </abstractPITS>
+ <PITspecificWordCount>0</PITspecificWordCount>
+ <abstractStructure>2</abstractStructure>
+ </abstractPITspecificRequirement>
+ <abstractPITspecificRequirement action="2">
+ <abstractPITS>
+ <abstractPIT>FLA</abstractPIT>
+ </abstractPITS>
+ <PITspecificWordCount>0</PITspecificWordCount>
+ <abstractStructure>2</abstractStructure>
+ </abstractPITspecificRequirement>
+ <abstractPITspecificRequirement action="3">
+ <abstractPITS>
+ <abstractPIT>FLA</abstractPIT>
+ </abstractPITS>
+ <PITspecificWordCount>0</PITspecificWordCount>
+ <abstractStructure>2</abstractStructure>
+ </abstractPITspecificRequirement>
+ <abstractPITspecificRequirement action="4">
+ <abstractPITS>
+ <abstractPIT>FLA</abstractPIT>
+ </abstractPITS>
+ <PITspecificWordCount>0</PITspecificWordCount>
+ <abstractStructure>2</abstractStructure>
+ </abstractPITspecificRequirement>
+ </abstractPITspecificRequirements>
+ <abstractComment><p><![CDATA[<p>Abstract is mandatory</p>]]></p></abstractComment>
+ </abstract>
+ <graphicalAbstract>
+ <journalSpecificGraphicalAbstract>1</journalSpecificGraphicalAbstract>
+ <journalSpecificGraphicalAbstractComment/>
+ <gaFormat>0</gaFormat>
+ <journalSpecificGATOC>0</journalSpecificGATOC>
+ <journalSpecificGATitlePage>0</journalSpecificGATitlePage>
+ </graphicalAbstract>
+ <keywords>
+ <keywordPITspecificRequirements/>
+ <keywordSource>0</keywordSource>
+ <keywordCount>
+ <keywordsMin>0</keywordsMin>
+ <keywordsMax>0</keywordsMax>
+ </keywordCount>
+ <keywordComments/>
+ </keywords>
+ <highlights>
+ <journalSpecificHighlights>2</journalSpecificHighlights>
+ <journalSpecificHighlightsComment/>
+ </highlights>
+ <classification>
+ <classificationRequirement>1</classificationRequirement>
+ <classificationSource></classificationSource>
+ <classificationCount>
+ <classificationMin>0</classificationMin>
+ <classificationMax>0</classificationMax>
+ </classificationCount>
+ <classificationComment/>
+ </classification>
+ <colour>
+ <colourFiguresInPrint>4</colourFiguresInPrint>
+ <freePrintedColour>0</freePrintedColour>
+ <noFreeWebColour>0</noFreeWebColour>
+ <colourFiguresCorrespondence>1</colourFiguresCorrespondence>
+ <colourComment><p><![CDATA[<p>No colour budget. Always send colour letter</p>]]></p></colourComment>
+ </colour>
+ <correspondence>
+ <contactAuthor>7</contactAuthor>
+ <correspondenceAuthorComment/>
+ </correspondence>
+ <offprints>
+ <extraOffprintInstructions/>
+ <freeIssuesComment/>
+ </offprints>
+ </cu>
+ <s0>
+ <itemreceipt>
+ <extLogin>1</extLogin>
+ <quickBook>0</quickBook>
+ <quickBookComment/>
+ </itemreceipt>
+ <additionalLoginInstructions><p><![CDATA[<p>Do not send copyright forms for "Letter from the Editor" and "Letter from the Guest Editor" (EDI) . Mark copyright as 002 for these items only</p>]]></p></additionalLoginInstructions>
+ </s0>
+ <s100>
+ <abbreviatedJournalTitle><![CDATA[Seminar in Roentgenology ]]></abbreviatedJournalTitle>
+ <heading>
+ <numberingStyle>2</numberingStyle>
+ <NSComment/>
+ </heading>
+ <degreesAndTitles>
+ <journalSpecificDegreesTitles>1</journalSpecificDegreesTitles>
+ </degreesAndTitles>
+ <logoPlacement>
+ <right>0</right>
+ <left>0</left>
+ </logoPlacement>
+ <authorInfo>
+ <multipleCorrespondingAuthors>0</multipleCorrespondingAuthors>
+ <authorLinks>0</authorLinks>
+ <specificSocialMediaLinksComment/>
+ <orcidLogo>0</orcidLogo>
+ </authorInfo>
+ <acknowledgements>
+ <fundingSubsection>0</fundingSubsection>
+ <fundingComment/>
+ <contributingSubsection>0</contributingSubsection>
+ <contributingComment/>
+ <supportingSubsection>0</supportingSubsection>
+ <supportingComment/>
+ <facilitiesSubsection>0</facilitiesSubsection>
+ <facilitiesComment/>
+ <suppliesSubsection>0</suppliesSubsection>
+ <suppliesComment/>
+ <CoISubsection>0</CoISubsection>
+ <CoISubsectionComment/>
+ <sponsorRoleSubsection>0</sponsorRoleSubsection>
+ <sponsorRoleComment/>
+ <acknowledgementsPITs/>
+ </acknowledgements>
+ <ethicsInfo>
+ <ethicsDetails>0</ethicsDetails>
+ <ethicsPITs/>
+ <ethicsComment/>
+ </ethicsInfo>
+ <intro>
+ <introduction>1</introduction>
+ <titlereq>0</titlereq>
+ <introPITs/>
+ <introductionComment/>
+ </intro>
+ <CoI>
+ <ConflictInterest>5</ConflictInterest>
+ <CoIPITs/>
+ <CoIComment/>
+ </CoI>
+ <bioInfo>
+ <authorDetails>0</authorDetails>
+ <ADComment/>
+ </bioInfo>
+ <floatLabel>
+ <NSFloatLabel/>
+ </floatLabel>
+ <artwork>
+ <journalSpecificArtwork>1</journalSpecificArtwork>
+ <journalSpecificArtworkComment><p><![CDATA[<p>artwork sized by typesetter; layouts provided by JM (with cropping noted)</p>]]></p></journalSpecificArtworkComment>
+ </artwork>
+ <latexInfo>
+ <latex>0</latex>
+ </latexInfo>
+ <copyright>
+ <copyrightLines/>
+ </copyright>
+ <footnote>
+ <SI_footnote>1</SI_footnote>
+ <SI_footnoteComment/>
+ <peerReviewFootnote/>
+ <articleFootnote/>
+ </footnote>
+ <additionalS100>
+ <reviewContents>1</reviewContents>
+ <additionalS100Comment/>
+ </additionalS100>
+ </s100>
+ <s200>
+ <mc>
+ <mastercopyingComment/>
+ </mc>
+ <additionalS200><p><![CDATA[<p>All the figure images to be colour online and BW on print unless the author pays.</p><p>For the cases where author does not wish to pay, image will be colour in online and BW in print. Ensure to add the below note for these figures:</p><p>"color version of the figure is available online"</p>]]></p></additionalS200>
+ </s200>
+ <p100>
+ <deliveryRequirements>2</deliveryRequirements>
+ <additionalP100></additionalP100>
+ <barcode>0</barcode>
+ <barcodePlacement>0</barcodePlacement>
+ <projectCompact>
+ <compactJournal>0</compactJournal>
+ <compactJournalComment/>
+ </projectCompact>
+ </p100>
+ <s300>
+ <journalSpecificCover>1</journalSpecificCover>
+ <journalSpecificCoverComment/>
+ <specialIssueCover>0</specialIssueCover>
+ <specialIssueCoverComment/>
+ <runOnItems>0</runOnItems>
+ <runOnItemsComment/>
+ <journalSpecificIndex>0</journalSpecificIndex>
+ <journalSpecificIndexComment/>
+ <stylePrintedIssue>
+ <printCapArticleTitle>2</printCapArticleTitle>
+ <printCapArticleDochead>2</printCapArticleDochead>
+ <printCapArticleSectionTitle>0</printCapArticleSectionTitle>
+ <printCapIssueH1>2</printCapIssueH1>
+ <printCapIssueH2>2</printCapIssueH2>
+ <printCapSI>0</printCapSI>
+ <additionalPrint><p><![CDATA[<p>Title Case</p>]]></p></additionalPrint>
+ </stylePrintedIssue>
+ <style-e-issue>
+ <eCapArticleTitle>2</eCapArticleTitle>
+ <eCapArticleDochead>2</eCapArticleDochead>
+ <eCapArticleSectionTitle>0</eCapArticleSectionTitle>
+ <eCapIssueH1>2</eCapIssueH1>
+ <eCapIssueH2>2</eCapIssueH2>
+ <eCapSI>0</eCapSI>
+ <additionalE/>
+ </style-e-issue>
+ <additionalJournalSpecificTypesetting/>
+ </s300>
+ <proofing>
+ <proofingGeneric>
+ <journalSpecificProofing>0</journalSpecificProofing>
+ <proofsSentTo>Author only</proofsSentTo>
+ <journalSpecificProofingComment/>
+ <changesPDFProofText>1</changesPDFProofText>
+ <changesPDFProofTextComment/>
+ <proofingRevisedProofAutoEmail>0</proofingRevisedProofAutoEmail>
+ </proofingGeneric>
+ <proofingSystems>
+ <proofingSystem contentType="standard">
+ <referenceStyle>Non-Standard</referenceStyle>
+ <typesetModel>5GeSdc</typesetModel>
+ <name>Proof Central</name>
+ <dates>
+ <startDate/>
+ <endDate/>
+ </dates>
+ <version>3.1</version>
+ <workflow>AU-MC</workflow>
+ <viewMode>PDF-Less</viewMode>
+ </proofingSystem>
+ </proofingSystems>
+ <editors/>
+ </proofing>
+ <print>
+ <multipleVersion>0</multipleVersion>
+ <multipleVersionComment/>
+ <f300FromEWIIToPrinter>1</f300FromEWIIToPrinter>
+ </print>
+ <otherInstructions><p><![CDATA[<p>The copyediting style guide is available on the below link:</p><p>https://elsevierextranet.sharepoint.com/:w:/r/sites/SupplierGateway/GJP_Resources/Journal%20Style%20Sheets/Supporting%20Files/Seminars_NAHS%20Copyediting%20Manual--2018-04-27.docx?d=w4309f02460d64695ab005f21fb85081f&csf=1&e=qijHiV </p><p></p>]]></p></otherInstructions>
+</journalStylesheet>

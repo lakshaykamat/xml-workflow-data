@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST5456/ELD/JMIG5613-ms.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST5456/ELD/JMIG5613-ms.xml"><time>Vtool:5.95.1 run at Sun Aug 10 23:27:25 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/JMIG5613-ms.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_03a] Author affiliation ID '' seems to be unstructured; comma punctuation found. Please check and mark properly.   
+   /*:simple-article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:simple-head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:correspondence[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:affiliation[namespace-uri()='http://www.elsevier.com/xml/common/struct-aff/dtd'][1]</message>
+<total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Sun Aug 10 23:27:28 IST 2025</time>
+</Log>
+</LogReport>

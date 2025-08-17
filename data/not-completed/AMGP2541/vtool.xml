@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST19196/ELD/AMGP2541.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST19196/ELD/AMGP2541.xml"><time>Vtool:5.95.1 run at Tue Aug 12 13:23:17 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/AMGP2541.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="CED517" type="warning" position="44:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="214:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="371:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED517" type="warning" position="533:8">All table head entries use 'ce:bold'. Please check.</message>
+<message id="CED518" type="warning" position="816:80">Punctuation characters ".,;?!:" should not be preceded by a space character ("author : Dr.").</message>
+<message id="CED519" type="warning" position="">The author query regarding the funding information is missing.</message>
+<message id="DTS504" type="error" position="953:10">The 'sb:date' element ("20132015") should contain a year, but not a year immediately followed by a letter.</message>
+<message id="IDS503a" type="error" position="933:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="963:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1005:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1050:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1094:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1135:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1184:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1217:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="IDS503a" type="error" position="1250:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="TBS509c" type="error" position="382:104">The entries "col5" and "col7" overlap each other.</message>
+<message id="TBS509c" type="error" position="382:104">The entries "col5" and "col7" overlap each other.</message>
+<message id="TBS511" type="warning" position="373:126">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="374:105">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="375:104">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="378:63">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="379:63">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="380:63">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="381:63">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS511" type="warning" position="382:104">Entries in the 'thead' must be left-aligned.</message>
+<message id="TBS512" type="warning" position="378:63">This 'entry' in the table head may be missing bridge lines (attribute 'rowsep'). Please check.</message>
+<message id="TBS512" type="warning" position="379:63">This 'entry' in the table head may be missing bridge lines (attribute 'rowsep'). Please check.</message>
+<message id="TBS512" type="warning" position="380:63">This 'entry' in the table head may be missing bridge lines (attribute 'rowsep'). Please check.</message>
+<message id="TBS512" type="warning" position="381:63">This 'entry' in the table head may be missing bridge lines (attribute 'rowsep'). Please check.</message>
+<message id="TBS512" type="warning" position="383:48">This 'entry' in the table head may be missing bridge lines (attribute 'rowsep'). Please check.</message>
+<message id="TTS502" type="warning" position="1235:15">Title element 'sb:maintitle' is written in upper-case letters: "CCSMH; 2021".</message>
+<message id="schematron" type="error" position="unknown">
+       [XS1_16A] Mismatch found e-components in PTS Order as 'mmc1' and article xml as '' please check article xml. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_06d] A full-stop is missing in footnote '#'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:footnote[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="error" position="unknown">
+         [JSC38-01f] email address is missing in corresponding author 'crf0009'. 
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:author[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][4]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_03d] One of the child-element in affiliation ID '' ends with full-stop; which may wrong.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:correspondence[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:affiliation[namespace-uri()='http://www.elsevier.com/xml/common/struct-aff/dtd'][1]/*:address-line[namespace-uri()='http://www.elsevier.com/xml/common/struct-aff/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_04c] Author ID 'au0001's affiliation marker '#' is mismatched with    linked affiliation marker ''.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:author[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_07a] Author-highlights (abstract) is missing from XML; please check manuscript if it is provided.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_04c] Author ID 'au0002's affiliation marker '#' is mismatched with    linked affiliation marker ''.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:author[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:cross-ref[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][3]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_06c] Footnote '#' is not in sequence; it should be '1'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:footnote[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_11d] Role attribute value 'methods' is mismatch in section ID 'sec0002';    it should be 'materials-methods'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section-title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="CED501b" type="warning" position="487:61">Implicit name-year reference found ("Vanderschelden et al. (2023)").</message>
+<message id="CED501b" type="warning" position="552:48">Implicit name-year reference found ("...CTs (Ochs-Ross et al., 2020, Gálvez e...").</message>
+<message id="CED501b" type="warning" position="552:48">Implicit name-year reference found ("...l., 2020, Gálvez et al., 2018); 1 open-l...").</message>
+<message id="CED501b" type="warning" position="552:48">Implicit name-year reference found ("...el study (Wajs et al., 2020)").</message>
+<message id="CED501b" type="warning" position="563:48">Implicit name-year reference found ("...1 RCT (Gálvez et al., 2018); 2 open-l...").</message>
+<message id="CED501b" type="warning" position="563:48">Implicit name-year reference found ("... studies (Wajs et al., 2020, Zaki et ...").</message>
+<message id="CED501b" type="warning" position="563:48">Implicit name-year reference found ("...l., 2020, Zaki et al., 2023)").</message>
+<message id="CED501b" type="warning" position="574:48">Implicit name-year reference found ("...RCT (Ochs-Ross et al., 2020); 1 post-h...").</message>
+<message id="CED501b" type="warning" position="574:48">Implicit name-year reference found ("...sis (Ochs-Ross et al., 2022)").</message>
+<message id="CED501b" type="warning" position="585:48">Implicit name-year reference found ("...RCT (Ochs-Ross et al., 2020); 1 post-h...").</message>
+<message id="CED501b" type="warning" position="585:48">Implicit name-year reference found ("...sis (Ochs-Ross et al., 2022)").</message>
+<message id="CED501b" type="warning" position="599:48">Implicit name-year reference found ("... studies (Rasmussen et al., 2013, Oughli e...").</message>
+<message id="CED501b" type="warning" position="599:48">Implicit name-year reference found ("...l., 2013, Oughli et al., 2023), 1 placeb...").</message>
+<message id="CED501b" type="warning" position="599:48">Implicit name-year reference found ("...er trial (Lai et al., 2014)").</message>
+<message id="CED501b" type="warning" position="610:48">Implicit name-year reference found ("...el study (Oughli et al., 2023), 1 placeb...").</message>
+<message id="CED501b" type="warning" position="610:48">Implicit name-year reference found ("...er trial (Lai et al., 2014)").</message>
+<message id="CED501b" type="warning" position="621:48">Implicit name-year reference found ("... studies (Rasmussen et al., 2013, Oughli e...").</message>
+<message id="CED501b" type="warning" position="621:48">Implicit name-year reference found ("...l., 2013, Oughli et al., 2023), 1 placeb...").</message>
+<message id="CED501b" type="warning" position="621:48">Implicit name-year reference found ("...er trial (Lai et al., 2014)").</message>
+<message id="CED501b" type="warning" position="632:48">Implicit name-year reference found ("... studies (Rasmussen et al., 2013, Oughli e...").</message>
+<message id="CED501b" type="warning" position="632:48">Implicit name-year reference found ("...l., 2013, Oughli et al., 2023), 1 placeb...").</message>
+<message id="CED501b" type="warning" position="632:48">Implicit name-year reference found ("...er trial (Lai et al., 2014)").</message>
+<message id="CED501b" type="warning" position="646:48">Implicit name-year reference found ("...er trial (George et al., 2017)").</message>
+<message id="CED501b" type="warning" position="657:48">Implicit name-year reference found ("...er trial (George et al., 2017)").</message>
+<message id="CED501b" type="warning" position="668:48">Implicit name-year reference found ("...er trial (George et al., 2017)").</message>
+<message id="CED501b" type="warning" position="679:48">Implicit name-year reference found ("...er trial (George et al., 2017)").</message>
+<message id="CED501b" type="warning" position="693:48">Implicit name-year reference found ("...1 RCT (Glue et al., 2024)").</message>
+<message id="CED501b" type="warning" position="704:48">Implicit name-year reference found ("...1 RCT (Glue et al., 2024)").</message>
+<message id="CED501b" type="warning" position="715:48">Implicit name-year reference found ("...1 RCT (Glue et al., 2024)").</message>
+<message id="CED501b" type="warning" position="729:48">Implicit name-year reference found ("...2 RCTs (Fernie et al., 2017, Zou et a...").</message>
+<message id="CED501b" type="warning" position="729:48">Implicit name-year reference found ("...l., 2017, Zou et al., 2021)").</message>
+<message id="CED501b" type="warning" position="740:48">Implicit name-year reference found ("...2 RCTs (Fernie et al., 2017, Zou et a...").</message>
+<message id="CED501b" type="warning" position="740:48">Implicit name-year reference found ("...l., 2017, Zou et al., 2021)").</message>
+<message id="CED501b" type="warning" position="751:48">Implicit name-year reference found ("...1 RCT (Zou et al., 2021)").</message>
+<message id="CED501a" type="warning" position="852:227">Implicit reference to one of the following has been found ("... necessary. Complete sea..."): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<message id="CED501a" type="warning" position="852:227">Implicit reference to one of the following has been found ("...pplemental Table 1...."): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<message id="CED501b" type="warning" position="873:24">Implicit name-year reference found ("...Ochs-Ross et al. (2020) conducted...").</message>
+<message id="CED501b" type="warning" position="875:24">Implicit name-year reference found ("...Ochs-Ross et al. (2022) conducted...").</message>
+<message id="CED501b" type="warning" position="906:636">Implicit name-year reference found ("...lly, Ochs-Ross et al. (2022) found tha...").</message>
+<total-errors>14</total-errors>
+<total-warnings>59</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Tue Aug 12 13:23:24 IST 2025</time>
+</Log>
+</LogReport>

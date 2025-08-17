@@ -1,0 +1,214 @@
+"2025-08-07, 14:45:46, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 14:45:46, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 14:49:49, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 14:49:50, Function name: 'autoInsertRefHead' successfully completed."
+
+
+Initiating PE_Serverbased application to start with the MS word manuscript...
+*********07-08-2025 14:52:14*********
+
+*********07-08-2025 14:52:26*********
+Generating Page Count of running manuscript....
+
+*********07-08-2025 14:52:26*********
+Inserting workflow for running article....
+
+*********07-08-2025 14:52:27*********
+Starting Multi-Module execution...
+
+*********07-08-2025 14:52:27*********
+START FILTRATION............
+"2025-08-07, 14:52:32, Function name: 'autoInsertRefHead' successfully completed."
+
+*********07-08-2025 14:52:46*********
+FILTRATION HAS BEEN COMPLETED............
+
+*********07-08-2025 14:52:46*********
+########## ########## ########## ##########
+#    Stage succeeded : FILTRATION         #
+########## ########## ########## ##########
+
+*********07-08-2025 14:52:46*********
+START BODYSTYLING............
+"2025-08-07, 14:54:34, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 15:57:50, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 16:02:25, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 18:36:23, Function name: 'autoInsertRefHead' successfully completed."
+
+
+Initiating PE_Serverbased application to start with the MS word manuscript...
+*********07-08-2025 18:49:08*********
+
+*********07-08-2025 18:49:18*********
+Generating Page Count of running manuscript....
+
+*********07-08-2025 18:49:18*********
+Inserting workflow for running article....
+
+*********07-08-2025 18:49:19*********
+Starting Multi-Module execution...
+
+*********07-08-2025 18:49:19*********
+START REFERENCE............
+"2025-08-07, 18:49:21, Function name: 'autoInsertRefHead' successfully completed."
+
+*********07-08-2025 18:49:22*********
+ref_Main_Module 1
+
+*********07-08-2025 18:49:22*********
+ref_Main_Module 2
+
+*********07-08-2025 18:49:22*********
+ref_Main_Module 3
+
+*********07-08-2025 18:49:22*********
+ref_Main_Module 4
+
+*********07-08-2025 18:49:22*********
+ref_Main_Module 5
+
+*********07-08-2025 18:49:22*********
+Check refernces for numbered or namedate refs
+
+*********07-08-2025 18:49:22*********
+Apply Bib_entry style on BIBL regions
+
+*********07-08-2025 18:49:22*********
+Tag generation for Numbered or Namedate References
+
+*********07-08-2025 18:49:23*********
+BibTux for Reference Marking
+
+*********07-08-2025 18:49:24*********
+bbr saved
+
+*********07-08-2025 18:49:24*********
+calling bibtux exe
+
+*********07-08-2025 18:57:35*********
+after bibtux exe
+
+*********07-08-2025 18:57:37*********
+
+	bibtux output file found...... 
+
+*********07-08-2025 18:57:38*********
+
+	 Regenerate bibIds and bookMarks start
+
+*********07-08-2025 18:57:38*********
+Error: Object reference not set to an instance of an object.
+
+*********07-08-2025 18:57:41*********
+***** PE_serverBased process aborted *****
+
+
+Initiating PE_Serverbased application to start with the MS word manuscript...
+*********07-08-2025 19:06:41*********
+
+*********07-08-2025 19:06:52*********
+Generating Page Count of running manuscript....
+
+*********07-08-2025 19:06:52*********
+Inserting workflow for running article....
+
+*********07-08-2025 19:06:52*********
+Starting Multi-Module execution...
+
+*********07-08-2025 19:06:52*********
+START REFERENCE............
+"2025-08-07, 19:06:55, Function name: 'autoInsertRefHead' successfully completed."
+
+*********07-08-2025 19:06:56*********
+ref_Main_Module 1
+
+*********07-08-2025 19:06:56*********
+ref_Main_Module 2
+
+*********07-08-2025 19:06:56*********
+ref_Main_Module 3
+
+*********07-08-2025 19:06:56*********
+ref_Main_Module 4
+
+*********07-08-2025 19:06:56*********
+ref_Main_Module 5
+
+*********07-08-2025 19:06:56*********
+Check refernces for numbered or namedate refs
+
+*********07-08-2025 19:06:56*********
+Apply Bib_entry style on BIBL regions
+
+*********07-08-2025 19:06:57*********
+Tag generation for Numbered or Namedate References
+
+*********07-08-2025 19:07:04*********
+BibTux for Reference Marking
+
+*********07-08-2025 19:07:04*********
+bbr saved
+
+*********07-08-2025 19:07:04*********
+calling bibtux exe
+
+*********07-08-2025 19:11:04*********
+after bibtux exe
+
+
+Initiating PE_Serverbased application to start with the MS word manuscript...
+*********07-08-2025 22:00:01*********
+
+*********07-08-2025 22:00:13*********
+Generating Page Count of running manuscript....
+
+*********07-08-2025 22:00:14*********
+Inserting workflow for running article....
+
+*********07-08-2025 22:00:14*********
+Starting Multi-Module execution...
+
+*********07-08-2025 22:00:14*********
+START REFERENCE............
+"2025-08-07, 22:00:21, Function name: 'autoInsertRefHead' successfully completed."
+
+*********07-08-2025 22:00:22*********
+ref_Main_Module 1
+
+*********07-08-2025 22:00:22*********
+ref_Main_Module 2
+
+*********07-08-2025 22:00:22*********
+ref_Main_Module 3
+
+*********07-08-2025 22:00:22*********
+ref_Main_Module 4
+
+*********07-08-2025 22:00:22*********
+ref_Main_Module 5
+
+*********07-08-2025 22:00:22*********
+Check refernces for numbered or namedate refs
+
+*********07-08-2025 22:00:22*********
+Apply Bib_entry style on BIBL regions
+
+*********07-08-2025 22:00:23*********
+Tag generation for Numbered or Namedate References
+
+*********07-08-2025 22:00:24*********
+BibTux for Reference Marking
+
+*********07-08-2025 22:00:25*********
+bbr saved
+
+*********07-08-2025 22:00:25*********
+calling bibtux exe
+
+*********07-08-2025 22:00:26*********
+Error: The operation was canceled by the user
+
+*********07-08-2025 22:00:29*********
+***** PE_serverBased process aborted *****
+"2025-08-07, 22:03:20, Function name: 'autoInsertRefHead' successfully completed."
+"2025-08-07, 22:07:58, Function name: 'autoInsertRefHead' successfully completed."

@@ -1,0 +1,32 @@
+<culog>
+<figures>1</figures>
+<tables>6</tables>
+<ecomponent>0</ecomponent>
+<DoCI>Y</DoCI>
+<patient-consent>N</patient-consent>
+<author-query>N</author-query>
+<graphicalabstract>N</graphicalabstract>
+<highlights>N</highlights>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Abstract Final 7.28.25.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\AJO-25-1216-ORCIDs.json</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\AJOPHT13514.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\AJOPHT13514_CULog.txt</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\AJOPHT_AJO-25-1216.xml</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Client.pdf</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\credit-AJO-25-1216-1754614091644.json</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Declaration of Interest Statement.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Figure 3-5-2024.tif</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Highlights.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\precis.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Supplemental Table.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Table 1 for CHES prevalence RF paper Final.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Table 2 for CHES prevalence RF paper Final.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Table 3 for CHES prevalence RF paper Final.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Table 4 for CHES prevalence RF paper Final.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Table 5 for CHES prevalence RF paper Final.docx</standalone>
+<standalone>\\192.168.192.106\procedia\Project_Management\PM Folder\Dev\ELVR298844\S0002939425004118\Table 6 for CHES prevalence RF paper Final.docx</standalone>
+<error>
+</error>
+<alert>This file may have supplementary materials, please check</alert>
+<alert>Document title is mismatched with pts-order xml, Use title from Source file.</alert>
+</culog>

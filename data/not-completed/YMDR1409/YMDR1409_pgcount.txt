@@ -1,0 +1,4 @@
+Words = 7308
+Pages = 29
+FigCount = 13
+TblCount = 1

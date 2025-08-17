@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST33348/ELD/YMDR1409.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST33348/ELD/YMDR1409.xml"><time>Vtool:5.95.1 run at Wed Aug 13 16:45:53 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/YMDR1409.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="CED518" type="warning" position="78:31">Punctuation characters ".,;?!:" should not be preceded by a space character ("4B . Histopathological").</message>
+<message id="CED519" type="warning" position="">The author query regarding the funding information is missing.</message>
+<message id="CED523" type="warning" position="112:26">'ce:caption' should not start with ".".</message>
+<message id="TTS502" type="warning" position="320:39">Title element 'ce:section-title' is written in upper-case letters: "INFLAMMATORY CONDITIONS".</message>
+<message id="TTS502" type="warning" position="346:39">Title element 'ce:section-title' is written in upper-case letters: "BENIGN TUMOURS".</message>
+<message id="TTS502" type="warning" position="353:39">Title element 'ce:section-title' is written in upper-case letters: "MALIGNANT TUMOURS".</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_07a] Author-highlights (abstract) is missing from XML; please check manuscript if it is provided.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_14c] 'Table 1' is frammed as topbot rule, but '@rowsep' attribute is missing in table-head.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:floats[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:table[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_05a] Article-footnote's label is missing; please check with manuscript and journal specification.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:article-footnote[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_01a2] A document heading or section heading (article category; i.e, ce:dochad) is missing, please check PTS order &lt;section>.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_02a] Article title 'RAD-PATH correlation in breast - Lessons learned through unusual cases and MDT discussions' is not matched with &lt;item-title> 'RAD - PATH correlation in breast - Lessons learned through unusual cases and MDT discussions' provided in PTS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_03a] Author affiliation ID '' seems to be unstructured; comma punctuation found. Please check and mark properly.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:author-group[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:correspondence[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:affiliation[namespace-uri()='http://www.elsevier.com/xml/common/struct-aff/dtd'][1]</message>
+<message id="CED501a" type="warning" position="28:31">Implicit reference to one of the following has been found ("...larity (e). In view of p..."): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<message id="CED501a" type="warning" position="35:31">Implicit reference to one of the following has been found ("... in a &amp; b). It correspon..."): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<total-errors>0</total-errors>
+<total-warnings>8</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Wed Aug 13 16:46:00 IST 2025</time>
+</Log>
+</LogReport>

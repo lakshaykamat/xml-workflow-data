@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST23424/ELD/JINJ112654-ms.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST23424/ELD/JINJ112654-ms.xml"><time>Vtool:5.95.1 run at Thu Aug 07 13:36:08 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/JINJ112654-ms.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="CED519" type="warning" position="">The author query regarding the funding information is missing.</message>
+<message id="MSC563b" type="warning" position="70:37">The country name "United States of America" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="MSC563b" type="warning" position="82:37">The country name "United States of America" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="MSC563b" type="warning" position="95:37">The country name "United States of America" in 'sa:country' does not match the recommended version from eMFC.</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_07a] Author-highlights (abstract) is missing from XML; please check manuscript if it is provided.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:abstract[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_02b] Capitalization of article title should be 'sentence cased'; please check JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_05b] Article-footnote is missing from XML; please check JSS.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_01a2] A document heading or section heading (article category; i.e, ce:dochad) is missing, please check PTS order &lt;section>.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:head[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]</message>
+<message id="schematron" type="warning" position="unknown">
+      APTARA-WARNING: [XS1_11d] Role attribute value 'methods' is mismatch in section ID 'sec0002';    it should be 'materials-methods'.   
+   /*:article[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:body[namespace-uri()='http://www.elsevier.com/xml/ja/dtd'][1]/*:sections[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]/*:section[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][2]/*:section-title[namespace-uri()='http://www.elsevier.com/xml/common/dtd'][1]</message>
+<total-errors>0</total-errors>
+<total-warnings>4</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Thu Aug 07 13:36:13 IST 2025</time>
+</Log>
+</LogReport>

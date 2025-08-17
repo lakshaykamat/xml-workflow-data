@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="/apol1/PowerManage/vtool-drive/MMLTEST37156/ELD/YMDR1409.xml"><Log filename="/apol1/PowerManage/vtool-drive/MMLTEST37156/ELD/YMDR1409.xml"><time>Vtool:5.95.1 run at Wed Aug 13 15:56:34 IST 2025</time>
+<command-line-options>-Xmx1024m -file "ELD/YMDR1409.xml" -log "origvtool" -schematron -skip "XML503d IDN523c IDN520b IDN519 CON-XMP612"</command-line-options>
+<skipped-checks><check-id>IDN519</check-id>
+<check-id>IDN523c</check-id>
+<check-id>XML503d</check-id>
+</skipped-checks>
+<results><message id="CED518" type="warning" position="78:31">Punctuation characters ".,;?!:" should not be preceded by a space character ("4B . Histopathological").</message>
+<message id="CED519" type="warning" position="">The author query regarding the funding information is missing.</message>
+<message id="CED523" type="warning" position="112:26">'ce:caption' should not start with ".".</message>
+<message id="EMC501" type="error" position="385:9">Element 'Query' may not have empty content.</message>
+<message id="IDS503a" type="error" position="654:63">All bibliographic references within 'ce:bibliography' must be referred to.</message>
+<message id="TTS502" type="warning" position="320:39">Title element 'ce:section-title' is written in upper-case letters: "INFLAMMATORY CONDITIONS".</message>
+<message id="TTS502" type="warning" position="346:39">Title element 'ce:section-title' is written in upper-case letters: "BENIGN TUMOURS".</message>
+<message id="TTS502" type="warning" position="353:39">Title element 'ce:section-title' is written in upper-case letters: "MALIGNANT TUMOURS".</message>
+<message id="parser" type="error" position="385:20">Error: The content of element type "ce:para" must match "(ce:glyph|ce:bold|ce:italic|ce:monospace|ce:sans-serif|ce:small-caps|ce:color|ce:sup|ce:inf|ce:underline|ce:cross-out|ce:hsp|ce:vsp|ce:inline-figure|mml:math|ce:math|ce:cross-ref|ce:intra-ref|ce:cross-refs|ce:intra-refs|ce:inter-ref|ce:inter-refs|ce:float-anchor|ce:display|ce:displayed-quote|ce:enunciation|ce:def-list|ce:list|ce:footnote|ce:anchor|ce:grant-sponsor|ce:grant-number|ce:associated-resource)".</message>
+<message id="parser" type="error" position="385:9">Error: Element type "Query" must be declared.</message>
+<message id="schematron" type="error" position="unknown">Not able to validate: A sequence of more than one item is not allowed as the first argument of ends-with() ("Radiological–Pathological Corr...", "Overview of Modalities [Intern...") </message>
+<message id="parser" type="error" position="523:19">Error: The content of element type "sb:contribution" must match "(sb:authors?,((sb:title,sb:translated-title?)|sb:translated-title)?)".</message>
+<message id="CED501a" type="warning" position="28:31">Implicit reference to one of the following has been found ("...larity (e). In view of p..."): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<message id="CED501a" type="warning" position="35:31">Implicit reference to one of the following has been found ("... in a &amp; b). It correspon..."): Bibliography, Figure, Table, Section, Formula or Footnote.</message>
+<total-errors>6</total-errors>
+<total-warnings>8</total-warnings>
+<total-skipped-checks>3</total-skipped-checks>
+</results>
+<time>Vtool:5.95.1 run at Wed Aug 13 15:56:40 IST 2025</time>
+</Log>
+</LogReport>
