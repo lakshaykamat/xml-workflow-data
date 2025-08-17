@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<batch xmlns="sansari@aptaracorp.com" version="1.1">
-   <customer name="ELS" journal="JMIG"/>
-   <created>2025-08-10+05:30</created>
-   <body>
-      <bib id="bib1"><number>1.</number><bibentry id="bib1"><s>Chen</s><aupart> </aupart><f>X</f>, <s>Lang</s><aupart> </aupart><f>J</f>, <s>Li</s><aupart> </aupart><f>L.</f> <T>Adenomyosis Patterns on Transvaginal Sonography Could Predict the Obstetrical Outcomes of Fertility-sparing Surgeries: A Retrospective Cohort Study</T>. <JT>J Minim Invasive Gynecol</JT>. <Y>2025 Jan 11</Y>:S1553-4650(25)00022-6.</bibentry></bib>
-   </body>
-</batch>

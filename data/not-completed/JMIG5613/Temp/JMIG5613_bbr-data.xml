@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<batch xmlns="sansari@aptaracorp.com" version="1.1">
-   <customer name="ELS" journal="JMIG"/>
-   <created>2025-08-10+05:30</created>
-   <body>
-      <bib id="bib1"><number>1.</number><bibentry id="bib1"><s>Kim</s><aupart> </aupart><f>S</f>, <s>Lee</s><aupart> </aupart><f>J</f>, <s>Oh</s><aupart> </aupart><f>HK</f>, et al. <T>Short-term outcomes and the learning curve for laparoscopic right hemicolectomy using the ArtiSential: a multicenter pooled analysis</T>. <i>Surg Endosc</i>. Mar 20 <Y>2025</Y>;doi:<DOI>10.1007/s00464-025-11670-z</DOI></bibentry></bib>
-   </body>
-</batch>

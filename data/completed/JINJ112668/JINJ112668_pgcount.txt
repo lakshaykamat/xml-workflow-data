@@ -1,4 +1,0 @@
-Words = 11791
-Pages = 47
-FigCount = 0
-TblCount = 6

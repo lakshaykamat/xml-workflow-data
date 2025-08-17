@@ -1,4 +1,0 @@
-Words = 1164
-Pages = 4
-FigCount = 0
-TblCount = 0
